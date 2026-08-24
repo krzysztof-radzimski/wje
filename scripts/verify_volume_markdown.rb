@@ -21,6 +21,19 @@ def source_fragment(path)
   html[(start + CONTENT_START.length)...finish]
 end
 
+def valid_local_image?(node, source_page)
+  source = node["src"].to_s
+  return false if source.empty? || source.match?(%r{\Ahttps?://}i)
+
+  path = File.expand_path(source, File.dirname(source_page))
+  return false unless File.file?(path)
+
+  signature = File.binread(path, 512)
+  signature.start_with?("\xFF\xD8\xFF".b, "\x89PNG\r\n\x1A\n".b, "GIF87a", "GIF89a") ||
+    (signature.start_with?("RIFF") && signature[8, 4] == "WEBP") ||
+    (signature.lstrip.start_with?("<svg", "<?xml") && signature.match?(/<svg\b/i))
+end
+
 def heading_key(text)
   text.gsub(/\[\^[^\]]+\]/, "").unicode_normalize(:nfkd)
       .gsub(/[^[:alnum:]]+/, " ").strip.downcase
@@ -48,7 +61,9 @@ end
 source_pages = documents.flat_map do |document|
   document.css("center").map { |node| node.text[/--\s*(.*?)\s*--/, 1] }.compact
 end
-source_images = documents.flat_map { |document| document.css("img") }
+source_images = pages.zip(documents).flat_map do |path, document|
+  document.css("img").select { |node| valid_local_image?(node, path) }
+end
 
 markdown = File.read(markdown_file, encoding: "UTF-8")
 # Definicja przypisu zaczyna się od identyfikatora na początku wiersza. Nie

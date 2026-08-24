@@ -53,6 +53,11 @@ ruby scripts/html_volume_to_markdown.rb --include-images HTML/VOLUMENN MD/VOLUME
 ruby scripts/verify_volume_markdown.rb --include-images HTML/VOLUMENN MD/VOLUMENN.md
 ```
 
+Plik wskazany przez znacznik `<img>` zachowaj tylko wtedy, gdy lokalny zapis
+jest rozpoznawalnym obrazem (JPEG, PNG, GIF, WebP lub SVG). Jeśli zapisany plik
+jest odpowiedzią HTML albo innym błędem zamiast obrazu, pomiń go i odnotuj brak
+w `README.md`; nie umieszczaj go jako pozornej grafiki.
+
 Aby zachować tylko jeden lokalny obraz treści, użyj identyfikatora z
 trzycyfrowym numerem pliku źródłowego i zapisaną nazwą pliku. Opcjonalna nazwa
 po znaku `=` określa nazwę w `MD/assets/VOLUMENN/`; argument zawierający nawiasy

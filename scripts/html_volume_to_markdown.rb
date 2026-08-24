@@ -15,13 +15,15 @@ CONTENT_END = "<!-- END OF CONTEXT AREA, WE HOPE-->"
 SKIPPED_TAGS = %w[script style img input form].freeze
 
 def image_extension(path)
-  signature = File.binread(path, 12)
+  signature = File.binread(path, 512)
   return "jpg" if signature.start_with?("\xFF\xD8\xFF".b)
   return "png" if signature.start_with?("\x89PNG\r\n\x1A\n".b)
   return "gif" if signature.start_with?("GIF87a", "GIF89a")
+  return "webp" if signature.start_with?("RIFF") && signature[8, 4] == "WEBP"
+  return "svg" if signature.lstrip.start_with?("<svg", "<?xml") && signature.match?(/<svg\b/i)
 
   fallback = File.extname(path).delete_prefix(".").downcase
-  fallback.empty? ? "img" : fallback
+  %w[jpg jpeg png gif webp svg].include?(fallback) ? fallback : nil
 end
 
 def image_markdown(node)
@@ -36,6 +38,8 @@ def image_markdown(node)
   return "" unless @include_images || @included_images.key?(selector)
 
   extension = image_extension(source_path)
+  return "" if extension.nil?
+
   stem = File.basename(source_path, File.extname(source_path)).gsub(/[^A-Za-z0-9._-]+/, "-")
   filename = if selected_asset.nil? || selected_asset.empty?
                "#{@source_page}-#{stem}.#{extension}"
