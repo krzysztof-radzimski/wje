@@ -79,5 +79,6 @@ edition.
 | 4 — *The Great Awakening* | `MD/VOLUME4.md` | The saved content includes the complete hierarchy from `000.html` and page markers 1–570 without gaps. |
 | 5 — *Apocalyptic Writings* | `MD/VOLUME5.md` | The saved content includes the complete hierarchy from `000.html` and page markers 1–464 without gaps. The navigation notes that Edwards did not comment on Revelation 3 in the exposition. |
 | 6 — *Scientific and Philosophical Writings* | `MD/VOLUME6.md` | The saved content includes the complete hierarchy from `000.html`. Page markers 1 and 144–146, 170–171, and 311 are absent from the source; the document does not add them artificially. The locally saved content images are preserved in `MD/assets/VOLUME06/`. |
+| 7 — *The Life of David Brainerd* | `MD/VOLUME7.md` | The saved content includes the complete hierarchy from `000.html`, with page markers 1–590 and front-matter markers viii–x. |
 
 Markdown documents contain only content present in the local capture.

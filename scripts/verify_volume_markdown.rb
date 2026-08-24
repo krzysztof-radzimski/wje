@@ -51,7 +51,12 @@ end
 source_images = documents.flat_map { |document| document.css("img") }
 
 markdown = File.read(markdown_file, encoding: "UTF-8")
-markdown_refs = markdown.scan(/(?<!\\)\[\^([^\]]+)\](?!:)/).flatten
+# Definicja przypisu zaczyna się od identyfikatora na początku wiersza. Nie
+# odrzucaj zwykłego odwołania tylko dlatego, że po nim występuje dwukropek
+# (np. `[^004-note88]: 'Tis ...` w tekście źródłowym).
+markdown_refs = markdown.each_line.flat_map do |line|
+  line.sub(/\A\[\^[^\]]+\]:/, "").scan(/(?<!\\)\[\^([^\]]+)\]/)
+end.flatten
 markdown_notes = markdown.scan(/^\[\^([^\]]+)\]:/).flatten
 missing_notes = markdown_refs.uniq - markdown_notes.uniq
 duplicate_notes = markdown_notes.group_by(&:itself).select { |_id, values| values.length > 1 }
@@ -74,10 +79,28 @@ end
 
 navigation = Nokogiri::HTML::DocumentFragment.parse(source_fragment(File.join(input_directory, "000.html")))
                  .css("span.navlevel1, span.navlevel2, span.navlevel3")
-                 .map { |node| navigation_text(node.text) }
-expected = navigation.reject do |text|
-  %w[front matter contents].include?(heading_key(text)) || text.match?(/\A\[\d+\]\z/) || heading_key(text) == heading_key(markdown[/\A#\s+(.+)\n/, 1].to_s)
+                 .map do |node|
+  [node["class"][/\d/].to_i, navigation_text(node.text)]
 end
+# `Contents` can have nested navigation entries that name printed sections
+# rather than actual headings in the source text. They belong in the generated
+# outline, but are not expected as duplicate body headings.
+contents_depth = nil
+expected = navigation.map do |depth, text|
+  key = heading_key(text)
+  if key == "contents"
+    contents_depth = depth
+    next
+  end
+  if contents_depth && depth > contents_depth
+    next
+  end
+
+  contents_depth = nil
+  next if key == "front matter" || text.match?(/\A\[\d+\]\z/) || key == heading_key(markdown[/\A#\s+(.+)\n/, 1].to_s)
+
+  text
+end.compact
 actual = markdown.scan(/^#+\s+(.+)$/).flatten.map { |text| heading_key(text) }
 missing_headings = expected.reject do |text|
   key = heading_key(text)

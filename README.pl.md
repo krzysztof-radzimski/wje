@@ -77,5 +77,6 @@ należy rekonstruować ich z pamięci ani z innego wydania.
 | 4 — *The Great Awakening* | `MD/VOLUME4.md` | Zapisana treść obejmuje całą hierarchię z `000.html` oraz ciąg znaczników stron 1–570 bez luk. |
 | 5 — *Apocalyptic Writings* | `MD/VOLUME5.md` | Zapisana treść obejmuje całą hierarchię z `000.html` oraz ciąg znaczników stron 1–464 bez luk. Nawigacja zaznacza, że Edwards nie skomentował 3. rozdziału Apokalipsy w wykładzie. |
 | 6 — *Scientific and Philosophical Writings* | `MD/VOLUME6.md` | Zapisana treść obejmuje całą hierarchię z `000.html`. W źródle nie występują znaczniki stron 1, 144–146, 170–171 i 311; dokument nie dopisuje ich sztucznie. Lokalnie zapisane obrazy treści znajdują się w `MD/assets/VOLUME06/`. |
+| 7 — *The Life of David Brainerd* | `MD/VOLUME7.md` | Zapisana treść obejmuje całą hierarchię z `000.html`, ze znacznikami stron 1–590 oraz znacznikami części wstępnej viii–x. |
 
 Dokumenty Markdown przedstawiają wyłącznie treść obecną w lokalnym zrzucie.
