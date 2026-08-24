@@ -12,6 +12,22 @@ CONTENT_START = "<!-- START OF CONTENT AREA -->"
 CONTENT_END = "<!-- END OF CONTEXT AREA, WE HOPE-->"
 SKIPPED_TAGS = %w[script style img input form].freeze
 
+def footnote_id(node)
+  target = node["href"].to_s[/#(note[^&#]+)/, 1] || node["name"].to_s[/\A(note.+)\z/, 1]
+  return nil if target.nil? || target.empty? || @source_page.nil?
+
+  "#{@source_page}-#{target}"
+end
+
+def footnote_text(node)
+  text = inline(node).sub(/(?:Previous section|Next section|Jonathan Edwards \[).*/m, "").strip
+  text.sub!(/\A\*\*(?:\d+|\.)\.?\*\*\s*/, "")
+  embedded = node.css("span.fnote[id]").map { |span| span["id"].strip }
+                 .reject { |value| value.empty? || value.match?(/\A\d+\z/) }
+  text = ([text] + embedded).reject(&:empty?).join(" ")
+  text.empty? ? "*[Footnote text is absent from the saved HTML.]*" : text
+end
+
 def inline(node)
   return "" if node.text? && node.text.empty?
   return node.text.gsub(/[\t\r\n ]+/, " ") if node.text?
@@ -20,8 +36,8 @@ def inline(node)
   classes = node["class"].to_s.split
   return "" if node.name == "a" && node["title"] == "return to text"
   if node.name == "a" && classes.include?("fnote")
-    number = node.text.strip
-    return number.empty? ? "" : "<sup>#{number}</sup>"
+    id = footnote_id(node)
+    return id ? "[^#{id}]" : ""
   end
 
   text = node.children.map { |child| inline(child) }.join
@@ -110,13 +126,12 @@ def render(node, output, heading_count)
     notes = node.element_children.select { |child| child.name == "div" && child["class"].to_s.split.include?("fnote") }
     return heading_count if notes.empty?
 
-    output << "\n\n### Notes\n\n"
     node.children.each { |child| heading_count = render(child, output, heading_count) }
     return heading_count
   end
   if node.name == "div" && classes.include?("fnote")
-    text = inline(node).sub(/(?:Previous section|Next section|Jonathan Edwards \[).*/m, "").strip
-    append_paragraph(output, "> #{text}") unless text.empty?
+    id = node.at_css('a[name^="note"]')&.then { |anchor| footnote_id(anchor) }
+    append_paragraph(output, "[^#{id}]: #{footnote_text(node)}") if id
     return heading_count
   end
   if node.name == "center"
@@ -284,6 +299,7 @@ abort "Nie znaleziono stron HTML w #{input_directory}" if pages.empty?
 output = +""
 heading_count = 0
 pages.each_with_index do |path, index|
+  @source_page = File.basename(path, ".html")
   node = content_node(source_fragment(path), index)
   heading_count = render(node, output, heading_count)
 end
