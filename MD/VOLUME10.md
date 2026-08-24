@@ -1373,7 +1373,7 @@ of points for the sake of simplicity. Also, there is a noticeable attempt to avo
 
 One of the more interesting of Edwards' devices for revision is his technique of "keying" passages. This technique was developed during the days of the octavo quires when it was most difficult to manipulate the leaves of his sermon booklets, although having acquired the knack he never quite left off using it. Basically, it is a simple enough device, and it is interesting in Edwards primarily because of the lengths to which he went in using it. One instance of it has already been presented (above, p. 79), but in the earlier "octavo days" it could be a performance. Perhaps it would be best to represent the operation of this restructuring device diagrammatically:
 
-![Illustration from source page 003](assets/VOLUME09/jec-yje10-100.jpg)
+![Illustration from source page 003](assets/VOLUME10/jec-yje10-100.jpg)
 
 In the above representation of twelve actual pages in one of the earliest sermons (Matthew 16:26), I have indicated leaf and page divisions
 

@@ -56,15 +56,15 @@ Jeżeli użytkownik wskaże diagram zamiast obrazu, wygeneruj dokument z
 pominiętym obrazem i wstaw w jego miejscu wierny blok `mermaid`. Nie zachowuj
 oryginalnego obrazu równolegle, chyba że użytkownik wyraźnie tego zażąda.
 
-### Wyjątek tomu 9
+### Wyjątek tomu 10
 
-`MD/VOLUME9.md` zawiera dwa ręcznie odtworzone diagramy Mermaid zamiast
-obrazów z `HTML/VOLUME09/003_files/`: `getimage.php` (schemat „Explication”)
+`MD/VOLUME10.md` zawiera dwa ręcznie odtworzone diagramy Mermaid zamiast
+obrazów z `HTML/VOLUME10/003_files/`: `getimage.php` (schemat „Explication”)
 i `getimage(5).php` (sieć odwołań). Zachowany jest wyłącznie obraz
-`getimage(7).php`, pod nazwą `MD/assets/VOLUME09/jec-yje10-100.jpg`:
+`getimage(7).php`, pod nazwą `MD/assets/VOLUME10/jec-yje10-100.jpg`:
 
 ```bash
-ruby scripts/html_volume_to_markdown.rb '--include-image=003:getimage(7).php=jec-yje10-100.jpg' HTML/VOLUME09 MD/VOLUME9.md
+ruby scripts/html_volume_to_markdown.rb '--include-image=003:getimage(7).php=jec-yje10-100.jpg' HTML/VOLUME10 MD/VOLUME10.md
 ```
 
 Ponowne wygenerowanie tomu usuwa ręcznie wstawione diagramy; należy je wtedy
