@@ -36,9 +36,8 @@ Perry Miller
 
 ### CONTENTS
 
-  - Copyright
-  - GENERAL EDITOR'S NOTE
-  - CONTENTS
+- Copyright
+- GENERAL EDITOR'S NOTE
 - EDITOR'S INTRODUCTION
   - 1. Edwards' Life while Writing the Inquiry
   - 2. The Theological Issue

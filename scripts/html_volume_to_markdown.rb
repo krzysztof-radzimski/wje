@@ -121,7 +121,15 @@ def render(node, output, heading_count)
     end
     return heading_count
   end
-  return heading_count if node.name == "div" && node["type"] == "contents"
+  if node.name == "div" && node["type"] == "contents"
+    # The contents table is replaced with the navigation-derived Markdown
+    # outline, but its printed page marker still belongs to the source text.
+    node.css("center").each do |center|
+      marker = page_marker(inline(center).strip)
+      output << "\n\n#{marker}\n\n" if marker
+    end
+    return heading_count
+  end
   if node.name == "div" && node["id"] == "footnotes"
     notes = node.element_children.select { |child| child.name == "div" && child["class"].to_s.split.include?("fnote") }
     return heading_count if notes.empty?
@@ -150,6 +158,24 @@ def render(node, output, heading_count)
     return heading_count
   end
   if node.name == "p"
+    headings = node.element_children.select do |child|
+      child.name == "span" && child["class"].to_s.split.include?("head")
+    end
+    unless headings.empty?
+      buffer = +""
+      node.children.each do |child|
+        if headings.include?(child)
+          append_paragraph(output, buffer)
+          buffer = +""
+          heading_count = render(child, output, heading_count)
+        else
+          buffer << inline(child)
+        end
+      end
+      append_paragraph(output, buffer)
+      return heading_count
+    end
+
     append_paragraph(output, inline(node))
     return heading_count
   end
@@ -239,6 +265,7 @@ def expected_heading_level(text, navigation)
 end
 
 def apply_heading_hierarchy(markdown, entries)
+  markdown = markdown.lstrip
   navigation = entries.each_with_object({}) do |(depth, text), index|
     index[heading_key(text)] = depth + 1
   end
@@ -272,18 +299,42 @@ def apply_heading_hierarchy(markdown, entries)
     "## Part III.\n\n### Wherein Is Inquired, Whether Any Such Liberty of Will as Arminians Hold, Be Necessary to Moral Agency, Virtue and Vice, Praise, and Dispraise, Etc.\n",
     "## Part III. Wherein Is Inquired, Whether Any Such Liberty of Will as Arminians Hold, Be Necessary to Moral Agency, Virtue and Vice, Praise, and Dispraise, Etc.\n"
   )
-
-  contents = entries.reject { |_depth, text| text == "Front Matter" || text == "Freedom of the Will" }
-                    .map { |depth, text| "#{'  ' * (depth - 1)}- #{text}" }
-                    .join("\n")
-  markdown.sub!(
-    "## EDITOR'S INTRODUCTION",
-    "### CONTENTS\n\n#{contents}\n\n## EDITOR'S INTRODUCTION"
+  markdown.gsub!(
+    "## PART THREE\n\n## Part Three\n\n### Showing What Are Distinguishing Signs of Truly Gracious and Holy affections\n",
+    "## PART THREE\n\n### Showing What Are Distinguishing Signs of Truly Gracious and Holy affections\n"
   )
 
-  # `Front Matter` and `CONTENTS` are navigation headings.  The latter's
-  # entries are preserved as a Markdown outline above.
-  markdown.sub!("# Freedom of the Will\n", "# Freedom of the Will\n\n## Front Matter\n")
+  title = markdown[/\A#\s+(.+)\n/, 1]
+  hidden_depth = nil
+  contents_entries = entries.each_with_object([]) do |(depth, text), result|
+    key = heading_key(text)
+    if key == "front matter"
+      hidden_depth = depth
+      next
+    end
+    hidden_depth = nil if hidden_depth && depth <= hidden_depth
+    next if key == "contents" || (!title.nil? && key == heading_key(title))
+
+    result << [hidden_depth ? depth - 1 : depth, text]
+  end
+  contents = contents_entries.map { |depth, text| "#{'  ' * (depth - 1)}- #{text}" }.join("\n")
+  unless contents.empty?
+    if markdown.match?(/^### CONTENTS$/)
+      markdown.sub!(/^### CONTENTS\n\n/, "### CONTENTS\n\n#{contents}\n\n")
+    else
+      first_section = entries.find do |depth, text|
+        key = heading_key(text)
+        depth == 1 && key != "front matter" && key != "contents" && (!title.nil? && key != heading_key(title))
+      end&.last
+      markdown.sub!(/^## #{Regexp.escape(first_section)}\n/, "### CONTENTS\n\n#{contents}\n\n\\0") if first_section
+    end
+  end
+
+  # `Front Matter` is a navigation heading, omitted by the source pages.
+  # Preserve it when the archive's navigation records it for the volume.
+  if entries.any? { |_depth, text| heading_key(text) == "front matter" }
+    markdown.sub!(/\A# [^\n]+\n/, "\\0\n## Front Matter\n")
+  end
   markdown.sub!(/^### Proposal for Printing Freedom of the Will$/, "## Proposal for Printing")
   markdown
 end
