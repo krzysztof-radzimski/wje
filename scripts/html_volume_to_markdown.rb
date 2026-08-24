@@ -316,10 +316,22 @@ def render(node, output, heading_count)
     return heading_count if inline(node).match?(/Previous section|Next section/)
 
     rows = node.css("tr").map do |row|
-      row.element_children.select { |cell| %w[th td].include?(cell.name) }.map { |cell| inline(cell).strip }
+      row.element_children.select { |cell| %w[th td].include?(cell.name) }.map do |cell|
+        inline(cell).gsub("|", "\\\\|").gsub(/[\t\r\n]+/, " ").strip
+      end
     end.reject(&:empty?)
-    rows.each { |row| output << "| #{row.join(' | ')} |\n" }
-    output << "\n" unless rows.empty?
+    unless rows.empty?
+      column_count = rows.map(&:length).max
+      # HTML tables in the archive often contain only data cells and, in a few
+      # rows, omit trailing empty cells. A blank synthetic header supplies the
+      # delimiter required by GFM while padding preserves the visual grid.
+      output << "| #{Array.new(column_count, "").join(" | ")} |\n"
+      output << "| #{Array.new(column_count, "---").join(" | ")} |\n"
+      rows.each do |row|
+        output << "| #{row.fill("", row.length...column_count).join(" | ")} |\n"
+      end
+      output << "\n"
+    end
     return heading_count
   end
   if node.name == "span" && classes.any? { |klass| %w[item navhead navlevel1 navlevel2 navlevel3].include?(klass) }
@@ -431,6 +443,8 @@ def apply_heading_hierarchy(markdown, entries)
   markdown = merged.join
 
   markdown = markdown.lines.map do |line|
+    next line if line.lstrip.start_with?("|")
+
     match = line.match(/\A#+\s+(.+?)\s*\n?\z/)
     if match
       next line if line.start_with?("# ")
