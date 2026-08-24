@@ -37,6 +37,13 @@ Nie zamieniaj znaczników stron na nagłówki i nie kasuj przypisów. Jeżeli de
 przypisu w zapisanym HTML jest pusta, zachowaj ją z jawną adnotacją o braku
 treści, zamiast wymyślać brakujący tekst.
 
+Po wygenerowaniu każdego kolejnego tomu sprawdź wszystkie wynikowe tabele:
+każdy ciąg wierszy rozpoczynających się od `|` musi mieć drugi wiersz z
+separatorem GFM (`| --- |`) i identyczną liczbę nieeskapowanych separatorów
+kolumn w każdym wierszu. Jeśli źródłowy HTML ma brakujące końcowe komórki lub
+znacznik strony wewnątrz komórki, popraw generator i wygeneruj tom ponownie;
+nie pozostawiaj tabeli, która wyświetla się jak zwykły tekst.
+
 Jeśli użytkownik wyraźnie wskaże, że obrazy danego tomu są istotne, użyj trybu
 `--include-images`. Generator skopiuje wyłącznie obrazy obecne w obszarze treści
 do `MD/assets/VOLUMENN/` i umieści w Markdown ścieżki względne:
@@ -81,6 +88,7 @@ Przed uznaniem tomu za gotowy sprawdź:
 2. zakresy numerów stron w każdym pliku oraz luki między plikami;
 3. zgodność odwołań i definicji przypisów;
 4. obecność nagłówków oczekiwanych według `000.html`.
+5. poprawność tabel Markdown GFM: separator nagłówka i spójna liczba kolumn.
 
 Ucięty plik HTML lub luka w paginacji oznacza niekompletny zrzut, nie błąd do
 "naprawienia" przez dopisywanie treści. Odnotuj brak w `README.md` i wygeneruj
