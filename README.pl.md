@@ -1,6 +1,6 @@
 [EN](README.md) | **PL**
 
-# The Works of Jonathan Edwards — archiwum Markdown
+# The Works of Jonathan Edwards
 
 ![Portret Jonathana Edwardsa](assets/jonathan-edwards.svg)
 
