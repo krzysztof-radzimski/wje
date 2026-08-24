@@ -6438,21 +6438,37 @@ Fig. 11. The cm has not been identified. Source: Sermon on 1 Peter 2:9.
 
 <!-- p. 560 -->
 
+![Illustration from source page 005](assets/VOLUME13/005-getimage.jpg)
+
 Fig. 4. Wm: English Arms with cursive CH cm: Crowned GR in wreath
+
+![Illustration from source page 005](assets/VOLUME13/005-getimage-1-.jpg)
 
 Fig. 5. Wm: Vreyheyt cm: Horn
 
+![Illustration from source page 005](assets/VOLUME13/005-getimage-2-.jpg)
+
 Fig. 6. Wm: Amsterdam Arms cm: AAB
+
+![Illustration from source page 005](assets/VOLUME13/005-getimage-3-.jpg)
 
 Fig. 7. Wm: Seven Provinces cm: TVH
 
 <!-- p. 561 -->
 
+![Illustration from source page 005](assets/VOLUME13/005-getimage-4-.jpg)
+
 Fig. 8. Wm: London Arms cm: PvL monogram cm: Crowned GR
+
+![Illustration from source page 005](assets/VOLUME13/005-getimage-5-.jpg)
 
 Fig. 9. Wm: Amsterdam Arms cm: MvL
 
+![Illustration from source page 005](assets/VOLUME13/005-getimage-6-.jpg)
+
 Fig. 10. Wm: Fleur de lis cm: EYD
+
+![Illustration from source page 005](assets/VOLUME13/005-getimage-7-.jpg)
 
 Fig. 11. Wm: Maid of Dort (Garden of Holland) cm: CAW
 
@@ -6466,31 +6482,55 @@ The following specimens have been selected to represent successive stages in the
 
 <!-- p. 563 -->
 
+![Illustration from source page 005](assets/VOLUME13/005-getimage-8-.jpg)
+
 Fig. 12. Vreyheyt sermon on Matthew 16:26 (1721–22)
+
+![Illustration from source page 005](assets/VOLUME13/005-getimage-9-.jpg)
 
 Fig. 13. "Miscellanies" No. a (late 1722)
 
+![Illustration from source page 005](assets/VOLUME13/005-getimage-10-.jpg)
+
 Fig. 14. "Miscellanies" Nos. 32–33 (summer 1723)
+
+![Illustration from source page 005](assets/VOLUME13/005-getimage-11-.jpg)
 
 Fig. 15. "Miscellanies" No. 108 (late fall or early winter 1723–24)
 
 <!-- p. 564 -->
 
+![Illustration from source page 005](assets/VOLUME13/005-getimage-12-.jpg)
+
 Fig. 16. "Miscellanies" No. 126 (fall 1724)
+
+![Illustration from source page 005](assets/VOLUME13/005-getimage-13-.jpg)
 
 Fig. 17. "Miscellanies" No. 200 (winter 1726)
 
+![Illustration from source page 005](assets/VOLUME13/005-getimage-14-.jpg)
+
 Fig. 18. "Miscellanies" Nos. 301–302 (fall 1727)
+
+![Illustration from source page 005](assets/VOLUME13/005-getimage-15-.jpg)
 
 Fig. 19. Sermon on Jeremiah 6:28–39 (February 1729)
 
 <!-- p. 565 -->
 
+![Illustration from source page 005](assets/VOLUME13/005-getimage-16-.jpg)
+
 Fig. 20. "Miscellanies" No. 453 (late fall or early winter 1729–30)
+
+![Illustration from source page 005](assets/VOLUME13/005-getimage-17-.jpg)
 
 Fig. 21. "Miscellanies" No. 508 (summer 1731)
 
+![Illustration from source page 005](assets/VOLUME13/005-getimage-18-.jpg)
+
 Fig. 22. "Miscellanies" No. 597 (late fall or early winter 1732–33)
+
+![Illustration from source page 005](assets/VOLUME13/005-getimage-19-.jpg)
 
 Fig. 23. Sermon on Deuteronomy 15:7–11 (January 1733). The heading at the left is not in Edwards' hand.
 
@@ -6522,14 +6562,26 @@ Fig. 29. This ink is very much the opposite of that in Fig. 28. It is quite visc
 
 <!-- p. 568 -->
 
+![Illustration from source page 005](assets/VOLUME13/005-getimage-20-.jpg)
+
 Fig. 24. "Miscellanies" No. b
+
+![Illustration from source page 005](assets/VOLUME13/005-getimage-21-.jpg)
 
 Fig. 25. Sermon on Philippians 1:21, second booklet
 
+![Illustration from source page 005](assets/VOLUME13/005-getimage-22-.jpg)
+
 Fig. 26. "Miscellanies" No. 231
+
+![Illustration from source page 005](assets/VOLUME13/005-getimage-23-.jpg)
 
 Fig. 27. "Miscellanies" No. 152
 
+![Illustration from source page 005](assets/VOLUME13/005-getimage-24-.jpg)
+
 Fig. 28. "Miscellanies" No. 205
+
+![Illustration from source page 005](assets/VOLUME13/005-getimage-25-.jpg)
 
 Fig. 29. "Miscellanies" No. 455
