@@ -58,6 +58,7 @@ end
 def heading_text(node)
   return node.text.gsub(/[\t\r\n ]+/, " ") if node.text?
   return "" if %w[div p center table quote].include?(node.name)
+  return inline(node) if node.name == "a" && node["class"].to_s.split.include?("fnote")
 
   node.children.map { |child| heading_text(child) }.join
 end
@@ -112,9 +113,12 @@ def render(node, output, heading_count)
   end
   if node.name == "span" && classes.include?("head")
     text = heading_text(node).gsub(/[\t\r\n ]+/, " ").strip
-    unless text.empty?
+    visible_text = text.gsub(/\[\^[^\]]+\]/, "").strip
+    unless visible_text.empty?
       output << "\n\n#{'#' * heading_level(text, heading_count)} #{text}\n\n"
       heading_count += 1
+    else
+      append_paragraph(output, text)
     end
     node.children.each do |child|
       heading_count = render_heading_descendants(child, output, heading_count)
@@ -123,10 +127,25 @@ def render(node, output, heading_count)
   end
   if node.name == "div" && node["type"] == "contents"
     # The contents table is replaced with the navigation-derived Markdown
-    # outline, but its printed page marker still belongs to the source text.
-    node.css("center").each do |center|
+    # outline, but its printed page markers still belong to the source text.
+    # Some archive pages leave this div unclosed and place the actual text
+    # after the first Arabic page marker inside it.
+    centers = node.css("center")
+    body_center = centers.find do |center|
+      page_marker(inline(center).strip).to_s.match?(/\A<!-- p\. \d+ -->\z/)
+    end
+    (body_center ? centers.take_while { |center| center != body_center } : centers).each do |center|
       marker = page_marker(inline(center).strip)
       output << "\n\n#{marker}\n\n" if marker
+    end
+    if body_center
+      # The malformed source nests the actual text in the contents div. Render
+      # the serialized fragment from the first Arabic page onward, preserving
+      # all text and footnotes while omitting the duplicated table of contents.
+      serialized = node.to_html
+      start = serialized.index(body_center.to_html)
+      fragment = Nokogiri::HTML::DocumentFragment.parse(serialized[start..])
+      fragment.children.each { |child| heading_count = render(child, output, heading_count) }
     end
     return heading_count
   end
@@ -235,7 +254,8 @@ def content_node(fragment, index)
 end
 
 def heading_key(text)
-  text.unicode_normalize(:nfkd)
+  text.gsub(/\[\^[^\]]+\]/, "")
+      .unicode_normalize(:nfkd)
       .gsub(/[^[:alnum:]]+/, " ")
       .strip
       .downcase
@@ -280,6 +300,29 @@ def apply_heading_hierarchy(markdown, entries)
   ["thomas chubb", "daniel whitby", "isaac watts"].each { |key| navigation[key] = 4 }
   navigation[heading_key("THE CONCLUSION")] = 2
   navigation[heading_key("RELATED CORRESPONDENCE")] = 2
+
+  lines = markdown.lines
+  merged = []
+  index = 0
+  while index < lines.length
+    first = lines[index].match(/\A#+\s+(.+?)\s*\n?\z/)
+    next_index = index + 1
+    next_index += 1 while next_index < lines.length && lines[next_index].strip.empty?
+    second = next_index < lines.length && lines[next_index].match(/\A#+\s+(.+?)\s*\n?\z/)
+    if first && second
+      combined = "#{first[1]} #{second[1]}"
+      level = expected_heading_level(combined, navigation)
+      if level
+        merged << "#{'#' * level} #{combined}\n"
+        index = next_index + 1
+        next
+      end
+    end
+
+    merged << lines[index]
+    index += 1
+  end
+  markdown = merged.join
 
   markdown = markdown.lines.map do |line|
     match = line.match(/\A#+\s+(.+?)\s*\n?\z/)

@@ -22,7 +22,8 @@ def source_fragment(path)
 end
 
 def heading_key(text)
-  text.unicode_normalize(:nfkd).gsub(/[^[:alnum:]]+/, " ").strip.downcase
+  text.gsub(/\[\^[^\]]+\]/, "").unicode_normalize(:nfkd)
+      .gsub(/[^[:alnum:]]+/, " ").strip.downcase
 end
 
 input_directory = ARGV[0] || "HTML/VOLUME01"
@@ -65,7 +66,11 @@ missing_headings = expected.reject do |text|
   actual.include?(key) ||
     (key == heading_key("Part Three Showing What Are Distinguishing Signs of Truly Gracious and Holy affections") &&
       actual.include?(heading_key("PART THREE")) &&
-      actual.include?(heading_key("Showing What Are Distinguishing Signs of Truly Gracious and Holy affections")))
+      actual.include?(heading_key("Showing What Are Distinguishing Signs of Truly Gracious and Holy affections"))) ||
+    # In volume 3 the navigation shortens this source heading to its final
+    # biblical reference; the complete title is preserved in Markdown.
+    (key == heading_key("Section 3. Observations on Romans 7") &&
+      actual.include?(heading_key("Section 3. Observations on Romans 5:6–10, and Ephesians 2:3 with the context, and Romans 7")))
 end
 
 puts "OK: #{source_pages.length} znaczników stron, #{markdown_refs.length} odwołań i #{markdown_notes.length} definicji przypisów."

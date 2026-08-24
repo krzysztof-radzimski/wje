@@ -2517,7 +2517,7 @@ Though this Silvanus appears to have been a very eminent minister of Christ, and
 
 ## PART THREE
 
-### Showing What Are Distinguishing Signs of Truly Gracious and Holy affections
+### Part Three Showing What Are Distinguishing Signs of Truly Gracious and Holy affections
 
 <!-- p. 192 -->
 

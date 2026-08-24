@@ -1,3 +1,5 @@
+**EN** | [PL](README.pl.md)
+
 # The Works of Jonathan Edwards — Markdown Archive
 
 ![Portrait of Jonathan Edwards](jonathan-edwards.svg)
@@ -64,5 +66,6 @@ edition.
 | --- | --- | --- |
 | 1 — *Freedom of the Will* | `VOLUME1.md` | The saved content includes the complete hierarchy from `000.html`. Page markers 31, 136, and 149 are absent from the source; the document does not add them artificially. |
 | 2 — *Religious Affections* | `VOLUME2.md` | The saved content includes the complete hierarchy from `000.html`. Page markers 46, 76–77, 84, 125, and 440 are absent from the source; the document does not add them artificially. `007.html` lacks the archive's usual closing comment, so the converter uses a safe fallback end. |
+| 3 — *Original Sin* | `VOLUME3.md` | The saved content includes the complete hierarchy from `000.html`. Page markers 105–106, 220–222, 350–352, and 372–374 are absent from the source; the document does not add them artificially. `007.html` lacks the archive's usual closing comment, so the converter uses a safe fallback end. |
 
 Markdown documents contain only content present in the local capture.
