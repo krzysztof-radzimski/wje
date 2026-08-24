@@ -25,6 +25,8 @@ Generator domyślnie:
 - pobiera treść wyłącznie między komentarzami `START OF CONTENT AREA` i
   `END OF CONTEXT AREA` (z bezpiecznym końcem awaryjnym dla uciętych plików);
 - pomija elementy interfejsu, stopki i obrazy;
+- konwertuje tabele do tabel Markdown GFM, dodając pusty wiersz nagłówka i
+  separator oraz uzupełniając brakujące końcowe komórki;
 - zapisuje numer stron jako dyskretne komentarze `<!-- p. 123 -->`;
 - korzysta z `000.html`, aby ustalić poziomy nagłówków i utworzyć spis treści;
 - zapisuje przypisy jako Markdown `[^NNN-noteX]`. Identyfikator obejmuje numer

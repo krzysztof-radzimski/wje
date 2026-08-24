@@ -141,6 +141,17 @@ def page_marker(text)
   match && "<!-- p. #{match[1]} -->"
 end
 
+def table_cell_text(cell)
+  # A printed page marker can occur inside a table cell. Keep it in the cell
+  # as an HTML comment: converting it later as a standalone marker would split
+  # the GFM row and invalidate the entire table.
+  inline(cell)
+    .gsub(/--\s*([ivxlcdm]+|\d+)\s*--/i) { "<!-- p. #{$1} -->" }
+    .gsub("|", "\\\\|")
+    .gsub(/[\t\r\n]+/, " ")
+    .strip
+end
+
 def heading_level(text, count)
   return 1 if count.zero?
   return 2 if text.match?(/\A(?:PART|SECTION|CHAPTER|CONCLUSION|AUTHOR'S PREFACE|EDITOR'S INTRODUCTION|GENERAL EDITOR'S NOTE|RELATED CORRESPONDENCE|COPYRIGHT|CONTENTS)\b/i)
@@ -317,7 +328,7 @@ def render(node, output, heading_count)
 
     rows = node.css("tr").map do |row|
       row.element_children.select { |cell| %w[th td].include?(cell.name) }.map do |cell|
-        inline(cell).gsub("|", "\\\\|").gsub(/[\t\r\n]+/, " ").strip
+        table_cell_text(cell)
       end
     end.reject(&:empty?)
     unless rows.empty?

@@ -10,6 +10,8 @@
 
 ### List of Illustrations
 
+|  |  |
+| --- | --- |
 | *Frontispiece* | A duodecimo sermon manuscript. |
 | *Page* |  |
 | 40 | Interleaved Bible [cut approximately one inch along the left margin] References to "Miscellanies," "Notes on the Scripture," a sermon, other notes within the Bible, and published works (all in hands of various periods) are linked to Scripture texts. Penciled X-in-circle is not Edwards'. |
@@ -592,6 +594,8 @@ of the appeal of the sermon form presumably lay in its facilitating the organizi
 
 On September 25, 1727, Edwards preached the first section of a long (three preaching units) sermon on Isaiah 1:18–20. In the auditory sat a note-taker, possibly "Uncle" Joseph Hawley, with his little octavo quire of notes from several sermons by Edwards, Stoddard, and Thomas Hawley. On a blank leaf he took down the heads and some material that apparently struck him as important from within heads, as Edwards preached the sermon. Below, I have reproduced the notes in their entirety (so far as quoted), while abstracting from the full text of the sermon manuscript those parts of the sermon that correspond to the notes.
 
+|  |  |
+| --- | --- |
 | NOTES | SERMON |
 | Isaiah 1:18–20, by Mr. Edwards. | Isaiah 1:18–20. |
 | Doctrine is that all God's methods of dealing with man are most reasonable. | Doctrine. That all God's methods of dealing with men are most reasonable. |
@@ -600,15 +604,11 @@ On September 25, 1727, Edwards preached the first section of a long (three preac
 |  | to sin… |
 | 2. God may order that a thing shall be done so or that it is impossible but that it come to pass & yet not himself force the doing of it; the decrees of God have no necessity of compulsion in them. | 2. God may order that a thing shall certainly be done, so that it is impossible but that the thing should come to pass, and yet not force the doing… [middle of head] so that God's making of it necessary |
 |  | that the thing should so fall out don't in the least stand in the way of our liberty; |
-|
-
-<!-- p. 35 -->
-
- | necessity may be distinguished into necessity or compulsion… |
+| <!-- p. 35 --> | necessity may be distinguished into necessity or compulsion… |
 | 3. If it were not reasonable that God should permit sin God would not be to be feared. | 3. If it were not reasonable that God should permit sin, God would not be to be feared; there would be not |
 |  | foundation for any such thing as the fear of God… |
 | 4. If God were obliged never to permit sin there would be no reason to be thankful to God for preserving us from sin. | 4. If God were obliged never to permit sin, there would be no reason to thank God for preserving of us from sin… |
-### |  | APPLICATION |
+|  | APPLICATION |
 |  | We shall make a reflection or two upon this head by way of application… |
 | 1. [Use]. Hence we learn that sinners are inexcusable in their sins they have none to blame but themselves the original of it being in their own hearts therefore acknowledge it now & cast not the blame on God. | 1. Hence we learn that sinners are inexcusable in their sins… [middle of head] wherefore, acknowledge your own inexcusableness now, and own that you only are to blame; don't complain of God for that for which he justly |
 |  | complains of you, and may justly condemn you. |
@@ -1021,11 +1021,9 @@ After having had his initial inspiration for a sermon—an inspiration which mig
 
 A few months later, he finally prepared a lecture on the text, John 10:37–38, which has the doctrine, "The miracles that Christ wrought when he was here upon earth were divine works" (preached in two installments at the public lectures on January 30 and March 12, 1740). If the manuscript of this sermon is compared with "Miscellanies" entry no. 512, it becomes obvious that the latter served as a storehouse of data for one of the most important doctrinal subheads of the sermon, as well as being the source of the sermon's text and general rationale. The "Miscellanies" entry is as follows:
 
-| 1 | 512. Christian Religion. Christ's miracles were such as were properly divine works and are
-
-<!-- p. 75 -->
-
- often spoken of as such in the Old Testament. Particularly his walking on the water when in a |
+|  |  |
+| --- | --- |
+| 1 | 512. Christian Religion. Christ's miracles were such as were properly divine works and are  <!-- p. 75 --> often spoken of as such in the Old Testament. Particularly his walking on the water when in a |
 | 5 | storm and the waves were raised; Job 9:8, which alone spreadeth out the heavens and treadeth on the waves of the sea. His stilling the tempest and raging of the sea: Psalms 65:7, which stilleth the noise of the seas, the noise of their waves. Psalms 107:29, he |
 | 10 | maketh the storm a calm so that the waves thereof are still. Psalms 89:8–9, O Lord God of hosts who is a strong Lord, like unto thee or to thy faithfulness round about thee, thou rulest the raging of the sea; when the waves thereof arise thou stillest them. |
 | 15 | Psalms 93:4, The Lord on high is mightier than the noise of many waters, yea than the mighty waves of the sea. Job 38:8–11, or who shut up the sea with doors… and said hitherto shalt thou come and no further, and here shall thy proud waves be |
@@ -1033,11 +1031,7 @@ A few months later, he finally prepared a lecture on the text, John 10:37–38, 
 | 25 | rock of flint, who fed thee in the wilderness. Christ did that which the Children of Israel questioned whether God could do. Psalms 78:19–20, Psalms 78:23–25, Can God furnish a table in the wilderness, and Psalms 146:7, which giveth food to the hungry. |
 | 30 | Telling men's thoughts. Amos 4:13, That declareth unto man what is his thought. Raising the dead. Ezekiel 38; Isaiah 26:19, Thy dead men shall live; together with my dead body shall they arise. Awake and sing ye that dwell in |
 | 35 | the dust, for thy dew is as the dew of herbs and the earth shall cast out the dead. Psalms 68:20, He that is our God is the God of salvation and unto God the Lord belong the issues from death. 1 Samuel 2:6, The Lord kills and he makes alive; he bringeth |
-| 40 | down to the grave and bringeth up; so Deuteronomy 32:39, See now that even I am he and there is no God with me; I kill and I make alive. See 2 Kings 5:7.
-
-<!-- p. 76 -->
-
- Opening the eyes of the blind: Psalms 146:8, the Lord openeth the eyes of the blind. Isaiah 29:18, |
+| 40 | down to the grave and bringeth up; so Deuteronomy 32:39, See now that even I am he and there is no God with me; I kill and I make alive. See 2 Kings 5:7.  <!-- p. 76 --> Opening the eyes of the blind: Psalms 146:8, the Lord openeth the eyes of the blind. Isaiah 29:18, |
 | 45 | Isaiah 35:5 and Isaiah 42:7. Healing the leprosy. 2 Kings 5:6–7, compared with Deuteronomy 32:39. Unstopping the ears of the deaf. Isaiah 29:18 and Isaiah 35:5. |
 | 50 | Healing grievous sores or wounds or issues. Job 5:17–18. Christ healed such diseases as of old were appointed to be types of our soul's diseases, or the corruption of our nature, such as the plague of leprosy |
 | 55 | and issues of blood. Loosing the tongue of the dumb. Isaiah 35:6. Causing him that hath an impediment in his speech to speak plain, Isaiah 32:4. Lifting up her that was bowed and bound together |
@@ -1045,11 +1039,7 @@ A few months later, he finally prepared a lecture on the text, John 10:37–38, 
 | 65 | all thine iniquities and who healeth all thy diseases. Remarkable is that place, Exodus 15:26. Christ joined pardoning sins with his healing the sick. When one came to be healed, he first told him that his sins were forgiven; and when the Jews were |
 | 70 | stumbled at it, and found fault that he should pretend to forgive sins, then immediately upon it he healed the person's disease, that they might believe that he had power to forgive sins; and tells 'em that he does it for this end, Matthew 9:2, |
 | 75 | Mark 2:3, Luke 5:18. Now if Christ were an impostor, can it be believed that God would so countenance such horrid blasphemy as this would be, as to enable him to cure the disease by a word's speaking, a work which God appropriates to himself as his own |
-| 80 | work, and joins it to forgiving iniquities; and mentions them as both alike his peculiar works? Would God give an impostor this attestation to his
-
-<!-- p. 77 -->
-
- blasphemous lie when he pretended to do it as an attestation to his divine mission? |
+| 80 | work, and joins it to forgiving iniquities; and mentions them as both alike his peculiar works? Would God give an impostor this attestation to his  <!-- p. 77 --> blasphemous lie when he pretended to do it as an attestation to his divine mission? |
 | 85 | Christ urges this argument with the Jews when they found fault with his calling himself the son of God. John 10:37, if I do not the works of my Father, believe me not. There are three other things that is to be |
 | 90 | remarked of Christ's miracles, viz. 1. that they were such as it was prophecied he would work. 2. they were works of mercy and love. No needless miracles; and 3. they were lively types of the great spiritual works of God and the Redeemer. |
 
@@ -1298,8 +1288,10 @@ At first, one might suppose these added words to be insertions or corrections, b
 
 <!-- p. 97 -->
 
+|  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
 | strong |  | Kings and Princes |  | Rich |  | Good |  |
-| weak | beggars | Poor | Bad | (Hebrews 9:27.) |
+| weak | beggars | Poor | Bad | (Hebrews 9:27.) |  |  |  |
 
 He seems always to have liked juxtaposition of opposites and other varieties of parallelism, and was inclined to render the pattern of juxtaposition in such an outline form. This example also calls attention to an additional fact of importance, that Edwards used some outline in his sermons from the very beginning, though at first outlining was restricted to a running line in place of a biblical passage or the kind of syntactical compression represented in the above example. Another type of compression used in these first years is simple abbreviation of individual words. For a few years, there are a number of the seventeenth-century abbreviations: "ye, y, ym, yy." There are also, and for the remainder of Edwards' life, his own abbreviations of many common words: "Chh." for "church," "thems," for "themselves," and so forth. Finally, he seems virtually to have ignored systematic punctuation and capitalization in his sermons (but not in his sent letters), and though a few of the earliest sermons contain comma-like marks, they bear no apparent relation to the sense of the sentences. With these exceptions, it can be said that the earliest sermons are fully written out.
 
@@ -1465,7 +1457,9 @@ On the whole, the 1727–42 period does not present revisions of a kind markedly
 
 One true innovation of the period, though an oratorical rather than a literary one, might be mentioned since evidence of it has already appeared (see pp. 77–79, 82), and it is suggestive of the function of the sermon manuscript at this time. What I have named the "pick up line" [
 
-] first appears in the late twenties, but around 1731 it suddenly becomes very common (often between four and seven per page) and continues to be prevalent until 1742. At first, one might think that it had something to do with revision or with the making of paragraphs. It is not involved with either operation, however, and its function can only be explained in terms of pulpit delivery. Apparently, Edwards desired to make his delivery more dynamic and flexible, and the "pick up line" was his compromise, for the time, between reading and memoriter delivery.Hopkins reports that JE considered his reading of sermons in the pulpit "a Deficiency and Infirmity." Life, p. 48. Placed before each sentence or phrase containing a major thought or illustration, the lines enabled Edwards to do at least two things. First, he could look up from the manuscript more easily without losing his place, or without as much careful review of the sermon just before preaching. Second, the lines would make his delivery more flexible in a formal sense. If he desired to speak extemporaneously within the context of the written sermon, or if he desired to leave out certain sections for some reason, the lines would provide so many "handles" subdividing the text of the written sermon by which he could adjust the relationship between the sermon as written and the sermon as spoken.Thus, once again, the literary keynote of this period is "flexibility." Whether in the makeup of the sermon booklets, the process of composition, or the delivery in the pulpit, Edwards seems to have been doing everything possible to increase his efficiency and permit the maximum number of variations and alternatives. Obviously, he was a very busy man.Though JE himself left no statement on his customary schedule of sermon composition, it is evident that he frequently worked on more than one sermon at one time, a practice common enough among his contemporaries (see John Barnard's description of his habitual methods of sermon composition in his "autobiography," published in *Mass. Hist. Soc. Coll*., 3rd ser., Vol. 5, 187–88). Though he "lived by rule," JE was no automaton, and he worked at his notebooks and his sermons with varying degrees of intensity. Sometimes he must have completed more sermons than he needed, while at other times he would inevitably be in need of sermonic materials. Thus, he apparently stored some of his output in fruitful times against times of dearth, as is suggested by a note at the end of a manuscript on Canticles 2:16; the note states simply that this is a "Put by lecture."
+] first appears in the late twenties, but around 1731 it suddenly becomes very common (often between four and seven per page) and continues to be prevalent until 1742. At first, one might think that it had something to do with revision or with the making of paragraphs. It is not involved with either operation, however, and its function can only be explained in terms of pulpit delivery. Apparently, Edwards desired to make his delivery more dynamic and flexible, and the "pick up line" was his compromise, for the time, between reading and memoriter delivery.Hopkins reports that JE considered his reading of sermons in the pulpit "a Deficiency and Infirmity." *Life*, p. 48.
+
+ Placed before each sentence or phrase containing a major thought or illustration, the lines enabled Edwards to do at least two things. First, he could look up from the manuscript more easily without losing his place, or without as much careful review of the sermon just before preaching. Second, the lines would make his delivery more flexible in a formal sense. If he desired to speak extemporaneously within the context of the written sermon, or if he desired to leave out certain sections for some reason, the lines would provide so many "handles" subdividing the text of the written sermon by which he could adjust the relationship between the sermon as written and the sermon as spoken.Thus, once again, the literary keynote of this period is "flexibility." Whether in the makeup of the sermon booklets, the process of composition, or the delivery in the pulpit, Edwards seems to have been doing everything possible to increase his efficiency and permit the maximum number of variations and alternatives. Obviously, he was a very busy man.Though JE himself left no statement on his customary schedule of sermon composition, it is evident that he frequently worked on more than one sermon at one time, a practice common enough among his contemporaries (see John Barnard's description of his habitual methods of sermon composition in his "autobiography," published in *Mass. Hist. Soc. Coll*., 3rd ser., Vol. 5, 187–88). Though he "lived by rule," JE was no automaton, and he worked at his notebooks and his sermons with varying degrees of intensity. Sometimes he must have completed more sermons than he needed, while at other times he would inevitably be in need of sermonic materials. Thus, he apparently stored some of his output in fruitful times against times of dearth, as is suggested by a note at the end of a manuscript on Canticles 2:16; the note states simply that this is a "Put by lecture."
 
 Of all the innovations in sermon composition during 1727–42, certainly
 
@@ -1763,6 +1757,8 @@ The sermon notebooks have already been considered as store-houses
 
 of sermonic ideas (see Chapter II, pp. 56–68), but the careful crossing out of used entries with a single vertical line (clearly marking, but not obliterating the entry) and the addition of chosen texts to entries that lacked texts when first made indicate that Edwards referred back to the sermon notebooks to see with comparative ease just what kinds of sermons he had on hand. Moreover, to facilitate this search he used yet another device, the sermon label, written in large letters (twice or thrice the normal notebook hand), usually at the head of the entry. The character of these labels indicates the manner in which Edwards himself thought of the sermon, and the proportion of instances of the various labels gives some indication of Edwards' preaching needs as he saw them. The following list results from a canvass of sermon notebook 45, the largest collection of sermon notes made during Edwards' years at Northampton and Stockbridge:
 
+|  |  |  |
+| --- | --- | --- |
 | Sacrament | 37 | sermons |
 | Fast | 30 | ″ |
 | Ordination | 22 | ″ |
@@ -2097,8 +2093,9 @@ in a reasonable time. Only some rough screening device would be plausible in ide
 
 At his death, the "History of the Work of Redemption" was apparently only tentatively roughed out. Only three small notebooks (one of them consisting of the margins of part of a printed book) were especially devoted to the plan and format of the work, and to the marshalling of historical data. In these notebooks there are references to three particular sermons, and a check of these sermons reveals that two of the three are marked with a peculiar sign:
 
-. This sign is not rare in the sermon manuscripts; indeed, more than two hundred sermons are marked with it, always in the upper left-hand corner of the first page (or as near as other writings on the manuscript permit). It is usually isolated by a line, thus, ; or when it must be placed more in the middle of a page, by two lines, . The sign seems to have been added to most of the sermons in an ink other than that in which they are written, and the little isolating line suggests that the sign is to be differentiated from those shorthand notations that relate to preaching.There are other comparable signs that appear on numbers of sermons. Most common is , a sign of dubious meaning. It very frequently occurs in groupings: . There are instances of up to ten on one sermon. It can be found in combination with a mysterious "No. 10" or "No. 20." It is sometimes found near the  sign, apparently in the same ink. However, in a good many instances, perhaps the majority, this sign is in an ink that seems to be different from any ink positively identified as JE's. Were it not for the few instances that do seem to be in his ink, I would attribute it to someone else. But the character of the notation, knowledge of JE's methods, and the instances wherein the ink does seem to be his: all conduce to the conclusion that the sign was originated by JE, though someone with knowledge of its meaning (undoubtedly JE, Jr., whose markings are common in the manuscripts) continued to use it after JE's death.
- Though the meaning of the sign is obscure—it often resembles the shorthand for "L S D" or "L S T," or possibly "L T D T"—there is no doubt that it, with seemingly allied signs, represents other efforts to organize the sermons according to a particular criterion of reference. In the case of the  sign, there does seem to be an evident pattern: the sermons having several of the signs in a row tend to be "hellfire" sermons, and the greater the number of signs, the more intense the heat of the sermon. Thus it seems that the  may be a kind of "decibel rating" for imprecatory sermons. If it is, the signs were probably applied in an effort to segregate likely revival sermons from the general run. But whatever the precise meaning of these various cryptic signs, it seems clear that they represent an effort on the part of JE to organize the sermon canon for special uses.The character of this sign and the frequency of its incidence suggest that it represents a large-scale screening effort, an attempt to cull from the sermon file a large group of sermons on various texts and with diverse doctrines. Certainly, there is little obvious similarity
+. This sign is not rare in the sermon manuscripts; indeed, more than two hundred sermons are marked with it, always in the upper left-hand corner of the first page (or as near as other writings on the manuscript permit). It is usually isolated by a line, thus, ; or when it must be placed more in the middle of a page, by two lines, . The sign seems to have been added to most of the sermons in an ink other than that in which they are written, and the little isolating line suggests that the sign is to be differentiated from those shorthand notations that relate to preaching.There are other comparable signs that appear on numbers of sermons. Most common is , a sign of dubious meaning. It very frequently occurs in groupings: . There are instances of up to ten on one sermon. It can be found in combination with a mysterious "No. 10" or "No. 20." It is sometimes found near the sign, apparently in the same ink. However, in a good many instances, perhaps the majority, this sign is in an ink that seems to be different from any ink positively identified as JE's. Were it not for the few instances that do seem to be in his ink, I would attribute it to someone else. But the character of the notation, knowledge of JE's methods, and the instances wherein the ink does seem to be his: all conduce to the conclusion that the sign was originated by JE, though someone with knowledge of its meaning (undoubtedly JE, Jr., whose markings are common in the manuscripts) continued to use it after JE's death. Though the meaning of the sign is obscure—it often resembles the shorthand for "L S D" or "L S T," or possibly "L T D T"—there is no doubt that it, with seemingly allied signs, represents other efforts to organize the sermons according to a particular criterion of reference. In the case of the sign, there does seem to be an evident pattern: the sermons having several of the signs in a row tend to be "hellfire" sermons, and the greater the number of signs, the more intense the heat of the sermon. Thus it seems that the may be a kind of "decibel rating" for imprecatory sermons. If it is, the signs were probably applied in an effort to segregate likely revival sermons from the general run. But whatever the precise meaning of these various cryptic signs, it seems clear that they represent an effort on the part of JE to organize the sermon canon for special uses.
+
+The character of this sign and the frequency of its incidence suggest that it represents a large-scale screening effort, an attempt to cull from the sermon file a large group of sermons on various texts and with diverse doctrines. Certainly, there is little obvious similarity
 
 <!-- p. 167 -->
 
@@ -4208,8 +4205,10 @@ In this sense also, those who shall be found alive at our Lord's second coming s
 
 But all other men must die in the ordinary way of separation of their souls from their bodies. Men of all ranks, degrees, and orders must die: strong [and] weak; kings, princes [and] beggars; rich [and] poor; good [and] bad.[^007-note2]
 
-| strong | | | kings and princes | | | rich | | | good." |
-| weak | beggars | poor | bad |
+|  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| strong | \| | kings and princes | \| | rich | \| | good." |
+| weak | beggars | poor | bad |  |  |  |
 
  This is one of the more radical of the devices JE experimented with in this sermon, all of them apparently designed to facilitate oral delivery.However strong, hale and healthy men may be, there is none strong enough to resist death; death will conquer them as easily as other men. However great they may be in the world, they must die: kings and emperors, czars and sultans must bow down before death, must give place to the king of terrors. Such men as Nebuchadnezzar, Xerxes, Alexander and Julius Caesar must die as well as other men, and then they are no better than the meanest of their subjects.
 
@@ -5855,7 +5854,9 @@ Thus I have given some reasons of the doctrine, why it must needs be that those 
 
 Wherefore, the
 
-### Application.[^014-note4]
+### Application.
+
+[^014-note4]
 
 We shall apply this doctrine in three uses: first, of inference; second, of trial or self-examination; third, of exhortation.
 
@@ -6113,7 +6114,9 @@ There is no need of much varying the words in this doctrine:
 
 #### Doctrine.
 
-#### Those persons that are poor in spirit are happy and blessed, because the kingdom of heaven is theirs.[^016-note2]
+#### Those persons that are poor in spirit are happy and blessed, because the kingdom of heaven is theirs.
+
+[^016-note2]
 
 The kingdom of heaven is mentioned twice in these beatitudes: in our text, as the blessing of the poor in spirit; and again in the tenth
 

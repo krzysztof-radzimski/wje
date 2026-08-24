@@ -20,6 +20,8 @@ APPENDIXES A. Outline of the Redemption Discourse 531 B. Jonathan Edwards' Noteb
 
 ### LIST OF ILLUSTRATIONS
 
+|  |  |
+| --- | --- |
 | *Frontispiece* | *A North-West Prospect of Nassau-Hall*, *with a Front View of the Presidents House in New Jersey*, W. Tennent. Engraving by Henry Dawkins, 1764. |
 | *Page* |   |
 | 64 | From "Notebook 10," pages 89–90, one of the notebooks Edwards compiled before leaving Stockbridge for Princeton to become President of the College of New Jersey. He used "farewel-Sermon" stock in making the notebook. |
@@ -677,10 +679,12 @@ Table I indicates the comprehensive logical structure of Edwards' Redemption Dis
 
 <!-- p. 077 -->
 
+|  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |  |  |  |  |  | TEXT |
 | 1. |  |  |  |  |  |  |  |  |  |  |   |
 |   | (1.) |  |  |  |  |  |  |  |  |  |   |
-#### |  |  |  |  |  |  |  |  |  |  |  | DOCTRINE |
+|  |  |  |  |  |  |  |  |  |  |  | DOCTRINE |
 | I. |  |  |  |  |  |  |  |  |  |  |   |
 |   | First. |  |  |  |  |  |  |  |  |  |   |
 |  |   | 1. |  |  |  |  |  |  |  |  |   |
@@ -754,43 +758,45 @@ Table 2 indicates the historical divisions of the Redemption Discourse. The firs
 
 <!-- p. 079 -->
 
-|  |  |  |  |  |  |  |  |  | TEXT |
-#### |  |  |  |  |  |  |  |  |  | DOCTRINE |
-| I. |  |  |  |  |  |  |  |  | Three periods |
-|   | First. |  |  |  |  |  |  |  | Fall to Incarnation |
-|   | 1. |  |  |  |  |  |  |  | Fall to flood |
-|   | 2. |  |  |  |  |  |  |  | Flood to Abraham |
-|   | 3. |  |  |  |  |  |  |  | Abraham to Moses |
-|   | 4. |  |  |  |  |  |  |  | Moses to David |
-|   | 5. |  |  |  |  |  |  |  | David to captivity |
-|   | 6. |  |  |  |  |  |  |  | Captivity to Christ |
-|   | Second. |  |  |  |  |  |  |  | Purchase of Redemption |
-|   | 1. |  |  |  |  |  |  |  | Incarnation |
-|   | 2. |  |  |  |  |  |  |  | Purchase |
+|  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |  |  |  | TEXT |  |
+|  |  |  |  |  |  |  |  |  | DOCTRINE |  |
+| I. |  |  |  |  |  |  |  |  | Three periods |  |
+|   | First. |  |  |  |  |  |  |  | Fall to Incarnation |  |
+|   | 1. |  |  |  |  |  |  |  | Fall to flood |  |
+|   | 2. |  |  |  |  |  |  |  | Flood to Abraham |  |
+|   | 3. |  |  |  |  |  |  |  | Abraham to Moses |  |
+|   | 4. |  |  |  |  |  |  |  | Moses to David |  |
+|   | 5. |  |  |  |  |  |  |  | David to captivity |  |
+|   | 6. |  |  |  |  |  |  |  | Captivity to Christ |  |
+|   | Second. |  |  |  |  |  |  |  | Purchase of Redemption |  |
+|   | 1. |  |  |  |  |  |  |  | Incarnation |  |
+|   | 2. |  |  |  |  |  |  |  | Purchase |  |
 |   | Third. |  |  |  |  |  |  |  |  | Resurrection to the End of the World |
-|   | 1. |  |  |  |  |  |  |  | General observations |
-|   | 2. |  |  |  |  |  |  |  | Particular events |
-|  |   | a. |  |  |  |  |  |  | Works of Christ |
-|  |  |   | (1.) |  |  |  |  |  | Under grace |
-|  |  |  |   | (a.) |  |  |  |  | Means of success |
-|  |  |  |   | (b.) |  |  |  |  | How carried on in suffering state of the church |
-|  |  |  |  |   | 1. |  |  |  | From Christ's resurrection to fall of Antichrist |
-|  |  |  |  |  |   | a. |  |  | To destruction of Jerusalem |
-|  |  |  |  |  |   | b. |  |  | To destruction of Rome |
-|  |  |  |  |  |   | c. |  |  | To fall of Antichrist |
-|  |  |  |  |  |  |   | (1.) |  | Fall of Rome to rise of Antichrist |
-|  |  |  |  |  |  |   | (2.) |  | Rise of Antichrist to Luther |
-|  |  |  |  |  |  |   | (3.) |  | Reformation to present time |
-|  |  |  |  |  |  |  |   | (a.) | Reformation |
-|  |  |  |  |  |  |  |   | (b.) | Opposition |
-|  |  |  |  |  |  |  |   | (c.) | Success |
-|  |  |  |  |  |  |  |   | (d.) | Current state |
-|  |  |  |  |  |  |   | (4.) |  | End of Satan's kingdom |
-|  |  |  |  |   | 2. |  |  |  | Era of peace and prosperity after the fall of Antichrist |
-|  |  |  |  |  |   | a. |  |  | Prosperous state |
-|  |  |  |  |  |   | b. |  |  | Final apostasy |
-|  |  |   | (2.) |  |  |  |  |  | Works under glory |
-|  |  |  |  |  |  |  |  |  | FINIS |
+|   | 1. |  |  |  |  |  |  |  | General observations |  |
+|   | 2. |  |  |  |  |  |  |  | Particular events |  |
+|  |   | a. |  |  |  |  |  |  | Works of Christ |  |
+|  |  |   | (1.) |  |  |  |  |  | Under grace |  |
+|  |  |  |   | (a.) |  |  |  |  | Means of success |  |
+|  |  |  |   | (b.) |  |  |  |  | How carried on in suffering state of the church |  |
+|  |  |  |  |   | 1. |  |  |  | From Christ's resurrection to fall of Antichrist |  |
+|  |  |  |  |  |   | a. |  |  | To destruction of Jerusalem |  |
+|  |  |  |  |  |   | b. |  |  | To destruction of Rome |  |
+|  |  |  |  |  |   | c. |  |  | To fall of Antichrist |  |
+|  |  |  |  |  |  |   | (1.) |  | Fall of Rome to rise of Antichrist |  |
+|  |  |  |  |  |  |   | (2.) |  | Rise of Antichrist to Luther |  |
+|  |  |  |  |  |  |   | (3.) |  | Reformation to present time |  |
+|  |  |  |  |  |  |  |   | (a.) | Reformation |  |
+|  |  |  |  |  |  |  |   | (b.) | Opposition |  |
+|  |  |  |  |  |  |  |   | (c.) | Success |  |
+|  |  |  |  |  |  |  |   | (d.) | Current state |  |
+|  |  |  |  |  |  |   | (4.) |  | End of Satan's kingdom |  |
+|  |  |  |  |   | 2. |  |  |  | Era of peace and prosperity after the fall of Antichrist |  |
+|  |  |  |  |  |   | a. |  |  | Prosperous state |  |
+|  |  |  |  |  |   | b. |  |  | Final apostasy |  |
+|  |  |   | (2.) |  |  |  |  |  | Works under glory |  |
+|  |  |  |  |  |  |  |  |  | FINIS |  |
 
 [^002-note1]: "Redemption Discourse" refers to the whole sermon series. *A History of the Work of Redemption* is used as the title of the published version, with *Work of Redemption* as a short title.
 
@@ -9806,6 +9812,8 @@ FINIS[^004-note2223]
 
 <!-- p. 542 -->
 
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |  |  |  |  |  |  | SERMON 1 | *1.1r* |
 |  |  |  |  |  |  |  |  |  |  |  |  | TEXT IS. Isaiah 51:8 |   |
 |   | 1. |  |  |  |  |  |  |  |  |  |  |  | Shortlived power, prosperity of church's enemies |
@@ -9841,7 +9849,7 @@ FINIS[^004-note2223]
 |  |   | g. |  |  |  |  |  |  |  |  |  | Prophecy of Christ | *1.27r* |
 |  |   | h. |  |  |  |  |  |  |  |  |  | Translation of Enoch into heaven | *1.28v* |
 |  |   | i. |  |  |  |  |  |  |  |  |  | Protection of church through flood | *1.30r* |
-|   | 2. |  |  |  |  |  |  |  |  |  | Flood to Abraham | *1.32r* |
+|   | 2. |  |  |  |  |  |  |  |  |  | Flood to Abraham | *1.32r* |  |
 |  |   | a. |  |  |  |  |  |  |  |  |  |  | Flood the work of God |
 |  |   | b. |  |  |  |  |  |  |  |  |  | Preserving family of Redeemer | *1.34v* |
 |  |   | c. |  |  |  |  |  |  |  |  |  | Grant of earth to Noah | *1.35r* |
