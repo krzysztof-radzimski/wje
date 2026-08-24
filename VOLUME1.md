@@ -1,6 +1,8 @@
 # Freedom of the Will
 
-## Copyright
+## Front Matter
+
+### Copyright
 
 <!-- p. iv -->
 
@@ -16,7 +18,7 @@
 
 <!-- p. v -->
 
-## GENERAL EDITOR'S NOTE
+### GENERAL EDITOR'S NOTE
 
 WITH PAUL RAMSEY'S edition of *A Careful and Strict Enquiry into the Modern Prevailing Notions of*... *Freedom of Will* the Editorial Committee for the Works of Jonathan Edwards presents the first volume of the Yale University Press edition. The project, undertaken with the generous support of the Bollingen Foundation, has been launched with the purpose not only of republishing all of the printed works of Edwards but also of publishing the massive manuscript materials in which much of Edwards' most profound thinking and finest prose have been concealed.
 
@@ -31,6 +33,75 @@ The very existence of the project is itself testimony to the deepening appreciat
 This is not to imply that today the precise doctrines that Edwards maintained, in the language in which he cast them, have been or should be extensively revived; indeed it is quite beside the purpose of this edition to promulgate them. But as Professor Ramsey's account of the provenience of the *Inquiry* and of the immense issues involved in it helps us to comprehend, Edwards—the greatest philosopher-theologian yet to grace the American scene—deserves to be heard. He has waited long for the monument we propose to erect to him, the only one he would have been at all interested in: a clear and fair exhibition of his thought.
 
 Perry Miller
+
+### CONTENTS
+
+  - Copyright
+  - GENERAL EDITOR'S NOTE
+  - CONTENTS
+- EDITOR'S INTRODUCTION
+  - 1. Edwards' Life while Writing the Inquiry
+  - 2. The Theological Issue
+  - 3. The Philosophical Argument
+    - DEFINITION OF LIBERTY
+    - THE ACT OF VOLITION
+    - PRAISEWORTHINESS AND BLAMEWORTHINESS
+    - IS THE WILL INDEPENDENT AND SELF-MOVED?
+    - THE ORIGIN OF ARMINIAN NOTIONS OF LIBERTY AND NECESSITY, AND THE SHAPE OF EDWARDS' REPLY
+    - MORAL AND NATURAL NECESSITY
+  - 4. Edwards and John Locke
+  - 5. Edwards and His Antagonists
+    - THOMAS CHUBB
+  - DANIEL WHITBY
+  - ISAAC WATTS
+  - 6. Note on the Text
+- AUTHOR'S PREFACE
+- Part I. Wherein Are Explained Various Terms and Things Belonging to the Subject of the Ensuing Discourse
+  - SECTION 1. CONCERNING THE NATURE OF THE WILL
+  - SECTION 2. CONCERNING THE DETERMINATION OF THE WILL
+  - SECTION 3. CONCERNING THE MEANING OF THE TERMS NECESSITY, IMPOSSIBILITY, INABILITY, ETC.; AND OF CONTINGENCE
+  - SECTION 4. OF THE DISTINCTION OF NATURAL AND MORAL NECESSITY, AND INABILITY
+  - SECTION 5. CONCERNING THE NOTION OF LIBERTY, AND OF MORAL AGENCY
+- Part II. Wherein It Is Considered, whether There Is, or Can Be Any Such Sort Freedom of Will, as That wherein Arminians Place the Essence of the Liberty of All Moral Agents; and Whether Any Such Thing Ever Was, or Can Be Conceived of
+  - SECTION 2. SEVERAL SUPPOSED WAYS OF EVADING THE FOREGOING REASONING, CONSIDERED
+  - SECTION 3. WHETHER ANY EVENT WHATSOEVER, AND VOLITION IN PARTICULAR, CAN COME TO PASS WITHOUT A CAUSE OF ITS EXISTENCE
+  - SECTION 4. WHETHER VOLITION CAN ARISE WITHOUT A CAUSE, THROUGH THE ACTIVITY OF THE NATURE OF THE SOUL
+  - SECTION 5. SHOWING, THAT IF THE THINGS ASSERTED IN THESE EVASIONS SHOULD BE SUPPOSED TO BE TRUE, THEY ARE ALTOGETHER IMPERTINENT, AND CAN'T HELP THE CAUSE OF ARMINIAN LIBERTY; AND HOW (THIS BEING THE STATE OF THE CASE) ARMINIAN WRITERS ARE OBLIGED TO TALK INCONSISTENTLY
+  - SECTION 6. CONCERNING THE WILL'S DETERMINING IN THINGS WHICH ARE PERFECTLY INDIFFERENT, IN THE VIEW OF THE MIND
+  - SECTION 7. CONCERNING THE NOTION OF LIBERTY OF WILL CONSISTING IN INDIFFERENCE
+  - SECTION 8. CONCERNING THE SUPPOSED LIBERTY OF THE WILL, AS OPPOSITE TO ALL NECESSITY
+  - SECTION 9. OF THE CONNECTION OF THE ACTS OF THE WILL WITH THE DICTATES OF THE UNDERSTANDING
+  - SECTION 10. VOLITION NECESSARILY CONNECTED WITH THE INFLUENCE OF MOTIVES; WITH PARTICULAR OBSERVATIONS ON THE GREAT INCONSISTENCE OF MR. CHUBB'S ASSERTIONS AND REASONINGS, ABOUT THE FREEDOM OF THE WILL
+  - SECTION 11. THE EVIDENCE OF GOD'S CERTAIN FOREKNOWLEDGE OF THE VOLITIONS OF MORAL AGENTS
+  - SECTION 12. GOD'S CERTAIN FOREKNOWLEDGE OF THE FUTURE VOLITIONS OF MORAL AGENTS, INCONSISTENT WITH SUCH A CONTINGENCE OF THOSE VOLITIONS, AS IS WITHOUT ALL NECESSITY
+  - SECTION 13. WHETHER WE SUPPOSE THE VOLITIONS OF MORAL AGENTS TO BE CONNECTED WITH ANYTHING ANTECEDENT, OR NOT, YET THEY MUST BE NECESSARY IN SUCH A SENSE AS TO OVERTHROW ARMINIAN LIBERTY
+  - Part III. Wherein Is Inquired, Whether Any Such Liberty of Will as Arminians Hold, Be Necessary to Moral Agency, Virtue and Vice, Praise, and Dispraise, Etc.
+  - SECTION 2. THE ACTS OF THE WILL OF THE HUMAN SOUL OF JESUS CHRIST NECESSARILY HOLY, YET TRULY VIRTUOUS, PRAISEWORTHY, REWARDABLE, ETC.
+  - SECTION 3. THE CASE OF SUCH AS ARE GIVEN UP OF GOD TO SIN, AND OF FALLEN MAN IN GENERAL, PROVES MORAL NECESSITY AND INABILITY TO BE CONSISTENT WITH BLAMEWORTHINESS
+  - SECTION 4. COMMAND, AND OBLIGATION TO OBEDIENCE, CONSISTENT WITH MORAL INABILITY TO OBEY
+  - SECTION 5. THAT SINCERITY OF DESIRES AND ENDEAVORS, WHICH IS SUPPOSED TO EXCUSE IN THE NONPERFORMANCE OF THINGS IN THEMSELVES GOOD, PARTICULARLY CONSIDERED
+  - SECTION 6. LIBERTY OF INDIFFERENCE, NOT ONLY NOT NECESSARY TO VIRTUE, BUT UTTERLY INCONSISTENT WITH IT; AND ALL, EITHER VIRTUOUS OR VICIOUS HABITS OR INCLINATIONS, INCONSISTENT WITH ARMINIAN NOTIONS OF LIBERTY AND MORAL AGENCY
+  - SECTION 7. ARMINIAN NOTIONS OF MORAL AGENCY INCONSISTENT WITH ALL INFLUENCE OF MOTIVE AND INDUCEMENT, IN EITHER VIRTUOUS OR VICIOUS ACTIONS
+- Part IV. Wherein the chief Grounds of the Reasonings of Arminians, in Support and defense of Their Notions of Liberty, Moral Agency, etc. and against the Opposite Doctrine, Are Considered
+    - SECTION 1. THE ESSENCE OF THE VIRTUE AND VICE OF DISPOSITIONS OF THE HEART, AND ACTS OF THE WILL, LIES NOT IN THEIR CAUSE, BUT THEIR NATURE
+  - SECTION 2. THE FALSENESS AND INCONSISTENCE OF THAT METAPHYSICAL NOTION OF ACTION, AND AGENCY, WHICH SEEMS TO BE GENERALLY ENTERTAINED BY THE DEFENDERS OF THE ARMINIAN DOCTRINE CONCERNING LIBERTY, MORAL AGENCY, ETC.
+  - SECTION 3. THE REASONS WHY SOME THINK IT CONTRARY TO COMMON SENSE, TO SUPPOSE THOSE THINGS WHICH ARE NECESSARY, TO BE WORTHY OF EITHER PRAISE OR BLAME
+  - SECTION 4. IT IS AGREEABLE TO COMMON SENSE, AND THE NATURAL NOTIONS OF MANKIND, TO SUPPOSE MORAL NECESSITY TO BE CONSISTENT WITH PRAISE AND BLAME, REWARD AND PUNISHMENT
+  - SECTION 5. CONCERNING THOSE OBJECTIONS, THAT THIS SCHEME OF NECESSITY RENDERS ALL MEANS AND ENDEAVORS FOR THE AVOIDING OF SIN, OR THE OBTAINING VIRTUE AND HOLINESS, VAIN, AND TO NO PURPOSE; AND THAT IT MAKES MEN NO MORE THAN MERE MACHINES IN AFFAIRS OF MORALITY AND RELIGION
+  - SECTION 6. CONCERNING THAT OBJECTION AGAINST THE DOCTRINE WHICH HAS BEEN MAINTAINED, THAT IT AGREES WITH THE STOICAL DOCTRINE OF FATE, AND THE OPINIONS OF MR. HOBBES
+  - SECTION 7. CONCERNING THE NECESSITY OF THE DIVINE WILL
+  - SECTION 8. SOME FURTHER OBJECTIONS AGAINST THE MORAL NECESSITY OF GOD'S VOLITIONS CONSIDERED
+  - SECTION 9. CONCERNING THAT OBJECTION AGAINST THE DOCTRINE WHICH HAS BEEN MAINTAINED, THAT IT MAKES GOD THE AUTHOR OF SIN
+  - SECTION 10. CONCERNING SIN'S FIRST ENTRANCE INTO THE WORLD
+  - SECTION 11. OF A SUPPOSED INCONSISTENCE OF THESE PRINCIPLES, WITH GOD'S MORAL CHARACTER
+  - SECTION 12. OF A SUPPOSED TENDENCY OF THESE PRINCIPLES TO ATHEISM AND LICENTIOUSNESS
+  - SECTION 13. CONCERNING THAT OBJECTION AGAINST THE REASONING, BY WHICH THE CALVINISTIC DOCTRINE IS SUPPORTED, THAT IT IS METAPHYSICAL AND ABSTRUSE
+- THE CONCLUSION
+- RELATED CORRESPONDENCE
+- Proposal for Printing
+  - A broadside, printed by Samuel Kneeland of Boston, for announcing and collecting subscriptions for the publication and distribution of Edwards’ latest composition. The imprint, cut up into four parts, is bound into the MS notebook, “Defense of the Pentateuch as a Work of Moses,” constituting LL. 1-4.
+    - PROPOSALS for Printing by Subscription, in one Volume Octavo, A Treatise Intitled,
+    - Stockbridge.
 
 ## EDITOR'S INTRODUCTION
 
@@ -124,7 +195,7 @@ the *connection* or *correlation* between antecedent and consequent rather than 
 
 Now, Jonathan Edwards was not merely a rationalist; Puritanism was also his heritage. He even states that he "should not take it at all amiss, to be called a Calvinist, for distinction's sake: though I utterly disclaim a dependence on Calvin" (p. 131). Therefore, the foregoing summary of the agreement between Edwards and present-day determinists perhaps suggests the question whether after all "the wonderful one-hoss shay, / That was built in such a logical way / It ran a hundred years to the day" ever actually "went to pieces all at once,— / All at once, and nothing first,— / Just as bubbles do when they burst." Does not a wheel or a splinter off the Deacon's Masterpiece continue on among philosophical determinists today? One may raise this question without forgetting their heritage from Spinoza, Hobbes, and Hume, and without ignoring the original repair work Edwards did on the "shay." Then the question is: Is there a hidden defect somewhere, or is there about the whole of it still "a general flavor of mild decay, / But nothing local, as one might say," or is this the "truth" that "keeps its youth"? <sup>5</sup> Nowhere better than by an examination of Edwards can one find this out. It is still true, as Tappan wrote more than a hundred years ago, "There is no work of higher authority among those who deny the self-determining power of the will; and none which on this subject has called forth more general admiration for acuteness of thought and logical subtlety. I believe there is a prevailing impression that Edwards must be fairly met in order to make any advance in an opposite argument." <sup>6</sup>
 
-### DEFINITION OF LIBERTY
+#### DEFINITION OF LIBERTY
 
 " . . . there is a vast indistinctness and unfixedness," writes Edwards, "in most, or at least very many of the terms used to express things pertaining to moral and spiritual matters" (p. 316). Especially is this true when men speak of volition and moral ability; and a large part of Edwards' treatise is given over to a definition of terms, whether
 
@@ -156,7 +227,7 @@ Perhaps it should be observed that any philosopher holds *some* view of what goe
 
 the structures of reality (the *logos*) as determinative in every case of rational volition, others upon the moving continuum of moral incentives and motives for the controlling influence in volition, both distinguishable from natural necessity or compulsion. By designating the meaning of freedom and then analyzing an act of volition, Edwards merely places in brackets—he does not set entirely aside—his belief in divine determination, or what causes the strength of motives, or his confidence that all events, even moral events, have their causes. His definition of liberty and his account of voluntary action have the clarity and force of a phenomenological analysis. This analysis may be consistent with various metaphysical views, such as determinism or indeterminism, which were bracketed.
 
-### THE ACT OF VOLITION
+#### THE ACT OF VOLITION
 
 Edwards sets the same limits around accounts of the nature of voluntary action. "If a man does something voluntarily, or as the effect of his choice, then in the most proper sense, and as the word is most originally and commonly used, he is said to act: but whether that choice or volition be self-determined, or no, whether it be connected with foregoing habitual bias, whether it be the certain effect of the strongest motive, or some extrinsic cause, never comes into consideration in the meaning of the word" (p. 347). This is the focus of Edwards' picture of the exertion of an act of will. He seeks to catch the agent in the very act of willing or choosing, and to give an accurate report of what goes on in the soul or mind in the state of willing and at the time of willing or in the state of freedom at the time of freedom (pp. 206–7), without consideration of what went before or comes after.
 
@@ -188,7 +259,7 @@ in the unsearchable course of things, to which the mind yields itself, and by wh
 
 Giving attention only to the moment of present volition, and without raising questions about the genesis of this choice or about possible impediments to its consequent action, "not only is it true, that it is easy for a man to do the thing if he will but the very willing is the doing; when once he has willed, the thing is performed; and nothing else remains to be done. Therefore, in these things to ascribe a nonperformance to the want of power or ability, is not just; because the thing wanting is not a being *able*, but a being *willing*" (p. 161). There is no way for the will to determine an act than by willing and choosing it (p. 190). Obviously a man has the power to will as he does will. What he wills, he wills (p. 193). In this sense a man may choose as he pleases.
 
-### PRAISEWORTHINESS AND BLAMEWORTHINESS
+#### PRAISEWORTHINESS AND BLAMEWORTHINESS
 
 In the second and third parts of the *Inquiry* Edwards answers the objection that praise for the goodness and blame for the badness of an action are appropriate only if the will be free with a freedom of indifference. The "sum total" of such ethical judgments, he says, is the assertion of "a person's having his heart wrong, and doing wrong from his heart" (p. 357) or doing right from his heart. "The common people don't ascend up" any further in gathering in their notion of praise or blameworthiness (p. 357). Of course, they "do suppose it is the person's *own act*." But all that belongs to this is that it be "something done by him of choice" (p. 358). They "do suppose that the man does it in the exercise of *liberty*. But then their notion of liberty is only a person's having opportunity of doing as he pleases. They have no notion of liberty consisting in the will's first acting, and so causing its own acts." In fact, "such a notion of liberty is what none have, but those that have darkened their own minds" (pp. 358–9).
 
@@ -210,7 +281,7 @@ Finally, unless there is some cause connected with the motives of men, there wou
 
 hold the principle of universal causation to be open to question, as a commonsense individual I hold it to be an indispensable postulate in the conduct of affairs. For practical purposes we must assume that our volitions have causes, and our ethics must be compatible with this assumption. Praise and blame, reward and punishment, and the whole apparatus of the criminal law, are rational on the deterministic hypothesis, but not on the hypothesis of free will." <sup>5</sup>
 
-### IS THE WILL INDEPENDENT AND SELF-MOVED?
+#### IS THE WILL INDEPENDENT AND SELF-MOVED?
 
 Up to this point the present summary of Edwards' position in the *Inquiry* has been informed by my belief that it is misleading to suggest that the presupposition of its argument is that all events, including moral events, have their causes and occur by some sort of necessity.<sup>6</sup> No doubt this was Edwards' opinion, from which he never
 
@@ -240,7 +311,7 @@ It is obvious that Edwards (in saying that God in his volitional action is indep
 
 moved) simply adds degrees and denies limits, and removes changeableness and other imperfections. Otherwise, what might be said of the divine will would be univocal with the account of human volition. On the other hand, statements about divine and human volition would be equivocal, and we would be able to say nothing at all about acts of will in God, if Edwards went so far as to deny that these acts, no less than human volitions, are a matter of preponderant inclination or pleasedness. So much we know from the analysis of an act of choice, and may ascribe to God from the experience of choice in our own minds. Edwards' belief that self-determinists are wrong in ascribing self-motion to man arises, then, not from any description of willing in itself or as it is *within* the agent *himself*, but from a justifiable fear that "they who thus plead for man's liberty, advance principles which destroy the freedom of God himself." <sup>3</sup>
 
-### THE ORIGIN OF ARMINIAN NOTIONS OF LIBERTY AND NECESSITY, AND THE SHAPE OF EDWARDS' REPLY
+#### THE ORIGIN OF ARMINIAN NOTIONS OF LIBERTY AND NECESSITY, AND THE SHAPE OF EDWARDS' REPLY
 
 In an act of willing, the soul, according to Edwards, is conversant not with some remote object or goal, but with the immediate action to be done. Still this is an *external* action, and the volition from which it arises is an inward matter. The language of ethical discourse has been formed to refer to this situation, and as a consequence the words we use and the characteristic statements we make express two assumptions that are correct only in cases of the production of external conduct. (1) There is a distinction properly made between the willing subject and the act performed, and we speak correctly of a causal connection between these two different things when we say that the self determines its action. The volition is different from the effect it produces. This shapes what we ordinarily mean by "agency" and "liberty" (including Edwards' definition). (2) There is a supposable opposition between endeavors of the volition and impediments to action in the external world. This shapes what we ordinarily mean by "ability" and "inability," or "necessity."
 
@@ -300,7 +371,7 @@ could never become so by prior choice or self-determination, which act by defini
 
 When it is a question of *choosing* choice or *choosing* virtue, that antecedent choosing is for Edwards only a nothing out of which nothing comes. This is the meaning he draws from the verse that stands as a motto on the title page of the *Inquiry*: "It is not of him that willeth . . ." (Romans 9:16).
 
-### MORAL AND NATURAL NECESSITY
+#### MORAL AND NATURAL NECESSITY
 
 Edwards' understanding of "causation" has some similarity, on one side, with that of David Hume and, on the other, it has even more agreement with Leibniz' principle of sufficient reason.<sup>3</sup> "Beyond the constant *conjunction* of similar objects, and the consequent inference from one to the other, we have no notion of any necessity or connection," Hume had written six years before Edwards. He said, "A cause is *that* after which *anything* constantly exists. … This is, indeed, all we know of the matter. And this constancy forms the very essence of necessity, nor have we any other idea of it." Our "faculties can carry us no further in our knowledge of this relation than barely to observe that particular objects are *constantly conjoined* together," and that the mind customarily makes the transition from the one to the other. <sup>4</sup> "Therefore," Edwards writes in a somewhat similar vein, "I sometimes use the word 'cause,' in this inquiry, to signify any antecedent, either natural or moral, positive or negative, on which an event, either a thing, or the manner and circumstance of a thing, so
 
@@ -586,7 +657,7 @@ to books drawn from every available source, Edwards kept himself well informed a
 
 These three opponents represent sufficient diversity of opinion to be representative of the thought prevailing at the time; and it would be easy to show that if Edwards' argument against them is really sound, it can be applied with equal force to other proponents of free will. In fact, in the range of opinion and churchmanship among them is to be found the best reason for their selection. Chubb was a deist (to which extreme position, Edwards believed, Arminianism was bound to come if any opening be given it), Whitby was a minister of the Church of England, and Watts was a dissenting minister and theologian, representing Edwards' own tradition in theology in which serious breach was being made. To refute these three authors effectively was to direct a line of fire all along the battle front, and to serve the cause of truth in the church generally. In any case, Edwards can be fully understood only by recapturing the original force of the *Inquiry* upon readers who were as familiar with the writings of Chubb, Whitby, and Watts as we today are with the live options to Christian orthodoxy in certain persuasive statements of the philosophy of naturalism, humanism, and liberalism.
 
-### THOMAS CHUBB
+#### THOMAS CHUBB
 
 1. Thomas Chubb (1679–1747), a journeyman all his life who nevertheless attained considerable reputation as a writer on theological and philosophical subjects, was to the leading lights of the eighteenth century a constant object of condescension and wonder. He was the assistant to a tallow chandler, a seller of candles, and—his eyesight
 
@@ -706,7 +777,7 @@ It is all the more important to extend the foregoing quotation—with its restin
 
 is one passage in which, in an exceptional use of the words "production" and "exertion," Chubb does give this meaning to the influence of motive upon action;<sup>7</sup> and here he falls between the jaws of Edwards' argument (pp. 237–8). Yet it should be pointed out that this is the one place in all the treatises Edwards cites in which Chubb writes, with the meaning Edwards takes from it, that motives are necessary for the *production* of action or the *exertion* of the will. His usual meaning is simply that "motives are only the *ground* or *reason*, why we suspend or exert the self-moving power, or why we exert it, in one way, or at one time, rather than in another way, or at another time, but are not causes of either. Motives are merely *passive*, if I may so speak, in the production of action. That is, they have no *causality*, in the production of it."<sup>7</sup><sup>8</sup> By passive ground Chubb ordinarily means what "causes the will to be *invited*." This passage in which he goes the length of saying that motives are necessary for the exertion of will or the production of action should be counterbalanced by his speculation at the opposite extreme from his usual position, that there may actually be such a thing as a wholly unmotivated will. <sup>7</sup><sup>9</sup>
 
-### DANIEL WHITBY
+#### DANIEL WHITBY
 
 7. Daniel Whitby (1638–1726) was a polemical Church of England divine who first came to public attention because of his anti-Romist tracts, such as *The Idolatry of Host Worship* (1679). Because he proved to be not so polemical on the other side he lost somewhat in favor among fellow churchmen, with the anonymous publication of *The Protestant Reconciler, Humbly Pleading for Condescension to Dissenting Brethren in Things Immaterial*. To this an ironic reply was made in the form of a "letter of thanks" purporting to come from the Anabaptists at Munster; and the University at Oxford condemned his proposition that, in order not to offend the weaker brethren, laws should not be enacted requiring conformity in "things indifferent"; his books were burned, and he was forced to retract. His greatest work was a paraphrase and commentary on the New Testament, in two volumes (1703), which Philip Doddridge (the dissenter, and protégé and literary executor of Isaac Watts) regarded as "preferable to all others."
 
@@ -764,7 +835,7 @@ On the other hand, when Whitby identifies a point of view he opposes with an obj
 
 should be argued rationally. The tradition of the church, Whitby was able to write in another connection, "gives no unquestionable assurance of the truth or for that matter, of the derivation of these customs from our Lord and His Apostles, for haply the Church embraced them upon other motives." <sup>3</sup> And Anthony Collins quotes Whitby as saying "We should call no Man Guide, or Master upon Earth, no Fathers, no Church, no Council."<sup>4</sup> Unless for one man to be reasonable renders another less so, to call attention to this is in no sense to underrate the powerful and untroubled reasonableness with which Edwards, from pt. IV, sec. 6 on, calls upon his readers to disavow no idea because it happens also to have been held by some bad man.
 
-### ISAAC WATTS
+#### ISAAC WATTS
 
 13. The theological inheritance of Isaac Watts (1674–1748), hymn-writer and the only dissenter among the authors Edwards opposed, was closer to that of Edwards than any of his other antagonists. He was also the only one of the three who had important direct connection with the intellectual life of the American colonies. For both these reasons, it is necessary to make more extended comment upon the relation between Watts' thought and Edwards' argument in the *Inquiry*.
 
@@ -1672,7 +1743,7 @@ The subject is of such importance, as to *demand* attention, and the most thorou
 
 <!-- p. 137 -->
 
-SECTION 1. CONCERNING THE NATURE OF THE WILL
+### SECTION 1. CONCERNING THE NATURE OF THE WILL
 
 It may possibly be thought, that there is no great need of going about to define or describe the "will"; this word being generally as well understood as any other words we can use to explain it: and so perhaps it would be, had not philosophers, metaphysicians and polemic divines brought the matter into obscurity by the things they have said of it. But since it is so, I think it may be of some use, and will tend to the greater clearness in the following discourse, to say a few things concerning it.
 
@@ -1698,7 +1769,7 @@ But not to dwell any longer on this, whether desire and will, and whether prefer
 
 <!-- p. 141 -->
 
-SECTION 2. CONCERNING THE DETERMINATION OF THE WILL
+### SECTION 2. CONCERNING THE DETERMINATION OF THE WILL
 
 By "determining the will," if the phrase be used with any meaning, must be intended, causing that the act of the will or choice should be thus, and not otherwise: and the will is said to be determined, when, in consequence of some action, or influence, its choice is directed to, and fixed upon a particular object. As when we speak of the determination of motion, we mean causing the motion of the body to be such a way, or in such a direction, rather than another.
 
@@ -1776,7 +1847,7 @@ page 148
 
 <!-- p. 148 -->
 
-## SECTION 3. CONCERNING THE MEANING OF THE TERMS NECESSITY, IMPOSSIBILITY, INABILITY, ETC.; AND OF CONTINGENCE
+### SECTION 3. CONCERNING THE MEANING OF THE TERMS NECESSITY, IMPOSSIBILITY, INABILITY, ETC.; AND OF CONTINGENCE
 
 The words "necessary," "impossible," etc., are abundantly used in controversies about free will and moral agency; and therefore the sense in which they are used, should be clearly understood.
 
@@ -1856,7 +1927,7 @@ But the word "contingent" is abundantly used in a very different sense; not for 
 
 <!-- p. 156 -->
 
-SECTION 4. OF THE DISTINCTION OF NATURAL AND MORAL NECESSITY, AND INABILITY
+### SECTION 4. OF THE DISTINCTION OF NATURAL AND MORAL NECESSITY, AND INABILITY
 
 That necessity which has been explained, consisting in an infallible connection of the things signified by the subject and predicate of a proposition, as intelligent beings are the subjects of it, is distinguished into moral and natural necessity.
 
@@ -1890,7 +1961,7 @@ The phrase "moral necessity" is used variously: sometimes 'tis used for a necess
 
  will or inclination to the thing, with respect to which a person is said to be unable, is supposable. It can't be truly said, according to the ordinary use of language, that a malicious man, let him be never so malicious, can't hold his hand from striking, or that he is not able to show his neighbor kindness; or that a drunkard, let his appetite be never so strong, can't keep the cup from his mouth. In the strictest propriety of speech, a man has a thing in his power, if he has it in his choice, or at his election: and a man can't be truly said to be unable to do a thing, when he can do it if he will. 'Tis improperly said, that a person can't perform those external actions, which are dependent on the act of the will, and which would be easily performed, if the act of the will were present. And if it be improperly said, that he cannot perform those external voluntary actions, which depend on the will, 'tis in some respect more improperly said, that he is unable to exert the acts of the will themselves; because it is more evidently false, with respect to these, that he can't if he will: for to say so, is a downright contradiction: it is to say, he *can't* will, if he *does* will. And in this case, not only is it true, that it is easy for a man to do the thing if he will, but the very willing is the doing; when once he has willed, the thing is performed; and nothing else remains to be done. Therefore, in these things to ascribe a nonperformance to the want of power or ability, is not just; because the thing wanting is not a being *able*, but a being *willing*. There are faculties of mind, and capacity of nature, and everything else, sufficient, but a disposition: nothing is wanting but a will.
 
-## SECTION 5. CONCERNING THE NOTION OF LIBERTY, AND OF MORAL AGENCY
+### SECTION 5. CONCERNING THE NOTION OF LIBERTY, AND OF MORAL AGENCY
 
 <!-- p. 163 -->
 
@@ -1972,7 +2043,7 @@ differs in that respect from the moral agency of created intelligent beings. God
 
 <!-- p. 171 -->
 
-SECTION 1. SHOWING THE MANIFEST INCONSISTENCE OF THE ARMINIAN NOTION OF LIBERTY OF WILL, CONSISTING IN THE WILL'S SELF-DETERMINING POWER
+### SECTION 1. SHOWING THE MANIFEST INCONSISTENCE OF THE ARMINIAN NOTION OF LIBERTY OF WILL, CONSISTING IN THE WILL'S SELF-DETERMINING POWER
 
 Having taken notice of those things which may be necessary to be observed, concerning the meaning of the principal terms and phrases made use of in controversies concerning human liberty, and particularly observed what liberty is, according to the common language, and general apprehension of mankind, and what it is as understood and maintained by Arminians; I proceed to consider the Arminian notion of the freedom of the will, and the supposed necessity of it in order to moral agency, or in order to anyone's being capable of virtue or vice, and properly the subject of command or counsel, praise or blame, promises or threatenings, rewards or punishments; or whether that which has been described, as the thing meant by liberty in common speech, be not sufficient, and the only liberty, which makes, or can make anyone a moral agent, and so properly the subject of these things. In this part, I shall consider whether any such thing be possible or conceivable, as that freedom of will which Arminians insist on; and shall inquire whether any such sort of liberty be necessary to moral agency, etc., in the next part.
 
@@ -1998,7 +2069,7 @@ to be agreeable to itself, and that the next, and so on; they are none of them f
 
 <!-- p. 175 -->
 
-SECTION 2. SEVERAL SUPPOSED WAYS OF EVADING THE FOREGOING REASONING, CONSIDERED
+### SECTION 2. SEVERAL SUPPOSED WAYS OF EVADING THE FOREGOING REASONING, CONSIDERED
 
 If to evade the force of what has been observed, it should be said, that when the Arminians speak of the will's determining its own acts, they don't mean that the will determines its acts by any preceding act, or that one act of the will determines another; but only that the faculty or power of will, or the soul in the use of that power, determines its own volitions; and that it does it without any act going before the act determined; such an evasion would be full of the most gross absurdity. I confess, it is an evasion of my own inventing; and I don't know but I should wrong the Arminians, in supposing that any of them would make use of it. But it being as good a one as I can invent, I would observe upon it a few things.
 
@@ -2044,7 +2115,7 @@ And because it is a question, in many respects, very important in this controver
 
 <!-- p. 180 -->
 
-SECTION 3. WHETHER ANY EVENT WHATSOEVER, AND VOLITION IN PARTICULAR, CAN COME TO PASS WITHOUT A CAUSE OF ITS EXISTENCE
+### SECTION 3. WHETHER ANY EVENT WHATSOEVER, AND VOLITION IN PARTICULAR, CAN COME TO PASS WITHOUT A CAUSE OF ITS EXISTENCE
 
 Before I enter on any argument on this subject, I would explain how I would be understood, when I use the word "cause" in this discourse: since, for want of a better word, I shall have occasion to use it in a sense which is more extensive, than that in which it is sometimes used. The word is often used in so restrained a sense as to signify only that which has a positive efficiency or influence to produce a thing, or bring it to pass. But there are many things which have no such positive productive influence; which yet are causes in that respect, that they have truly the nature of a ground or reason why some things are, rather than others; or why they are as they are, rather than otherwise. Thus the absence of the sun in the night, is not the cause of the falling of the dew at that time, in the same manner as its beams are the cause of the ascending of the vapors in the daytime; and its withdrawment in the winter, is not in the same manner the cause of the freezing of the waters, as its approach in the spring is the cause of their thawing. But yet the withdrawment or absence of the sun is an antecedent, with which these effects in the night and winter are connected, and on which they depend; and is one thing that belongs to the ground and reason why they come to pass at that time, rather than at other times; though the absence of the sun is nothing positive, nor has any positive influence.
 
@@ -2098,7 +2169,7 @@ So that it is indeed as repugnant to reason, to suppose that an act of the will 
 
 <!-- p. 186 -->
 
-## SECTION 4. WHETHER VOLITION CAN ARISE WITHOUT A CAUSE, THROUGH THE ACTIVITY OF THE NATURE OF THE SOUL
+### SECTION 4. WHETHER VOLITION CAN ARISE WITHOUT A CAUSE, THROUGH THE ACTIVITY OF THE NATURE OF THE SOUL
 
 The author [See Intro., pt. 5, nos. 13, 14.] of the Essay on the Freedom of the Will in God and the Creatures, in answer to that objection against his doctrine of a self-determining power in the will (pp. 68, 69), [Isaac Watts, An Essay on Freedom of Will in God and in Creatures (London, 1732), 68-69, sec. 6, obj. 2 and ans.; reprinted in The Works of the Reverend and Learned Isaac Watts, D.D., ed. Jennings and Doddridge; 1st ed., 6 vols. (London, 1753); 6 vols. (London, 1811), 6:265.] "that nothing is, or comes to pass, without a sufficient reason why it is, and why it is in this manner rather than another," allows that it is thus in corporeal things, "which are properly and philosophically speaking passive beings"; but denies that it is thus in "spirits, which are beings of an active nature, who have the spring of action within themselves, and can determine themselves." By which it is plainly supposed, that such an event as an act of the will, may come to pass in a spirit, without a sufficient reason why it comes to pass, or why it is after this manner, rather than another; by reason of the activity of the nature of a spirit. But certainly this author, in this matter, must be very unwary and inadvertent. For, 1. The objection or difficulty proposed by this author, seems to be forgotten in his answer or solution. The very difficulty, as he himself proposes it, is this: how an event can "come to pass without a sufficient reason why it is, or why it is in this manner rather than another"? Instead of solving this difficulty, or answering this question with regard to volition, as he proposes, he forgets himself, and answers another question quite diverse, and wholly inconsistent with this, viz. what is a sufficient reason why it is, and why it is in this manner rather than another? And he assigns the active being's own determination as the cause, and a cause sufficient for the effect; and leaves all the difficulty unresolved, and the question unanswered, which yet returns, even, how the soul's own determination, which
 
@@ -2128,7 +2199,7 @@ Therefore the activity of the nature of the soul affords no relief from the diff
 
 <!-- p. 190 -->
 
-SECTION 5. SHOWING, THAT IF THE THINGS ASSERTED IN THESE EVASIONS SHOULD BE SUPPOSED TO BE TRUE, THEY ARE ALTOGETHER IMPERTINENT, AND CAN'T HELP THE CAUSE OF ARMINIAN LIBERTY; AND HOW (THIS BEING THE STATE OF THE CASE) ARMINIAN WRITERS ARE OBLIGED TO TALK INCONSISTENTLY
+### SECTION 5. SHOWING, THAT IF THE THINGS ASSERTED IN THESE EVASIONS SHOULD BE SUPPOSED TO BE TRUE, THEY ARE ALTOGETHER IMPERTINENT, AND CAN'T HELP THE CAUSE OF ARMINIAN LIBERTY; AND HOW (THIS BEING THE STATE OF THE CASE) ARMINIAN WRITERS ARE OBLIGED TO TALK INCONSISTENTLY
 
 What was last observed in the preceding section may show, not only that the active nature of the soul can't be a reason why any act of the will is, or why it is in this manner, rather than another; but also that if it could be so, and it could be proved that volitions are contingent events, in that sense, that their being and manner of being is not fixed or determined by any cause, or anything antecedent; it would not at all serve the purpose of Arminians, to establish the freedom of the will, according to their notion of its freedom, as consisting in the will's determination of itself; which supposes every free act of the will to be determined by some act of the will going before to determine it; inasmuch as for the will to determine a thing, is the same as for the soul to determine a thing by *willing*; and there is no [In his copy, JE Jr. inserted "other," though this change is not on the printed errata sheet.] way that the will can determine an act of the will, than by willing that act of the will, or, which is the same thing, choosing it. So that here must be two acts of the will in the case, one going before another, one conversant about the other, and the latter the object of the former, and chosen by the former. If the will don't cause and determine the act by choice, it don't cause or determine it at all; for that which is not determined by choice, is not determined voluntarily or willingly: and to say, that the will determines something which the soul don't determine willingly, is as much as to say, that something is done by the will, which the soul don't do with its will.
 
@@ -2160,7 +2231,7 @@ in that antecedent act of will which chose the consequent act? The answer accord
 
 <!-- p. 195 -->
 
-SECTION 6. CONCERNING THE WILL'S DETERMINING IN THINGS WHICH ARE PERFECTLY INDIFFERENT, IN THE VIEW OF THE MIND
+### SECTION 6. CONCERNING THE WILL'S DETERMINING IN THINGS WHICH ARE PERFECTLY INDIFFERENT, IN THE VIEW OF THE MIND
 
 A great argument for self-determining power, is the supposed experience we universally have of an ability to determine our wills, in cases wherein no prevailing motive is presented: the will (as is supposed) has its choice to make between two or more things, that are perfectly equal in the view of the mind; and the will is apparently altogether indifferent; and yet we find no difficulty in coming to a choice; the will can instantly determine itself to one, by a sovereign power which it has over itself, without being moved by any preponderating inducement.
 
@@ -2200,7 +2271,7 @@ Thus the forementioned author of an *Essay on the Freedom of the Will, etc.* (pp
 
 <!-- p. 203 -->
 
-SECTION 7. CONCERNING THE NOTION OF LIBERTY OF WILL CONSISTING IN INDIFFERENCE
+### SECTION 7. CONCERNING THE NOTION OF LIBERTY OF WILL CONSISTING IN INDIFFERENCE
 
 What has been said in the foregoing section, has a tendency in some measure to evince the absurdity of the opinion of such as place liberty in indifference, or in that equilibrium whereby the will is without all antecedent determination or bias, and left hitherto free from any prepossessing inclination to one side or the other; that the determination of the will to either side may be entirely from itself, and that it may be owing only to its own power, and that sovereignty which it has over itself, that it goes this way rather than that. Dr. Whitby, and some other Arminians, make a distinction of different kinds of freedom; one of God, and perfect spirits above; another of persons in a state of trial. The former Dr. Whitby allows to consist with necessity; the latter he holds to be without necessity; and this latter he supposes to be requisite to our being the subjects of praise or dispraise, rewards or punishments, precepts and prohibitions, promises and threats, exhortations and dehortations, and a covenant treaty. And to this freedom he supposes indifference to be requisite. In his *Discourse on the Five Points* [Dis. IV, ch. 1], pp. 299, 300, he says: "It is a freedom (speaking of a freedom not only from coaction, but from necessity) requisite, as we conceive, to render us capable of trial or probation, and to render our actions worthy of praise or dispraise, and our persons of rewards or punishments." And in the next page, speaking of the same matter, he says, "Excellent to this purpose, are the words of Mr. Thorndike: 'We say not, that indifference is requisite to all freedom, but to the freedom of man alone in this state of travail and proficience; the ground of which is God's tender of a treaty, and conditions of peace and reconcilement to fallen man, together with those precepts and prohibitions, those promises and threats, those exhortations and dehortations, it is enforced with.'"
 
@@ -2214,11 +2285,9 @@ some, who when they talk of the liberty of the will as consisting in indifferenc
 
 But not to insist any longer on the abstruseness and inexplicableness of this distinction; let what will be supposed concerning the meaning of them that make use of it, thus much must at least be intended by Arminians, when they talk of indifference as essential to liberty of will, if they intend anything, in any respect to their purpose, viz. that it is such an indifference as leaves the will not determined already; but free from actual possession, and vacant of predetermination, so far, that there may be room for the exercise of the
 
-## Part III.
+## Part III. Wherein Is Inquired, Whether Any Such Liberty of Will as Arminians Hold, Be Necessary to Moral Agency, Virtue and Vice, Praise, and Dispraise, Etc.
 
-### Wherein Is Inquired, Whether Any Such Liberty of Will as Arminians Hold, Be Necessary to Moral Agency, Virtue and Vice, Praise, and Dispraise, Etc.
-
-## SECTION 1. GOD'S MORAL EXCELLENCY NECESSARY, YET VIRTUOUS AND PRAISEWORTHY
+### SECTION 1. GOD'S MORAL EXCELLENCY NECESSARY, YET VIRTUOUS AND PRAISEWORTHY
 
 <!-- p. 274 -->
 
@@ -2258,7 +2327,7 @@ one of our fellow creatures who did us good, not freely, and of good will, or fr
 
 That virtue in God is not, in the most proper sense, *rewardable*, is not for want of merit in his moral perfections and actions, sufficient to deserve rewards from his creatures; but because he is infinitely above all capacity of receiving any reward or benefit from the creature: he is already infinitely and unchangeably happy, and we can't be profitable unto him. But still he is worthy of our supreme benevolence for his virtue; and would be worthy of our beneficence, which is the fruit and expression of benevolence, if our goodness could extend to him. If God deserves to be thanked and praised for his goodness, he would for the same reason, deserve that we should also requite his kindness, if that were possible. "What shall I render to the Lord for all his benefits?" is the natural language of thankfulness: and so far as in us lies, it is our duty to recompense God's goodness, and *render again according to benefits received*. And that we might have opportunity for so natural an expression of our gratitude to God, as beneficence, notwithstanding his being infinitely above our reach; he has appointed others to be his receivers, and to stand in his stead, as the objects of our beneficence; such are especially our indigent brethren.
 
-## SECTION 2. THE ACTS OF THE WILL OF THE HUMAN SOUL OF JESUS CHRIST NECESSARILY HOLY, YET TRULY VIRTUOUS, PRAISEWORTHY, REWARDABLE, ETC.
+### SECTION 2. THE ACTS OF THE WILL OF THE HUMAN SOUL OF JESUS CHRIST NECESSARILY HOLY, YET TRULY VIRTUOUS, PRAISEWORTHY, REWARDABLE, ETC.
 
 <!-- p. 281 -->
 
@@ -2372,7 +2441,7 @@ I may add to all these things, that Jesus Christ, while here in the flesh, was m
 
 temptations or trials. Luke 22:28, "Ye are they which have continued with me in my temptations," or trials. <sup>7</sup> Hebrews 2:18, "For in that he himself hath suffered, being tempted or tried<sup>8</sup> he is able to succor them that are tempted." And ch. Hebrews 4:15, "We have not an high priest, which cannot be touched with the feeling of our infirmities; but was in all points tempted like as we are, yet without sin." And as to his being tempted by Satan, it is what none will dispute.
 
-## SECTION 3. THE CASE OF SUCH AS ARE GIVEN UP OF GOD TO SIN, AND OF FALLEN MAN IN GENERAL, PROVES MORAL NECESSITY AND INABILITY TO BE CONSISTENT WITH BLAMEWORTHINESS
+### SECTION 3. THE CASE OF SUCH AS ARE GIVEN UP OF GOD TO SIN, AND OF FALLEN MAN IN GENERAL, PROVES MORAL NECESSITY AND INABILITY TO BE CONSISTENT WITH BLAMEWORTHINESS
 
 <!-- p. 295 -->
 
@@ -2422,7 +2491,7 @@ to be punished. What need therefore of Christ's dying, to satisfy for them? What
 
 So the Arminians are inconsistent with themselves, not only in what they say of the need of Christ's satisfaction to atone for those imperfections which we cannot avoid, but also in what they say of the grace of God, granted to enable men to perform the sincere obedience of the new law. "I grant (says Dr. Stebbing)<sup>6</sup> indeed, that by reason of original sin, we are utterly disabled for the performance of the condition, without new grace from God. But I say then, that he gives such grace to all of us, by which the performance of the condition is truly possible: and upon this ground he may, and doth most righteously require it." If Dr. Stebbing intends to speak properly, by "grace" he must mean, that assistance which is of grace, or of free favor and kindness. But yet in the same place he speaks of it as very "unreasonable, unjust and cruel," for God to require that, as the condition of pardon, that is become impossible by original sin. If it be so, what *grace* is there in giving assistance and ability to perform the condition of pardon? Or why is that called by the name of grace, that is an absolute debt, which God is bound to bestow, and which it would be unjust and cruel in him to withhold, seeing he requires that, *as the condition of pardon*, which we cannot perform without it?
 
-## SECTION 4. COMMAND, AND OBLIGATION TO OBEDIENCE, CONSISTENT WITH MORAL INABILITY TO OBEY
+### SECTION 4. COMMAND, AND OBLIGATION TO OBEDIENCE, CONSISTENT WITH MORAL INABILITY TO OBEY
 
 <!-- p. 302 -->
 
@@ -2514,7 +2583,7 @@ understanding. Thus the same spiritual duties, or holy affections and exercises 
 
 *Corol*. If things for which men have a moral inability, may properly be the—matter of precept or command, then they may also of invitation and counsel. Commands, and invitations come very much to the same thing; the difference is only circumstantial: commands are as much a manifestation of the will of him that speaks, as invitations, and as much testimonies of expectation of compliance. The difference between them lies in nothing that touches the affair in hand. The main difference between command and invitation consists in the enforcement of the will of him who commands or invites. In the latter it is his *kindness*, the goodness which his will arises from: in the former it is his *authority*. But whatever be the ground of the will of him that speaks, or the enforcement of what he says, yet seeing neither his will nor expectation is any more testified in the one case than the other; therefore a person's being known to be morally unable to do the thing to which he is directed *by invitation*, is no more an evidence of insincerity in him that directs, in manifesting either a will, or expectation which he has not, than his being known to be morally unable to do what he is directed to *by command*. So that all this grand objection of Arminians against the inability of fallen men to exert faith in Christ, or to perform other spiritual gospel duties, from the sincerity of God's counsels and invitations, must be without force.
 
-## SECTION 5. THAT SINCERITY OF DESIRES AND ENDEAVORS, WHICH IS SUPPOSED TO EXCUSE IN THE NONPERFORMANCE OF THINGS IN THEMSELVES GOOD, PARTICULARLY CONSIDERED
+### SECTION 5. THAT SINCERITY OF DESIRES AND ENDEAVORS, WHICH IS SUPPOSED TO EXCUSE IN THE NONPERFORMANCE OF THINGS IN THEMSELVES GOOD, PARTICULARLY CONSIDERED
 
 <!-- p. 312 -->
 
@@ -2588,7 +2657,7 @@ there is nothing in such sincerity of endeavor, or doing what we can, that shoul
 
 *Corol. 2.* Hence also it follows, there is nothing that appears in the reason and nature of things, which can justly lead us to determine, that God will certainly give the necessary means of salvation, or some way or other bestow true holiness and eternal life on those heathen, who are sincere (in the sense above explained) in their endeavors to find out the will of the deity, and to please him, according to their light, that they may escape his future displeasure and wrath, and obtain happiness in their future state, through his favor.
 
-## SECTION 6. LIBERTY OF INDIFFERENCE, NOT ONLY NOT NECESSARY TO VIRTUE, BUT UTTERLY INCONSISTENT WITH IT; AND ALL, EITHER VIRTUOUS OR VICIOUS HABITS OR INCLINATIONS, INCONSISTENT WITH ARMINIAN NOTIONS OF LIBERTY AND MORAL AGENCY
+### SECTION 6. LIBERTY OF INDIFFERENCE, NOT ONLY NOT NECESSARY TO VIRTUE, BUT UTTERLY INCONSISTENT WITH IT; AND ALL, EITHER VIRTUOUS OR VICIOUS HABITS OR INCLINATIONS, INCONSISTENT WITH ARMINIAN NOTIONS OF LIBERTY AND MORAL AGENCY
 
 <!-- p. 320 -->
 
@@ -2650,7 +2719,7 @@ And if we pursue these principles, we shall find that virtue and vice are wholly
 
 a contingence, that happens to the man, arising from nothing in him; and is necessary, as to any inclination or choice of his; and therefore can't make him either the better or worse, any more than a tree is better than other trees, because it oftener happens to be lit upon by a swan or nightingale; or a rock more vicious than other rocks, because rattlesnakes have happened oftener to crawl over it. So that there is no virtue nor vice in good or bad dispositions, either fixed or transient; nor any virtue or vice in acting from any good or bad previous inclination; nor yet any virtue or vice in acting wholly without any previous inclination. Where then shall we find room for virtue or vice?
 
-## SECTION 7. ARMINIAN NOTIONS OF MORAL AGENCY INCONSISTENT WITH ALL INFLUENCE OF MOTIVE AND INDUCEMENT, IN EITHER VIRTUOUS OR VICIOUS ACTIONS
+### SECTION 7. ARMINIAN NOTIONS OF MORAL AGENCY INCONSISTENT WITH ALL INFLUENCE OF MOTIVE AND INDUCEMENT, IN EITHER VIRTUOUS OR VICIOUS ACTIONS
 
 <!-- p. 328 -->
 
@@ -2830,7 +2899,7 @@ be conceived of. For by these principles, the very notion of virtue or vice impl
 
 <!-- p. 336 -->
 
-## SECTION 1. THE ESSENCE OF THE VIRTUE AND VICE OF DISPOSITIONS OF THE HEART, AND ACTS OF THE WILL, LIES NOT IN THEIR CAUSE, BUT THEIR NATURE
+### SECTION 1. THE ESSENCE OF THE VIRTUE AND VICE OF DISPOSITIONS OF THE HEART, AND ACTS OF THE WILL, LIES NOT IN THEIR CAUSE, BUT THEIR NATURE
 
 <!-- p. 337 -->
 
@@ -2876,7 +2945,7 @@ If any shall still object and say, Why is it not necessary that the cause should
 
 I answer, such phrases as "being the cause," "being the author." "having a hand," and the like are ambiguous. They are most vulgarly understood for being the designing voluntary cause, or cause by antecedent choice: and it is most certain that men are not in this sense the causes or authors of the first act of their wills, in any case; as certain as anything is, or ever can be; for nothing can be more certain, than that a thing is not before it is, nor a thing of the same kind before the first thing of that kind; and so no choice before the first choice. As the phrase, "being the author," may be understood, not of being the producer by an antecedent act of will; but as a person may be said to be the author of the act of will itself, by his being the immediate agent, or the being that *is acting, or in exercise* in that act; if the phrase of "being the author," is used to signify this, then doubtless common sense requires men's being the authors of their own acts of will, in order to their being esteemed worthy of praise or dispraise on account of them. And common sense teaches, that they must be the authors of *external* actions, in the former sense, namely, their being the causes of 'em by an act of will or choice, in order to their being justly blamed or praised: but it teaches no such thing with respect to the acts of the will themselves. But this may appear more manifest by the things which will be observed in the following section.
 
-## SECTION 2. THE FALSENESS AND INCONSISTENCE OF THAT METAPHYSICAL NOTION OF ACTION, AND AGENCY, WHICH SEEMS TO BE GENERALLY ENTERTAINED BY THE DEFENDERS OF THE ARMINIAN DOCTRINE CONCERNING LIBERTY, MORAL AGENCY, ETC.
+### SECTION 2. THE FALSENESS AND INCONSISTENCE OF THAT METAPHYSICAL NOTION OF ACTION, AND AGENCY, WHICH SEEMS TO BE GENERALLY ENTERTAINED BY THE DEFENDERS OF THE ARMINIAN DOCTRINE CONCERNING LIBERTY, MORAL AGENCY, ETC.
 
 <!-- p. 343 -->
 
@@ -2936,7 +3005,7 @@ And thus probably it came to be thought, that necessity was inconsistent with ac
 
 But however strenuously it is maintained, that what is necessary can't be properly called action, and that a necessary action is a contradiction, yet 'tis probable there are few Arminian divines, who if thoroughly tried, would stand to these principles. They will allow, that God is in the highest sense an active being, and the highest fountain of life and action; and they would not probably deny, that those that are called God's acts of righteousness, holiness and faithfulness, are truly and properly God's acts, and God is really a holy *agent* in them: and yet I trust, they will not deny, that God necessarily acts justly and faithfully, and that it is impossible for him to act unrighteously and unholily.
 
-## SECTION 3. THE REASONS WHY SOME THINK IT CONTRARY TO COMMON SENSE, TO SUPPOSE THOSE THINGS WHICH ARE NECESSARY, TO BE WORTHY OF EITHER PRAISE OR BLAME
+### SECTION 3. THE REASONS WHY SOME THINK IT CONTRARY TO COMMON SENSE, TO SUPPOSE THOSE THINGS WHICH ARE NECESSARY, TO BE WORTHY OF EITHER PRAISE OR BLAME
 
 <!-- p. 350 -->
 
@@ -2988,7 +3057,7 @@ V. Another thing which makes persons more ready to suppose it to be contrary to 
 
 punishment, would not be so difficult. Whereas, if there were any good reason in the case, if it were truly a dictate of reason that such necessity was inconsistent with faultiness, or just punishment, the demonstration would be equally certain with respect to a small punishment, or any punishment at all, as a very great one: but it is not equally easy to the imagination. They that argue against the justice of damning men for those things that are thus necessary, seem to make their argument the stronger, by setting forth the greatness of the punishment in strong expressions: "That a man should be cast into eternal burnings, that he should be made to fry in hell to all eternity, for those things which he had no power to avoid, and was under a fatal, unfrustrable, invincible necessity of doing."
 
-## SECTION 4. IT IS AGREEABLE TO COMMON SENSE, AND THE NATURAL NOTIONS OF MANKIND, TO SUPPOSE MORAL NECESSITY TO BE CONSISTENT WITH PRAISE AND BLAME, REWARD AND PUNISHMENT
+### SECTION 4. IT IS AGREEABLE TO COMMON SENSE, AND THE NATURAL NOTIONS OF MANKIND, TO SUPPOSE MORAL NECESSITY TO BE CONSISTENT WITH PRAISE AND BLAME, REWARD AND PUNISHMENT
 
 <!-- p. 357 -->
 
@@ -3048,7 +3117,7 @@ in the dark caves of superstition, perversely set, obstinately shutting their ey
 
 *Corol.* From things which have been observed, it will follow, that it is agreeable to common sense to suppose, that the glorified saints have not their freedom at all diminished, in any respect; and that God himself has the highest possible freedom, according to the true and proper meaning of the term; and that he is in the highest possible respect an agent, and active in the exercise of his infinite holiness; though he acts therein in the highest degree necessarily: and his actions of this kind are in the highest, most absolutely perfect manner virtuous and praiseworthy; and are so, for that very reason, because they are most perfectly necessary.
 
-## SECTION 5. CONCERNING THOSE OBJECTIONS, THAT THIS SCHEME OF NECESSITY RENDERS ALL MEANS AND ENDEAVORS FOR THE AVOIDING OF SIN, OR THE OBTAINING VIRTUE AND HOLINESS, VAIN, AND TO NO PURPOSE; AND THAT IT MAKES MEN NO MORE THAN MERE MACHINES IN AFFAIRS OF MORALITY AND RELIGION
+### SECTION 5. CONCERNING THOSE OBJECTIONS, THAT THIS SCHEME OF NECESSITY RENDERS ALL MEANS AND ENDEAVORS FOR THE AVOIDING OF SIN, OR THE OBTAINING VIRTUE AND HOLINESS, VAIN, AND TO NO PURPOSE; AND THAT IT MAKES MEN NO MORE THAN MERE MACHINES IN AFFAIRS OF MORALITY AND RELIGION
 
 <!-- p. 365 -->
 
@@ -3108,7 +3177,7 @@ any respect: all the difference that can be desired, and all that can be conceiv
 
 Or if their scheme makes any other difference than this, between men and machines, it is for the worse: it is so far from supposing men to have a dignity and privilege above machines, that it makes the manner of their being determined still more unhappy. Whereas machines are guided by an understanding cause, by the skillful hand of the workman or owner; the will of man is left to the guidance of nothing, but absolute blind contingence.
 
-## SECTION 6. CONCERNING THAT OBJECTION AGAINST THE DOCTRINE WHICH HAS BEEN MAINTAINED, THAT IT AGREES WITH THE STOICAL DOCTRINE OF FATE, AND THE OPINIONS OF MR. HOBBES
+### SECTION 6. CONCERNING THAT OBJECTION AGAINST THE DOCTRINE WHICH HAS BEEN MAINTAINED, THAT IT AGREES WITH THE STOICAL DOCTRINE OF FATE, AND THE OPINIONS OF MR. HOBBES
 
 <!-- p. 372 -->
 
@@ -3136,7 +3205,7 @@ As to Mr. Hobbes' maintaining the same doctrine concerning necessity; I confess,
 
 I might also take notice of its having been observed, that the Arminians agree with Mr. Hobbes<sup>2</sup> in many more things than the Calvinists. As, in what he is said to hold concerning original sin, in denying the necessity of supernatural illumination, in denying infused grace, in denying the doctrine of justification by faith alone; and other things.
 
-## SECTION 7. CONCERNING THE NECESSITY OF THE DIVINE WILL
+### SECTION 7. CONCERNING THE NECESSITY OF THE DIVINE WILL
 
 <!-- p. 375 -->
 
@@ -3204,7 +3273,7 @@ The same author (p. 56) <sup>9</sup> supposes, that herein appears the excellent
 
 One thing more I would observe, before I conclude this section; and that is, that if it derogates nothing from the glory of God, to be necessarily determined by superior fitness in some things, then neither does it to be thus determined in all things; from anything in the nature of such necessity, as at all detracting from God's freedom, independence, absolute supremacy, or any dignity or glory of his nature, state, or manner of acting; or as implying any infirmity, restraint, or subjection. And if the thing be such as well consists with God's glory, and has nothing tending at all to detract from it; then we need not be afraid of ascribing it to God in too many things, lest thereby we should detract from God's glory too much.
 
-## SECTION 8. SOME FURTHER OBJECTIONS AGAINST THE MORAL NECESSITY OF GOD'S VOLITIONS CONSIDERED
+### SECTION 8. SOME FURTHER OBJECTIONS AGAINST THE MORAL NECESSITY OF GOD'S VOLITIONS CONSIDERED
 
 <!-- p. 384 -->
 
@@ -3312,7 +3381,7 @@ One thing more I would observe, before I finish what I have to say on the head o
 
 would be unworthy of the supreme Being; and is much more agreeable to the notion which many of the heathen had of fate, as above the gods, than that moral necessity of fitness and wisdom which has been spoken of; and is truly repugnant to the absolute sovereignty of God, and inconsistent with the supremacy of his will; and really subjects the will of the Most High to the will of his creatures, and brings him into dependence upon them. <sup>7</sup>
 
-## SECTION 9. CONCERNING THAT OBJECTION AGAINST THE DOCTRINE WHICH HAS BEEN MAINTAINED, THAT IT MAKES GOD THE AUTHOR OF SIN
+### SECTION 9. CONCERNING THAT OBJECTION AGAINST THE DOCTRINE WHICH HAS BEEN MAINTAINED, THAT IT MAKES GOD THE AUTHOR OF SIN
 
 <!-- p. 397 -->
 
@@ -3438,7 +3507,7 @@ choosing or willing it is not willing evil that good may come. And if so, then h
 
 3. Nor is there any need of supposing, it proceeds from any evil disposition or aim: for by the supposition, what is aimed at is good, and good is the actual issue, in the final result of things.
 
-## SECTION 10. CONCERNING SIN'S FIRST ENTRANCE INTO THE WORLD
+### SECTION 10. CONCERNING SIN'S FIRST ENTRANCE INTO THE WORLD
 
 <!-- p. 413 -->
 
@@ -3454,7 +3523,7 @@ And therefore,
 
 2. I would observe, that objections against the doctrine that has been laid down, in opposition to the Arminian notion of liberty, from these difficulties, are altogether impertinent; because no additional difficulty is incurred, by adhering to a scheme in this manner differing from theirs, and none would be removed or avoided, by agreeing with, and maintaining theirs. Nothing that the Arminians say, about the contingence, or self-determining power of man's will, can serve to explain with less difficulty, how the first sinful volition of mankind could take place, and man be justly charged with the blame of it. To say, the will was self-determined, or determined by free choice, in that sinful volition; which is to say, that the first sinful volition was determined by a foregoing sinful volition; is no solution of the difficulty. It is an odd way of solving difficulties, to advance greater, in order to it. To say, two and two makes nine; or, that a child begat his father, solves no difficulty: no more does it, to say, the first sinful act of choice was before the first sinful act of choice, and chose and determined it, and brought it to pass. Nor is it any better solution, to say, the first sinful volition chose, determined and produced itself; which is to say, it was before it was. Nor will it go any further towards helping us over the difficulty, to say, the first sinful volition arose accidentally, without any cause at all; any more than it will solve that difficult question, How the world could be made out of nothing? to say, it came into being out of nothing, without any cause; as has been already observed. And if we should allow that that could be, that the first evil volition should arise by perfect accident, without any cause, it would relieve no difficulty, about God's laying the blame of it to man. For how was man to blame for perfect accident, which had no cause, and which therefore, he (to be sure) was not the cause of, any more than if it came by some external cause? Such kind of solutions are no better, than if some person, going about to solve some of the strange mathematical paradoxes, about infinitely great and small quantities; as, that some infinitely great quantities are infinitely greater than some other infinitely great quantities; and also that some infinitely small quantities are infinitely less than others, which yet are infinitely little; in order to a solution, should say, that mankind have been under a mistake, in supposing a greater quantity to exceed a smaller; and that a hundred multiplied by ten, makes but a single unit.
 
-## SECTION 11. OF A SUPPOSED INCONSISTENCE OF THESE PRINCIPLES, WITH GOD'S MORAL CHARACTER
+### SECTION 11. OF A SUPPOSED INCONSISTENCE OF THESE PRINCIPLES, WITH GOD'S MORAL CHARACTER
 
 <!-- p. 415 -->
 
@@ -3484,7 +3553,7 @@ and show them to be consistent with themselves, and produce clear evidence of th
 
 It may further be observed, that such scriptures as they bring, are really against them, and not for them. As it has been demonstrated, that 'tis their scheme, and not ours, that is inconsistent with the use of motives and persuasives, or any moral means whatsoever, to induce men to the practice of virtue, or abstaining from wickedness: their principles, and not ours, are repugnant to moral agency, and inconsistent with moral government, with law or precept, with the nature of virtue or vice, reward or punishment, and with everything whatsoever of a moral nature, either on the part of the moral Governor, or in the state, actions, or conduct of the subject.
 
-## SECTION 12. OF A SUPPOSED TENDENCY OF THESE PRINCIPLES TO ATHEISM AND LICENTIOUSNESS
+### SECTION 12. OF A SUPPOSED TENDENCY OF THESE PRINCIPLES TO ATHEISM AND LICENTIOUSNESS
 
 <!-- p. 420 -->
 
@@ -3504,7 +3573,7 @@ And besides, if many other things which have been observed to belong to the Armi
 
 If it should be said, that the tendency of this doctrine of necessity, to licentiousness, appears by the improvement many at this day actually make of it, to justify themselves in their dissolute courses; I will not deny that some men do unreasonably abuse this doctrine, as they do many other things which are true and excellent in their own nature: but I deny that this proves, the doctrine itself has any tendency to licentiousness. I think, the tendency of doctrines, by what now appears in the world, and in our nation in particular, may much more justly be argued from the general effect which has been seen to attend the prevailing of the principles of Arminians, and the contrary principles; as both have had their turn of general prevalence in our nation. If it be indeed, as is pretended, that Calvinistic doctrines undermine the very foundation of all religion and morality, and enervate and disannul all rational motives, to holy and virtuous practice; and that the contrary doctrines give the inducements to virtue and goodness their proper force, and exhibit religion in a rational light, tending to recommend it to the reason of mankind, and enforce it in a manner that is agreeable to their natural notions of things: I say, if it be thus, 'tis remarkable, that virtue and religious practice should prevail most, when the former doctrines, so inconsistent with it, prevailed almost universally: and that ever since the latter doctrines, so happily agreeing with it, and of so proper and excellent a tendency to promote it, have been gradually prevailing, vice, profaneness, luxury and wickedness of all sorts, and contempt of all religion, and of every kind of seriousness and strictness of conversation, should proportionably prevail; and that these things should thus accompany one another, and rise and prevail one with another, now for a whole age together. 'Tis remarkable, that this happy remedy (discovered by the free inquiries, and superior sense and wisdom of this age) against the pernicious effects of Calvinism, so inconsistent with religion, and tending so much to banish all virtue from the earth, should on so long a trial, be attended with no good effect; but that the consequence should be the reverse of amendment; that in proportion, as the remedy takes place, and is thoroughly applied, so the disease should prevail; and the very same dismal effect take place, to the highest degree, which Calvinistic doctrines are supposed to have so great a tendency to; even the banishing of religion and virtue, and the prevailing of unbounded licentiousness of manners. If these things are truly so, they are very remarkable, and matter of very curious speculation!
 
-## SECTION 13. CONCERNING THAT OBJECTION AGAINST THE REASONING, BY WHICH THE CALVINISTIC DOCTRINE IS SUPPORTED, THAT IT IS METAPHYSICAL AND ABSTRUSE
+### SECTION 13. CONCERNING THAT OBJECTION AGAINST THE REASONING, BY WHICH THE CALVINISTIC DOCTRINE IS SUPPORTED, THAT IT IS METAPHYSICAL AND ABSTRUSE
 
 <!-- p. 423 -->
 
@@ -3692,7 +3761,7 @@ whatsoever in their minds to answer them; inasmuch as it has been demonstrated, 
 
 > **3.** [Here JE plays on the word "from." In the first meaning, FROM means "without" or "from outside" the man, "from something antecedent to and not from the present act of choice itself," that is, not from some property or act of the soul. The second meaning, which is JE's own, is indicated when the word *from* is in italics, and here the emphasis is upon the act being from *within* will or choice, the will being *in* it, we *in* the choices and they *our* properties.]
 
-### THE CONCLUSION
+## THE CONCLUSION
 
 <!-- p. 430 -->
 
@@ -3950,7 +4019,7 @@ Your obliged friend and brother,
 
 J. Edwards
 
-*Stockbridge*,
+#### *Stockbridge*,
 
 *July 25, 1757*.
 
@@ -4196,7 +4265,7 @@ Jonathan Edwards
 
 > **1.** For a comment on the significance of the argument of this letter, see above, Intro., pt. 5, no. 2, esp. pp. 71–73; for a more definitive version of this letter based on JE's partial MS draft, see Letter A228, in WJE 16:718-24.
 
-### Proposal for Printing Freedom of the Will
+## Proposal for Printing
 
 ### A broadside, printed by Samuel Kneeland of Boston, for announcing and collecting subscriptions for the publication and distribution of Edwards’ latest composition. The imprint, cut up into four parts, is bound into the MS notebook, “Defense of the Pentateuch as a Work of Moses,” constituting LL. 1-4.
 
@@ -4204,7 +4273,7 @@ Jonathan Edwards
 
 **B** **oston** **,** **April** **25. 1753.**
 
-### PROPOSALS for Printing by Subscription, in one Volume Octavo, A Treatise Intitled,
+#### PROPOSALS for Printing by Subscription, in one Volume Octavo, A Treatise Intitled,
 
 A careful and strict Enquiry into the modern prevailing Notions of that Freedom of Will,
 

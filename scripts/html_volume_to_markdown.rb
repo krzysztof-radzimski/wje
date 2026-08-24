@@ -193,6 +193,86 @@ def content_node(fragment, index)
   document.at_css("div#text") || document
 end
 
+def heading_key(text)
+  text.unicode_normalize(:nfkd)
+      .gsub(/[^[:alnum:]]+/, " ")
+      .strip
+      .downcase
+end
+
+def navigation_entries(path)
+  fragment = source_fragment(path)
+  document = Nokogiri::HTML::DocumentFragment.parse(fragment)
+  document.css("span.navlevel1, span.navlevel2, span.navlevel3").map do |node|
+    [node["class"][/\d/].to_i, node.text.gsub(/\s+/, " ").strip]
+  end
+end
+
+def expected_heading_level(text, navigation)
+  key = heading_key(text)
+  level = navigation[key]
+  return level unless level.nil?
+
+  # The source navigation has two inconsistent depths: Part III is shown as a
+  # child of Part II, and Part IV's first section as a grandchild.  The text
+  # itself makes their sibling relationships unambiguous.
+  return 2 if key.match?(/\Apart (i|ii|iii|iv) /)
+  return 3 if key.start_with?("section ")
+  return 2 if %w[the conclusion related correspondence proposal for printing].include?(key)
+
+  nil
+end
+
+def apply_heading_hierarchy(markdown, entries)
+  navigation = entries.each_with_object({}) do |(depth, text), index|
+    index[heading_key(text)] = depth + 1
+  end
+
+  # Correct the two malformed navigation levels noted above and retain the
+  # natural document hierarchy for sections and subtopics.
+  entries.each do |_depth, text|
+    key = heading_key(text)
+    navigation[key] = 2 if key.match?(/\Apart (i|ii|iii|iv) /)
+    navigation[key] = 3 if key.start_with?("section ")
+  end
+  ["thomas chubb", "daniel whitby", "isaac watts"].each { |key| navigation[key] = 4 }
+  navigation[heading_key("THE CONCLUSION")] = 2
+  navigation[heading_key("RELATED CORRESPONDENCE")] = 2
+
+  markdown = markdown.lines.map do |line|
+    match = line.match(/\A#+\s+(.+?)\s*\n?\z/)
+    if match
+      next line if line.start_with?("# ")
+
+      level = expected_heading_level(match[1], navigation)
+      level ? "#{'#' * level} #{match[1]}\n" : line
+    else
+      text = line.strip
+      level = expected_heading_level(text, navigation)
+      level && !text.empty? ? "#{'#' * level} #{text}\n" : line
+    end
+  end.join
+
+  markdown.gsub!(
+    "## Part III.\n\n### Wherein Is Inquired, Whether Any Such Liberty of Will as Arminians Hold, Be Necessary to Moral Agency, Virtue and Vice, Praise, and Dispraise, Etc.\n",
+    "## Part III. Wherein Is Inquired, Whether Any Such Liberty of Will as Arminians Hold, Be Necessary to Moral Agency, Virtue and Vice, Praise, and Dispraise, Etc.\n"
+  )
+
+  contents = entries.reject { |_depth, text| text == "Front Matter" || text == "Freedom of the Will" }
+                    .map { |depth, text| "#{'  ' * (depth - 1)}- #{text}" }
+                    .join("\n")
+  markdown.sub!(
+    "## EDITOR'S INTRODUCTION",
+    "### CONTENTS\n\n#{contents}\n\n## EDITOR'S INTRODUCTION"
+  )
+
+  # `Front Matter` and `CONTENTS` are navigation headings.  The latter's
+  # entries are preserved as a Markdown outline above.
+  markdown.sub!("# Freedom of the Will\n", "# Freedom of the Will\n\n## Front Matter\n")
+  markdown.sub!(/^### Proposal for Printing Freedom of the Will$/, "## Proposal for Printing")
+  markdown
+end
+
 input_directory = ARGV[0] || "HTML/VOLUME01"
 output_file = ARGV[1] || "VOLUME1.md"
 pages = Dir.glob(File.join(input_directory, "*.html")).sort
@@ -220,5 +300,6 @@ output.gsub!(/Previous section Next section Jonathan Edwards \[.*?\[word count\]
 output.gsub!(/(?<![<!])\s--\s*([ivxlcdm]+|\d+)\s*--(?=\s)/i) { "\n\n<!-- p. #{$1} -->\n\n" }
 output.gsub!(/[ \t]+\n/, "\n")
 output.gsub!(/\n{3,}/, "\n\n")
+output = apply_heading_hierarchy(output, navigation_entries(File.join(input_directory, "000.html")))
 output.strip!
 File.write(output_file, "#{output}\n", encoding: "UTF-8")
