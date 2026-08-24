@@ -2,7 +2,7 @@
 
 # The Works of Jonathan Edwards — Markdown Archive
 
-![Portrait of Jonathan Edwards](jonathan-edwards.svg)
+![Portrait of Jonathan Edwards](assets/jonathan-edwards.svg)
 
 This project creates searchable Markdown files from manually saved
 [WJE Online](http://edwards.yale.edu/research/browse) pages for the 73 volumes
@@ -13,7 +13,8 @@ locally; the project does not automate downloading from the Yale website.
 
 - `HTML/VOLUMENN/` — unmodified, locally saved source pages. `000.html`
   contains the volume navigation and heading hierarchy.
-- `VOLUMEN.md` — the resulting Markdown text for a volume.
+- `MD/VOLUMEN.md` — the resulting Markdown text for a volume.
+- `assets/` — project graphics used by documentation.
 - `scripts/html_volume_to_markdown.rb` — a converter that tolerates the
   archive's malformed HTML.
 - `AGENTS.md` — the working procedure for subsequent volumes.
@@ -28,13 +29,13 @@ the document hierarchy. Images, site navigation, and footers are omitted.
 After placing manually saved files in `HTML/VOLUMENN/`, run:
 
 ```bash
-ruby scripts/html_volume_to_markdown.rb HTML/VOLUMENN VOLUMEN.md
+ruby scripts/html_volume_to_markdown.rb HTML/VOLUMENN MD/VOLUMEN.md
 ```
 
 For example, for the second volume:
 
 ```bash
-ruby scripts/html_volume_to_markdown.rb HTML/VOLUME02 VOLUME2.md
+ruby scripts/html_volume_to_markdown.rb HTML/VOLUME02 MD/VOLUME2.md
 ```
 
 The converter reads local HTML only, identifies main content from the archive's
@@ -48,7 +49,7 @@ After generating a volume, run at least:
 
 ```bash
 ruby -c scripts/html_volume_to_markdown.rb
-ruby scripts/verify_volume_markdown.rb HTML/VOLUMENN VOLUMEN.md
+ruby scripts/verify_volume_markdown.rb HTML/VOLUMENN MD/VOLUMEN.md
 git diff --check
 ```
 
@@ -62,9 +63,9 @@ edition.
 
 | Volume | Markdown file | Source status |
 | --- | --- | --- |
-| 1 — *Freedom of the Will* | `VOLUME1.md` | The saved content includes the complete hierarchy from `000.html`. Page markers 31, 136, and 149 are absent from the source; the document does not add them artificially. |
-| 2 — *Religious Affections* | `VOLUME2.md` | The saved content includes the complete hierarchy from `000.html`. Page markers 46, 76–77, 84, 125, and 440 are absent from the source; the document does not add them artificially. `007.html` lacks the archive's usual closing comment, so the converter uses a safe fallback end. |
-| 3 — *Original Sin* | `VOLUME3.md` | The saved content includes the complete hierarchy from `000.html`. Page markers 105–106, 220–222, 350–352, and 372–374 are absent from the source; the document does not add them artificially. `007.html` lacks the archive's usual closing comment, so the converter uses a safe fallback end. |
-| 4 — *The Great Awakening* | `VOLUME4.md` | The saved content includes the complete hierarchy from `000.html` and page markers 1–570 without gaps. |
+| 1 — *Freedom of the Will* | `MD/VOLUME1.md` | The saved content includes the complete hierarchy from `000.html`. Page markers 31, 136, and 149 are absent from the source; the document does not add them artificially. |
+| 2 — *Religious Affections* | `MD/VOLUME2.md` | The saved content includes the complete hierarchy from `000.html`. Page markers 46, 76–77, 84, 125, and 440 are absent from the source; the document does not add them artificially. `007.html` lacks the archive's usual closing comment, so the converter uses a safe fallback end. |
+| 3 — *Original Sin* | `MD/VOLUME3.md` | The saved content includes the complete hierarchy from `000.html`. Page markers 105–106, 220–222, 350–352, and 372–374 are absent from the source; the document does not add them artificially. `007.html` lacks the archive's usual closing comment, so the converter uses a safe fallback end. |
+| 4 — *The Great Awakening* | `MD/VOLUME4.md` | The saved content includes the complete hierarchy from `000.html` and page markers 1–570 without gaps. |
 
 Markdown documents contain only content present in the local capture.

@@ -1331,7 +1331,7 @@ design formed on such a plan; how much has been written against the doctrine of 
 
 ### Chapter I The evidence of original sin from what appears in fact of the sinfulness of mankind
 
-#### Section 1. All mankind do constantly in all ages, without fail in any one instance, run into that moral evil, which is in effect their own utter and eternal perdition, in a total privation of God's favor, and suffering of his vengeance and wrath
+### Section 1. All mankind do constantly in all ages, without fail in any one instance, run into that moral evil, which is in effect their own utter and eternal perdition, in a total privation of God's favor, and suffering of his vengeance and wrath
 
 By original sin, as the phrase has been most commonly used by divines, is meant the *innate sinful depravity of the heart*. But yet when the doctrine of original sin is spoken of, it is vulgarly understood in that latitude, as to include not only the depravity of nature, but the *imputation* of Adam's first sin; or in other words, the liableness or exposedness of Adam's posterity, in the divine judgment, to partake of the punishment of that sin. So far as I know, most of those who have held one of these, have maintained the other; and most of those who have opposed one, have opposed the other: both are opposed by the author chiefly attended to in the following discourse, in his book against original sin: and it may perhaps appear in our future consideration of the subject, that they are closely connected, and that the arguments which prove the one establish the other, and that there are no more difficulties attending the allowing of one than the other.
 
@@ -1459,7 +1459,7 @@ And if so, and what has been observed concerning the interposition of divine gra
 
 <!-- p. 120 -->
 
-#### Section 2. It follows from the proposition proved in the foregoing section, that all mankind are under the influence of a prevailing effectual tendency in their nature, to that sin and wickedness, which implies their utter and eternal ruin
+### Section 2. It follows from the proposition proved in the foregoing section, that all mankind are under the influence of a prevailing effectual tendency in their nature, to that sin and wickedness, which implies their utter and eternal ruin
 
 The proposition laid down being proved, the consequence of it remains to be made out, viz. that the mind of man has a *natural tendency* or propensity to that event, which has been shown universally and infallibly to take place (if this ben't sufficiently evident of itself, without proof), and that this is a *corrupt* or *depraved* propensity.
 
@@ -1519,7 +1519,7 @@ I would lastly observe, that our author insists upon it (pp. 317-18), that this 
 
 <!-- p. 128 -->
 
-#### Section 3. That propensity which has been proved to be in the nature of all mankind, must be a very evil, depraved and pernicious propensity; making it manifest that the soul of man, as it is by nature, is in a corrupt, fallen and ruined state: which is the other part of the consequence, drawn from the proposition laid down in the first section
+### Section 3. That propensity which has been proved to be in the nature of all mankind, must be a very evil, depraved and pernicious propensity; making it manifest that the soul of man, as it is by nature, is in a corrupt, fallen and ruined state: which is the other part of the consequence, drawn from the proposition laid down in the first section
 
 The question to be considered, in order to determine whether man's nature is not depraved and ruined, is not whether he is not inclined to perform as many *good deeds* as *bad ones*, but, which of these two he preponderates to, in the frame of his heart, and state of his nature, a state of innocence and righteousness, and favor with God; or a state of sin, guiltiness and abhorrence in the sight of God. Persevering sinless righteousness, or else the guilt of sin, is the alternative, on the decision of which depends (as is confessed) according to the nature and truth of things, as they are in themselves, and according to the rule of right and perfect justice, man's being approved and accepted of his Maker, and eternally blessed as good; or his being rejected, thrown away and cursed as bad. And therefore the determination of the tendency of man's heart and nature with respect to these terms, is that which is to be looked at, in order to determine whether his nature is good or evil, pure or corrupt, sound or ruined. If such be man's nature, and state of his heart, that he has an infallibly effectual propensity to the latter of those terms; then it is wholly impertinent, to talk of the innocent and kind actions, even of criminals themselves, surpassing their crimes in numbers; and of the prevailing innocence, good nature, industry, felicity and cheerfulness of the greater part of mankind. Let never so many thousands, or millions of acts of honesty, good nature, etc. be supposed; yet, by the supposition, there is an unfailing propensity to such moral evil, as in its dreadful consequences infinitely outweighs all effects or consequences of any supposed good. Surely that tendency, which, in effect, is an infallible tendency to eternal destruction, is an infinitely
 
@@ -1565,7 +1565,7 @@ Thus I have gone through with my first argument; having shown the evidence of th
 
 <!-- p. 134 -->
 
-#### Section 4. The depravity of nature appears by a propensity in all to sin immediately, as soon as they are capable of it, and to sin continually and progressively; and also by the remains of sin in the best of men
+### Section 4. The depravity of nature appears by a propensity in all to sin immediately, as soon as they are capable of it, and to sin continually and progressively; and also by the remains of sin in the best of men
 
 The great depravity of man's nature appears, not only in that they universally commit sin, who spend any long time in the world, but in that men are naturally so prone to sin, that none ever fail of *immediately* transgressing God's law, and so of bringing infinite guilt on themselves, and exposing themselves to eternal perdition, as soon as they are capable of it.[^004-note24]
 
@@ -1599,7 +1599,7 @@ According to Dr. Taylor, men come into the world wholly free from sinful propens
 
 <!-- p. 139 -->
 
-#### Section 5. The depravity of nature appears, in that the general consequence of the state and tendency of man's nature is a much greater degree of sin, than righteousness; not only with respect to value and demerit, but matter and quantity
+### Section 5. The depravity of nature appears, in that the general consequence of the state and tendency of man's nature is a much greater degree of sin, than righteousness; not only with respect to value and demerit, but matter and quantity
 
 I have before shown, that there is a propensity in man's nature to that sin, which in heinousness and ill-desert immensely outweighs all the value and merit of any supposed good, that may be in him, or that he can do. I now proceed to say further, that such is man's nature, in his present state, that it tends to this lamentable effect, that there should at all times, through the course of his life, be at least, much more sin than righteousness; not only as to weight and value, but as to *matter* and *measure*; more disagreement of heart and practice from the law of God, and from the law of nature and reason, than agreement and conformity.
 
@@ -1671,7 +1671,7 @@ person may love a father, or some great friend and benefactor, of a very excelle
 
 <!-- p. 147 -->
 
-#### Section 6. The corruption of man's nature appears by its tendency, in its present state, to an extreme degree of folly and stupidity in matters of religion
+### Section 6. The corruption of man's nature appears by its tendency, in its present state, to an extreme degree of folly and stupidity in matters of religion
 
 It appears, that man's nature is greatly depraved, by an apparent proneness to an exceeding stupidity and sottishness in those things wherein his duty and main interest are chiefly concerned.
 
@@ -1751,7 +1751,7 @@ things were considered in their bare possibility, if men acted rationally, they 
 
 <!-- p. 158 -->
 
-#### Section 7. That man's nature is corrupt, appears, in that vastly the greater part of mankind, in all ages, have been wicked men
+### Section 7. That man's nature is corrupt, appears, in that vastly the greater part of mankind, in all ages, have been wicked men
 
 The depravity of man's nature appears, not only in its propensity to sin in some degree, which renders a man an evil or wicked man in the eye of the law, and strict justice, as was before shown; but it is so corrupt, that its depravity, either shows that men *are*, or tends to make them *to be*, of such an evil character, as shall denominate them wicked men, according to the tenor of the covenant of grace.
 
@@ -1831,7 +1831,7 @@ It would be strange indeed, that this should be the state of the world of mankin
 
 <!-- p. 169 -->
 
-#### Section 8. The native depravity of mankind appears, in that there has been so little good effect of so manifold and great means, used to promote virtue in the world
+### Section 8. The native depravity of mankind appears, in that there has been so little good effect of so manifold and great means, used to promote virtue in the world
 
 The evidence of the native corruption of mankind appears much more glaring, when it is considered that the world has been so generally, so constantly, and so exceedingly corrupt, notwithstanding the *various, great* and *continual means*, that have been used to restrain men from sin, and promote virtue and true religion among them.
 
@@ -1983,7 +1983,7 @@ that ground by manure and cultivation, planting and sowing, to produce better fr
 
 <!-- p. 189 -->
 
-#### Section 9. Several evasions of the arguments for the depravity of nature, from trial and events, considered
+### Section 9. Several evasions of the arguments for the depravity of nature, from trial and events, considered
 
 *Evasion* I. Dr. Taylor says (pp. 231-32), "Adam's nature, it is allowed, was very far from being sinful; yet he sinned. And therefore, the common doctrine of original sin, is no more necessary to account for the sin that hath been in the world, than it is to account for Adam's sin." Again (p. 328, etc.), "If we allow mankind to be as wicked as R.R.[^004-note50] represented them to be; and suppose that there is not one upon earth that is truly righteous, and without sin, and that some are very enormous sinners, yet it will not thence follow, that they are naturally corrupt. . . . For, if sinful action infers [implies] a nature originally corrupt, then, whereas *Adam* (according to them that hold the doctrine of original sin) committed the most heinous and aggravated sin, that ever was committed in the world; for, according to them, he had greater light than any other man in the world, to know his duty, and greater power than any other man to fulfill it, and was under greater obligations than any other men to obedience; he sinned when he knew he was the representative of millions, and that the happy or miserable state of all mankind depended on his conduct; which never was, nor can be, the case of any other man in the world:—then, I say, it will follow, that *his* nature was originally *corrupt*, etc. . . . Thus, their argument from the wickedness of mankind, to prove a sinful and corrupt nature, must inevitably and irrecoverably fall to the ground—which will appear more abundantly, if we take in the case of the angels; who in numbers sinned and kept not their first estate, though created with a nature superior to Adam's." Again (p. 421), "When it is inquired, how it comes to pass that our appetites and passions are not so irregular and strong, as that not one person has resisted them, so as to keep himself pure and innocent? If this be the case, if such
 
@@ -2349,7 +2349,7 @@ of the care Christ took for the preservation of his followers: he gave them a si
 
 ### Chapter I Observations relating to things contained in the three first chapters of Genesis, with reference to the doctrine of original sin
 
-#### Section 1. Concerning original righteousness: and whether our first parents were created with righteousness or moral rectitude of heart?
+### Section 1. Concerning original righteousness: and whether our first parents were created with righteousness or moral rectitude of heart?
 
 The doctrine of *original righteousness*, or the creation of our first parents with holy principles and dispositions, has a close connection, in several respects, with the doctrine of original sin. Dr. Taylor was sensible of this; and accordingly he strenuously opposes this doctrine, in his book against original sin. And therefore in handling the subject, I would in the first place remove this author's main objection against this doctrine; and then shew how the doctrine may be inferred from the account which Moses gives us, in the three first chapters of Genesis.
 
@@ -2453,7 +2453,7 @@ What our author urges concerning many inventions being spoken of, whereas Adam's
 
 <!-- p. 237 -->
 
-#### Section 2. Concerning the kind of death, threatened to our first parents, if they should eat of the forbidden fruit
+### Section 2. Concerning the kind of death, threatened to our first parents, if they should eat of the forbidden fruit
 
 Dr. Taylor in his observations on the three first chapters of Genesis, says (p. 7), "The threatening to man in case of transgression was, that he should surely die. . . . Death is the losing of life, Death is opposed to life, and must be understood according to the nature of that life, to which it is opposed. Now the death here threatened can, with any certainty, be opposed only to the life God gave Adam, when he created him (v. 7). Anything besides this must be pure conjecture, without solid foundation."
 
@@ -2503,7 +2503,7 @@ the word, the more to impress the mind of the hearer; as may be plain to everyon
 
 <!-- p. 245 -->
 
-#### Section 3. Wherein it is inquired, whether there be anything in the history of the three first chapters of Genesis, which should lead us to suppose, that God, in his constitution with Adam, deal with mankind in general, as included in their first father, and that the threatening of death, in case he should eat the forbidden fruit, had respect not only to him, but his posterity?
+### Section 3. Wherein it is inquired, whether there be anything in the history of the three first chapters of Genesis, which should lead us to suppose, that God, in his constitution with Adam, deal with mankind in general, as included in their first father, and that the threatening of death, in case he should eat the forbidden fruit, had respect not only to him, but his posterity?
 
 Dr. Taylor, rehearsing that threatening to Adam, "Thou shalt surely die," and giving us his paraphrase of it (pp. 7, 8), concludes thus; "Observe, here is not one word relating to Adam's posterity." But it may be observed in opposition to this, that there is scarcely *one word* that we have an account of, which God ever said to Adam or Eve, but what does manifestly include their posterity in the meaning and design of it. There is as much of *a word* said about Adam's posterity in that threatening, as there is in those words of God to Adam and Eve (Genesis 1:28), "Be fruitful, and multiply, and replenish the earth, and subdue it"; and as much in events, to lead us to suppose Adam's posterity to be included. There is as much of a word of his posterity in that threatening, as in those words (v. 29): "Behold, I have given you every herb bearing seed . . . and every tree in which is the fruit of a tree yielding seed," etc. Even when God was about to create Adam, what he said on that occasion, had not respect only to Adam, but to his posterity. Genesis 1:26, "Let us make man in our image, and let them have dominion over the fish of the sea," etc. And, what is more remarkable, there is as much of a word about Adam's posterity in the threatening of death, as there is in the sentence (Genesis 3:19), "Unto dust shalt thou return." Which Dr. Taylor himself supposes to be a sentence pronounced for the execution of that very threatening, "Thou shalt surely die": and which sentence he himself also often speaks of as including Adam's posterity. And, what is much more remarkable still, is a sentence which Dr. Taylor himself often speaks of, as including his posterity, as a SENTENCE OF CONDEMNATION, as a JUDICIAL sentence, and a sentence
 
@@ -2731,7 +2731,7 @@ through Christ? Would it therefore be becoming us to say, that inasmuch as our d
 
 ### Chapter III Observations on various other places of Scripture, principally of the New Testament, proving the doctrine of original sin
 
-#### Section 1. Observations on John 3:6 in connection with some other passages in the New Testament
+### Section 1. Observations on John 3:6 in connection with some other passages in the New Testament
 
 Those words of Christ, giving a reason to Nicodemus, why we must be born again (John 3:6), "That which is born of the flesh, is flesh; and that which is born of the spirit, is spirit"; have not without good reason been produced by divines, as a proof of the doctrine of original sin: supposing, that by "flesh" here is meant *the human nature in a debased and corrupt state*. Yet Dr. Taylor (p. 144) thus explains these words, "'That which is born of the flesh, is flesh'; That which is born by natural descent and propagation, is a man consisting of body and soul, or the mere constitution and powers of a man, in their natural state." But the constant use of these terms, "flesh" and "spirit" in other parts of the New Testament, when thus set in opposition one to another, and the latter said to be produced by the Spirit of God, as here; and when speaking of the same thing, which Christ is here speaking of to Nicodemus, viz. the requisite qualifications to salvation, this will fully vindicate the sense of our divines. Thus in the Romans 7 and Romans 8, where these terms "flesh" and "spirit" (*σαρξ* and*πνευμα*) are abundantly repeated, and set in opposition, as here. So, ch. 7:14. The law is spiritual (*πνευματικος*) but I am carnal (*σαρκικος*), sold under sin. He can't only mean, "I am a man, consisting of body and soul, and having the powers of a man." Romans 7:18, "I know that in me, that is, in my flesh, dwelleth no good thing." He don't mean to condemn his frame a consisting of body and soul; and to assert, that in his human constitution, with the powers of a man, dwells no good thing. And when he says in the last verse of the chapter [Romans 7:25], "With the mind I myself serve the law of God, but with the flesh the law of sin"; he can't
 
@@ -2789,7 +2789,7 @@ So that on the whole, there is sufficient reason to understand the Apostle, when
 
 <!-- p. 283 -->
 
-#### Section 2. Observations on Romans 3:9–24
+### Section 2. Observations on Romans 3:9–24
 
 If the Scriptures represent all mankind as wicked in their first state, before they are made partakers of the benefits of Christ's redemption, then they are wicked by nature: for doubtless men's first state is their native state, or the state they come into the world in. But the Scriptures do thus represent all mankind.
 
@@ -2863,7 +2863,7 @@ as it were in every part corrupt, 'tis plain, the Apostle chooses out, and puts 
 
 <!-- p. 292 -->
 
-#### Section 3. Observations on Romans 5:6–10, and Ephesians 2:3 with the context, and Romans 7
+### Section 3. Observations on Romans 5:6–10, and Ephesians 2:3 with the context, and Romans 7
 
 Another passage of this Apostle in the same epistle to the Romans, which shows that all that are made partakers of the benefits of Christ's redemption, are in their first state wicked and desperately wicked, is that (ch. 5:6–10), "For when we were yet without strength, in due time Christ died for the ungodly. For scarcely for a righteous man will one die; yet peradventure for a good man, some would even dare to die. But God commendeth his love towards us, in that while we were yet sinners, Christ died for us. Much more then, being now justified by his blood, we shall be saved from wrath through him. For if while we were enemies, we were reconciled to God through the death of his Son; much more, being reconciled, we shall be saved by his life."
 
@@ -2967,7 +2967,7 @@ do, in that it was weak through the flesh; God, sending his own Son," etc. Our a
 
 ### Chapter IV Containing observations on Romans 5:12 to the end
 
-#### Section 1. Remarks on Dr. Taylor's way of explaining this text
+### Section 1. Remarks on Dr. Taylor's way of explaining this text
 
 The following things are worthy to be taken notice of, concerning our author's exposition of this remarkable passage of the apostle Paul.
 
@@ -3165,7 +3165,7 @@ in this, than he. Sometimes he writes notes, on a sentence liable to exception, 
 
 <!-- p. 335 -->
 
-#### Section 2. Some observations, on the connection, scope and sense of this remarkable paragraph in Romans 5; with some reflections on the evidence, which we here have, of the doctrine of original sin
+### Section 2. Some observations, on the connection, scope and sense of this remarkable paragraph in Romans 5; with some reflections on the evidence, which we here have, of the doctrine of original sin
 
 The connection of this remarkable paragraph with the foregoing discourse in this epistle, is not obscure and difficult; nor to be sought for at a distance. It may be plainly seen, only by a general glance on things which went before, from the beginning of the epistle: and indeed what is said immediately before in the same chapter, leads directly to it. The Apostle in the preceding part of this epistle had largely treated of the sinfulness and misery of all mankind, Jews as well as Gentiles. He had particularly spoken of the depravity and ruin of mankind in their natural state, in the foregoing part of this chapter; representing them as being sinners, ungodly, enemies, exposed to divine wrath, and without strength. No wonder now, this leads him to observe, *how* this so great and deplorable an event came to pass; *how* this universal sin and ruin came into the world. And with regard to the Jews in particular, who, though they might allow the doctrine of original sin in their own profession, yet were strongly prejudiced against what was implied in it, or evidently following from it, with regard to themselves; in this respect they were prejudiced against the doctrine of universal sinfulness, and exposedness to wrath by nature, looking on themselves as by nature holy and favorites of God, because they were the children of Abraham; and with them the Apostle had labored most in the foregoing part of the epistle, to convince them of their being by nature as sinful, and as much the children of wrath, as the gentiles: I say, with regard to them, it was exceeding proper, and what the Apostle's design most naturally led him to, to take off their eyes from their father Abraham, who was their father in distinction from other nations, and direct them to their father Adam, who was the common father of mankind, and equally of Jews and gentiles. And when he was entered on this doctrine of the derivation of sin and ruin, or death to all mankind from Adam, no wonder if he thought it needful to be
 

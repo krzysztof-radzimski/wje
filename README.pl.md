@@ -2,7 +2,7 @@
 
 # The Works of Jonathan Edwards — archiwum Markdown
 
-![Portret Jonathana Edwardsa](jonathan-edwards.svg)
+![Portret Jonathana Edwardsa](assets/jonathan-edwards.svg)
 
 Projekt tworzy przeszukiwalne pliki Markdown z ręcznie zapisanych stron
 [WJE Online](http://edwards.yale.edu/research/browse), obejmujących 73 tomy
@@ -13,7 +13,8 @@ przekształcana lokalnie; projekt nie automatyzuje pobierania ze strony Yale.
 
 - `HTML/VOLUMENN/` — niezmodyfikowane, lokalnie zapisane strony źródłowe.
   Plik `000.html` zawiera nawigację i hierarchię tomu.
-- `VOLUMEN.md` — wynikowy tekst tomu w Markdown.
+- `MD/VOLUMEN.md` — wynikowy tekst tomu w Markdown.
+- `assets/` — grafiki projektu wykorzystywane w dokumentacji.
 - `scripts/html_volume_to_markdown.rb` — konwerter tolerujący niepoprawny HTML
   archiwum.
 - `AGENTS.md` — stała procedura pracy nad następnymi tomami.
@@ -28,13 +29,13 @@ nawigacja serwisu oraz stopki są pomijane.
 Po umieszczeniu ręcznie zapisanych plików w `HTML/VOLUMENN/` uruchom:
 
 ```bash
-ruby scripts/html_volume_to_markdown.rb HTML/VOLUMENN VOLUMEN.md
+ruby scripts/html_volume_to_markdown.rb HTML/VOLUMENN MD/VOLUMEN.md
 ```
 
 Przykład dla drugiego tomu:
 
 ```bash
-ruby scripts/html_volume_to_markdown.rb HTML/VOLUME02 VOLUME2.md
+ruby scripts/html_volume_to_markdown.rb HTML/VOLUME02 MD/VOLUME2.md
 ```
 
 Konwerter odczytuje wyłącznie lokalne HTML, wykrywa główną treść na podstawie
@@ -48,7 +49,7 @@ Po wygenerowaniu tomu uruchom co najmniej:
 
 ```bash
 ruby -c scripts/html_volume_to_markdown.rb
-ruby scripts/verify_volume_markdown.rb HTML/VOLUMENN VOLUMEN.md
+ruby scripts/verify_volume_markdown.rb HTML/VOLUMENN MD/VOLUMEN.md
 git diff --check
 ```
 
@@ -61,9 +62,9 @@ należy rekonstruować ich z pamięci ani z innego wydania.
 
 | Tom | Plik Markdown | Stan źródeł |
 | --- | --- | --- |
-| 1 — *Freedom of the Will* | `VOLUME1.md` | Zapisana treść obejmuje całą hierarchię z `000.html`. W źródle nie występują znaczniki stron 31, 136 i 149; dokument nie dopisuje ich sztucznie. |
-| 2 — *Religious Affections* | `VOLUME2.md` | Zapisana treść obejmuje całą hierarchię z `000.html`. W źródle nie występują znaczniki stron 46, 76–77, 84, 125 i 440; dokument nie dopisuje ich sztucznie. Plik `007.html` nie ma zwykłego końcowego komentarza archiwum, dlatego konwerter używa bezpiecznego końca awaryjnego. |
-| 3 — *Original Sin* | `VOLUME3.md` | Zapisana treść obejmuje całą hierarchię z `000.html`. W źródle nie występują znaczniki stron 105–106, 220–222, 350–352 i 372–374; dokument nie dopisuje ich sztucznie. Plik `007.html` nie ma zwykłego końcowego komentarza archiwum, dlatego konwerter używa bezpiecznego końca awaryjnego. |
-| 4 — *The Great Awakening* | `VOLUME4.md` | Zapisana treść obejmuje całą hierarchię z `000.html` oraz ciąg znaczników stron 1–570 bez luk. |
+| 1 — *Freedom of the Will* | `MD/VOLUME1.md` | Zapisana treść obejmuje całą hierarchię z `000.html`. W źródle nie występują znaczniki stron 31, 136 i 149; dokument nie dopisuje ich sztucznie. |
+| 2 — *Religious Affections* | `MD/VOLUME2.md` | Zapisana treść obejmuje całą hierarchię z `000.html`. W źródle nie występują znaczniki stron 46, 76–77, 84, 125 i 440; dokument nie dopisuje ich sztucznie. Plik `007.html` nie ma zwykłego końcowego komentarza archiwum, dlatego konwerter używa bezpiecznego końca awaryjnego. |
+| 3 — *Original Sin* | `MD/VOLUME3.md` | Zapisana treść obejmuje całą hierarchię z `000.html`. W źródle nie występują znaczniki stron 105–106, 220–222, 350–352 i 372–374; dokument nie dopisuje ich sztucznie. Plik `007.html` nie ma zwykłego końcowego komentarza archiwum, dlatego konwerter używa bezpiecznego końca awaryjnego. |
+| 4 — *The Great Awakening* | `MD/VOLUME4.md` | Zapisana treść obejmuje całą hierarchię z `000.html` oraz ciąg znaczników stron 1–570 bez luk. |
 
 Dokumenty Markdown przedstawiają wyłącznie treść obecną w lokalnym zrzucie.

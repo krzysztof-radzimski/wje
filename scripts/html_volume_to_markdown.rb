@@ -383,7 +383,7 @@ def apply_heading_hierarchy(markdown, entries)
 end
 
 input_directory = ARGV[0] || "HTML/VOLUME01"
-output_file = ARGV[1] || "VOLUME1.md"
+output_file = ARGV[1] || "MD/VOLUME1.md"
 pages = Dir.glob(File.join(input_directory, "*.html")).sort
 # 000.html is the archive's generated navigation page.  The printed volume's
 # own front matter (including its contents page) starts in 001.html.

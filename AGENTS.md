@@ -10,14 +10,14 @@ z serwisu Yale.
 - Każdy tom ma katalog `HTML/VOLUMENN/`.
 - `000.html` jest nawigacją tomu i stanowi źródło hierarchii nagłówków.
 - Pozostałe pliki HTML są fragmentami treści; zachowaj ich kolejność numeryczną.
-- Wynikiem jest `VOLUMEN.md` w katalogu głównym, bez zer w numerze tomu.
+- Wynikiem jest `MD/VOLUMEN.md`, bez zer w numerze tomu.
 
 ## Konwersja
 
 Uruchom generator wyłącznie na lokalnych plikach:
 
 ```bash
-ruby scripts/html_volume_to_markdown.rb HTML/VOLUMENN VOLUMEN.md
+ruby scripts/html_volume_to_markdown.rb HTML/VOLUMENN MD/VOLUMEN.md
 ```
 
 Generator celowo:
@@ -52,7 +52,7 @@ generatora, walidatora tomu oraz `git diff --check`:
 
 ```bash
 ruby -c scripts/html_volume_to_markdown.rb
-ruby scripts/verify_volume_markdown.rb HTML/VOLUMENN VOLUMEN.md
+ruby scripts/verify_volume_markdown.rb HTML/VOLUMENN MD/VOLUMEN.md
 git diff --check
 ```
 

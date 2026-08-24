@@ -27,7 +27,7 @@ def heading_key(text)
 end
 
 input_directory = ARGV[0] || "HTML/VOLUME01"
-markdown_file = ARGV[1] || "VOLUME1.md"
+markdown_file = ARGV[1] || "MD/VOLUME1.md"
 pages = Dir.glob(File.join(input_directory, "*.html")).sort.reject { |path| File.basename(path) == "000.html" }
 abort "Nie znaleziono plików źródłowych w #{input_directory}" if pages.empty?
 abort "Nie znaleziono #{markdown_file}" unless File.file?(markdown_file)
