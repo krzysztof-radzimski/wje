@@ -67,5 +67,6 @@ edition.
 | 2 — *Religious Affections* | `MD/VOLUME2.md` | The saved content includes the complete hierarchy from `000.html`. Page markers 46, 76–77, 84, 125, and 440 are absent from the source; the document does not add them artificially. `007.html` lacks the archive's usual closing comment, so the converter uses a safe fallback end. |
 | 3 — *Original Sin* | `MD/VOLUME3.md` | The saved content includes the complete hierarchy from `000.html`. Page markers 105–106, 220–222, 350–352, and 372–374 are absent from the source; the document does not add them artificially. `007.html` lacks the archive's usual closing comment, so the converter uses a safe fallback end. |
 | 4 — *The Great Awakening* | `MD/VOLUME4.md` | The saved content includes the complete hierarchy from `000.html` and page markers 1–570 without gaps. |
+| 5 — *Apocalyptic Writings* | `MD/VOLUME5.md` | The saved content includes the complete hierarchy from `000.html` and page markers 1–464 without gaps. The navigation notes that Edwards did not comment on Revelation 3 in the exposition. |
 
 Markdown documents contain only content present in the local capture.

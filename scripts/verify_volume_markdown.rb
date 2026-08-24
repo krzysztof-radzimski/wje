@@ -64,13 +64,23 @@ actual = markdown.scan(/^#+\s+(.+)$/).flatten.map { |text| heading_key(text) }
 missing_headings = expected.reject do |text|
   key = heading_key(text)
   actual.include?(key) ||
+    # Navigation labels sometimes abbreviate or extend a source heading. Treat
+    # a sufficiently specific shared prefix as the same heading.
+    actual.any? do |actual_key|
+      [key, actual_key].all? { |candidate| candidate.split.length >= 3 } &&
+        (key.start_with?("#{actual_key} ") || actual_key.start_with?("#{key} "))
+    end ||
     (key == heading_key("Part Three Showing What Are Distinguishing Signs of Truly Gracious and Holy affections") &&
       actual.include?(heading_key("PART THREE")) &&
       actual.include?(heading_key("Showing What Are Distinguishing Signs of Truly Gracious and Holy affections"))) ||
     # In volume 3 the navigation shortens this source heading to its final
     # biblical reference; the complete title is preserved in Markdown.
     (key == heading_key("Section 3. Observations on Romans 7") &&
-      actual.include?(heading_key("Section 3. Observations on Romans 5:6–10, and Ephesians 2:3 with the context, and Romans 7")))
+      actual.include?(heading_key("Section 3. Observations on Romans 5:6–10, and Ephesians 2:3 with the context, and Romans 7"))) ||
+    # Volume 5's navigation includes this descriptive label even though the
+    # edition explicitly records that Edwards supplied no exposition.
+    (key == heading_key("CHAPTER Revelation 3 in the exposition.") &&
+      markdown.include?("JE did not comment on Revelation 3 in the exposition."))
 end
 
 puts "OK: #{source_pages.length} znaczników stron, #{markdown_refs.length} odwołań i #{markdown_notes.length} definicji przypisów."

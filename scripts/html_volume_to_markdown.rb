@@ -134,16 +134,33 @@ def render(node, output, heading_count)
     body_center = centers.find do |center|
       page_marker(inline(center).strip).to_s.match?(/\A<!-- p\. \d+ -->\z/)
     end
-    (body_center ? centers.take_while { |center| center != body_center } : centers).each do |center|
+    serialized = node.to_html
+    arabic_start = body_center && serialized.index(body_center.to_html)
+    # A few contents pages contain real Roman-numeral front matter (for
+    # example, a list of illustrations and a foreword) under malformed,
+    # unclosed contents markup. Start at its first subsection heading before
+    # the first Arabic marker; otherwise retain the existing fallback.
+    front_matter_heading = if arabic_start
+                             node.css('div[type="subsection"] span.head').find do |heading|
+                               position = serialized.index(heading.to_html)
+                               subsection_depth = heading.ancestors.count do |ancestor|
+                                 ancestor.name == "div" && ancestor["type"] == "subsection"
+                               end
+                               position && position < arabic_start && subsection_depth > 1
+                             end
+                           end
+    body_start = front_matter_heading || body_center
+    start = body_start && serialized.index(body_start.to_html)
+    prefix = start ? Nokogiri::HTML::DocumentFragment.parse(serialized[0...start]) : nil
+    (prefix ? prefix.css("center") : (body_center ? centers.take_while { |center| center != body_center } : centers)).each do |center|
       marker = page_marker(inline(center).strip)
       output << "\n\n#{marker}\n\n" if marker
     end
-    if body_center
+    if start
       # The malformed source nests the actual text in the contents div. Render
-      # the serialized fragment from the first Arabic page onward, preserving
-      # all text and footnotes while omitting the duplicated table of contents.
-      serialized = node.to_html
-      start = serialized.index(body_center.to_html)
+      # the fragment from the first content subsection (or Arabic page) onward,
+      # preserving all text and footnotes while omitting the duplicated table
+      # of contents.
       fragment = Nokogiri::HTML::DocumentFragment.parse(serialized[start..])
       fragment.children.each { |child| heading_count = render(child, output, heading_count) }
     end
