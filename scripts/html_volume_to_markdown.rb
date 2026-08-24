@@ -415,6 +415,8 @@ def apply_heading_hierarchy(markdown, entries)
       level ? "#{'#' * level} #{match[1]}\n" : line
     else
       text = line.strip
+      next line if text.match?(/\A\[\^[^\]]+\]:/)
+
       level = expected_heading_level(text, navigation)
       level && !text.empty? ? "#{'#' * level} #{text}\n" : line
     end
