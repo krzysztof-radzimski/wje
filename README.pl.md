@@ -64,5 +64,6 @@ należy rekonstruować ich z pamięci ani z innego wydania.
 | 1 — *Freedom of the Will* | `VOLUME1.md` | Zapisana treść obejmuje całą hierarchię z `000.html`. W źródle nie występują znaczniki stron 31, 136 i 149; dokument nie dopisuje ich sztucznie. |
 | 2 — *Religious Affections* | `VOLUME2.md` | Zapisana treść obejmuje całą hierarchię z `000.html`. W źródle nie występują znaczniki stron 46, 76–77, 84, 125 i 440; dokument nie dopisuje ich sztucznie. Plik `007.html` nie ma zwykłego końcowego komentarza archiwum, dlatego konwerter używa bezpiecznego końca awaryjnego. |
 | 3 — *Original Sin* | `VOLUME3.md` | Zapisana treść obejmuje całą hierarchię z `000.html`. W źródle nie występują znaczniki stron 105–106, 220–222, 350–352 i 372–374; dokument nie dopisuje ich sztucznie. Plik `007.html` nie ma zwykłego końcowego komentarza archiwum, dlatego konwerter używa bezpiecznego końca awaryjnego. |
+| 4 — *The Great Awakening* | `VOLUME4.md` | Zapisana treść obejmuje całą hierarchię z `000.html` oraz ciąg znaczników stron 1–570 bez luk. |
 
 Dokumenty Markdown przedstawiają wyłącznie treść obecną w lokalnym zrzucie.

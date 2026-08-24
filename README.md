@@ -9,8 +9,6 @@ This project creates searchable Markdown files from manually saved
 of *The Works of Jonathan Edwards*. Content is saved manually and converted
 locally; the project does not automate downloading from the Yale website.
 
-Polish version: [README.pl.md](README.pl.md).
-
 ## Contents
 
 - `HTML/VOLUMENN/` — unmodified, locally saved source pages. `000.html`
@@ -67,5 +65,6 @@ edition.
 | 1 — *Freedom of the Will* | `VOLUME1.md` | The saved content includes the complete hierarchy from `000.html`. Page markers 31, 136, and 149 are absent from the source; the document does not add them artificially. |
 | 2 — *Religious Affections* | `VOLUME2.md` | The saved content includes the complete hierarchy from `000.html`. Page markers 46, 76–77, 84, 125, and 440 are absent from the source; the document does not add them artificially. `007.html` lacks the archive's usual closing comment, so the converter uses a safe fallback end. |
 | 3 — *Original Sin* | `VOLUME3.md` | The saved content includes the complete hierarchy from `000.html`. Page markers 105–106, 220–222, 350–352, and 372–374 are absent from the source; the document does not add them artificially. `007.html` lacks the archive's usual closing comment, so the converter uses a safe fallback end. |
+| 4 — *The Great Awakening* | `VOLUME4.md` | The saved content includes the complete hierarchy from `000.html` and page markers 1–570 without gaps. |
 
 Markdown documents contain only content present in the local capture.

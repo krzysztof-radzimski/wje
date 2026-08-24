@@ -400,8 +400,14 @@ end
 
 # Remove navigation residues and normalise the deliberately generous paragraph
 # spacing emitted while traversing malformed source HTML.
-output.gsub!(/(?:^|\n)(?:Previous section|Next section|New Search)(?:\n|$)/, "\n")
-output.gsub!(/^Jonathan Edwards .*?\[word count\].*?\n/, "")
+# Remove only standalone navigation residues.  Some malformed captures join a
+# navigation label to the first text paragraph; matching it mid-line would
+# discard legitimate text and its footnotes.
+output.gsub!(/^(?:Previous section|Next section|New Search)\s*$/i, "")
+# The archive metadata can share a physical line with the first paragraph in
+# malformed captures. Match the complete metadata token (with or without
+# Markdown bold generated from the source) instead of dropping the line.
+output.gsub!(/(?:^|\n)Jonathan Edwards \[(?:\*\*)?\d{4}(?:\*\*)?\], .*?\[word count\] \[(?:\*\*)?jec-wjeo\d+(?:\*\*)?\]\.[ \t]*/, "\n")
 output.gsub!(/^### Notes\n\n(?=(?:Jonathan Edwards|## ))/, "")
 output.gsub!(/Previous section Next section Jonathan Edwards \[.*?\[word count\] \[\*\*jec-wjeo01\*\*\]\./, "")
 # A few pages have unbalanced tags around their page-number elements.  Convert
