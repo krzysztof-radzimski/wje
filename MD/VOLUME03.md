@@ -500,7 +500,9 @@ The "Book of Controversies," "Miscellanies," and other preparatory writings indi
 
 Edwards' contention that the world had fallen into spiritual and moral decline, and Locke is used principally in introducing Edwards' famous discussion of personal identity. Other writers whose citations plentifully decorated the "Miscellanies" were given attention in footnotes, with Buxtorf, Stapfer, and Poole most prominently in view, while Ainsworth, Gale, and Watts won only incidental mention.
 
-#### John Taylor (1694–1761) [^002-note139]
+#### John Taylor (1694–1761)
+
+[^002-note139]
 
 [^002-note140]
 
@@ -550,9 +552,17 @@ Turnbull obligingly listed the authors upon whom he had drawn most heavily in th
 
 the emergent "scientific use" of experimental models for philosophical discourse which identified him as a sophisticate of the period. His works apparently made no great stir in his own day, and he had the misfortune to advertise his *Moral Philosophy* at the same time that another Scot, David Hume, published his *Treatise of Human Nature*.
 
-#### Francis Hutcheson (1694–1746)[^002-note155]
+#### Francis Hutcheson (1694–1746)
 
-[^002-note156][^002-note157][^002-note158][^002-note159]
+[^002-note155]
+
+[^002-note156]
+
+[^002-note157]
+
+[^002-note158]
+
+[^002-note159]
 
 As in the case of Turnbull, Edwards found sentiments in Hutcheson with which he both agreed and disagreed. *The Nature of True Virtue* bears the impress of Hutcheson's influence and that of other "benevolence" moralists, although Hutcheson himself is mentioned only three times.[^002-note160] In that treatise Edwards found support from Hutcheson for the idea of a natural moral taste in mankind and that of virtue as consistency in a beauty of symmetry of the affections. However, he decisively parted company with Hutcheson when that philosopher was willing to settle for a natural happiness or utilitarian aim as the goal of man's moral effort, a level of achievement that Edwards relegated to a secondary status in respect to true virtue, which consisted in the cordial and aesthetically satisfying consent of individual beings to Being as such. In the "Book of Controversies," Edwards showed he had determined to deal with the "moral taste" notion, either in *Original Sin* or *True Virtue* "according as which is published first," but, contrary to his intention at this point, the *True Virtue*, which was published posthumously, rather than the *Original Sin*, which was completed before his death, carried on the analysis of man's moral taste. This idea was attributed to what he called "our modern philosopher," probably meaning Hutcheson. He found Hutcheson acceptable in identifying self-concern as "the common spring of vice and wickedness" and, this being the case, drew the conclusion that "all wickedness is an argument o the priority of self-love over benevolence." In a section entitle "Arg. against Original Sin," Hutcheson's *Nature and Conduct of the*
 
@@ -574,7 +584,9 @@ At the university he lectured on natural religion, ethics, jurisprudence, and go
 
 only one year more, dying August 8, 1746, in Dublin. He left behind *A System of Moral Philosophy*, which his son published in 1755. Reports of his presence and manner support the view which he had set forth in his works, that of a gentle, humane person of "benevolent feelings" and liberal theological tendencies, which he refrained from obtruding upon others. In his time he wielded a considerable influence over the new theology of the Church of Scotland through his students. Like Turnbull, he was to be overshadowed by his correspondent, David Hume, and by his former student, Adam Smith.
 
-#### John Locke (1632–1704)[^002-note163]
+#### John Locke (1632–1704)
+
+[^002-note163]
 
 [^002-note164]
 
@@ -610,7 +622,9 @@ Charles Chauncy pounced upon Edwards just at this point. Chauncy read the *Origi
 
 Locke by affirming that "consciousness in intelligent beings is essential to personal identity," and then asking if it could be reasonably supposed that God "should make an identical complex one of Adam and his posterity… and at the same time, leave them, throughout all generations, without the least *consciousness* that they had thus sinned?"[^002-note175] But Edwards' reference to Locke had been more circumspect than Chauncy assumed. He explicitly stated that personal memory or consciousness was "one thing essential" to personal identity and then passed on to assert that consciousness itself was not self-sustained, but dependent upon the divine constitution, thus showing that Locke's formulation was acceptable only in part.
 
-#### Henry Winder (1693–1752)[^002-note176]
+#### Henry Winder (1693–1752)
+
+[^002-note176]
 
 [^002-note177]
 
@@ -680,6 +694,8 @@ The manuscript that contains a rough approximation of the last third of the *Ori
 
 edition serves to indicate the degree of variation to be found between the two pieces.
 
+|  |  |
+| --- | --- |
 | *First edition*, p. 253 | *Fragment I*, folder 1242, pp. 158, 159 |
 | Judge of all the earth. What grace therefore, worthy of being so celebrated, would there be in affording remedy and relief, after there had been brought on innocent mankind that which is (as Dr. T himself represents), the dreadful and universal destruction | Judge of all the Earth. What Grace (worthy of being so celebrated) is there in affording remedy and relief after G. has brought that on innocent mankind which as dr. T. himself calls it <p. 69> was a dreadful & universal destruction of our Nature which [is] |
 | of their nature; being a striking demonstration how infinitely odious sin is to God! What grace in delivering, from such shocking ruin, them that did not deserve the least calamity I Our author says,"We could not *justly* lose communion with God by Adam's sin." | a striking demonstration how infinitely odious sin is to God. What Grace in delivering from such shocking Ruin them that did not deserve the least degree of Calamity. [. . .] dr. T. says Orig. p. 148d "we could not justly lose communion with God by Adams sin" |
@@ -688,32 +704,22 @@ edition serves to indicate the degree of variation to be found between the two p
 | and restoration by Christ, there is no grace at all. [. . .] | But in that Redemption that is the Counterpart which we have by the |
 | I will first consider the sense he puts upon the two former, "judgment" and | second Adam there is no Grace at all [. . .] |
 | "condemnation." He often calls this condemnation a judicial act, and a sentence of condemnation. But, according to his scheme, 'tis a judicial | [p. 159] I will first consider his way of explaining the two former viz. Judgment & Condemnation. He often calls this Condemnation a Judicial |
-|
-
-<!-- p. 89 -->
-
-   sentence of condemnation passed upon them. [. . .] | act & a sentence of Condemnation But according to his scheme it is a Judicial sentence of Condemnation passed on them. [. . .] |
-|  |
+| <!-- p. 89 -->   sentence of condemnation passed upon them. [. . .] | act & a sentence of Condemnation But according to his scheme it is a Judicial sentence of Condemnation passed on them. [. . .] |
+|  |  |
 
 This manuscript reveals that Edwards had intended to show up what he regarded as Taylor's lack of candor by listing passages of contrasting sentiments. These passages were cited by page from Taylor's third edition, but were not included in Edwards' final draft. They appear in their original form in Fragment I, pages 221–22. However, the relics of these citations remain as page numbers in the footnotes near the beginning of the Conclusion. [^002-note193]
 
+|  |  |
+| --- | --- |
 | [Taylor's] *Preface*: "I warrant nothing of my own in the following inquiries: I undertake to make nothing good. . . . I have honestly endeavored to set things in a just light; but under the weakness and imperfections of a man. This I advertise thereof, that in reading you may freely use your own judgment without any regard to mine; . . . I add a hardy wish, that we may all seriously, closely, and impartially, peaceably, and in the spirit of love, study the Scriptures, that our knowledge | P. 125: "[A]nd therefore I should not scruple to say, that this proposition in the *Assembly's Cathechism* is false." P. 110: "When he [the apostle Paul] addeth, 'and were by nature children of wrath,' he cannot mean, they were liable to divine wrath, or punishment, by that nature which they brought into the world at their birth. This is infinitely absurd. . . . Men pretend self-abasement: but this is not to abase ourselves for our own evil deeds, but to vilify the source of our being." |
 | of the principles of Christianity being just, our faith may be strong, [. . .]  our comfort solid, and that the light of the | [P. 404:] "The sinful nature of infants is only imagined; but neither is, nor can possibly be proved." |
 | glorious gospel of Christ, who is the image of God, shining into our minds may give us a conformity to the Son of God in all virtue, in meekness, humility and brotherly kindness, that soon entrance may be ministred unto us abundantly into his everlasting kingdom. Amen." P. 6: "Pray don't forget, that I am only helping you as well as I can. I impose nothing on your faith and conscience. I pretend not to judge for you; you must judge freely for yourself: least of all do I pretend to be infallible. Possibly I may be mistaken." | Pp. 150-5[2]: "How mankind, who were perfectly innocent of Adam's sin, could for that sin, and upon no other account, be justly brought under God's displeasure and curse, we cannot understand. But, on the contrary, we do understand, and by our faculties must necessarily judge, according to all rules of equity, it is unjust. And therefore, unless our understanding, or perception of truth, be false, that is, unless we do not understand what we do understand, or understand that to be true, which other minds understand to be false; it must be |
 | P. 237: "Judge freely for yourself; for I am not infallible: But judge candidly; for I have delivered my sentiments candidly and impartially." | unjust. . . . [I]f my understanding discerneth that twice two is equal to four, and another understanding discerneth that it is equal to fourteen, |
-|
-
-<!-- p. 90 -->
-
-   P. 265: "May the Father of Lights illuminate our understanding! . . . I am not in any doubt or uncertainty, at present, [. . .] about anything I have delivered. But that is no proof that I am everywhere right. I make no pretension to infallibility.The Word of God is infallible; and that, and not anything I say or judge, is the common rule of faith. And observe, while we love the truth, and honestly endeavor, all our | then either his or my understanding is no understanding; i.e. either he or I do understand what we do not understand; . . . And pray, consider what a God he must be, who can be displeased with, and curse his innocent creatures, even before they have a being. Is this thy God, O Christian? . . . I will be bold to say, that neither from Ephesians 2:2-3 nor from any other scripture, can the proposition be possibly proved." |
+| <!-- p. 90 -->   P. 265: "May the Father of Lights illuminate our understanding! . . . I am not in any doubt or uncertainty, at present, [. . .] about anything I have delivered. But that is no proof that I am everywhere right. I make no pretension to infallibility.The Word of God is infallible; and that, and not anything I say or judge, is the common rule of faith. And observe, while we love the truth, and honestly endeavor, all our | then either his or my understanding is no understanding; i.e. either he or I do understand what we do not understand; . . . And pray, consider what a God he must be, who can be displeased with, and curse his innocent creatures, even before they have a being. Is this thy God, O Christian? . . . I will be bold to say, that neither from Ephesians 2:2-3 nor from any other scripture, can the proposition be possibly proved." |
 | days to understand what God hath revealed, whether the knowledge we gain be more or less, we discharge the duty of good Christians; . . . The Word of God is the rule of faith: and if I have pointed out the light shining therein, it is well; you ought to open your eyes to that light. But as for me, I am a weak and imperfect man, and may have said several weak and imperfect things." P. 267: "Reader, . . . Hold the truth in love. . . . regulate your passions; and be constant in reading the Scriptures, fervent in prayer to God, kind and compassionate to all men, . . . humble in all your deportment." | P. 15 (speaking of the Assembly of Divines): "In vain hath Jesus Christ brought the doctrine of life from heaven, and lodged it in his Word, if men through carelessness, or somewhat worse, will thus wrest and pervert what he has taught." (And in the next page, speaking of the same:) "[L]o! men have solemnly pointed out these texts to prove, that Christ will, or may justly, condemn us to all tortures of body and mind in hellfire without intermission to all eternity, only for one sin committed thousands of years before we had a being, without taking into account any of our own present iniquities. This is perfectly astonishing! Surely the heavenly rule of our faith shall not |
 | P. 451[-52]: "The gospel teaches us to be humble, patient, and peaceable; to pity and pray for the weak and misguided; | always be thus trampled on." |
 | to desire and in all methods of true wisdom to labor for the salvation of men, looking daily for the coming of our Lord, and by faith and prayer daily seeking for direction and assistance to God the only fountain of light, 'who giveth wisdom to the wise, and knowledge to them that have understanding, [. . .] who knoweth what is in the darkness, and the light dwelleth with him''' [Dan. 2:21-22]. | P. 161: "[G]ive me leave to commiserate the mistaken many, with whom such points as these pass for articles of the Christian faith. Their eyes are covered with a thick cloud of error, . . . they sit astonished in the gloomy cave of superstition, surrounded with a causeless fear, terror and despair, and resounding with the horrible murmurs of blasphemy." |
-|  | P. 183 (speaking of the Assembly of Divines, he ironically says): "Here one cannot forbear observing what serious regard hath been paid to the true sense of Scripture, how careful divines were to establish their doctrines upon a just and firm foundation in the Word
-
-<!-- p. 91 -->
-
-   of God." And in the next page: "The brightest revelation, thus wretchedly applied, is worse than darkness of mere ignorance: it will not discern the truth, but vindicate the greatest error." |
+|  | P. 183 (speaking of the Assembly of Divines, he ironically says): "Here one cannot forbear observing what serious regard hath been paid to the true sense of Scripture, how careful divines were to establish their doctrines upon a just and firm foundation in the Word   <!-- p. 91 -->   of God." And in the next page: "The brightest revelation, thus wretchedly applied, is worse than darkness of mere ignorance: it will not discern the truth, but vindicate the greatest error." |
 |  | P. 188: "But whence have these men this knowledge? Who seeth not that here they talk of things beyond the reach of all human understanding?" |
 |  | P. 243: "Now say that God, while he beseeches, persuades, and by all the motives of love exites us to the discharge of our duty, at the same time knows we have not sufficiency of power to do it ,or that our perversions by no means proportionable to our duties, but vastly inferior to 'em, is in effect to say, he is a being that deserves no manner of regard." |
 
@@ -3137,7 +3143,9 @@ He very often has occasion to speak of condemnation; but where does he express i
 
 in this place these terms must have distinguished singular
 
- sense found out for them, and annexed to 'em![^005-note92] A new language must be coined for the Apostle, which he is evidently quite unused to, and put into his mouth on this occasion, for the sake of evading this clear, precise and abundant testimony of his, to the doctrine of original sin.3. The putting such a sense on the word "sin," in this place, is not only to make the Apostle greatly to disagree with himself in the language he uses everywhere else, but also to disagree with himself no less in the language he uses in this very passage. He often here uses the word "sin," and other words plainly of the same design and import, such as "transgression," "disobedience," "offense." Nothing can be more evident, than that these are here used as several names of the same thing; for they are used interchangeably, and put one for another; as will be manifest only on the cast of an eye on the place. And these words are used no less than seventeen times in this one paragraph. Perhaps we shall find no place in the whole Bible, in which the word "sin," and other words synonymous, are used so often in so little compass: and in all the instances, in the proper sense, as signifying "moral evil," and even so understood by Dr. Taylor himself (as appears by his own exposition) but only in these two places; where in the midst of all, to evade a clear evidence of the doctrine of original sin, another meaning must be found out, and it must be supposed that the Apostle uses the word in a sense entirely different, signifying something that neither *implies* nor *supposes* any moral evil at all in the subject.
+ sense found out for them, and annexed to 'em![^005-note92]
+
+ A new language must be coined for the Apostle, which he is evidently quite unused to, and put into his mouth on this occasion, for the sake of evading this clear, precise and abundant testimony of his, to the doctrine of original sin.3. The putting such a sense on the word "sin," in this place, is not only to make the Apostle greatly to disagree with himself in the language he uses everywhere else, but also to disagree with himself no less in the language he uses in this very passage. He often here uses the word "sin," and other words plainly of the same design and import, such as "transgression," "disobedience," "offense." Nothing can be more evident, than that these are here used as several names of the same thing; for they are used interchangeably, and put one for another; as will be manifest only on the cast of an eye on the place. And these words are used no less than seventeen times in this one paragraph. Perhaps we shall find no place in the whole Bible, in which the word "sin," and other words synonymous, are used so often in so little compass: and in all the instances, in the proper sense, as signifying "moral evil," and even so understood by Dr. Taylor himself (as appears by his own exposition) but only in these two places; where in the midst of all, to evade a clear evidence of the doctrine of original sin, another meaning must be found out, and it must be supposed that the Apostle uses the word in a sense entirely different, signifying something that neither *implies* nor *supposes* any moral evil at all in the subject.
 
 Here 'tis very remarkable, the gentleman who so greatly insisted upon it, that the word "death" must needs be understood in the same sense throughout this paragraph; yea, that it is *evidently*,
 
@@ -3240,13 +3248,11 @@ of the sanctuary. This law, the Jews supposed, made the very infants of the Gent
 What has been said, may, as I humbly conceive, lead us to that which is the *true* scope and sense of the Apostle in these three verses; which I will endeavor more briefly to represent in the following paraphrase.
 
 |  |  |
+| --- | --- |
+|  |  |
 | The things which I have largely insisted on, viz. the evil that is in the world, the general wickedness, guilt and ruin of mankind, and the opposite good, even justification and life, as only by Christ, lead me to observe the *likeness* of the manner, in which they are each of them *introduced*. For it was by one man, that the general corruption and guilt which I have spoken of, came into the world, and condemnation and death by sin: and this dreadful punishment and ruin came on all mankind, by the great *law of works*, originally established with mankind in their first father, and by his *one offense*, or breach of that law; *all* thereby becoming sinners in God's sight, and exposed to final destruction. | 12. "Wherefore, as by one man sin entered into the world, and death by sin; and so death passed upon all men, for that all have sinned." |
-| 12. "Wherefore, as by one man sin entered into the world, and death by sin; and so death passed upon all men, for that all have sinned." |
-| It is manifest, that it was in this way the world became sinful and guilty: and not in that way which the Jews suppose, viz. that their law, given by Moses, is the grand universal rule of righteousness and judgment for mankind, and that it is by being Gentiles, uncircumcised and aliens from that law, that the nations of the world are constituted sinners and unclean. For *before* the law of Moses was given, mankind were all looked upon by the great Judge as sinners, by corruption
-
-<!-- p. 345 -->
-
-  and guilt derived from Adam's violation of the original law of works; which shows, that the original, universal rule of righteousness is not the law of Moses; for if so, there would have been no sin imputed *before* that was given; because sin is not imputed, when there is no law. But, that at that time sin was *imputed*, and men were by their Judge reckoned as sinners, through guilt and corruption derived from Adam, and condemned for sin to death, the proper punishment of sin, we have a plain proof; in that it appears in fact, all mankind, during that whole time which preceded the law of Moses, were subjected to that temporal death, which is the visible introduction and image of that utter destruction which sin deserves; not excepting even infants, who could be sinners no other way than by virtue of Adam's transgression, having never in their own persons actually sinned as Adam did; nor could at that time be made polluted by the law of Moses, as being uncircumcised, or born of uncircumcised parents. | 13. "For until the law sin was in the world; but sin is not imputed, when there is no law."       14. "Nevertheless, death reigned from Adam to Moses, even over them that had not sinned after the similitude of Adam's transgression." |
+| 12. "Wherefore, as by one man sin entered into the world, and death by sin; and so death passed upon all men, for that all have sinned." |  |
+| It is manifest, that it was in this way the world became sinful and guilty: and not in that way which the Jews suppose, viz. that their law, given by Moses, is the grand universal rule of righteousness and judgment for mankind, and that it is by being Gentiles, uncircumcised and aliens from that law, that the nations of the world are constituted sinners and unclean. For *before* the law of Moses was given, mankind were all looked upon by the great Judge as sinners, by corruption  <!-- p. 345 -->  and guilt derived from Adam's violation of the original law of works; which shows, that the original, universal rule of righteousness is not the law of Moses; for if so, there would have been no sin imputed *before* that was given; because sin is not imputed, when there is no law. But, that at that time sin was *imputed*, and men were by their Judge reckoned as sinners, through guilt and corruption derived from Adam, and condemned for sin to death, the proper punishment of sin, we have a plain proof; in that it appears in fact, all mankind, during that whole time which preceded the law of Moses, were subjected to that temporal death, which is the visible introduction and image of that utter destruction which sin deserves; not excepting even infants, who could be sinners no other way than by virtue of Adam's transgression, having never in their own persons actually sinned as Adam did; nor could at that time be made polluted by the law of Moses, as being uncircumcised, or born of uncircumcised parents. | 13. "For until the law sin was in the world; but sin is not imputed, when there is no law."       14. "Nevertheless, death reigned from Adam to Moses, even over them that had not sinned after the similitude of Adam's transgression." |
 
  
 

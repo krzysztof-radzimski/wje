@@ -2667,7 +2667,9 @@ Footnotes have been added by the editor to explain the special problems in readi
 
 ### COVER-LEAF MEMORANDA
 
-#### Side i:[^004-note30]
+#### Side i:
+
+[^004-note30]
 
 [Remember] to set down the order [in which] I would have the particulars stand, a mark here denoting the paragraphs.
 
@@ -2679,7 +2681,9 @@ In the second place let there be postulata, which let be either axioms or princi
 
 Let there not only be definitions and postulates at the beginning of the whole, but at the beginning of the particular chapters and sections as there is occasion; which postulates and definitions may be referred to from other parts if it suits best. These may be put before even the sections in the midst of a chapter.
 
-#### Side ii:[^004-note31]
+#### Side ii:
+
+[^004-note31]
 
 [1.[^004-note32] Try] not only to silence but to gain *readers.*
 
@@ -2743,7 +2747,9 @@ method. It doth an author much hurt to show his concern for those things.
 
 ### "OF THE PREJUDICES OF IMAGINATION"
 
-#### Lemma to the whol[^004-note43]
+#### Lemma to the whol
+
+[^004-note43]
 
 Of all prejudices, no one so rights with natural philosophy, and prevails more against it, than those of imagination. 'Tis that which makes the vulgar so roar out upon the mention of some very rational philosophical truths. And indeed, I have known of some very learned men, that have pretended to a more than ordinary freedom from such prejudices, so overcome by them that merely because of them they have believed things most absurd. And truly, I hardly know of any other prejudices that are more powerful against truth of any kind than this. And I believe it will not give the hand to any, in any case, except those arising from overruling self-interest, or the impetuosity of human passions. And there is very good reason for it: for opinions arising from imagination take us as soon as we are born, are beat into us by every act of sensation, and so grow up with us from our very births; and by that means grow into us so fast that it is almost impossible to root them out, being as it were so incorporated with our very minds that whatsoever is objected to them, contrary thereunto, is as if it were dissonant to the very constitution of them. Hence men come to make what they can actually perceive by their senses, or by immediate and outside reflection into their own souls, the standard of possibility and impossibility: so that there must be no body, forsooth, bigger than they can conceive of, or less than they can see with their eyes; nor motion either much swifter or slower than they can imagine. As for the greatness or
 
@@ -2877,7 +2883,9 @@ When[^004-note69] we go to inquire whether or no there can be absolutely nothing
 
 <!-- p. 208 -->
 
-### ["OF ATOMS"][^004-note70]
+### ["OF ATOMS"]
+
+[^004-note70]
 
 *Prop. 1.* All bodies whatsoever, except atoms themselves, must of absolute necessity be composed of atoms, or of bodies that are indiscerpible,[^004-note71] that cannot be made less, or whose parts cannot by any finite power whatsoever, be separated one from another. And this will be fully seen as soon as it is seen what bodies those are that are indiscerpible, or what is requisite in a body in order to cause it to be so. And here we shall lay down this proposition: that that body that is absolutely plenum, or that has every part of space included within its surface impenetrable, is indivisible; and that the parts thereof can by no means [be] separated from each other, by any force how great soever. As for instance, suppose the body *B* [Fig. 1] to be what we call an absolute plenum, and suppose the two bodies *A* and *C* to come as impetuously and with as great force as you please, and strike on each side of the body *B*: I say the two bodies *A* and *C* could cause no fraction[^004-note72] in the body *B*
 
@@ -3019,7 +3027,9 @@ it. A thousand to one but that some of the atoms of those compound bodies with w
 
 ### "THINGS TO BE CONSIDERED AN[D] WRITTEN FULLY ABOUT"
 
-#### [Short Series][^004-note84]
+#### [Short Series]
+
+[^004-note84]
 
 1.[^004-note85] To observe that incurvation,[^004-note86] refraction, and reflections from concave surfaces of drops of water, etc. is from gravity.[^004-note87]
 
@@ -3153,7 +3163,9 @@ This, therefore, is undoubtedly a reason why the sun, when returning from the so
 
 of the vein that stops the blood. But a small vein has much more of sides in proportion to the quantity of blood it contains than a greater; and then the blood is something of a thick substance which will move but slowly in a narrow passage. 'Tis by these small veins and arteries the body receives nourishment, but the blood would have no time orderly and regularly to communicate proper nourishment to each part which requires different aliment; as, nothing to the brain but what is suitable to that for animal spirits and other uses, one kind to the various membranes, kinds of flesh, marrow, humors, and the like. If the blood moved so very swiftly in these pipes as in greater, when one part of the body is diseased it would forthwith be communicated to all others. We find that when a person is bit by a serpent, if it be in a great vein, it is immediately communicated to all parts; but if not, perhaps the quantity of all the blood in the body may go through the heart many times before the body in general feels much of the effect of the poison. If the stream of blood was so swift in every small vein, the coldness of our extreme parts, before it would come to such a degree, would kill the man, the shifting of the cold blood would be so quick. Physicians are wont to chafe the limbs before they let[^004-note112] blood, to fill the veins, thereby causing the blood in the little veins to move swifter in the [place] wherein the orifice is made.
 
-#### [Long Series][^004-note113]
+#### [Long Series]
+
+[^004-note113]
 
 1.[^004-note114] To prove the world one vast spheroid.
 
@@ -3537,7 +3549,9 @@ Hence we may learn why the weight *D* will not sink, but hang *in equilibrio* wi
 
 From hence it follows that if the lesser body *E* be made in the least heavier, or removed further from the center of motion, it will subside and raise the greater weight *D*: because, as has been shown already, 'tis not sufficient to raise it now; but if 'twas heavier or farther removed, the supporting of it would require more force than the raising it. Let the weight *E* be supposed to be removed to *F*, a fourth part of the former distance; and let the weight at the same time be made considerably lighter. 'Tis evident, by the foregoing proposition, that 'twould there remain, *in equilibrio* with the weight *D.* 'Tis therefore evident by this, that if it be removed without proportionably lessening its weight, it will sink; because the holding it up would require greater force than the raising it before.
 
-#### [Unnumbered Series][^004-note164]
+#### [Unnumbered Series]
+
+[^004-note164]
 
 [1][^004-note165] The motion of the fixed stars backwards in the ecliptic, if it be not real but be caused by any motion in the earth, must necessarily be caused by a motion of the poles of the earth round the poles of the ecliptic, in a circle equal to the polar circles. For 'tis most certain, if this motion is in all the fixed stars in circles parallel to the ecliptic, then the polar star itself moves in a circle parallel to it, and that it moves round the pole of the ecliptic in a circle equal to the polar. But seeing the star itself stirs not, the apparent motion of it from the pole of the earth must be by the motion of the pole. For either the pole moves or the star moves, 'tis certain. Besides, it is certain if the plane of the equator moves, the poles move; but if the points of the intersection that this
 
@@ -4585,6 +4599,8 @@ In the following chart, the numbered articles and unnumbered addenda in Dwight's
 
 ### "THE MIND" AS CITED IN THE MANUSCRIPT INDEX
 
+|  |  |  |
+| --- | --- | --- |
 | *Page* | *Subject* | *Article Cited (Dwight's Number)* |
 | 1. | Knowledge not the perception of the agreement or disagreement of Ideas | No. 71 |
 |   | Mysteries | No. 71, Corol. |
@@ -4596,6 +4612,8 @@ In the following chart, the numbered articles and unnumbered addenda in Dwight's
 
 <!-- p. 317 -->
 
+|  |  |  |
+| --- | --- | --- |
 | 7. | Excellency | No. 62 |
 | 8. | Excellency | Nos. 63–64 |
 | 9. | Excellency | No. 1 |
@@ -4611,14 +4629,14 @@ In the following chart, the numbered articles and unnumbered addenda in Dwight's
 |   | Reasoning, its rules | No. 8 |
 |   | Space | No. 9 |
 | 18. | Truth | No. 10 |
-|   | Reasoning |
-|   | God, his knowledge |
+|   | Reasoning |  |
+|   | God, his knowledge |  |
 |   | Personality | No. 11 |
 |   | Being | No. 12 |
 |   | Space | No. 13 |
 | 19. | Duration | No. 65a |
-|   | Sleep |
-|   | Memory |
+|   | Sleep |  |
+|   | Memory |  |
 |   | Motion | No. 65b |
 |   | Habit | (?)[^005-note9] |
 | 20. | Ideas | No. 66 |
@@ -4626,15 +4644,17 @@ In the following chart, the numbered articles and unnumbered addenda in Dwight's
 
 <!-- p. 318 -->
 
+|  |  |  |
+| --- | --- | --- |
 |   | Reason | No. 68 |
 |   | Existence | (No. 27?)[^005-note10] |
 | 21. | Reason | No. 68, continued |
 |   | Memory | No. 69 |
-|   | Consciousness |
+|   | Consciousness |  |
 |   | Uneasiness |   |
 |   | Determination of the will | No. 70 |
-|   | Free will |
-|   | Will, its determination |
+|   | Free will |  |
+|   | Will, its determination |  |
 | 22. | (not cited) |   |
 | 23. | Words | No. 23 |
 |   | Genus | No. 24 |
@@ -4642,9 +4662,9 @@ In the following chart, the numbered articles and unnumbered addenda in Dwight's
 |   | Substance | No. 25b |
 |   | Cause | No. 26 |
 |   | Colors | No. 27, addendum |
-|   | Matter |
+|   | Matter |  |
 | 24. | Body | No. 27, addendum (continued) |
-|   | Solidity |
+|   | Solidity |  |
 |   | Existence | No. 28 |
 |   | Power | No. 29 |
 |   | God | Nos. 29, 30, 32 |
@@ -4653,30 +4673,32 @@ In the following chart, the numbered articles and unnumbered addenda in Dwight's
 | 26. | Organs | No. 40, Corol. |
 |   | Mixed modes | No. 41 |
 |   | Likeness | No. 42 |
-|   | Similitude |
+|   | Similitude |  |
 
 <!-- p. 319 -->
 
+|  |  |  |
+| --- | --- | --- |
 | 27. | Excellency | No. 45 |
 | 28. | Excellency | No. 45, continued |
 |   | Conscience | No. 45, § 14 (orig. No. 46?) |
 | 29. | Reasoning | No. 54 |
-|   | God, his existence |
+|   | God, his existence |  |
 | 30. | Appetite | No. 55 |
 |   | Number | No. 56 |
 |   | Duration | No. 57 |
-|   | Pastness |
+|   | Pastness |  |
 |   | Reasoning | No. 58 |
 |   | Judgment | No. 59 |
 | 31. | Beasts | No. 59, continued |
 |   | Determination of the will | No. 60 |
-|   | Free will |
-|   | Will, its determination |
+|   | Free will |  |
+|   | Will, its determination |  |
 | 32. | Determination of the will | No. 60, continued |
-|   | Free will |
-|   | Will, its determination |
+|   | Free will |  |
+|   | Will, its determination |  |
 | 33. | Essence | No. 47 |
-|   | Genus |
+|   | Genus |  |
 |   | Definition | No. 48 |
 |   | Excellency | No. 49 |
 |   | Existence | No. 51 |
@@ -4693,6 +4715,8 @@ In the following chart, the numbered articles and unnumbered addenda in Dwight's
 
 <!-- p. 320 -->
 
+|  |  |  |
+| --- | --- | --- |
 |   | Conscience | No. 39 |
 | 38. | Existence | (No. 34, addendum?)[^005-note13] No. 40 |
 | 39. | Excellency | No. 14 |
@@ -4701,23 +4725,23 @@ In the following chart, the numbered articles and unnumbered addenda in Dwight's
 |   | Logic | No. 17 |
 |   | Words | No. 18 |
 |   | Sensation | No. 19 |
-|   | Sense |
-|   | Self-evidence |
+|   | Sense |  |
+|   | Self-evidence |  |
 |   | Inspiration | No. 20 |
 | 40. | Matter's thinking[^005-note14] | No. 21a |
-|   | Matter |
-|   | Thought |
+|   | Matter |  |
+|   | Thought |  |
 |   | Determination of the will | No. 21b |
-|   | Free will |
-|   | Will, its determination |
+|   | Free will |  |
+|   | Will, its determination |  |
 |   | Prejudice | No. 22 |
 | 41. | Excellency | No. 1, addenda |
 | 42. | Excellency | No. 1, addenda |
 |   | Place | No. 2 |
 |   | Perception | No. 3 |
-|   | Separate spirits |
+|   | Separate spirits |  |
 |   | Union of body and soul | No. 4 |
-|   | Personality |
+|   | Personality |  |
 |   | Certainty | No. 5 |
 | 43. | Soul, its seat | (?)[^005-note15] |
 | 44. | Method of the treatise | Subjects to be handled in the treatise on the mind |
@@ -4725,6 +4749,8 @@ In the following chart, the numbered articles and unnumbered addenda in Dwight's
 
 <!-- p. 321 -->
 
+|  |  |  |
+| --- | --- | --- |
 | 46–50. | (not cited) | (Index?)[^005-note16] |
 | 51. etc. | Method of the treatise | Subjects to be handled in the treatise on the mind |
 
@@ -5418,7 +5444,9 @@ Yea, there seems to be nothing of impossibility in the nature of things, but tha
 
 *Introduction.*: Concerning the two worlds, the external and the internal: the external, the subject of natural philosophy; the internal, our own minds. How the knowledge of the latter is in many respects the most important. Of what great use the true knowledge of this is, and of what dangerous consequence errors here are, more than in the other.
 
-#### SUBJECTS TO BE HANDLED IN THE TREATISE ON THE MIND:[^005-note120]
+#### SUBJECTS TO BE HANDLED IN THE TREATISE ON THE MIND:
+
+[^005-note120]
 
 1. Concerning the difference between pleasure and pain and ideas, or the vast difference between the understanding and the will.
 
@@ -5970,7 +5998,9 @@ The text below is printed in such a way as to show as fully as possible how it s
 
 <!-- p. 409 -->
 
-#### "SPIDER" LETTER OF OCTOBER 31, 1723—DRAFT[^006-note8]
+#### "SPIDER" LETTER OF OCTOBER 31, 1723—DRAFT
+
+[^006-note8]
 
 They Are some things *I have observed of that Action the Spider Relating to the Spider* that I have happily *fallen Und-Under my* seen *Relating to their.* <of the> wondrous way of *work* the working of the Spider. Although *an* every thing belonging to this insect is *wonderfull* <admirable> yet there Are some Phenomena Relating to them are more Particularly wonderfull: Every body that is used to the Countrey knows *that* <of> their marching in the Air from *One tree to Another* from one tree to Another, sometimes at the Distance of five or six Rods. Nor Can One Go Out in a Dewy morning at the Latter End of August and the beginning of September but *there* he shall see *hundreds* multitudes of webbs made visible by the Dew that hangs on them, Reaching from one tree, branch & shrub to Another. *and may be seen well Enough in the Daytime by an Observing Eye by their Glistening against the sun and these Spiders have often been seen travelling in the Air from one thing to Another* which webbs are commonly thought to be made in the Night because they appear only in the morning, wheras none of them are made in the night, *wh* for these Spiders *Dont Come Out, Either in the* Never Come Out in the night when it is Dark and the Dew falling, but these webbs may be seen an well <enough> in the Day Time *as in the light by their Glistening against the sun* by an observing Eye by *that* by their *gli* Reflection of the sunbeams. Especially *towards sunset* <late in the afternoon> may these webs that are *between it towards sunset. phe* between the Eye and that Part of the horizon that is under the Sun be seen very Plainly being advantageously posited to Reflect the Rays, and the Spiders themselves may be very often seen travelling <in the air> from one Stage to Another *in an unaccountable manner* amongst the trees in a very unaccountable manner. But I have often seen that which is much more *wonderful* astonishing. in very calm and serene Days *in a* in the forementioned time of Year Standing <at some distance> behind the End of an house or some other Opake body so *that it shew* as Just to hide the Disk of the sun and keep
 
@@ -6222,7 +6252,9 @@ will its determination p. 31 &c. 40. 21.
 
 **[blank]** [8]
 
-### “THE MIND.” Text follows Dwight ed., 1 , pp. 664-702, Appendix H.
+#### “THE MIND.”
+
+**Text follows Dwight ed.,** **1** **, pp. 664-702, Appendix H.**
 
 TITLE. **The Natural History of the Mental World, or of the Inter-**
 
@@ -6244,7 +6276,9 @@ and of what dangerous consequence errours, here, are, more than in the
 
 other.
 
-### Subjects to be handled in the Treatise on the Mind. Dwight provided the following footnote at the end of this series of topics: "The preceding articles were set down from time to time at the close of the work, in two series; the first ending with No. 26." Dwight provided the following footnote at the end of this series of topics: "The preceding articles were set down from time to time at the close of the work, in two series; the first ending with No. 26."
+#### Subjects to be handled in the Treatise on the Mind.
+
+**Dwight provided the following footnote at the end of this series of topics: "The preceding articles were set down from time to time at the close of the work, in two series; the first ending with No. 26." Dwight provided the following footnote at the end of this series of topics: "The preceding articles were set down from time to time at the close of the work, in two series; the first ending with No. 26."**
 
 1. **Concerning the difference between Pleasure and Pain, and Ideas, or**
 
@@ -10358,9 +10392,7 @@ the Gospel.
 
 ### ["OF ATOMS"]
 
-[Trans. version:]
-
-**Sereno Dwight titled this series "Of Atoms and of Perfectly Solid Bodies." See Dwight ed., 1:708–15.**
+[Trans. version:] **Sereno Dwight titled this series "Of Atoms and of Perfectly Solid Bodies." See Dwight ed., 1:708–15.**
 
 Prop 1 **[5]**
 
@@ -11116,7 +11148,9 @@ ease
 
 ### [Revised edited version]
 
-### ["OF ATOMS"] Sereno Dwight titled this series "Of Atoms and of Perfectly Solid Bodies." See Dwight ed., 1:708–15.
+### ["OF ATOMS"]
+
+**Sereno Dwight titled this series "Of Atoms and of Perfectly Solid Bodies." See Dwight ed., 1:708–15.**
 
 Prop. 1. **All bodies whatsoever, except atoms themselves, must of absolute necessity be composed of atoms, or of bodies that are indiscerpible,** **In the MS Edwards spells "indisserpible." Henry More uses the term in** **Immortality of the Soul** **to signify the indivisibility of spirits, and of the least real parts of bodies. More's influence is apparent in the argument JE develops here (see Introduction, above, pp. 63–64).** **that cannot be made less, or whose parts cannot by any finite power whatsoever, be separated one from another. And this will be fully seen as soon as it is seen what bodies those are that are indiscerpible, or what is requisite in a body in order to cause a body** WJE 6:208 reads “it.” **to be so. And here we shall lay down this proposition: that that body that is absolutely plenum, or that has every part of space included within its surface impenetrable, is indivisible; and that the parts thereof can by no means [be] separated from each other, by any force how great soever. As for instance, suppose the body** **B** **[Fig. 1] to be what we call an absolute plenum, and suppose the two bodies A and C to come as impetuously and with as great force as you please, and strike on each side of the body B: I say the two bodies A and C could cause no fraction** **Dwight reads "fracture" both here and in several other occurrences of the word below.** **in the body** **B** **.**
 

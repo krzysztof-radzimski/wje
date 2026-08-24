@@ -1282,17 +1282,15 @@ sons, viz. Joshua, Jeremiah, Gershom, Japheth, and Nehemiah. His son Joshua was 
 
 Mr. David Brainerd was the third son of his parents. They had five sons and four daughters: Their eldest son is Hezekiah Brainerd Esq; a Justice of the Peace, and for several years past a Representative of the town of Haddam, in the General Assembly of Connecticut Colony: the second was the Rev. Mr. Nehemiah Brainerd, a worthy minister at Eastbury in Connecticut, who died of a consumption November 10, 1742. The fourth is Mr. John Brainerd, who succeeds his brother David, as missionary to the Indians, and pastor of the same Church of Christian Indians in New Jersey: And the fifth was Israel, lately student at Yale College in New Haven, and died since his brother David. Mrs. Dorothy Brainerd having lived several years a widow, died, when her son, whose life I am about to give an account of, was about fourteen years of age: So that in his youth he was left both fatherless and motherless. What account he has given of himself, and his own life, may be seen in what follows.][^004-note5]
 
+|  |  |
+| --- | --- |
 | *Manuscript* | *1749 Edition* |
 | For my own private |  |
 | satisfaction, etc., (may it |  |
 | likewise be for the glory of |  |
 | God) I make the following |  |
 | remarks upon the various |  |
-|
-
-<!-- p. 101 -->
-
-  scenes of my life. I was |  |
+| <!-- p. 101 -->  scenes of my life. I was |  |
 | born April 20th, 1718. |  |
 | I was, I think, from | I was, I think, from |
 | my youth something sober | my youth something sober, |
@@ -1335,11 +1333,7 @@ Mr. David Brainerd was the third son of his parents. They had five sons and four
 | *for Children*;[^004-note12] I felt | *for Children*; I felt |
 | sometimes much melted | sometimes much melted |
 | in duties and took great | in duties, and took great |
-|
-
-<!-- p. 102 -->
-
-  delight in the performance | delight in the performance |
+| <!-- p. 102 -->  delight in the performance | delight in the performance |
 | of them and I sometimes | of 'em: And I sometimes |
 | hoped that I was converted | hoped that I was converted, |
 | or at least in a good and | or at least in a good and |
@@ -1381,11 +1375,7 @@ Mr. David Brainerd was the third son of his parents. They had five sons and four
 | I did go into company, | I did go into company, |
 | I never returned from | I never returned from |
 | a frolic in my life with | a frolick in my life with |
-|
-
-<!-- p. 103 -->
-
-  so good a conscience as | so good a conscience as |
+| <!-- p. 103 -->  so good a conscience as | so good a conscience as |
 | I went with. They always | I went with; it always |
 | added new guilt to me | added new guilt to me, |
 | and made me afraid to | and made me afraid to |
@@ -1430,11 +1420,7 @@ Mr. David Brainerd was the third son of his parents. They had five sons and four
 | I went to Mr. Fiske's | I went to Mr. Fiske's, |
 | and lived with him during | and lived with him during |
 | his life, and I remember | his life.[^004-note13] And I remember, |
-|
-
-<!-- p. 104 -->
-
-  he advised me wholly to | he advised me wholly to |
+| <!-- p. 104 -->  he advised me wholly to | he advised me wholly to |
 | abandon young company | abandon young company, |
 | and associate myself with | and associate myself with |
 | grave elderly people which | grave elderly people: which |
@@ -1481,11 +1467,7 @@ Mr. David Brainerd was the third son of his parents. They had five sons and four
 | to recollect the same sermons. | to recollect the same sermons. |
 | And I had sometimes | And I had sometimes |
 | considerable movings of | considerable movings of |
-|
-
-<!-- p. 105 -->
-
-  affections in duties and | affection in duties, and |
+| <!-- p. 105 -->  affections in duties and | affection in duties, and |
 | much pleasure and I had | much pleasure, and had |
 | many thoughts of joining | many thoughts of joining |
 | to the Church. In short, | to the Church. In short, |
@@ -1530,11 +1512,7 @@ Mr. David Brainerd was the third son of his parents. They had five sons and four
 | had pleased myself | had pleased myself |
 | with all presently vanished, | with, all presently vanished; |
 | and I was much distressed | and from the view that I |
-|
-
-<!-- p. 106 -->
-
-  all that day fearing the | had of my sin and |
+| <!-- p. 106 -->  all that day fearing the | had of my sin and |
 | vengeance of God would | vileness, I was much distressed |
 | soon overtake me, and | all that day, fearing |
 | that from a view of my | the vengeance of God would soon |
@@ -1581,11 +1559,7 @@ Mr. David Brainerd was the third son of his parents. They had five sons and four
 | myself to God by my | myself to God by my |
 | religious duties; and when | religious duties; and when |
 | I prayed affectionately | I prayed affectionately, |
-|
-
-<!-- p. 107 -->
-
-  and my heart seemed in | and my heart seemed in |
+| <!-- p. 107 -->  and my heart seemed in | and my heart seemed in |
 | some measure to melt, | some measure to melt, |
 | I hoped God would be | I hoped God would be |
 | moved thereby to pity me: | thereby moved to pity me, |
@@ -1632,11 +1606,7 @@ Mr. David Brainerd was the third son of his parents. They had five sons and four
 | God was affected as I was | God was affected as I was, |
 | and that he would hear | and that he would hear |
 | such sincere cries (as I called them). | such sincere cries (as I called them) |
-|
-
-<!-- p. 108 -->
-
-  Thus I thought God was |  |
+| <!-- p. 108 -->  Thus I thought God was |  |
 | altogether such an one |  |
 | as myself, but God did |  |
 | reprove me and set my |  |
@@ -1684,11 +1654,7 @@ Mr. David Brainerd was the third son of his parents. They had five sons and four
 | me and thought I | me, and thought I |
 | should soon be fully | should soon be fully |
 | reconciled to God, and | reconciled to God; |
-|
-
-<!-- p. 109 -->
-
-  the great work quickly done, |  |
+| <!-- p. 109 -->  the great work quickly done, |  |
 | while the whole was | while the whole was |
 | founded upon mere | founded on mere |
 | presumption, arising | presumption, arising |
@@ -1736,11 +1702,7 @@ Mr. David Brainerd was the third son of his parents. They had five sons and four
 | to damnation that | to damnation, that |
 | I could not endure it. | I could not endure it. |
 | Which plainly shows |  |
-|
-
-<!-- p. 110 -->
-
-  that the whole work |  |
+| <!-- p. 110 -->  that the whole work |  |
 | of the Spirit of God |  |
 | in conviction of sin is |  |
 | carried on in the soul |  |
@@ -1787,11 +1749,7 @@ Mr. David Brainerd was the third son of his parents. They had five sons and four
 | distress still remained | distress still remained, |
 | I was wont to murmur | I was wont to murmur |
 | at God's dealings with | at God's dealings with |
-|
-
-<!-- p. 111 -->
-
-  me and thought when | me; and thought, when |
+| <!-- p. 111 -->  me and thought when | me; and thought, when |
 | others felt their hearts | others felt their hearts |
 | softened God showed | softened, God showed |
 | them mercy, but my | them mercy: But my |
@@ -1836,11 +1794,7 @@ Mr. David Brainerd was the third son of his parents. They had five sons and four
 | of the dreadfulness of | of impending wrath; which |
 | my state if I should lose | made me exceeding exact |
 | those convictions and so | in my behavior, lest I should |
-|
-
-<!-- p. 112 -->
-
-  return again to a secure state | stifle the motions of |
+| <!-- p. 112 -->  return again to a secure state | stifle the motions of |
 | as the dog to his vomit. | God's spirit. When at any |
 | Nothing therefore I so | time I took a view of |
 | much feared as a state | my convictions of my own |
@@ -1887,11 +1841,7 @@ Mr. David Brainerd was the third son of his parents. They had five sons and four
 | 'em going off, I was | Christ: And being "like |
 | immediately roused and | the troubled sea" [^004-note19], |
 | distressed fearing I | and my thoughts confused, |
-|
-
-<!-- p. 113 -->
-
-  should be finally left of | I used to contrive to |
+| <!-- p. 113 -->  should be finally left of | I used to contrive to |
 | God and so perish eternally. | escape the wrath of God |
 | I found in me great | by some other means, |
 | struggles, heart-risings, | and had strange projections, |
@@ -1935,11 +1885,7 @@ Mr. David Brainerd was the third son of his parents. They had five sons and four
 | I was aware into the most | other books represented. |
 | wild and inconsistent | Sometimes I used to |
 | projects:[^004-note20] [I thought Adam | take much pains to work |
-|
-
-<!-- p. 114 -->
-
-  was a fool for being scared | it up into a good frame, |
+| <!-- p. 114 -->  was a fool for being scared | it up into a good frame, |
 | by that sword; and | a humble submissive |
 | methought if I could get | disposition; and hoped |
 | there, I'd venture the sword | there was then some |
@@ -1985,11 +1931,7 @@ Mr. David Brainerd was the third son of his parents. They had five sons and four
 | And if all would not | to a firm belief of, and |
 | do, I used immediately | hearty assent to; humbled |
 | to contend with God, | and bowed to the divine |
-|
-
-<!-- p. 115 -->
-
-  as if I were stronger | sovereignty; and was wont |
+| <!-- p. 115 -->  as if I were stronger | sovereignty; and was wont |
 | than he and faulted his | to tell God in my prayers |
 | justice as if his ways | that now I had those |
 | were not equal; and | very dispositions of soul |
@@ -2032,11 +1974,7 @@ Mr. David Brainerd was the third son of his parents. They had five sons and four
 | and malice against God. |  |
 | It made me fear and |  |
 | tremble lest God's vengeance |  |
-|
-
-<!-- p. 116 -->
-
-  should suddenly fall |  |
+| <!-- p. 116 -->  should suddenly fall |  |
 | upon me. Thus I was |  |
 | brought to see and feel |  |
 | that my "carnal mind is |  |
@@ -2083,11 +2021,7 @@ Mr. David Brainerd was the third son of his parents. They had five sons and four
 | of a deep humiliation |  |
 | in order for a saving |  |
 | close with Jesus Christ, |  |
-|
-
-<!-- p. 117 -->
-
-  I used to consider what |  |
+| <!-- p. 117 -->  I used to consider what |  |
 | were the requisites for, |  |
 | or ingredients of such |  |
 | a submission or humiliation. |  |
@@ -2134,11 +2068,7 @@ Mr. David Brainerd was the third son of his parents. They had five sons and four
 | plainly shews that they |  |
 | were but sparks of my |  |
 | own kindling. Then I was |  |
-|
-
-<!-- p. 118 -->
-
-  wont to go to God by |  |
+| <!-- p. 118 -->  wont to go to God by |  |
 | prayers, and tell him, |  |
 | that now I had got |  |
 | those very dispositions |  |
@@ -2185,11 +2115,7 @@ Mr. David Brainerd was the third son of his parents. They had five sons and four
 | watched my heart more |  |
 | narrowly to keep it |  |
 | from breaking out against |  |
-|
-
-<!-- p. 119 -->
-
-  God's dealings: and I even |  |
+| <!-- p. 119 -->  God's dealings: and I even |  |
 | wished I had not pleaded |  |
 | for mercy on that account |  |
 | because I had thereby lost |  |
@@ -2231,11 +2157,7 @@ Mr. David Brainerd was the third son of his parents. They had five sons and four
 | unreasonably rigid. I | I |
 | thought, if 'twould | thought, if it |
 | not accuse and condemn | extended only to my |
-|
-
-<!-- p. 120 -->
-
-  me for my secret thoughts, | outward actions and |
+| <!-- p. 120 -->  me for my secret thoughts, | outward actions and |
 | I could tolerably well | behaviors, I could |
 | bear with it, for my | bear with it: But I found |
 | actions and behavior I | it condemned me for my |
@@ -2282,11 +2204,7 @@ Mr. David Brainerd was the third son of his parents. They had five sons and four
 | and ability, and hope |  |
 | of doing something great |  |
 | hereafter, kept me a |  |
-|
-
-<!-- p. 121 -->
-
-  long time from submitting |  |
+| <!-- p. 121 -->  long time from submitting |  |
 | into the hands of divine |  |
 | sovereignty: for though I |  |
 | did despair in myself |  |
@@ -2333,11 +2251,7 @@ Mr. David Brainerd was the third son of his parents. They had five sons and four
 | get myself, and could | for mere nothing, who |
 | not oblige God to bestow | had been very conscientious |
 | upon me for any of my | in duty, and had been |
-|
-
-<!-- p. 122 -->
-
-  duties, but it must be | exceeding religious a great |
+| <!-- p. 122 -->  duties, but it must be | exceeding religious a great |
 | of free grace (Ephesians 2:1, | while, and had (as I |
 | and Ephesians 2:8). "This," I was ready | thought) done much more |
 | to say, "was a hard saying, | than many others that had |
@@ -2381,11 +2295,7 @@ Mr. David Brainerd was the third son of his parents. They had five sons and four
 | was spiritually good. It |  |
 | riled me that God had |  |
 | made no promise to my |  |
-|
-
-<!-- p. 123 -->
-
-  honest and faithful |  |
+| <!-- p. 123 -->  honest and faithful |  |
 | endeavors after salvation, |  |
 | that I could lay hold of, |  |
 | and lay claim to, as my |  |
@@ -2428,11 +2338,7 @@ Mr. David Brainerd was the third son of his parents. They had five sons and four
 | me and Christ, which I | me and Christ, |
 | seemed to have no direction | without any direction |
 | to get through. I thought, | to get through. |
-|
-
-<!-- p. 124 -->
-
-  if ever he had found |  |
+| <!-- p. 124 -->  if ever he had found |  |
 | Christ himself. I wondered |  |
 | he could not tell me the |  |
 | way. I was almost |  |
@@ -2477,11 +2383,7 @@ Mr. David Brainerd was the third son of his parents. They had five sons and four
 | case the Romans 9 chap. of | Romans 9:11-23, |
 | Rom. from the Romans 9:11 verse |  |
 | to Romans 9:23 was a constant | was a constant |
-|
-
-<!-- p. 125 -->
-
-  vexation to me, more | vexation to me, |
+| <!-- p. 125 -->  vexation to me, more | vexation to me, |
 | especially verse Romans 9:21, the | especially verse Romans 9:21. The |
 | reading or meditating of | reading or meditating on |
 | this always destroyed | this always destroyed |
@@ -2528,11 +2430,7 @@ Mr. David Brainerd was the third son of his parents. They had five sons and four
 | the men in the world to |  |
 | hell, rather than lose |  |
 | the least part of his |  |
-|
-
-<!-- p. 126 -->
-
-  honor, this used to |  |
+| <!-- p. 126 -->  honor, this used to |  |
 | throw me into almost |  |
 | a rage with God. I |  |
 | thought a little before I |  |
@@ -2579,11 +2477,7 @@ Mr. David Brainerd was the third son of his parents. They had five sons and four
 | the Lord might be done. |  |
 | For I concluded 'twas |  |
 | God's will to thrust |  |
-|
-
-<!-- p. 127 -->
-
-  me into hell; and if |  |
+| <!-- p. 127 -->  me into hell; and if |  |
 | I should pray that |  |
 | that might be done I |  |
 | expected he would do it. |  |
@@ -2630,11 +2524,7 @@ Mr. David Brainerd was the third son of his parents. They had five sons and four
 | and own that important | I dared not see that important |
 | truth concerning myself | truth concerning myself, |
 | that I was wholly "dead | that I was "dead |
-|
-
-<!-- p. 128 -->
-
-  in trespasses and sins" | in trespasses and sins" |
+| <!-- p. 128 -->  in trespasses and sins" | in trespasses and sins" |
 | (Ephesians 2:1, Ephesians 2:5), that there | [^004-note34]. |
 | was not the least spark |  |
 | of spiritual life or |  |
@@ -2681,11 +2571,7 @@ Mr. David Brainerd was the third son of his parents. They had five sons and four
 | of the divine being; the | of the divine being; the |
 | sight of this truth, I | sight of this truth, I |
 | say, my soul shrank | say, my soul shrank |
-|
-
-<!-- p. 129 -->
-
-  away from, and | away from, and |
+| <!-- p. 129 -->  away from, and | away from, and |
 | trembled to think of | trembled to think of |
 | beholding, thus "he that | beholding. Thus, "he that |
 | doth evil" (as all | doth evil" (as all |
@@ -2732,11 +2618,7 @@ Mr. David Brainerd was the third son of his parents. They had five sons and four
 | that on the contrary my | that, on the contrary, my |
 | mouth was forever | mouth would be forever |
 | stopped and I necessarily | stopped by it; |
-|
-
-<!-- p. 130 -->
-
-  became guilty before God, |  |
+| <!-- p. 130 -->  became guilty before God, |  |
 | in that way and by that |  |
 | means, and hence it | and it |
 | looked as dreadful and | looked as dreadful |
@@ -2783,11 +2665,7 @@ Mr. David Brainerd was the third son of his parents. They had five sons and four
 | God would damn me. |  |
 | But after considerable | But after a considerable |
 | time spent in much distress, | time spent in such like |
-|
-
-<!-- p. 131 -->
-
-  especially by turns; one | exercises and distresses, one |
+| <!-- p. 131 -->  especially by turns; one | exercises and distresses, one |
 | morning while I was | morning, while I was |
 | walking in a solitary place | walking in a solitary place |
 | (as usual) and came | as usual, |
@@ -2832,11 +2710,7 @@ Mr. David Brainerd was the third son of his parents. They had five sons and four
 | against a sight of myself, | mind was now quieted; |
 | and of the divine sovereignty. | and I was something |
 | I felt something like | eased of that distress |
-|
-
-<!-- p. 132 -->
-
-  a criminal at the bar | which I felt while |
+| <!-- p. 132 -->  a criminal at the bar | which I felt while |
 | waiting for his sentence, | struggling against a sight |
 | excepting this, I felt | of myself, and of the |
 | but little concern which | divine sovereignty. I had |
@@ -2883,11 +2757,7 @@ Mr. David Brainerd was the third son of his parents. They had five sons and four
 | happiness either in |  |
 | the present or coming |  |
 | world, and yet felt |  |
-|
-
-<!-- p. 133 -->
-
-  no considerable degree |  |
+| <!-- p. 133 -->  no considerable degree |  |
 | of misery sensibly, |  |
 | though I felt indeed |  |
 | something so far |  |
@@ -2934,11 +2804,7 @@ Mr. David Brainerd was the third son of his parents. They had five sons and four
 | hard I thought it | hard I thought it |
 | would be for God to | would be for God to |
 | cast me off, though at | cast me off; though at |
-|
-
-<!-- p. 134 -->
-
-  the same time I | the same time I |
+| <!-- p. 134 -->  the same time I | the same time I |
 | confessed, and thought | confessed, and thought |
 | I saw, that there was | I saw, that there was |
 | no goodness or merit | no goodness or merit |
@@ -2985,11 +2851,7 @@ Mr. David Brainerd was the third son of his parents. They had five sons and four
 | was this. Methought I |  |
 | saw a stately house, |  |
 | a very beauteous building, |  |
-|
-
-<!-- p. 135 -->
-
-  and I had been |  |
+| <!-- p. 135 -->  and I had been |  |
 | heaping up dirt, filth, |  |
 | and rubbish against |  |
 | the foreside of it |  |
@@ -3036,11 +2898,7 @@ Mr. David Brainerd was the third son of his parents. They had five sons and four
 | was instantly this, |  |
 | that I had been | I saw that I had been |
 | heaping up my devotions | heaping up my devotions |
-|
-
-<!-- p. 136 -->
-
-  before God, fasting, | before God, fasting, |
+| <!-- p. 136 -->  before God, fasting, | before God, fasting, |
 | praying, etc., pretending | praying, etc., pretending, |
 | and indeed really | and indeed really |
 | thinking that at some | thinking, at some |
@@ -3086,11 +2944,7 @@ Mr. David Brainerd was the third son of his parents. They had five sons and four
 | vile mockery of God, | vile mockery of God, |
 | self-worship, and a | self-worship, and a |
 | continued course of lies! | continual course of lies; |
-|
-
-<!-- p. 137 -->
-
-  So that here was something | so that I saw now, there was something |
+| <!-- p. 137 -->  So that here was something | so that I saw now, there was something |
 | worse now attended my | worse had attended my |
 | duties than barely a few | duties, than barely a few |
 | wanderings, etc. For the | wanderings, etc. For the |
@@ -3133,11 +2987,7 @@ Mr. David Brainerd was the third son of his parents. They had five sons and four
 | as if there was nothing | as if there was nothing |
 | in heaven or earth | in heaven or earth |
 | could make me happy. | could make me happy. |
-|
-
-<!-- p. 138 -->
-
-  And having been thus | And having been thus |
+| <!-- p. 138 -->  And having been thus | And having been thus |
 | endeavoring to pray (though | endeavoring to pray (though being, as |
 | very stupid and senseless) | I thought, very stupid and senseless) |
 | for near about half | for near half |
@@ -3183,11 +3033,7 @@ Mr. David Brainerd was the third son of his parents. They had five sons and four
 | apprehension of any one | apprehension of any one |
 | person in the Trinity, | person in the Trinity, |
 | either the Father, Son, | either the Father, Son, |
-|
-
-<!-- p. 139 -->
-
-  or Holy Spirit, but | or Holy Ghost; but |
+| <!-- p. 139 -->  or Holy Spirit, but | or Holy Ghost; but |
 | it appeared to be | it appeared to be |
 | divine glory and | divine glory |
 | splendor that I then | that I then |
@@ -3234,11 +3080,7 @@ Mr. David Brainerd was the third son of his parents. They had five sons and four
 | any sensible abatement, | any sensible abatement; |
 | and then began to think | and then began to think |
 | and examine what I | and examine what I |
-|
-
-<!-- p. 140 -->
-
-  had seen and felt. And | had seen, and |
+| <!-- p. 140 -->  had seen and felt. And | had seen, and |
 | felt sweetly composed | felt sweetly composed |
 | in my mind all the | in my mind all the |
 | evening following. I felt | evening following: I felt |
@@ -3283,11 +3125,7 @@ Mr. David Brainerd was the third son of his parents. They had five sons and four
 | constantly in a greater | constantly, in a greater |
 | or less degree: lying | or less degree: I could |
 | down and rising up | not but sweetly rejoice in |
-|
-
-<!-- p. 141 -->
-
-  I could not but sweetly | God, lying down and |
+| <!-- p. 141 -->  I could not but sweetly | God, lying down and |
 | rejoice in God. The next | rising up. The next |
 | Lord's Day I felt | Lord's Day I felt |
 | something of the same | something of the same |
@@ -3332,11 +3170,7 @@ Mr. David Brainerd was the third son of his parents. They had five sons and four
 | place of retirement in |  |
 | order to pray.[^004-note46] Sometimes |  |
 | I used to think such |  |
-|
-
-<!-- p. 142 -->
-
-  persons were not nor |  |
+| <!-- p. 142 -->  persons were not nor |  |
 | could be Christians, and |  |
 | sometimes I thought there |  |
 | were two sorts of |  |
@@ -3381,11 +3215,7 @@ Mr. David Brainerd was the third son of his parents. They had five sons and four
 | college and entered there, | college,[^004-note49] and entered there: |
 | but with some degree | but with some degree |
 | of reluctancy fearing | of reluctancy, fearing |
-|
-
-<!-- p. 143 -->
-
-  least I should not be | lest I should not be |
+| <!-- p. 143 -->  least I should not be | lest I should not be |
 | able to lead a life of | able to lead a life of |
 | strict religion in the | strict religion in the |
 | midst of so many | midst of many |
@@ -3430,11 +3260,7 @@ Mr. David Brainerd was the third son of his parents. They had five sons and four
 | taken the distemper went | taken the distemper, went |
 | home to Haddam, but | home to Haddam: But |
 | some days before I | some days before I |
-|
-
-<!-- p. 144 -->
-
-  was taken sick I felt | was taken sick, I seemed to be |
+| <!-- p. 144 -->  was taken sick I felt | was taken sick, I seemed to be |
 | greatly deserted and my | greatly deserted, and my |
 | soul mourned the absence | soul mourned the absence |
 | of the comforter exceedingly. | of the comforter exceedingly: |
@@ -3481,11 +3307,7 @@ Mr. David Brainerd was the third son of his parents. They had five sons and four
 | of more time and | of more time and |
 | opportunity to be alone | opportunity to be alone |
 | with God. In the spring | with God. In the spring |
-|
-
-<!-- p. 145 -->
-
-  and summer following | and summer following |
+| <!-- p. 145 -->  and summer following | and summer following |
 | I had better advantages | I had better advantages |
 | for retirement and | for retirement, and |
 | enjoyed more comfort | enjoyed more comfort |
@@ -3532,11 +3354,7 @@ Mr. David Brainerd was the third son of his parents. They had five sons and four
 | of the Holy Spirit, and |  |
 | I felt alone in the world |  |
 | like a stranger and pilgrim. |  |
-|
-
-<!-- p. 146 -->
-
-  When I came from the | When I came from the |
+| <!-- p. 146 -->  When I came from the | When I came from the |
 | Lord's table I wondered | Lord's table, I wondered |
 | how my fellow students | how my fellow students |
 | could live, as I was sensible | could live as I was sensible |
@@ -3582,11 +3400,7 @@ Mr. David Brainerd was the third son of his parents. They had five sons and four
 | things, and in particular | things; and particularly |
 | on October 13 I found | on October 13, I found |
 | divine help, and consolation | divine help and consolation |
-|
-
-<!-- p. 147 -->
-
-  in the precious duties of | in the precious duties of |
+| <!-- p. 147 -->  in the precious duties of | in the precious duties of |
 | secret prayer and self- | secret prayer and self- |
 | examination my soul took | examination, and my soul took |
 | delight in the blessed God. | delight in the blessed God: |
@@ -3632,11 +3446,7 @@ Mr. David Brainerd was the third son of his parents. They had five sons and four
 | Lord's Day, October 19. | Lord's Day, October 19. |
 | In the morning I felt my | In the morning I felt my |
 | soul "hungering and thirsting | soul "hungering and thirsting |
-|
-
-<!-- p. 148 -->
-
-  after righteousness" [^004-note55] | after righteousness" [^004-note56]. |
+| <!-- p. 148 -->  after righteousness" [^004-note55] | after righteousness" [^004-note56]. |
 | and was very warm and lively |  |
 | in my secret devotions. In | In |
 | the forenoon while I was | the forenoon, while I was |
@@ -3681,11 +3491,7 @@ Mr. David Brainerd was the third son of his parents. They had five sons and four
 | likewise experience of the | likewise experience of the |
 | goodness of God in | goodness of God in |
 | "shedding abroad his love | "shedding abroad his love |
-|
-
-<!-- p. 149 -->
-
-  in my heart" [^004-note59], and | in my heart" [^004-note60], and |
+| <!-- p. 149 -->  in my heart" [^004-note59], and | in my heart" [^004-note60], and |
 | giving me delight and | giving me delight and |
 | consolation in my religious | consolation in religious |
 | duties. And all the | duties. And all the |
@@ -3726,11 +3532,7 @@ Mr. David Brainerd was the third son of his parents. They had five sons and four
 | and so quartered with |  |
 | Capt. Dickerman[^004-note62] for that |  |
 | very end and purpose. |  |
-|
-
-<!-- p. 150 -->
-
-  But before I went I | But before I went, I |
+| <!-- p. 150 -->  But before I went I | But before I went, I |
 | enjoyed several other | enjoyed several other |
 | sweet and precious | sweet and precious |
 | seasons of communion | seasons of communion |
@@ -3777,11 +3579,7 @@ Mr. David Brainerd was the third son of his parents. They had five sons and four
 | Lord's Day December 7 |  |
 | being sacrament day also |  |
 | I was very lifeless a |  |
-|
-
-<!-- p. 151 -->
-
-  considerable part of the |  |
+| <!-- p. 151 -->  considerable part of the |  |
 | day though I had been |  |
 | more painful than |  |
 | ordinary in my preparations |  |
@@ -3828,11 +3626,7 @@ Mr. David Brainerd was the third son of his parents. They had five sons and four
 | cold and indolent in | cold and dull in |
 | matters of religion by | matters of religion by |
 | means of my old | means of my old |
-|
-
-<!-- p. 152 -->
-
-  temptation, viz., | temptation, viz., |
+| <!-- p. 152 -->  temptation, viz., | temptation, viz., |
 | ambition in my studies. | ambition in my studies. |
 | But after this some time |  |
 | in February following |  |
@@ -3876,11 +3670,7 @@ Mr. David Brainerd was the third son of his parents. They had five sons and four
 | But through divine | But through divine |
 | goodness a great and | goodness a great and |
 | general concern soon after | general awakening |
-|
-
-<!-- p. 153 -->
-
-  spread itself | spread itself |
+| <!-- p. 153 -->  spread itself | spread itself |
 | over the college, about | over the college, about |
 | the latter end of | the latter end of |
 | February 1740–41, in which | February, in which |

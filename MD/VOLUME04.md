@@ -298,19 +298,21 @@ that the igniting spark came from his own congregation, although in a few instan
 
 <!-- p. 23 -->
 
+|  |  |
+| --- | --- |
 | 1. Northfield, Mass. | *Benjamin Doolittle, 1718–48 |
-| 2. "part of Deerfield, called Green River" |
+| 2. "part of Deerfield, called Green River" |  |
 | 3. Deerfield, Mass. | *Jonathan Ashley, 1732–80 |
 | 4. Sunderland, Mass. | *William Rand, 1723–80 |
 | 5. Hatfield, Mass. | William Williams, 1685–1741 |
-| 6. South Hatfield, "a place called The Hill" |
+| 6. South Hatfield, "a place called The Hill" |  |
 | 7. Hadley, Mass. | Isaac Chauncy, 1965–1745 |
 | 8. South Hadley, Mass. | *Grindall Rawson, 1733–41 |
 | 9. Westfield, Mass. | Nehemiah Bull, 1726–40 |
 | 10. West Springfield, Mass. | *Samuel Hopkins, 1720–55 |
 | 11. Springfield, Mass. | *Robert Breck, 1735–84 |
 | 12. Longmeadow, Mass. | Stephan Williams, 1714–82 |
-| 13. West Suffield, Mass. (now in Conn.) |
+| 13. West Suffield, Mass. (now in Conn.) |  |
 | 14. Suffield, Mass. (now in Conn.) | Ebenezer Devotion, 1709–41 |
 | 15. Enfield, Mass, (now in Conn.) | Peter Reynolds, 1724–68 |
 | 16. Windsor, Conn. | *Jonathan Marsh, 1710–47 |
@@ -853,6 +855,8 @@ it fulfilled to the letter its promise. After a predictable preface, "Giving an 
 
 ## Part I, obviously, was what Chauncy regarded as most seasonable: it takes up more than two-thirds of his 424 pages. But though he descanted on every grievance of the Old Lights against the revivalists, he offered little that Edwards had not anticipated.[^003-note189]
 
+|  |  |  |
+| --- | --- | --- |
 | *Topic* | *Edwards* | *Chauncy* |
 | A priori judgments of the revival | 293–96 | 378–82 |
 | Extrabiblical canons for judging | 296–313 | 382–89 |
@@ -5376,7 +5380,9 @@ was attended with an abounding in this duty. So we know it was with that great e
 
 [^006-note83]: [I.e., of the Decalogue; see above, p. 395 n.]
 
-type="footnote" n="4">[August Hermann Francke (1663–1727) may be credited with institutionalizing the Pietistic movement in German Lutheranism begun by Philipp Jakob Spener (1635–1707). Appointed to a professorship at the University of Halle (in Saxony) in 1691, Francke by the time of his death had made the school a center of Pietism. His influence was multiplied many times over through educational foundations, philanthropic institutions, and evangelistic missions throughout the world.] And the remarkable blessing that God has given Mr. Whitefield, and the great success with which he has crowned him, may well be thought to be very much owing to his laying out himself so abundantly in charitable designs.[^007-note1] And it is foretold that God's people shall abound in this duty in the time of the great outpouring of the Spirit that shall be in the latter days. Isaiah 32:5 and Isaiah 32:8, "The vile person shall no more be called liberal, nor the churl said to be bountiful…. But the liberal deviseth liberal things, and by liberal things shall he stand." [D] To promote a reformation with respect to all sorts of duties among a professing people, one proper means, and that which is recommended by frequent Scripture examples, is their solemn, public renewing their covenant with God.[^007-note2] And doubtless it would greatly tend to promote this work in the land, if the congregations of God's people could generally be brought to this. If a draft of a covenant should be made by their ministers, wherein there should be an express mention of those particular duties that the people of the respective congregations have been observed to be most prone to neglect, and those particular sins that they have heretofore especially fallen into, or that it may be apprehended they are especially in danger of, whereby they may prevent or resist the motions of God's Spirit, and the matter should be fully proposed and explained to the people, and they have sufficient opportunity
+type="footnote" n="4">[August Hermann Francke (1663–1727) may be credited with institutionalizing the Pietistic movement in German Lutheranism begun by Philipp Jakob Spener (1635–1707). Appointed to a professorship at the University of Halle (in Saxony) in 1691, Francke by the time of his death had made the school a center of Pietism. His influence was multiplied many times over through educational foundations, philanthropic institutions, and evangelistic missions throughout the world.] And the remarkable blessing that God has given Mr. Whitefield, and the great success with which he has crowned him, may well be thought to be very much owing to his laying out himself so abundantly in charitable designs.[^007-note1]
+
+ And it is foretold that God's people shall abound in this duty in the time of the great outpouring of the Spirit that shall be in the latter days. Isaiah 32:5 and Isaiah 32:8, "The vile person shall no more be called liberal, nor the churl said to be bountiful…. But the liberal deviseth liberal things, and by liberal things shall he stand." [D] To promote a reformation with respect to all sorts of duties among a professing people, one proper means, and that which is recommended by frequent Scripture examples, is their solemn, public renewing their covenant with God.[^007-note2] And doubtless it would greatly tend to promote this work in the land, if the congregations of God's people could generally be brought to this. If a draft of a covenant should be made by their ministers, wherein there should be an express mention of those particular duties that the people of the respective congregations have been observed to be most prone to neglect, and those particular sins that they have heretofore especially fallen into, or that it may be apprehended they are especially in danger of, whereby they may prevent or resist the motions of God's Spirit, and the matter should be fully proposed and explained to the people, and they have sufficient opportunity
 
 <!-- p. 529 -->
 
@@ -5418,7 +5424,9 @@ most of the clamor that is made against them must needs be from some other princ
 
 I rejoice to hear of the flourishing of the work of God in your parts: I hope God will cause it to prevail against all opposition. Let us look to God to plead his own cause, and to get to himself the victory. Seek to him to direct you and give you wisdom, and humility, and zeal. I desire your prayers for me. I am your sincere and entire friend,
 
-Jonathan Edwards.P.S. The Rev. Mr, Williams of Hatfield[^007-note7] died this morning.
+Jonathan Edwards.P.S. The Rev. Mr, Williams of Hatfield[^007-note7]
+
+ died this morning.
 
 <!-- p. 535 -->
 
@@ -5642,7 +5650,9 @@ You inquire of me, Rev. Sir, whether I reject all those for counterfeits that sp
 
 <!-- p. 561 -->
 
-### TO THE REV. THOMAS GILLESPIE OF CARNOCK, SCOTLAND[^007-note27]
+### TO THE REV. THOMAS GILLESPIE OF CARNOCK, SCOTLAND
+
+[^007-note27]
 
 The original is in the Andover MSS, and is printed (with some revisions) in Dwight, Life of President Edwards, pp. 462–68. The main subject of the letter is JE's dismissal from Northampton (above, pp. 87–88), but much of it describes conditions in the town which bore importantly on the revivals. Approximately half the letter is reproduced below; the complete piece will appear in the "letters" volume of the Yale edition of The Works of Jonathan Edwards. Stockbridge,July 1, 1751Rev. and Very Dear Sir,
 

@@ -677,7 +677,11 @@ All along in his several accounts of common morality, Edwards prepared for this 
 
 all the subordinate kinds
 
-."[^003-note112] I take that sentence to mean the same as the one-line note to himself in the "Controversies"— draft, "The Nature of True Virtue" (MS p. 188), which reads: "METHOD. Show how all virtues are derived from pure benevolence."[^003-note113] Only the final brief paragraphs of Ch. VII of True Virtue cash in that promissory note. But surely the 1738 sermon series, which Tryon Edwards appropriately titled Charity and Its Fruits; Or Christian Love as Manifested in Heart and Life, dealt with that extensively. So there is a certain logic in the arrangement by which we come to the articulation of the virtues of true virtue last in this introduction.Before, however, enlarging upon the positive nature of true virtue (as Edwards did in *Charity* and in the twelve positive signs in *Affections*), I suggest an abbreviated comparison between the analysis of morality compressed into the last three paragraphs of Ch. VII of *True Virtue* and that to which Thomas Aquinas devoted many pages.
+."[^003-note112]
+
+ I take that sentence to mean the same as the one-line note to himself in the "Controversies"— draft, "The Nature of True Virtue" (MS p. 188), which reads: "METHOD. Show how all virtues are derived from pure benevolence."[^003-note113]
+
+ Only the final brief paragraphs of Ch. VII of True Virtue cash in that promissory note. But surely the 1738 sermon series, which Tryon Edwards appropriately titled Charity and Its Fruits; Or Christian Love as Manifested in Heart and Life, dealt with that extensively. So there is a certain logic in the arrangement by which we come to the articulation of the virtues of true virtue last in this introduction.Before, however, enlarging upon the positive nature of true virtue (as Edwards did in *Charity* and in the twelve positive signs in *Affections*), I suggest an abbreviated comparison between the analysis of morality compressed into the last three paragraphs of Ch. VII of *True Virtue* and that to which Thomas Aquinas devoted many pages.
 
 "Virtuous *pity*" and the other fruits of charity in the sermons on 1 Corinthians 13 call to mind Aquinas on the infused moral virtues. These were moral virtues infused with the theological virtues (faith, hope, and charity), parallel with his natural moral virtues, and to which he also gives the "same denomination," e.g., justice, courage, etc.[^003-note114] Edwards would agree with Aquinas that "charity is the mother and root of all the virtues."[^003-note115] If it is objected that, unlike Aquinas, he would not have continued that sentence with the words, "inasmuch as it is the form of them all," that depends on the meaning of *form*. First cause and the end or final cause (Alpha and Omega) were the important ones for Edwards; *formal cause* was swallowed up in the laws of nature and moral constitutions. Still, he used Augustinian analysis and the language of virtues "arising from" and as "forms of" love.[^003-note116] Aquinas' explanation of *form* in this context is the same: form is plastic to the surpassing *end* of charity. Charity is the mother of the other virtues, since she conceives within herself "the acts of the other virtues, by the desire of the last end." It is in this sense that "charity is said to be the end of other virtues, because it directs all other virtues to its own end." Thus "it is charity which directs the acts of all other virtues to the last end, and which consequently, also *gives the form* to
 
@@ -1101,6 +1105,8 @@ four, six, seven, ten, and fifteen required more than one preaching occasion to 
 
 All this can be seen from the five columns below. These columns indicate respectively (1) the booklet/sermon, by Roman numerals; (2) the total number of pages filled by the scribe, in arabic numerals; (3) next, also in arabic numbers, the number of pages remaining blank in the booklet (I count as unused a page on which only one or a very few words are written, e.g., booklets/sermons seven and eleven); (4) the number of preaching occasions, if more than one, i.e., "two" or "three"; and (5) the month in which the sermon was preached.
 
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
 | *Booklet* | *Total Pages* | *Pages Blank* | *Preaching Units* | *Date* |
 | I | 24 | 2 1⁄2 |  | April 1738 |
 | II | 30 | 2 |  | May 1738 |
@@ -1122,6 +1128,8 @@ Specific details concerning the Andover copy are provided in my notes to the cha
 
 <!-- p. 106 -->
 
+|  |  |
+| --- | --- |
 | *Edited text of Andover copy* | *Tryon Edwards' edition* |
 | (6) Humility will tend to prevent a leveling behavior. They who are | Humility will further tend *to prevent a leveling behavior*. Some persons |
 | under the influence of a humble spirit will not be opposite to giving to others the honor which is due them. They will be willing that their superiors should be known and acknowledged in their place, and it will not seem hard to them. [*Charity*, p. 242.] | are always ready to level those above them down to themselves, while they are never willing to level those below them up to their own position. But he that is under the influence of humility will avoid both extremes. On the one hand... and on the other hand, he will be willing that his superiors should be known and acknowledged in their place, and have rendered to them all the honors that are their due. [p. 206] |
@@ -1136,6 +1144,8 @@ One example of a longer passage will suffice, in this instance showing Tryon Edw
 
 <!-- p. 109 -->
 
+|  |  |
+| --- | --- |
 | *Edited text of Andover copy* | *Tryon Edwards' edition* |
 | *Second*. Hence these two kinds of privileges are not to be considered by taking things which have some appearance of an extraordinary miraculous gift of the Spirit for sure | 2. *Hence these two kinds of privileges are not to be confounded, by taking things that have some appearance of an extraordinary miraculous gift of the Spirit, for sure signs of grace*.— If persons at any time |
 | signs of saving grace. As if persons at any time have some extraordinary impressions made upon their minds, which, they think, are from God, and are to reveal something to them which shall come to pass hereafter. This, if it were real, would argue an extraordinary gift of the Holy Ghost, viz. the gift of prophecy; and the doctrine shows that it would be no certain sign of grace, nor anything saving, though it were real; though indeed we have no reason to look on such things, when pretended to in these days, as any other than delusions. | have some extraordinary impression made upon their minds, which they think is from God, revealing something to them that shall come to pass hereafter, this, if it were real, would argue an extraordinary gift of the Holy Ghost, viz. the gift of prophecy; but, from what has been said, it is evident, that it would be no certain sign of grace, or of anything saving: even if it were real, I say, for indeed we have no reason to look on such things when pretended to, in these days as any other than delusion.[^003-note241] |
@@ -1164,12 +1174,14 @@ The three principal parts of the Puritan sermon form are (1) Text, and explicati
 
 Studies in seventeenth— and eighteenth-century English and American preaching have long since demonstrated that sermon form and style were more than literary conventions: they identified theological positions and often also ecclesiastical parties. Within a particular congregation the preacher's prescribed sermon form, and his marginal numbers, facilitated instruction and notetaking. The reader may need to visualize the following numerical and subnumerical designations:
 
-| under Explication of the text | I. |  |  |  |  |
-|  |  | (I) |  |  |  |
-|  |  |  | *I*. |  |  |
-|  |  |  |  | a. |  |
-|  |  |  |  |  | (a.) |
-| under Doctrine and Application: | I. |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| under Explication of the text | I. |  |  |  |  |  |  |
+|  |  | (I) |  |  |  |  |  |
+|  |  |  | *I*. |  |  |  |  |
+|  |  |  |  | a. |  |  |  |
+|  |  |  |  |  | (a.) |  |  |
+| under Doctrine and Application: | I. |  |  |  |  |  |  |
 |  |  | *First*. |  |  |  |  |  |
 |  |  |  | I. |  |  |  |  |
 |  |  |  |  | (I) |  |  |  |
@@ -6613,7 +6625,13 @@ There seems to be an inconsistence in some writers[^006-note98] on morality, in 
 
 system
 
- in such a manner as would naturally lead one to suppose they look upon that as by far the most important and essential thing in their scheme. But why should this be? If true virtue consists partly in a respect to God, then doubtless it consists chiefly in it.[^006-note99] If true morality requires that we should have some regard, some benevolent affection to our Creator, as well as to his creatures, then doubtless it requires the first regard to be paid to him; and that he be every way the supreme object of our benevolence. If his being above our reach, and beyond all capacity of being profited by us, don't hinder but that nevertheless he is the proper object of our love, then it don't hinder that he should be loved according to his dignity, or according to the degree in which he has those things wherein worthiness of regard consists, so far as we are capable of it. But this worthiness, none will deny, consists in these two things, greatness and moral goodness. And those that own a God don't deny that he infinitely exceeds all other beings[^006-note100] in these. If the Deity is to be looked upon as within that system of beings[^006-note101] which properly terminates our benevolence, or belonging to that whole, certainly he is to be regarded as
+ in such a manner as would naturally lead one to suppose they look upon that as by far the most important and essential thing in their scheme. But why should this be? If true virtue consists partly in a respect to God, then doubtless it consists chiefly in it.[^006-note99]
+
+ If true morality requires that we should have some regard, some benevolent affection to our Creator, as well as to his creatures, then doubtless it requires the first regard to be paid to him; and that he be every way the supreme object of our benevolence. If his being above our reach, and beyond all capacity of being profited by us, don't hinder but that nevertheless he is the proper object of our love, then it don't hinder that he should be loved according to his dignity, or according to the degree in which he has those things wherein worthiness of regard consists, so far as we are capable of it. But this worthiness, none will deny, consists in these two things, greatness and moral goodness. And those that own a God don't deny that he infinitely exceeds all other beings[^006-note100]
+
+ in these. If the Deity is to be looked upon as within that system of beings[^006-note101]
+
+ which properly terminates our benevolence, or belonging to that whole, certainly he is to be regarded as
 
 <!-- p. 554 -->
 
@@ -8201,6 +8219,8 @@ IN this example, from the text explication of Sermon One, I direct the reader's 
 
 <!-- p. 667 -->
 
+|  |  |
+| --- | --- |
 | *Yale Edition* | *Bellamy Fragment One* |
 | And though it is more frequently used for love to men, yet sometimes it is used to signify not only love to men but love to God. So it is manifestly used by this Apostle in this epistle, even as the Apostle explains it himself, ch. 1 Corinthians 8:1–3, "Now as touching the things offered unto idols, we know that we all have | and altho' it is frequently used for *Love to men*, yet sometimes it is used to signify not only *Love to men*, but also *love to God*. So it is manifestly used by this Apostle in this Epistle, for so he explains himself. *Chap*. VIII. 1, 2, 3. |
 | knowledge. Knowledge puffeth up, but charity edifieth. And if any man think that he knoweth anything, he knoweth nothing yet as he ought to know. But if any man love God, the | *Knowledge puffeth up, but Charity Edifieth*. |
@@ -8223,12 +8243,16 @@ TWO comparisons of our three sources for the end of Edwards' first sermon are of
 
 #### EXAMPLE TWO (SERMON ONE)
 
+|  |  |
+| --- | --- |
 | *Yale Edition* | *Bellamy Fragment Two* |
 | The gospel reveals such love as nothing else reveals. John 15:13, "Greater love hath no man than this." Romans 5:7–8, "Scarcely for a righteous man will one die; yet peradventure for a good man some would even dare to die. But God commendeth his love towards us, in that while we were yet sinners, Christ died for us." God and Christ in the gospel revelation appear as clothed with love, as being as | The gospel reveals such Love as never before was heard of. Joh. XV. John 15:13. *Greater love hath no man than this, that a man lay down his life for his friends*. Romans 5, Romans 7:8–10. *Scarcely for a righteous man will one die*.— *But God commendeth his love towards us, in that while we were yet sinners, Christ died for us*.— *When we were Enemies*. God and Christ appear in the gospel revelation, as being clothed with Love; as sitting, |
 | it were on a throne of mercy and grace, a seat of love encompassed about with pleasant beams of love. | as it were, on a throne of Mercy & Grace, a seat of Love, all encompassed about with pleasant beams of Love. |
 
 <!-- p. 671 -->
 
+|  |  |
+| --- | --- |
 | *Andover* | *Tryon Edwards* |
 | The gospel reveals such love as nothing else reveals. John 15:13. "Greater love hath no man, than this." Romans 5:7–8. "Scarcely for a righteous man will one die; yet peradventure for a good man some would even dare to die. But God commendeth his love towards us, in that, while we were yet sinners, Christ died for us." God and Christ | This is love, such as was never elsewhere known, or conceived. John xv. John 15:13, "Greater love hath no man than this, that a man lay down his life for his friends." Romans v. Romans 5:7–10, "Scarcely for a righteous man will one die ∗∗∗. But God commendeth his love towards us, in that while we were yet sinners, Christ died for us; ∗∗∗ when we were enemies." |
 | in the gospel revelation appear as clothed with love, as being as | God and Christ appear in the gospel revelation, as being clothed with love; as sitting as it were |
@@ -8248,6 +8272,8 @@ Before the second fragment of Bellamy's part-copy breaks off, a third Applicatio
 
 #### EXAMPLE THREE (SERMON ONE)
 
+|  |  |
+| --- | --- |
 | *Yale Edition* | *Bellamy Fragment Two* |
 | *Sixth*. If it be so, then what a watch and guard should they keep against envy and malice, or any bitterness of spirit against any of their neighbors, because those things are the very reverse of that great and distinguishing thing in Christianity of which we have heard, the very | 6. Hence then what a watch and guard should Christians keep against envy & Malice, or any bitterness of spirit towards their Neighbours, because these things are the very reverse of the very Essence of Christianity. |
 | essence of Christianity. It behooves Christians, as they would not by their practice directly contradict their profession of Christianity, to take heed to themselves as to this matter. | it behooves Christians as they would not Contradict their Profession by their practice, directly Contradict it, to take head to themselves as to this Matter. |
@@ -8258,6 +8284,8 @@ Before the second fragment of Bellamy's part-copy breaks off, a third Applicatio
 
 #### EXAMPLE THREE (SERMON ONE)
 
+|  |  |
+| --- | --- |
 | *Andover* | *Tryon Edwards* |
 | 6. If it be so, then what a watch and guard should they keep against envy and malice, or any bitterness of spirit against any of their neighbours, because those things are the very reverse of that great and distinguishing thing in christianity, of which we have heard, the very | *Sixth*. Hence, then, *what a watch and guard should Christians keep against envy, and malice, and every kind of bitterness of spirit towards their neighbors*. For these things are the very reverse of the real essence of Christianity. |
 | essence of christianity. It behooves christians, as they would not by their practice directly contradict their profession of Christianity, to take heed to themselves as to this matter. | And it behooves Christians, as they would not, by their practice, directly contradict their profession, to take heed to themselves in this matter. |
@@ -8265,6 +8293,8 @@ Before the second fragment of Bellamy's part-copy breaks off, a third Applicatio
 
 <!-- p. 676 -->
 
+|  |  |
+| --- | --- |
 | *Yale Edition* | *Bellamy Fragment Two* |
 | [[*Seventh*. Hence it is no wonder that Christianity so strangely requires us to love our enemies, even the worst of enemies, as in Matthew 5:44. For love is the very temper and spirit of a Christian: it is the sum of Christianity. And if we consider what incitements thus to love our enemies | 7. HENCE it is no wonder that Christianity so strongly requires love to Enemies, to the worst of Enemies. Mat. 5.44. for love is the very temper & spirit of a Christian. 'Tis the sum of Christianity, and if we consider what incitements to love our Enemies we have set before us, in what |
 | we have set before us in what the gospel reveals of the love of God and Christ to their enemies, we cannot wonder that we are required to love our enemies, and to bless them, and do good to them, and pray for them. "That we may be the children of our Father which is in heaven, who maketh his sun to rise on the evil and the good, and sendeth rain on the just and on the unjust." | the Gospel reveals of the love of God & Christ to their Enemies, we can't wonder that we are required to love our Enemies, and bless them, and do them good, & pray for them, that we may be the children of our Father which is in heaven. |
@@ -8274,6 +8304,8 @@ Before the second fragment of Bellamy's part-copy breaks off, a third Applicatio
 
 <!-- p. 677 -->
 
+|  |  |
+| --- | --- |
 | *Andover* | *Tryon Edwards* |
 |  | *Seventh*. Hence it is *no wonder that Christianity so strangely requires us to love our enemies, even the worst of enemies* (*as in Matthew v. Matthew 5:44*); for love is the very temper and spirit of a Christian: it is the sum of Christianity. And if we consider what incitements thus to love our enemies we have set before us in what the Gospel reveals of the love of God and Christ to their enemies, we cannot wonder that we are required to love our enemies, and to bless them, and do good to them, and pray for them, "that we may be the children of our Father which is in heaven, who maketh his sun to rise on the evil and the good, and sendeth rain on the just and on the unjust." In the |
 |  | 3. *Our subject exhorts us to seek a spirit of love; to grow in it more and more; and very much to abound in the works of love*. If love is so great a thing in Christianity, so essential and distinguishing, yea, the very sum of all Christian virtue, then surely |
@@ -8319,6 +8351,8 @@ The title of sermon three is of greatest interest. Titles are taken from doctrin
 
 #### EXAMPLE FOUR
 
+|  |  |
+| --- | --- |
 | *Yale Edition* | *Bellamy Fragment Three* |
 | *Fourth*. What cause have they to bless God and live to his glory who have received such a privilege, | 4. WHAT cause have those to Bless God & live to his glory, who have received such a Privilege. |
 | if we do but seriously consider of it? The godly, those who have that inestimable blessing, | if we do but seriously consider of it, those who have this inestimable Privilege of the sanctifying saving influences of the spirit of God, |
@@ -8329,6 +8363,8 @@ The title of sermon three is of greatest interest. Titles are taken from doctrin
 
 <!-- p. 683 -->
 
+|  |  |
+| --- | --- |
 | *Andover* | *Tryon Edwards* |
 | 4. What cause have they to bless God, and live to his glory, who have received such a privilege, | 4. *What cause have they to bless God, and to live to his glory, who have received such a privilege, as is implied in the influence of the Holy Spirit, working saving grace in the heart*. If we |
 | if we do but seriously consider of it. The godly, those, who have that inestimable blessing, | do but seriously consider the state of the godly, of those who have been the subjects of this inexpressible blessing, we cannot but be astonished |
@@ -8339,6 +8375,8 @@ The title of sermon three is of greatest interest. Titles are taken from doctrin
 
 <!-- p. 684 -->
 
+|  |  |
+| --- | --- |
 | *Yale Edition* | *Bellamy Fragment Three* |
 | of his mere free love and sovereign grace, and not for any worthiness of theirs; and how great obligations they are under to glorify God: and to, | of his mere free Love, & sovereign grace, & not for any worthiness of theirs; and How Great obligations they are under to glorify God: and to |
 | glorify Christ, who hath purchased this blessing with his own blood. | glorify Christ, who hath purchased this Blessing with his own blood. |
@@ -8350,6 +8388,8 @@ The title of sermon three is of greatest interest. Titles are taken from doctrin
 
 <!-- p. 685 -->
 
+|  |  |
+| --- | --- |
 | *Andover* | *Tryon Edwards* |
 | them, |  |
 | and how great obligations they are under to glorify God, who of [one-line space in MS] | and how great their obligations to glorify him for the work he hath wrought in them, |
@@ -8363,6 +8403,8 @@ The title of sermon three is of greatest interest. Titles are taken from doctrin
 
 <!-- p. 686 -->
 
+|  |  |
+| --- | --- |
 | *Yale Edition* | *Bellamy Fragment Three* |
 |  | and thankfulness, and in all holy living? |
 | and in all holy living? And consider, how you live! How little you do for God! How little for his honor! How much to his dishonor! How little this lies with weight upon your heart, that you may do something for God and Christ! Consider how you ought to live, and the inexpressible obligations you are under to live so. And then consider how you do live, and how vast the distance is. How should such as you, who are so highly privileged, at all times carry towards God, in all filial love, thankfulness, strict obedience, quiet submission! And how should you live towards your neighbors, walking humbly, inoffensively, meekly, charitably, doing good to all, to their souls and bodies as you have opportunity, always fervent in spirit, serving the Lord, with the greatest and most earnest diligence. | and consider, how you live! how little you do for God! how little for his honor! how much to his dishonor! how little this lies with weight upon your heart, that you may do something for God and Christ! Consider how you ought to live, and the inexpressible obligations you are under to live so. and then consider how you do live, and how vast the distance is. how should such as you, who are so highly privileged, at all times carry towards God, in all filial Love, thankfulness, strict obedience, quiet submission! and how should you live towards your Neighbours, walking humbly, inoffensively, meekly, charitably, doing good to all, to their souls, & bodies, as you have opportunity, always fervent in spirit, serving the Lord, with the greatest and most earnest diligence. |
@@ -8374,6 +8416,8 @@ The title of sermon three is of greatest interest. Titles are taken from doctrin
 
 <!-- p. 687 -->
 
+|  |  |
+| --- | --- |
 | *Andover* | *Tryon Edwards* |
 | And consider how you live, how little you do to glorify God, and how much you do to dishonour Christ; how little this lies with | And consider how you are living— how little you have done for him— how much you do for self— how little this divine love hath wrought in your heart to incline you to live for |
 | [MS breaks off] | God and Christ, and for the extension of his |

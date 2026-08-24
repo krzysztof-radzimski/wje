@@ -587,9 +587,13 @@ Seven Periods of the Apocalypse
 
 According to Moses Lowman
 
+|  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
 | I | II | III | IV | V | VI | VII |
 | Seals | Trumpets | Vials | Millennium | Satan Loosed | Judgment Day | New Heavens and New Earth |
 
+|  |  |  |
+| --- | --- | --- |
 | I Seals | II Trumpets | III Vials |
 | 1. 95–100 Christianity Prevails | 1. 337–379 Intra-imperial Wars | 1. 830–988 Commotion in Empire |
 | 2. 100–138 Destruction of Jews | 2. 379–412 Invasion of Italy | 2. 1040–1190 Crusades |
@@ -875,12 +879,10 @@ an intention to rearrange, as in entry no. 59. In several cases reordering would
 
 Edwards' use of written sources in the notebook seriously challenges the meaning of conventional forms of annotation. He paraphrased and edited as he quoted, without alerting the reader. The free style of quotation is especially evident in the "Extracts from Lowman," for which the editor has supplied cumulative footnotes at the beginning of the sections to identify the pages of the *Paraphrase and Notes* from which Edwards was drawing. The following parallel citations from Lowman and Edwards illustrate the liberties Edwards took with his sources.
 
+|  |  |
+| --- | --- |
 | *Paraphrase and Notes*, pp. 47–48. | "Apocalypse," p. 212. |
-| In this Period of Time, the several sore Judgments of God were united, in the Punishment of a persecuting Empire, the Sword, Famine, and Pestilence. The Sword, and Famine, which were Judgments of the foregoing Seals, are continued in this, and the Pestilence is added to them. The Pestilence seems to be made the more distinguishing Judgment of this Seal. The Name of the Person sitting on the pale Horse was Death, which is the proper Expression in the Scripture-Language for the Plague,
-
-<!-- p. 091 -->
-
-  as the Prophet *Jeremiah* uses the Word מות, Death, for the Plague; and the Seventy render דבר Pestilence, by Θανατον, Death. Accordingly, we find all these Judgments, in a very remarkable Manner, in this Part of History. | In this period of time, the several sore judgments of God were united in punishing a persecuting empire: the sword, famine and pestilence. The pestilence seems to be made the distinguishing judgment of this seal. |
+| In this Period of Time, the several sore Judgments of God were united, in the Punishment of a persecuting Empire, the Sword, Famine, and Pestilence. The Sword, and Famine, which were Judgments of the foregoing Seals, are continued in this, and the Pestilence is added to them. The Pestilence seems to be made the more distinguishing Judgment of this Seal. The Name of the Person sitting on the pale Horse was Death, which is the proper Expression in the Scripture-Language for the Plague,  <!-- p. 091 -->  as the Prophet *Jeremiah* uses the Word מות, Death, for the Plague; and the Seventy render דבר Pestilence, by Θανατον, Death. Accordingly, we find all these Judgments, in a very remarkable Manner, in this Part of History. | In this period of time, the several sore judgments of God were united in punishing a persecuting empire: the sword, famine and pestilence. The pestilence seems to be made the distinguishing judgment of this seal. |
 | The State of the Empire was very much disturbed both by foreign Wars, and intestine Troubles; very few of the Emperors but met with a violent Death: so that besides thirty Persons who all pretended to the Empire at once, there were twenty acknowledged Emperors in the space of sixty Years, from *Caracalla*, A.D. 211. to *Aurelian*, 270. These intestine Divisions gave heart and strength to the Enemies of the *Roman* Empire, and great advantages to the *Persians*, and Northern Nations, against it; so that *Valerian*, in whose Reign the Persecution was very violent, was taken Prisoner by *Sapores*, (or *Sha Pur*) King of *Persia*, kept Captive by him, and treated with great Severity to his Death. | The state of the empire during this space was very much disturbed, both by foreign wars and intestine troubles; very few of the emperors but met with a violent death. So that besides thirty persons, who all pretended to the empire at once, there were twenty acknowledged emperors in the space of sixty years, from Caracalla, A.D. 211, to Aurelian, 270, which gave heart and strength and great advantages to the enemies of the Roman Empire against it, as the Persians and northern nations. Valerian was taken captive by Sapores, king of Persia, and treated with great severity by him till his death. |
 
 The example is typical of Edwards in both private notebooks and published treatises.
@@ -1419,7 +1421,9 @@ Stephen J. Stein
 
 <!-- p. 097 -->
 
-### Exposition on the Apocalypse[^004-note1]
+### Exposition on the Apocalypse
+
+[^004-note1]
 
 ### CHAPTER Revelation 1
 
@@ -1449,7 +1453,9 @@ Church. They had to do with such as said they were Jews and were not, but were o
 
 What is said to Pergamos seems very well to suit the case of the Church of England; "and where thou dwellest, even where Satan's seat is" [Revelation 2:13]. See no. 44.
 
-## CHAPTER Revelation 4[^004-note8]
+## CHAPTER Revelation 4
+
+[^004-note8]
 
 By the rainbow which was round about the throne [Revelation 4:3], is signified the gospel or covenant of grace,[^004-note9] for the rainbow was the token of God's covenant to Noah. It was "like unto an emerald" [Revelation 4:3], which is so green that other things lose their greenness when compared with it. Green, being the most pleasing[^004-note10] color, and above all others easy and healthful to the eye, is a fit symbol of grace and mercy with which God is surrounded, and which he most especially doth exhibit unto us. By its being so exceedingly green, even like an emerald, is held forth the transcendent greatness and glory of the grace of God in the gospel. Green is a symbol of joy and prosperity. The trees and fields, when they prosper and flourish, are most green, and are said to rejoice and sing and clap their hands; hereby therefore is signified the joyful and glorious nature of the gospel. As greenness is caused on the face of the earth, by the kind influences of the sun, so[^004-note11] the joy and happiness of the gospel, is caused by the kind influences or grace and love of the Sun of[^004-note12] Righteousness. Therefore what color could have been so proper for this rainbow, as the wondrous greenness of the emerald?
 
@@ -1465,7 +1471,9 @@ A sea, not as the ocean, or as pools, but as the sea in Solomon's temple: a "sea
 
 "And they rest not day nor night, etc." [Revelation 4:8]. God's glory is continually manifested anew every moment, by the new exhibitions of those attributes in God's providence, which manifestations stir up the saints to give glory to God. For "when those beasts give glory and honor and thanks, to him that sat on the throne, who liveth forever and ever, the four and twenty elders fall down before him, etc." [Revelation 4:9–10].
 
-### CHAPTER Revelation 5[^004-note16]
+### CHAPTER Revelation 5
+
+[^004-note16]
 
 There are things which do certainly prove the divinity of Christ. That he was "in the midst of the throne" [Revelation 5:6], the same throne mentioned in the beginning of the Revelation 4. And then he was in the midst of the four beasts, which must signify his possessing those four attributes of God.[^004-note17] And then he had seven horns, which doubtless signifies his perfection of power. And then the seven spirits of God were his spirit, not only as they are the saints', to help and assist and to dwell in them, nor as they were the prophets', to inspire them: but as a man's
 
@@ -1793,7 +1801,9 @@ smoke is those visible marks of her ruin, that shall be continually before the e
 
 "And the remnant were slain with the sword of him that sat on the horse" [Revelation 19:21], that is, were slain as to antichristianism. Their life, as they were papists, was taken away by the sword, which is the Word of God.
 
-## CHAPTER Revelation 20[^004-note69]
+## CHAPTER Revelation 20
+
+[^004-note69]
 
 "And I saw the souls of them that were beheaded, etc." [Revelation 20:4]. See Miscell. no. k;[^004-note70] see nos. 6, 21, 25, 27, 29, 48, 50, 55, 60, 66.
 
@@ -1817,7 +1827,9 @@ This and the following chapter, doubtless gives a description of the church triu
 
 <!-- p. 125 -->
 
-### Apocalypse Series[^004-note81]
+### Apocalypse Series
+
+[^004-note81]
 
 1. CHAPTER Revelation 11:8. "Which[^004-note82] is spiritually called Sodom and Egypt." Sodom, for her spiritual filthiness and whoredom, so often spoken of in this book; and Egypt, for their keeping God's spiritual Israel in such cruel bondage and captivity. "Where also our Lord was crucified." He was literally crucified in the city, within its limits, in one of its provinces and by the civil power of it; and he was there crucified mystically in the persons of the multitude of martyrs. All the martyrs for the true religion that have perished out of her, either before or since Christ, are for number as nothing, not worth mentioning, if compared with those that have been martyred in her. The visible church in general, the whole mystical body of Christ, has been crucified in her by Antichrist.[^004-note83]
 
@@ -2669,7 +2681,9 @@ beast, and out of the mouth of the false prophet. For they are the spirits of de
 
 <!-- p. 219 -->
 
-### No. 94. Extracts from Mr. Lowman[^004-note279]
+### No. 94. Extracts from Mr. Lowman
+
+[^004-note279]
 
 Concerning the four first seals, see no. 70, pp. 162 ff.
 
@@ -2745,7 +2759,11 @@ Theodosius "for some time preserved the empire from invasion, and [^004-note315]
 
 maximâ atrocitate sit editum
 
-.' Five years after, A.D. 405, Rhadagaise[^004-note318] entered Italy with an army of 200,000 men; and though he was defeated by Stilicho,[^004-note319] yet he had ravaged the country before his defeat with such success, that the heathen Romans publicly declared Rome was given up to destruction, because it had forsaken the worship or heathen gods.""In the latter end of the year 406, the Alains, Vandals and other barbarous people, passed the Rhine, and made the most furious irruption into Gaul, that had yet been known, passed into Spain, and from thence over into Africa, so that the maritime provinces became a prey to them; the riches and naval power of the empire were much diminished, and almost quite ruined. But the heaviest calamity fell upon the capital and city of Rome itself. For Alaric enters Italy in the year 409, and after wasting all the country round about," plundering every town, and putting the inhabitants to the sword,[^004-note320] "at length laid siege to Rome, which was then afflicted both with famine and a pestilential distemper. The city was forced to save itself from this danger by all its riches, and purchased a peace of Alaric, on very hard conditions. He raises the siege for a while, but soon returns, is received into the city, and makes Attalus, the governor of Rome, emperor. Soon after he deposes Attalus, and makes peace with Honorius, on condition he should be acknowledged[^004-note321] his associate, and have Gaul given to him and to his army. However, not satisfied with Honorius, and his performance of the conditions agreed between them, he continues the siege of Rome, and at last takes it, and gives the plunder of it to his soldiers, which also occasioned its being set on fire and burnt."
+.' Five years after, A.D. 405, Rhadagaise[^004-note318]
+
+ entered Italy with an army of 200,000 men; and though he was defeated by Stilicho,[^004-note319]
+
+ yet he had ravaged the country before his defeat with such success, that the heathen Romans publicly declared Rome was given up to destruction, because it had forsaken the worship or heathen gods.""In the latter end of the year 406, the Alains, Vandals and other barbarous people, passed the Rhine, and made the most furious irruption into Gaul, that had yet been known, passed into Spain, and from thence over into Africa, so that the maritime provinces became a prey to them; the riches and naval power of the empire were much diminished, and almost quite ruined. But the heaviest calamity fell upon the capital and city of Rome itself. For Alaric enters Italy in the year 409, and after wasting all the country round about," plundering every town, and putting the inhabitants to the sword,[^004-note320] "at length laid siege to Rome, which was then afflicted both with famine and a pestilential distemper. The city was forced to save itself from this danger by all its riches, and purchased a peace of Alaric, on very hard conditions. He raises the siege for a while, but soon returns, is received into the city, and makes Attalus, the governor of Rome, emperor. Soon after he deposes Attalus, and makes peace with Honorius, on condition he should be acknowledged[^004-note321] his associate, and have Gaul given to him and to his army. However, not satisfied with Honorius, and his performance of the conditions agreed between them, he continues the siege of Rome, and at last takes it, and gives the plunder of it to his soldiers, which also occasioned its being set on fire and burnt."
 
 "This calamity of the capital city of the empire, was followed by the spoil of the greatest part of Italy in like manner, in which the Christian bishops and their churches were principal sufferers."
 
@@ -3049,7 +3067,9 @@ Revelation 17:12. "And the TEN HORNS[^004-note431] which thou sawest are ten kin
 
 <!-- p. 251 -->
 
-### Remarks on Lowman[^004-note432]
+### Remarks on Lowman
+
+[^004-note432]
 
 That there are no SYNCHRONISMS, or resumings of things before prophesied of more generally, to foretell them more particularly or in another manner, and declare something further concerning them, is contrary to the method of almost all the prophecies of Scripture, and plainly contrary to the manner of this prophecy of the Revelation.[^004-note433]
 
@@ -3077,7 +3097,9 @@ Mr. Lowman supposes the period of the trumpets plainly follows the period of the
 
 <!-- p. 253 -->
 
-### An Account of Events Probably Fulfilling the Sixth Vial on the River Euphrates, the News of Which Was Received since October 16, 1747[^004-note439]
+### An Account of Events Probably Fulfilling the Sixth Vial on the River Euphrates, the News of Which Was Received since October 16, 1747
+
+[^004-note439]
 
 See above, p. 191,*. See before this date, *Gazette* of August 5, 1746.[^004-note440]
 
@@ -3149,6 +3171,8 @@ The same *Gazette* mentions one of that French fleet, being brought into New Yor
 
 Extract of a letter from Jamaica, dated December 10, 1747. "An express which arrived here (at New York),[^004-note468] on the 6th of December, brings the following list of the French men-of-war, taken by the English on the 24th of October, 1747, from the *Kingston Gazette*.
 
+|  |  |  |
+| --- | --- | --- |
 |   | Guns | [Men] |
 | Le Grand Monarque | 74 | 620 |
 | Le Terrible | 74 | 620 |
@@ -3172,6 +3196,8 @@ See p. 257, **. Afterwards came an account (as we were informed in the *Boston G
 
 See p. 259, ††. This account, as afterwards ratified by accounts from England, is this.
 
+|  |  |  |
+| --- | --- | --- |
 |   | Guns | Men |
 | *Le Monarque* | 74 | 686 |
 | *Le Terrible* | 74 | 686 |
@@ -3504,7 +3530,9 @@ In October, 1756, in my journey to Windsor and Northampton, [I] saw an account o
 
 <!-- p. 285 -->
 
-### Events of an Hopeful Aspect on the State of Religion[^004-note607]
+### Events of an Hopeful Aspect on the State of Religion
+
+[^004-note607]
 
 *Boston Gazette*, March 15, 1748. London, January 29. "By a letter from Switzerland, there is an account that one of the most considerable of the Romish cantons are going to embrace the Protestant religion."[^004-note608] See p. 286,*.
 
@@ -3660,7 +3688,9 @@ This from a note in the margin of Mr. Erskine's sermon, on *The Influence of Rel
 
 <!-- p. 298 -->
 
-### Tractate on Revelation 16:12[^004-note656]
+### Tractate on Revelation 16:12
+
+[^004-note656]
 
 "And the sixth angel poured out his vial upon the great river Euphrates, and the waters thereof, that the way of the kings of the East may be prepared."
 
@@ -6276,7 +6306,9 @@ greater engagedness, and more abundant alacrity, than this is; and that extraord
 
 <!-- p. 439 -->
 
-## Appendix A: An Outline of the Book of Revelation[^007-note1]
+## Appendix A: An Outline of the Book of Revelation
+
+[^007-note1]
 
 Revelation 1—Introduction of the Seer and the visions
 
@@ -6320,7 +6352,9 @@ Chs. Revelation 21–22—The "new heaven and new earth": the New Jerusalem
 
 [^007-note1]: This outline underscores themes highlighted by JE.
 
-## Appendix B: Sermons on the Apocalypse[^008-note1]
+## Appendix B: Sermons on the Apocalypse
+
+[^008-note1]
 
 Revelation 1:5 [1]—June, 1745 (Sacramental series). "What we are taught concerning Christ by these names by which he is called."Revelation 1:5 [2]—June, 1745 (Series). "That he is the faithful Witness."Revelation 1:5 [3]—July, 1745 (Series). "How Christ has been among the dead."Revelation 1:5 [4]—July, 1745 (Series). "Christ is spoken of as having a kingdom or portion among the kings and great men of the world."Revelation 1:5–6 [1]—July, 1745 (Series). "The love of Christ towards his chosen people; … those fruits of the love."Revelation 1:5–6 [2]—July, 1745 (Series). "Blood of Christ is a real atonement for sin."Revelation 1:7—Feb., 1751. "Christ's coming at the day of judgment."Revelation 1:17–18—Aug., 1734. "'Tis a solid foundation of comfort to the people of God, that Christ is one that was dead, and is alive, and is to die no more."Revelation 2:4–5—1730. "When any visible people of God continue long cold and dead, and declining in the things of religion, there is danger that God will take away their religious advantages."Revelation 2:17—Dec, 1742. "That white stone and new name written in it, that no man knows, but he that receives it."Revelation 2:19—1735–37. "'Tis a very pleasing sight to Jesus Christ, to see his people making progress in grace and good works, and the last to be more than the first."Revelation 3:4—Mar., 1744 (Andover coll.). "What sort of persons they are that Christ promises a glorious reward to."Revelation 3:5 [1]—1731–32. "He that overcomes in the spiritual warfare, Christ will confess his name before his Father, and before his angels."Revelation 3:5 [2]—1752–56. "Christ will not be ashamed hereafter, to own each one of them that have been his sincere and faithful followers."
 
@@ -6340,7 +6374,9 @@ Revelation 21:2—Feb., 1742. "The glorious state.… What is here spoken of the
 
 [^008-note1]: Manuscripts exist in the Yale collection for all of the following except two sermons the sources of which are indicated. The dates for the sermons written before 1733 have been determined by Thomas Schafer.
 
-## Appendix C: Edwards' Letter to a Correspondent in Scotland[^009-note1]
+## Appendix C: Edwards' Letter to a Correspondent in Scotland
+
+[^009-note1]
 
 Northampton, Nov. 20, 1745
 
@@ -6800,7 +6836,9 @@ See, for example, the following entries.[^010-note2]
 
 504 (Ephesians 2:7), ages to come
 
-### 3. Annotations on the Apocalypse in the "Blank Bible."[^010-note3]
+### 3. Annotations on the Apocalypse in the "Blank Bible."
+
+[^010-note3]
 
 Revelation 1:4, 8, 10*, 13, 15, 18.
 

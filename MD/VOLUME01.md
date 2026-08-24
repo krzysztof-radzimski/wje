@@ -128,7 +128,11 @@ This design was interrupted by a remarkable series of events which compress most
 
 tenets
 
-, by something else that divine providence unexpectedly laid in my way, and seemed to render unavoidable, viz. publishing Mr. Brainerd's Life, of which the enclosed paper of proposals gives some account." [^002-note5]Again on October 14, 1748, he wrote: "As to my writing against Arminianism: I have hitherto been remarkably hindered; so that probably it will be a considerable time before I shall have any thing ready for the press; but I do intend, God allowing and assisting, to prosecute that design; and I desire your prayers for the divine assistance in it." [^002-note6]*An Account of the Life of the Late Reverend Mr. David Brainerd* was published in 1749, but in that same year a controversy began with his Northampton parishioners over the qualifications for communion. This led to writings upon that subject and finally to Edwards' dismissal from the church. How steadfast his purpose was, however, is to be seen from a letter to Erskine on July 5, 1750, written from the midst of turmoil just five days after he preached his farewell sermon: "The books you sent me were entertaining to me, and some of them will be of advantage to me, if God should give me opportunity to prosecute the studies I had begun on the Arminian controversy." [^002-note7]Indeed, in this same letter he indicates his conviction that the affair of his dismissal was not unrelated to doctrinal disagreements more basic than qualifications for communion, when he describes one of the leaders of the opposition, "my grandfather Stoddard's grandson, being my mother's sister's son," Joseph Hawley, as "a man of lax principles in religion, falling in in some essential things with Arminians," and "very open and bold in it." In Edwards' view, conjoined with the dangers of merely formal church membership there seemed "to be the utmost danger that the younger generation will be carried away with Arminianism, as with a flood"; and he expressed the fear that under the circumstances the people of Northampton in choosing his successor would "be much more likely to be thorough in their care to settle a minister of principles contrary to mine, as to terms of communion, than to settle one that is sound in the doctrines of grace."
+, by something else that divine providence unexpectedly laid in my way, and seemed to render unavoidable, viz. publishing Mr. Brainerd's Life, of which the enclosed paper of proposals gives some account." [^002-note5]
+
+Again on October 14, 1748, he wrote: "As to my writing against Arminianism: I have hitherto been remarkably hindered; so that probably it will be a considerable time before I shall have any thing ready for the press; but I do intend, God allowing and assisting, to prosecute that design; and I desire your prayers for the divine assistance in it." [^002-note6]
+
+*An Account of the Life of the Late Reverend Mr. David Brainerd* was published in 1749, but in that same year a controversy began with his Northampton parishioners over the qualifications for communion. This led to writings upon that subject and finally to Edwards' dismissal from the church. How steadfast his purpose was, however, is to be seen from a letter to Erskine on July 5, 1750, written from the midst of turmoil just five days after he preached his farewell sermon: "The books you sent me were entertaining to me, and some of them will be of advantage to me, if God should give me opportunity to prosecute the studies I had begun on the Arminian controversy." [^002-note7]Indeed, in this same letter he indicates his conviction that the affair of his dismissal was not unrelated to doctrinal disagreements more basic than qualifications for communion, when he describes one of the leaders of the opposition, "my grandfather Stoddard's grandson, being my mother's sister's son," Joseph Hawley, as "a man of lax principles in religion, falling in in some essential things with Arminians," and "very open and bold in it." In Edwards' view, conjoined with the dangers of merely formal church membership there seemed "to be the utmost danger that the younger generation will be carried away with Arminianism, as with a flood"; and he expressed the fear that under the circumstances the people of Northampton in choosing his successor would "be much more likely to be thorough in their care to settle a minister of principles contrary to mine, as to terms of communion, than to settle one that is sound in the doctrines of grace."
 
 In spite of these interruptions Edwards was all the while deeply engaged in study, and no doubt writing in his notebooks, upon the
 
@@ -1604,6 +1608,8 @@ In addition to the substitution of "ever" for "never," and the deletion of "at a
 
 <!-- p. 124 -->
 
+|  |  |
+| --- | --- |
 | for the Strength of the Will, let it be never so great, don't at all enable it to act one Way | for the strength of the Will, let it be ever so great, does not enable it to act one way |
 | So that the Will acts not at all, does not so much begin to act in the Time of such Liberty. | So that the Will does not so much begin to act in the time of such liberty. |
 | they are not worthy to be rewarded or praised; or at all esteemed, honoured or loved on that Account. | they are not worthy to be rewarded or praised, esteemed or loved on that account. |
@@ -1625,24 +1631,34 @@ In addition to the substitution of "ever" for "never," and the deletion of "at a
 
 In only one instance was a bit of rewriting perhaps justified:
 
+|  |  |
+| --- | --- |
 | may be the Effect of some other Cause, besides the Liver, or the Being that lives, in whom Life is caused to be | may be the effect of some other cause, besides the being that lives, in whom Life is caused to be |
 
 Once this procedure led to mistaking Edwards' meaning:
 
+|  |  |
+| --- | --- |
 | the more he does either with full and strong inclination | the more he does either with or without full and strong inclination |
 
 A number of instances in which words were doubtless accidentally omitted here and there from the Worcester and other editions have been corrected by editing from the original, without, it is hoped, the loss of others from the text. A case in point is:
 
+|  |  |
+| --- | --- |
 | There is no Medium between suspending to act, and immediately acting; and therefore no Possibility of avoiding either the one or the other one Moment; and so no Room for Deliberation before we do either of them. | There is no medium between suspending to act, and immediately acting; and therefore no possibility of avoiding either the one or the other one moment. |
 
 The procedure of rewriting Edwards was carried out even more extensively by the Dwight edition,[^003-note3] in comparison with which the Worcester edition, indeed, seems quite accurate verbally. Where Edwards wanted two words to express his full meaning, in such expressions as "agreeable or pleasing," "consequence and fruit," "choosing or preferring," Sereno Dwight frequently judges that one word of each of these pairs is enough. The final "is" of "the Will is as the greatest apparent Good is," and similar statements, he simply omitted. He would let nothing have "an Hand in"; and he troubled a great deal to avoid a preposition at the end of a sentence or phrase:
 
 <!-- p. 125 -->
 
+|  |  |
+| --- | --- |
 | and not some Object that the Act of Will has not an immediate, but only an indirect and remote Respect to | and not some object to which the act of Will has only an indirect and remote respect |
 
 "The" was deleted from "the calling some professing Christians" or "the thus distinguishing." Most notable of all Dwight's revisions was his dropping words, phrases, and even sentences in order to secure a simplified text, or rearranging words so extensively as in effect to rewrite entire passages. This can be seen in the preface (not printed at all in the Worcester edition):
 
+|  |  |
+| --- | --- |
 | may not imply, nor infer any more than that there is a Difference, and that the Difference is such as we find we have often Occasion to take Notice of, and make Mention of. That which we have frequent Occasion to speak of (whatever it be, that gives the Occasion) this wants a Name: and 'tis always a Defect in Language | may not imply any more, than that there is a *difference*; a difference of which we find we have often occasion to take notice: and it is always a defect in language |
 | That the Difference of the Opinions of those, who in their general Scheme of Divinity agree with these two noted Men, *Calvin*, and *Arminius*, is a Thing there is often occasion to speak of, is what the practice of the latter it self confesses | That there is occasion to speak often concerning the difference of those, who in their general scheme of divinity agree with these two noted men, *CALVIN* and *ARMINIUS*, is what the practice of the latter confesses |
 
@@ -2162,7 +2178,11 @@ So that it is indeed as repugnant to reason, to suppose that an act of the will 
 
 ### SECTION 4. WHETHER VOLITION CAN ARISE WITHOUT A CAUSE, THROUGH THE ACTIVITY OF THE NATURE OF THE SOUL
 
-The author [^006-note5] of the Essay on the Freedom of the Will in God and the Creatures, in answer to that objection against his doctrine of a self-determining power in the will (pp. 68, 69), [^006-note6] "that nothing is, or comes to pass, without a sufficient reason why it is, and why it is in this manner rather than another," allows that it is thus in corporeal things, "which are properly and philosophically speaking passive beings"; but denies that it is thus in "spirits, which are beings of an active nature, who have the spring of action within themselves, and can determine themselves." By which it is plainly supposed, that such an event as an act of the will, may come to pass in a spirit, without a sufficient reason why it comes to pass, or why it is after this manner, rather than another; by reason of the activity of the nature of a spirit. But certainly this author, in this matter, must be very unwary and inadvertent. For, 1. The objection or difficulty proposed by this author, seems to be forgotten in his answer or solution. The very difficulty, as he himself proposes it, is this: how an event can "come to pass without a sufficient reason why it is, or why it is in this manner rather than another"? Instead of solving this difficulty, or answering this question with regard to volition, as he proposes, he forgets himself, and answers another question quite diverse, and wholly inconsistent with this, viz. what is a sufficient reason why it is, and why it is in this manner rather than another? And he assigns the active being's own determination as the cause, and a cause sufficient for the effect; and leaves all the difficulty unresolved, and the question unanswered, which yet returns, even, how the soul's own determination, which
+The author [^006-note5]
+
+ of the Essay on the Freedom of the Will in God and the Creatures, in answer to that objection against his doctrine of a self-determining power in the will (pp. 68, 69), [^006-note6]
+
+ "that nothing is, or comes to pass, without a sufficient reason why it is, and why it is in this manner rather than another," allows that it is thus in corporeal things, "which are properly and philosophically speaking passive beings"; but denies that it is thus in "spirits, which are beings of an active nature, who have the spring of action within themselves, and can determine themselves." By which it is plainly supposed, that such an event as an act of the will, may come to pass in a spirit, without a sufficient reason why it comes to pass, or why it is after this manner, rather than another; by reason of the activity of the nature of a spirit. But certainly this author, in this matter, must be very unwary and inadvertent. For, 1. The objection or difficulty proposed by this author, seems to be forgotten in his answer or solution. The very difficulty, as he himself proposes it, is this: how an event can "come to pass without a sufficient reason why it is, or why it is in this manner rather than another"? Instead of solving this difficulty, or answering this question with regard to volition, as he proposes, he forgets himself, and answers another question quite diverse, and wholly inconsistent with this, viz. what is a sufficient reason why it is, and why it is in this manner rather than another? And he assigns the active being's own determination as the cause, and a cause sufficient for the effect; and leaves all the difficulty unresolved, and the question unanswered, which yet returns, even, how the soul's own determination, which
 
 <!-- p. 187 -->
 
@@ -4102,7 +4122,11 @@ The arguments, to prove that the most High, in some instances, chooses to do one
 
 tota, simul et perfecta possessio
 
-. [^008-note32] Which is so generally allowed, that I need not stand to demonstrate it.[^008-note33][^008-note34]
+. [^008-note32]
+
+ Which is so generally allowed, that I need not stand to demonstrate it.[^008-note33]
+
+[^008-note34]
 
 So this objection supposes an extent of space beyond the limits of the creation, of an infinite length, breadth and depth, truly and properly distinguished into different measurable parts, limited at certain stages, one beyond another, in an infinite series. Which notion of absolute and infinite space is doubtless as unreasonable, as that now mentioned, of absolute and infinite duration. 'Tis as improper, to imagine that the immensity and omnipresence of God is distinguished by a series of miles and leagues, one beyond another; as that the infinite duration of God is distinguished by months and years, one after another. A diversity and order of distinct parts, limited by certain periods, is as conceivable, and does as naturally obtrude itself on our imagination, in one case as the other; and there is equal reason in each case, to suppose that our imagination deceives us. 'Tis equally improper, to talk of months and years of the divine existence,
 
