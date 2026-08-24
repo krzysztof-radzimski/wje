@@ -13,7 +13,8 @@ locally; the project does not automate downloading from the Yale website.
 
 - `HTML/VOLUMENN/` — unmodified, locally saved source pages. `000.html`
   contains the volume navigation and heading hierarchy.
-- `MD/VOLUMEN.md` — the resulting Markdown text for a volume.
+- `MD/VOLUMENN.md` — the resulting Markdown text for a volume; volumes 1–9
+  use a leading zero (for example, `MD/VOLUME01.md`).
 - `assets/` — project graphics used by documentation.
 - `scripts/html_volume_to_markdown.rb` — a converter that tolerates the
   archive's malformed HTML.
@@ -32,20 +33,20 @@ relative paths in the Markdown file.
 After placing manually saved files in `HTML/VOLUMENN/`, run:
 
 ```bash
-ruby scripts/html_volume_to_markdown.rb HTML/VOLUMENN MD/VOLUMEN.md
+ruby scripts/html_volume_to_markdown.rb HTML/VOLUMENN MD/VOLUMENN.md
 ```
 
 For example, for the second volume:
 
 ```bash
-ruby scripts/html_volume_to_markdown.rb HTML/VOLUME02 MD/VOLUME2.md
+ruby scripts/html_volume_to_markdown.rb HTML/VOLUME02 MD/VOLUME02.md
 ```
 
 For a volume whose content images must be preserved:
 
 ```bash
-ruby scripts/html_volume_to_markdown.rb --include-images HTML/VOLUMENN MD/VOLUMEN.md
-ruby scripts/verify_volume_markdown.rb --include-images HTML/VOLUMENN MD/VOLUMEN.md
+ruby scripts/html_volume_to_markdown.rb --include-images HTML/VOLUMENN MD/VOLUMENN.md
+ruby scripts/verify_volume_markdown.rb --include-images HTML/VOLUMENN MD/VOLUMENN.md
 ```
 
 The converter reads local HTML only, identifies main content from the archive's
@@ -59,7 +60,7 @@ After generating a volume, run at least:
 
 ```bash
 ruby -c scripts/html_volume_to_markdown.rb
-ruby scripts/verify_volume_markdown.rb HTML/VOLUMENN MD/VOLUMEN.md
+ruby scripts/verify_volume_markdown.rb HTML/VOLUMENN MD/VOLUMENN.md
 git diff --check
 ```
 
@@ -73,15 +74,15 @@ edition.
 
 | Volume | Markdown file | Source status |
 | --- | --- | --- |
-| 1 — *Freedom of the Will* | `MD/VOLUME1.md` | The saved content includes the complete hierarchy from `000.html`. Page markers 31, 136, and 149 are absent from the source; the document does not add them artificially. |
-| 2 — *Religious Affections* | `MD/VOLUME2.md` | The saved content includes the complete hierarchy from `000.html`. Page markers 46, 76–77, 84, 125, and 440 are absent from the source; the document does not add them artificially. `007.html` lacks the archive's usual closing comment, so the converter uses a safe fallback end. |
-| 3 — *Original Sin* | `MD/VOLUME3.md` | The saved content includes the complete hierarchy from `000.html`. Page markers 105–106, 220–222, 350–352, and 372–374 are absent from the source; the document does not add them artificially. `007.html` lacks the archive's usual closing comment, so the converter uses a safe fallback end. |
-| 4 — *The Great Awakening* | `MD/VOLUME4.md` | The saved content includes the complete hierarchy from `000.html` and page markers 1–570 without gaps. |
-| 5 — *Apocalyptic Writings* | `MD/VOLUME5.md` | The saved content includes the complete hierarchy from `000.html` and page markers 1–464 without gaps. The navigation notes that Edwards did not comment on Revelation 3 in the exposition. |
-| 6 — *Scientific and Philosophical Writings* | `MD/VOLUME6.md` | The saved content includes the complete hierarchy from `000.html`. Page markers 1 and 144–146, 170–171, and 311 are absent from the source; the document does not add them artificially. The locally saved content images are preserved in `MD/assets/VOLUME06/`. |
-| 7 — *The Life of David Brainerd* | `MD/VOLUME7.md` | The saved content includes the complete hierarchy from `000.html`, with page markers 1–590 and front-matter markers viii–x. |
-| 8 — *Ethical Writings* | `MD/VOLUME8.md` | The saved content includes the complete hierarchy from `000.html`. Page markers 122–124, 127–128, 398–400, 403–404, 416–418, 455, 464–466, 507, 537–538, 628–630, 641–642, 651, 668, 672, 678, and 688 are absent from the source; the document does not add them artificially. |
-| 9 — *A History of the Work of Redemption* | `MD/VOLUME9.md` | The saved content includes the complete hierarchy from `000.html`, with page markers 1–556 and front-matter markers vii–ix. Images are omitted. |
+| 1 — *Freedom of the Will* | `MD/VOLUME01.md` | The saved content includes the complete hierarchy from `000.html`. Page markers 31, 136, and 149 are absent from the source; the document does not add them artificially. |
+| 2 — *Religious Affections* | `MD/VOLUME02.md` | The saved content includes the complete hierarchy from `000.html`. Page markers 46, 76–77, 84, 125, and 440 are absent from the source; the document does not add them artificially. `007.html` lacks the archive's usual closing comment, so the converter uses a safe fallback end. |
+| 3 — *Original Sin* | `MD/VOLUME03.md` | The saved content includes the complete hierarchy from `000.html`. Page markers 105–106, 220–222, 350–352, and 372–374 are absent from the source; the document does not add them artificially. `007.html` lacks the archive's usual closing comment, so the converter uses a safe fallback end. |
+| 4 — *The Great Awakening* | `MD/VOLUME04.md` | The saved content includes the complete hierarchy from `000.html` and page markers 1–570 without gaps. |
+| 5 — *Apocalyptic Writings* | `MD/VOLUME05.md` | The saved content includes the complete hierarchy from `000.html` and page markers 1–464 without gaps. The navigation notes that Edwards did not comment on Revelation 3 in the exposition. |
+| 6 — *Scientific and Philosophical Writings* | `MD/VOLUME06.md` | The saved content includes the complete hierarchy from `000.html`. Page markers 1 and 144–146, 170–171, and 311 are absent from the source; the document does not add them artificially. The locally saved content images are preserved in `MD/assets/VOLUME06/`. |
+| 7 — *The Life of David Brainerd* | `MD/VOLUME07.md` | The saved content includes the complete hierarchy from `000.html`, with page markers 1–590 and front-matter markers viii–x. |
+| 8 — *Ethical Writings* | `MD/VOLUME08.md` | The saved content includes the complete hierarchy from `000.html`. Page markers 122–124, 127–128, 398–400, 403–404, 416–418, 455, 464–466, 507, 537–538, 628–630, 641–642, 651, 668, 672, 678, and 688 are absent from the source; the document does not add them artificially. |
+| 9 — *A History of the Work of Redemption* | `MD/VOLUME09.md` | The saved content includes the complete hierarchy from `000.html`, with page markers 1–556 and front-matter markers vii–ix. Images are omitted. |
 | 10 — *Sermons and Discourses 1720–1723* | `MD/VOLUME10.md` | The saved content includes the complete hierarchy from `000.html`. Page markers 2, 259–260, 578, and 644 are absent from the source; the document does not add them artificially. Two source diagrams are transcribed as Mermaid; only `jec-yje10-100.jpg` is retained as an image. |
 
 Markdown documents contain only content present in the local capture.

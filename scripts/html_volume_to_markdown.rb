@@ -521,7 +521,7 @@ include_images = ARGV.delete("--include-images")
 included_image_arguments = ARGV.select { |argument| argument.start_with?("--include-image=") }
 ARGV.reject! { |argument| argument.start_with?("--include-image=") }
 input_directory = ARGV[0] || "HTML/VOLUME01"
-output_file = ARGV[1] || "MD/VOLUME1.md"
+output_file = ARGV[1] || "MD/VOLUME01.md"
 @include_images = include_images
 @included_images = included_image_arguments.each_with_object({}) do |argument, selected|
   selector, asset_name = argument.delete_prefix("--include-image=").split("=", 2)

@@ -10,14 +10,15 @@ z serwisu Yale.
 - Każdy tom ma katalog `HTML/VOLUMENN/`.
 - `000.html` jest nawigacją tomu i stanowi źródło hierarchii nagłówków.
 - Pozostałe pliki HTML są fragmentami treści; zachowaj ich kolejność numeryczną.
-- Wynikiem jest `MD/VOLUMEN.md`, bez zer w numerze tomu.
+- Wynikiem jest `MD/VOLUMENN.md`, z zerem wiodącym dla tomów 1–9
+  (np. `MD/VOLUME01.md`).
 
 ## Konwersja
 
 Uruchom generator wyłącznie na lokalnych plikach:
 
 ```bash
-ruby scripts/html_volume_to_markdown.rb HTML/VOLUMENN MD/VOLUMEN.md
+ruby scripts/html_volume_to_markdown.rb HTML/VOLUMENN MD/VOLUMENN.md
 ```
 
 Generator domyślnie:
@@ -41,8 +42,8 @@ Jeśli użytkownik wyraźnie wskaże, że obrazy danego tomu są istotne, użyj 
 do `MD/assets/VOLUMENN/` i umieści w Markdown ścieżki względne:
 
 ```bash
-ruby scripts/html_volume_to_markdown.rb --include-images HTML/VOLUMENN MD/VOLUMEN.md
-ruby scripts/verify_volume_markdown.rb --include-images HTML/VOLUMENN MD/VOLUMEN.md
+ruby scripts/html_volume_to_markdown.rb --include-images HTML/VOLUMENN MD/VOLUMENN.md
+ruby scripts/verify_volume_markdown.rb --include-images HTML/VOLUMENN MD/VOLUMENN.md
 ```
 
 Aby zachować tylko jeden lokalny obraz treści, użyj identyfikatora z
@@ -51,7 +52,7 @@ po znaku `=` określa nazwę w `MD/assets/VOLUMENN/`; argument zawierający nawi
 ujmij w apostrofy:
 
 ```bash
-ruby scripts/html_volume_to_markdown.rb '--include-image=003:getimage(7).php=illustration.jpg' HTML/VOLUMENN MD/VOLUMEN.md
+ruby scripts/html_volume_to_markdown.rb '--include-image=003:getimage(7).php=illustration.jpg' HTML/VOLUMENN MD/VOLUMENN.md
 ```
 
 Jeżeli użytkownik wskaże diagram zamiast obrazu, wygeneruj dokument z
@@ -90,7 +91,7 @@ generatora, walidatora tomu oraz `git diff --check`:
 
 ```bash
 ruby -c scripts/html_volume_to_markdown.rb
-ruby scripts/verify_volume_markdown.rb HTML/VOLUMENN MD/VOLUMEN.md
+ruby scripts/verify_volume_markdown.rb HTML/VOLUMENN MD/VOLUMENN.md
 git diff --check
 ```
 
