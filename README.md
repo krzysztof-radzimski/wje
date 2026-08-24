@@ -88,5 +88,6 @@ edition.
 | 12 | *Ecclesiastical Writings* | `MD/VOLUME12.md` | The local capture includes source files `001.html`–`007.html`. Page markers 92, 164, 166, 350, 504, and 506 are absent from the source; the document does not add them artificially. Images are omitted. |
 | 13 | *The "Miscellanies": (Entry Nos. a–z, aa–zz, 1–500)* | `MD/VOLUME13.md` | The local capture includes source files `001.html`–`005.html`. Page markers 110–112, 124, 151–152, 161–162, and 342–544 are absent from the source; the document does not add them artificially. Twenty-six valid local images are preserved in `MD/assets/VOLUME13/`; the figure on source page 002 was saved as HTML rather than an image and is omitted. |
 | 14 | *Sermons and Discourses: 1723–1729* | `MD/VOLUME14.md` | The local capture includes source files `001.html`–`024.html`, with continuous Arabic page markers 1–550. Images are omitted. |
+| 15 | *Notes on Scripture* | `MD/VOLUME15.md` | The local capture includes source files `001.html`–`003.html`. Page markers 17, 47, and 48 are absent from the source; the document does not add them artificially. Images are omitted. |
 
 Markdown documents contain only content present in the local capture.

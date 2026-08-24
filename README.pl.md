@@ -86,5 +86,6 @@ należy rekonstruować ich z pamięci ani z innego wydania.
 | 12 | *Ecclesiastical Writings* | `MD/VOLUME12.md` | Lokalny zrzut obejmuje pliki źródłowe `001.html`–`007.html`. W źródle nie występują znaczniki stron 92, 164, 166, 350, 504 i 506; dokument nie dopisuje ich sztucznie. Obrazy pominięto. |
 | 13 | *The "Miscellanies": (Entry Nos. a–z, aa–zz, 1–500)* | `MD/VOLUME13.md` | Lokalny zrzut obejmuje pliki źródłowe `001.html`–`005.html`. W źródle nie występują znaczniki stron 110–112, 124, 151–152, 161–162 i 342–544; dokument nie dopisuje ich sztucznie. Zachowano 26 prawidłowych lokalnych obrazów w `MD/assets/VOLUME13/`; ilustracja ze strony źródłowej 002 została zapisana jako HTML zamiast obrazu, więc ją pominięto. |
 | 14 | *Sermons and Discourses: 1723–1729* | `MD/VOLUME14.md` | Lokalny zrzut obejmuje pliki źródłowe `001.html`–`024.html` oraz ciąg znaczników stron arabskich 1–550 bez luk. Obrazy pominięto. |
+| 15 | *Notes on Scripture* | `MD/VOLUME15.md` | Lokalny zrzut obejmuje pliki źródłowe `001.html`–`003.html`. W źródle nie występują znaczniki stron 17, 47 i 48; dokument nie dopisuje ich sztucznie. Obrazy pominięto. |
 
 Dokumenty Markdown przedstawiają wyłącznie treść obecną w lokalnym zrzucie.
