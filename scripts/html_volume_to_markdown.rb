@@ -284,7 +284,13 @@ def render(node, output, heading_count)
   end
   if node.name == "div" && classes.include?("fnote")
     id = node.at_css('a[name^="note"]')&.then { |anchor| footnote_id(anchor) }
-    append_paragraph(output, "[^#{id}]: #{footnote_text(node)}") if id
+    if id
+      # Footnote containers can follow an unclosed inline element. Ensure the
+      # definition starts on its own line so it remains a Markdown definition
+      # rather than becoming an additional reference in the preceding text.
+      output << "\n" unless output.empty? || output.end_with?("\n\n")
+      append_paragraph(output, "[^#{id}]: #{footnote_text(node)}")
+    end
     return heading_count
   end
   if node.name == "center"
@@ -388,7 +394,19 @@ def content_node(fragment, index)
   document = Nokogiri::HTML::DocumentFragment.parse(fragment)
   return document if index.zero?
 
-  document.at_css("div#text") || document
+  text = document.at_css("div#text")
+  return document unless text
+  return text if text.at_css("div#footnotes")
+
+  footnotes = document.at_css("div#footnotes")
+  return text unless footnotes
+
+  # In some saved pages the footnotes are a sibling of #text. Preserve both
+  # regions without rendering the surrounding navigation and footer markup.
+  content = Nokogiri::HTML::DocumentFragment.parse("")
+  content.add_child(text.dup)
+  content.add_child(footnotes.dup)
+  content
 end
 
 def heading_key(text)
