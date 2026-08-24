@@ -80,6 +80,14 @@ ruby scripts/html_volume_to_markdown.rb '--include-image=003:getimage(7).php=jec
 Ponowne wygenerowanie tomu usuwa ręcznie wstawione diagramy; należy je wtedy
 odtworzyć po fragmentach „First the Explication:” i „See diagram below.”.
 
+### Wyjątek tomu 11
+
+`MD/VOLUME11.md` zawiera ręcznie odtworzony diagram Mermaid zamiast obrazu
+`HTML/VOLUME11/004_files/getimage.php`, przedstawiający strukturę rękopisu
+„Images of Divine Things”. Ponowne wygenerowanie tomu usuwa diagram; należy
+go wtedy wstawić przed podpisem „Fig. 1. \"Images of Divine Things\": Structure
+of the Manuscript.”. Wszystkie obrazy tomu 11 pozostają pominięte.
+
 ## Kontrola kompletności
 
 Przed uznaniem tomu za gotowy sprawdź:

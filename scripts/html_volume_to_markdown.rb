@@ -241,6 +241,18 @@ def render(node, output, heading_count)
                                end
                                position && position < arabic_start && (subsection_depth > 1 || section_depth > 1)
                              end
+                           else
+                             # Some Roman-numeral front-matter pages leave the
+                             # entire text after the navigation inside an
+                             # unclosed contents div. Begin at the first real
+                             # nested section after Contents, rather than
+                             # retaining only the printed page markers.
+                             node.css('div[type="section"]').lazy.map do |section|
+                               heading = section.element_children.find do |child|
+                                 child.name == "span" && child["class"].to_s.split.include?("head")
+                               end
+                               heading unless heading.nil? || heading_text(heading).strip.casecmp?("CONTENTS")
+                             end.find(&:itself)
                            end
     body_start = front_matter_heading || body_center
     start = body_start && serialized.index(body_start.to_html)
