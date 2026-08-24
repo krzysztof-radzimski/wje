@@ -1,0 +1,5 @@
+# Metadane Finder macOS
+.DS_Store
+
+# Lokalna konfiguracja integracji code-architect
+.mcp.json
