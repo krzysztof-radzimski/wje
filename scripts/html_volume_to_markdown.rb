@@ -450,7 +450,11 @@ def apply_heading_hierarchy(markdown, entries)
     next_index = index + 1
     next_index += 1 while next_index < lines.length && lines[next_index].strip.empty?
     second = next_index < lines.length && lines[next_index].match(/\A#+\s+(.+?)\s*\n?\z/)
-    if first && second
+    # A part followed by a separately declared section is a genuine hierarchy,
+    # not one heading split across two malformed source elements.
+    separate_part_and_section = first && second &&
+                                first[1].match?(/\Apart\b/i) && second[1].match?(/\Asection\b/i)
+    if first && second && !separate_part_and_section
       combined = "#{first[1]} #{second[1]}"
       level = expected_heading_level(combined, navigation)
       if level

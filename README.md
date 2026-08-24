@@ -85,5 +85,6 @@ edition.
 | 9 — *A History of the Work of Redemption* | `MD/VOLUME09.md` | The saved content includes the complete hierarchy from `000.html`, with page markers 1–556 and front-matter markers vii–ix. Images are omitted. |
 | 10 — *Sermons and Discourses 1720–1723* | `MD/VOLUME10.md` | The saved content includes the complete hierarchy from `000.html`. Page markers 2, 259–260, 578, and 644 are absent from the source; the document does not add them artificially. Two source diagrams are transcribed as Mermaid; only `jec-yje10-100.jpg` is retained as an image. |
 | 11 — *Typological Writings* | `MD/VOLUME11.md` | The local capture includes source files `001.html`–`010.html`. Page markers 2, 36, 117, 144, 154, 156, and 190 are absent from the source; the document does not add them artificially. The manuscript-structure image on source page 004 is transcribed as Mermaid; all images are otherwise omitted. |
+| 12 — *Ecclesiastical Writings* | `MD/VOLUME12.md` | The local capture includes source files `001.html`–`007.html`. Page markers 92, 164, 166, 350, 504, and 506 are absent from the source; the document does not add them artificially. Images are omitted. |
 
 Markdown documents contain only content present in the local capture.
