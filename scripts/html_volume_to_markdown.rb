@@ -100,6 +100,11 @@ end
 def heading_text(node)
   return node.text.gsub(/[\t\r\n ]+/, " ") if node.text?
   return "" if %w[div p center table quote].include?(node.name)
+
+  # Editorial notes can be nested inside malformed heading spans. They belong
+  # to the text after the heading, not to the heading label itself.
+  return "" if node["class"].to_s.split.include?("fnote")
+
   return inline(node) if node.name == "a" && node["class"].to_s.split.include?("fnote")
 
   node.children.map { |child| heading_text(child) }.join
@@ -109,6 +114,10 @@ end
 # descendants are still source text and must be rendered after the heading.
 def render_heading_descendants(node, output, heading_count)
   return heading_count if node.text?
+
+  if node.name == "span" && node["class"].to_s.split.include?("fnote")
+    return render(node, output, heading_count)
+  end
 
   if %w[div p center table quote ul ol].include?(node.name)
     return render(node, output, heading_count)
@@ -170,6 +179,10 @@ def render(node, output, heading_count)
     node.children.each do |child|
       heading_count = render_heading_descendants(child, output, heading_count)
     end
+    return heading_count
+  end
+  if node.name == "span" && classes.include?("fnote")
+    append_paragraph(output, inline(node))
     return heading_count
   end
   if node.name == "div" && node["type"] == "intro"

@@ -79,6 +79,7 @@ należy rekonstruować ich z pamięci ani z innego wydania.
 | 6 — *Scientific and Philosophical Writings* | `MD/VOLUME6.md` | Zapisana treść obejmuje całą hierarchię z `000.html`. W źródle nie występują znaczniki stron 1, 144–146, 170–171 i 311; dokument nie dopisuje ich sztucznie. Lokalnie zapisane obrazy treści znajdują się w `MD/assets/VOLUME06/`. |
 | 7 — *The Life of David Brainerd* | `MD/VOLUME7.md` | Zapisana treść obejmuje całą hierarchię z `000.html`, ze znacznikami stron 1–590 oraz znacznikami części wstępnej viii–x. |
 | 8 — *Ethical Writings* | `MD/VOLUME8.md` | Zapisana treść obejmuje całą hierarchię z `000.html`. W źródle nie występują znaczniki stron 122–124, 127–128, 398–400, 403–404, 416–418, 455, 464–466, 507, 537–538, 628–630, 641–642, 651, 668, 672, 678 i 688; dokument nie dopisuje ich sztucznie. |
+| 9 — *A History of the Work of Redemption* | `MD/VOLUME9.md` | Zapisana treść obejmuje całą hierarchię z `000.html`, ze znacznikami stron 1–556 oraz znacznikami części wstępnej vii–ix. Obrazy zostały pominięte. |
 | 10 — *Sermons and Discourses 1720–1723* | `MD/VOLUME10.md` | Zapisana treść obejmuje całą hierarchię z `000.html`. W źródle nie występują znaczniki stron 2, 259–260, 578 i 644; dokument nie dopisuje ich sztucznie. Dwa obrazy źródłowe zastąpiono diagramami Mermaid, a zapisano wyłącznie obraz `jec-yje10-100.jpg`. |
 
 Dokumenty Markdown przedstawiają wyłącznie treść obecną w lokalnym zrzucie.
