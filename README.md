@@ -1,5 +1,7 @@
 # The Works of Jonathan Edwards — archiwum Markdown
 
+![Portret Jonathana Edwardsa](jonathan-edwards.svg)
+
 Projekt tworzy przeszukiwalne pliki Markdown z ręcznie zapisanych stron
 [WJE Online](http://edwards.yale.edu/research/browse), obejmujących 73 tomy
 *The Works of Jonathan Edwards*. Zawartość jest pobierana ręcznie i następnie
