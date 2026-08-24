@@ -1,48 +1,50 @@
-# The Works of Jonathan Edwards — archiwum Markdown
+# The Works of Jonathan Edwards — Markdown Archive
 
-![Portret Jonathana Edwardsa](jonathan-edwards.svg)
+![Portrait of Jonathan Edwards](jonathan-edwards.svg)
 
-Projekt tworzy przeszukiwalne pliki Markdown z ręcznie zapisanych stron
-[WJE Online](http://edwards.yale.edu/research/browse), obejmujących 73 tomy
-*The Works of Jonathan Edwards*. Zawartość jest pobierana ręcznie i następnie
-przekształcana lokalnie; projekt nie automatyzuje pobierania ze strony Yale.
+This project creates searchable Markdown files from manually saved
+[WJE Online](http://edwards.yale.edu/research/browse) pages for the 73 volumes
+of *The Works of Jonathan Edwards*. Content is saved manually and converted
+locally; the project does not automate downloading from the Yale website.
 
-## Zawartość
+Polish version: [README.pl.md](README.pl.md).
 
-- `HTML/VOLUMENN/` — niezmodyfikowane, lokalnie zapisane strony źródłowe.
-  Plik `000.html` zawiera nawigację i hierarchię tomu.
-- `VOLUMEN.md` — wynikowy tekst tomu w Markdown.
-- `scripts/html_volume_to_markdown.rb` — konwerter tolerujący niepoprawny HTML
-  archiwum.
-- `AGENTS.md` — stała procedura pracy nad następnymi tomami.
+## Contents
 
-Wynik zachowuje treść źródłową, strukturę nagłówków, przypisy i numery stron.
-Numery stron są celowo dyskretnymi komentarzami, np. `<!-- p. 123 -->`, dzięki
-czemu pozostają przeszukiwalne, ale nie zaburzają hierarchii dokumentu. Obrazy,
-nawigacja serwisu oraz stopki są pomijane.
+- `HTML/VOLUMENN/` — unmodified, locally saved source pages. `000.html`
+  contains the volume navigation and heading hierarchy.
+- `VOLUMEN.md` — the resulting Markdown text for a volume.
+- `scripts/html_volume_to_markdown.rb` — a converter that tolerates the
+  archive's malformed HTML.
+- `AGENTS.md` — the working procedure for subsequent volumes.
 
-## Tworzenie tomu
+The output preserves source content, heading structure, footnotes, and page
+numbers. Page numbers are intentionally stored as unobtrusive comments, for
+example `<!-- p. 123 -->`, so that they remain searchable without disrupting
+the document hierarchy. Images, site navigation, and footers are omitted.
 
-Po umieszczeniu ręcznie zapisanych plików w `HTML/VOLUMENN/` uruchom:
+## Creating a volume
+
+After placing manually saved files in `HTML/VOLUMENN/`, run:
 
 ```bash
 ruby scripts/html_volume_to_markdown.rb HTML/VOLUMENN VOLUMEN.md
 ```
 
-Przykład dla drugiego tomu:
+For example, for the second volume:
 
 ```bash
 ruby scripts/html_volume_to_markdown.rb HTML/VOLUME02 VOLUME2.md
 ```
 
-Konwerter odczytuje wyłącznie lokalne HTML, wykrywa główną treść na podstawie
-komentarzy archiwum, czerpie poziomy nagłówków z `000.html` i tworzy unikalne
-przypisy Markdown. Unikalność jest ważna, ponieważ numeracja przypisów zaczyna
-się od nowa w różnych fragmentach tomu.
+The converter reads local HTML only, identifies main content from the archive's
+comments, derives heading levels from `000.html`, and creates unique Markdown
+footnotes. Uniqueness matters because printed footnote numbering may restart in
+different source fragments.
 
-## Weryfikacja
+## Verification
 
-Po wygenerowaniu tomu uruchom co najmniej:
+After generating a volume, run at least:
 
 ```bash
 ruby -c scripts/html_volume_to_markdown.rb
@@ -50,16 +52,17 @@ ruby scripts/verify_volume_markdown.rb HTML/VOLUMENN VOLUMEN.md
 git diff --check
 ```
 
-Walidator porównuje znaczniki stron, odwołania i definicje przypisów z lokalnym
-HTML oraz zgłasza nagłówki z `000.html`, których nie ma w wyniku. Braki w
-sekwencji stron oznaczają, że trzeba ręcznie zapisać brakujące fragmenty — nie
-należy rekonstruować ich z pamięci ani z innego wydania.
+The validator compares page markers, footnote references, and footnote
+definitions with the local HTML, and reports headings from `000.html` that are
+absent from the result. A gap in page numbering means the missing fragment
+should be saved manually; it must not be reconstructed from memory or another
+edition.
 
-## Stan zrzutów
+## Capture status
 
-| Tom | Plik Markdown | Stan źródeł |
+| Volume | Markdown file | Source status |
 | --- | --- | --- |
-| 1 — *Freedom of the Will* | `VOLUME1.md` | Zapisana treść obejmuje całą hierarchię z `000.html`. W źródle nie występują znaczniki stron 31, 136 i 149; dokument nie dopisuje ich sztucznie. |
-| 2 — *Religious Affections* | `VOLUME2.md` | Zapisana treść obejmuje całą hierarchię z `000.html`. W źródle nie występują znaczniki stron 46, 76–77, 84, 125 i 440; dokument nie dopisuje ich sztucznie. Plik `007.html` nie ma zwykłego końcowego komentarza archiwum, dlatego konwerter używa bezpiecznego końca awaryjnego. |
+| 1 — *Freedom of the Will* | `VOLUME1.md` | The saved content includes the complete hierarchy from `000.html`. Page markers 31, 136, and 149 are absent from the source; the document does not add them artificially. |
+| 2 — *Religious Affections* | `VOLUME2.md` | The saved content includes the complete hierarchy from `000.html`. Page markers 46, 76–77, 84, 125, and 440 are absent from the source; the document does not add them artificially. `007.html` lacks the archive's usual closing comment, so the converter uses a safe fallback end. |
 
-Dokumenty Markdown przedstawiają wyłącznie treść obecną w lokalnym zrzucie.
+Markdown documents contain only content present in the local capture.
