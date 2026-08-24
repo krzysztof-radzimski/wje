@@ -26,6 +26,14 @@ def heading_key(text)
       .gsub(/[^[:alnum:]]+/, " ").strip.downcase
 end
 
+def navigation_text(text)
+  value = text.gsub(/\s+/, " ").strip
+  return "CONTENTS" if value.match?(/\ACONTENTS Editorial Committee [ivxlcdm]+\z/i)
+
+  value
+end
+
+include_images = ARGV.delete("--include-images")
 input_directory = ARGV[0] || "HTML/VOLUME01"
 markdown_file = ARGV[1] || "MD/VOLUME1.md"
 pages = Dir.glob(File.join(input_directory, "*.html")).sort.reject { |path| File.basename(path) == "000.html" }
@@ -40,6 +48,7 @@ end
 source_pages = documents.flat_map do |document|
   document.css("center").map { |node| node.text[/--\s*(.*?)\s*--/, 1] }.compact
 end
+source_images = documents.flat_map { |document| document.css("img") }
 
 markdown = File.read(markdown_file, encoding: "UTF-8")
 markdown_refs = markdown.scan(/(?<!\\)\[\^([^\]]+)\](?!:)/).flatten
@@ -53,12 +62,21 @@ abort "Odwołania bez definicji: #{missing_notes.join(', ')}" unless missing_not
 abort "Zduplikowane definicje: #{duplicate_notes.keys.join(', ')}" unless duplicate_notes.empty?
 abort "Niezgodna liczba znaczników stron: HTML=#{source_pages.length}, Markdown=#{markdown.scan(/<!-- p\. /).length}" unless source_pages.length == markdown.scan(/<!-- p\. /).length
 abort "Pozostały znaczniki <sup>" if markdown.include?("<sup>")
+if include_images
+  markdown_images = markdown.scan(/!\[[^\]]*\]\(([^)]+)\)/).flatten
+  abort "Niezgodna liczba obrazów: HTML=#{source_images.length}, Markdown=#{markdown_images.length}" unless source_images.length == markdown_images.length
+
+  missing_images = markdown_images.reject do |path|
+    File.file?(File.expand_path(path, File.dirname(markdown_file)))
+  end
+  abort "Brakujące pliki obrazów: #{missing_images.join(', ')}" unless missing_images.empty?
+end
 
 navigation = Nokogiri::HTML::DocumentFragment.parse(source_fragment(File.join(input_directory, "000.html")))
                  .css("span.navlevel1, span.navlevel2, span.navlevel3")
-                 .map { |node| node.text.gsub(/\s+/, " ").strip }
+                 .map { |node| navigation_text(node.text) }
 expected = navigation.reject do |text|
-  %w[front matter contents].include?(heading_key(text)) || heading_key(text) == heading_key(markdown[/\A#\s+(.+)\n/, 1].to_s)
+  %w[front matter contents].include?(heading_key(text)) || text.match?(/\A\[\d+\]\z/) || heading_key(text) == heading_key(markdown[/\A#\s+(.+)\n/, 1].to_s)
 end
 actual = markdown.scan(/^#+\s+(.+)$/).flatten.map { |text| heading_key(text) }
 missing_headings = expected.reject do |text|
@@ -80,10 +98,14 @@ missing_headings = expected.reject do |text|
     # Volume 5's navigation includes this descriptive label even though the
     # edition explicitly records that Edwards supplied no exposition.
     (key == heading_key("CHAPTER Revelation 3 in the exposition.") &&
-      markdown.include?("JE did not comment on Revelation 3 in the exposition."))
+      markdown.include?("JE did not comment on Revelation 3 in the exposition.")) ||
+    (key.start_with?(heading_key("JE, Notes in MS copy of George Downame")) &&
+      actual.any? { |actual_key| actual_key.start_with?(heading_key("JE, Notes in MS copy of George Downame")) })
 end
 
-puts "OK: #{source_pages.length} znaczników stron, #{markdown_refs.length} odwołań i #{markdown_notes.length} definicji przypisów."
+summary = "OK: #{source_pages.length} znaczników stron, #{markdown_refs.length} odwołań i #{markdown_notes.length} definicji przypisów."
+summary += " #{source_images.length} obrazów." if include_images
+puts summary
 if missing_headings.empty?
   puts "Nagłówki z 000.html są obecne w Markdown."
 else

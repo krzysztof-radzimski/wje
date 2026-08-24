@@ -22,7 +22,9 @@ przekształcana lokalnie; projekt nie automatyzuje pobierania ze strony Yale.
 Wynik zachowuje treść źródłową, strukturę nagłówków, przypisy i numery stron.
 Numery stron są celowo dyskretnymi komentarzami, np. `<!-- p. 123 -->`, dzięki
 czemu pozostają przeszukiwalne, ale nie zaburzają hierarchii dokumentu. Obrazy,
-nawigacja serwisu oraz stopki są pomijane.
+nawigacja serwisu oraz stopki są zwykle pomijane. Jeśli ilustracje są istotne,
+tryb `--include-images` kopiuje lokalnie zapisane obrazy treści do
+`MD/assets/VOLUMENN/` i zapisuje w Markdown ścieżki względne.
 
 ## Tworzenie tomu
 
@@ -36,6 +38,13 @@ Przykład dla drugiego tomu:
 
 ```bash
 ruby scripts/html_volume_to_markdown.rb HTML/VOLUME02 MD/VOLUME2.md
+```
+
+Dla tomu, którego ilustracje należy zachować:
+
+```bash
+ruby scripts/html_volume_to_markdown.rb --include-images HTML/VOLUMENN MD/VOLUMEN.md
+ruby scripts/verify_volume_markdown.rb --include-images HTML/VOLUMENN MD/VOLUMEN.md
 ```
 
 Konwerter odczytuje wyłącznie lokalne HTML, wykrywa główną treść na podstawie
@@ -67,5 +76,6 @@ należy rekonstruować ich z pamięci ani z innego wydania.
 | 3 — *Original Sin* | `MD/VOLUME3.md` | Zapisana treść obejmuje całą hierarchię z `000.html`. W źródle nie występują znaczniki stron 105–106, 220–222, 350–352 i 372–374; dokument nie dopisuje ich sztucznie. Plik `007.html` nie ma zwykłego końcowego komentarza archiwum, dlatego konwerter używa bezpiecznego końca awaryjnego. |
 | 4 — *The Great Awakening* | `MD/VOLUME4.md` | Zapisana treść obejmuje całą hierarchię z `000.html` oraz ciąg znaczników stron 1–570 bez luk. |
 | 5 — *Apocalyptic Writings* | `MD/VOLUME5.md` | Zapisana treść obejmuje całą hierarchię z `000.html` oraz ciąg znaczników stron 1–464 bez luk. Nawigacja zaznacza, że Edwards nie skomentował 3. rozdziału Apokalipsy w wykładzie. |
+| 6 — *Scientific and Philosophical Writings* | `MD/VOLUME6.md` | Zapisana treść obejmuje całą hierarchię z `000.html`. W źródle nie występują znaczniki stron 1, 144–146, 170–171 i 311; dokument nie dopisuje ich sztucznie. Lokalnie zapisane obrazy treści znajdują się w `MD/assets/VOLUME06/`. |
 
 Dokumenty Markdown przedstawiają wyłącznie treść obecną w lokalnym zrzucie.

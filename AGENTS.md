@@ -20,7 +20,7 @@ Uruchom generator wyłącznie na lokalnych plikach:
 ruby scripts/html_volume_to_markdown.rb HTML/VOLUMENN MD/VOLUMEN.md
 ```
 
-Generator celowo:
+Generator domyślnie:
 
 - pobiera treść wyłącznie między komentarzami `START OF CONTENT AREA` i
   `END OF CONTEXT AREA` (z bezpiecznym końcem awaryjnym dla uciętych plików);
@@ -33,6 +33,15 @@ Generator celowo:
 Nie zamieniaj znaczników stron na nagłówki i nie kasuj przypisów. Jeżeli definicja
 przypisu w zapisanym HTML jest pusta, zachowaj ją z jawną adnotacją o braku
 treści, zamiast wymyślać brakujący tekst.
+
+Jeśli użytkownik wyraźnie wskaże, że obrazy danego tomu są istotne, użyj trybu
+`--include-images`. Generator skopiuje wyłącznie obrazy obecne w obszarze treści
+do `MD/assets/VOLUMENN/` i umieści w Markdown ścieżki względne:
+
+```bash
+ruby scripts/html_volume_to_markdown.rb --include-images HTML/VOLUMENN MD/VOLUMEN.md
+ruby scripts/verify_volume_markdown.rb --include-images HTML/VOLUMENN MD/VOLUMEN.md
+```
 
 ## Kontrola kompletności
 

@@ -6,11 +6,44 @@
 # explicit source-content comments rather than from the surrounding layout.
 
 require "cgi"
+require "fileutils"
 require "nokogiri"
+require "pathname"
 
 CONTENT_START = "<!-- START OF CONTENT AREA -->"
 CONTENT_END = "<!-- END OF CONTEXT AREA, WE HOPE-->"
 SKIPPED_TAGS = %w[script style img input form].freeze
+
+def image_extension(path)
+  signature = File.binread(path, 12)
+  return "jpg" if signature.start_with?("\xFF\xD8\xFF".b)
+  return "png" if signature.start_with?("\x89PNG\r\n\x1A\n".b)
+  return "gif" if signature.start_with?("GIF87a", "GIF89a")
+
+  fallback = File.extname(path).delete_prefix(".").downcase
+  fallback.empty? ? "img" : fallback
+end
+
+def image_markdown(node)
+  return "" unless @include_images
+
+  source = node["src"].to_s
+  return "" if source.empty? || source.match?(%r{\Ahttps?://}i)
+
+  source_path = File.expand_path(source, File.dirname(@source_path))
+  return "" unless File.file?(source_path)
+
+  extension = image_extension(source_path)
+  stem = File.basename(source_path, File.extname(source_path)).gsub(/[^A-Za-z0-9._-]+/, "-")
+  destination = File.join(@asset_directory, "#{@source_page}-#{stem}.#{extension}")
+  FileUtils.mkdir_p(File.dirname(destination))
+  FileUtils.cp(source_path, destination)
+
+  relative_path = Pathname.new(destination).relative_path_from(Pathname.new(File.dirname(@output_file))).to_s
+  alt = node["alt"].to_s.strip
+  alt = "Illustration from source page #{@source_page}" if alt.empty?
+  "![#{alt.gsub("]", "\\\\]")}](#{relative_path})"
+end
 
 def footnote_id(node)
   target = node["href"].to_s[/#(note[^&#]+)/, 1] || node["name"].to_s[/\A(note.+)\z/, 1]
@@ -31,6 +64,7 @@ end
 def inline(node)
   return "" if node.text? && node.text.empty?
   return node.text.gsub(/[\t\r\n ]+/, " ") if node.text?
+  return image_markdown(node) if node.name == "img"
   return "" if SKIPPED_TAGS.include?(node.name)
 
   classes = node["class"].to_s.split
@@ -103,6 +137,11 @@ def render(node, output, heading_count)
     output << node.text.gsub(/[\t\r\n ]+/, " ")
     return heading_count
   end
+  if node.name == "img"
+    image = image_markdown(node)
+    output << "\n\n#{image}\n\n" unless image.empty?
+    return heading_count
+  end
   return heading_count if SKIPPED_TAGS.include?(node.name)
 
   classes = node["class"].to_s.split
@@ -124,6 +163,25 @@ def render(node, output, heading_count)
       heading_count = render_heading_descendants(child, output, heading_count)
     end
     return heading_count
+  end
+  if node.name == "div" && node["type"] == "intro"
+    subsections = node.css('div[type="subsection"]')
+    contents_section = subsections.first
+    contents_heading = contents_section&.at_css("span.head")&.then { |heading| heading_text(heading).strip }
+    body_section = subsections[1]
+    if contents_heading&.casecmp?("CONTENTS") && body_section
+      serialized = node.to_html
+      start = serialized.index(body_section.to_html)
+      prefix = Nokogiri::HTML::DocumentFragment.parse(serialized[0...start])
+      prefix.css("center").each do |center|
+        marker = page_marker(inline(center).strip)
+        output << "\n\n#{marker}\n\n" if marker
+      end
+      output << "\n\n### CONTENTS\n\n"
+      fragment = Nokogiri::HTML::DocumentFragment.parse(serialized[start..])
+      fragment.children.each { |child| heading_count = render(child, output, heading_count) }
+      return heading_count
+    end
   end
   if node.name == "div" && node["type"] == "contents"
     # The contents table is replaced with the navigation-derived Markdown
@@ -278,11 +336,18 @@ def heading_key(text)
       .downcase
 end
 
+def navigation_text(text)
+  value = text.gsub(/\s+/, " ").strip
+  return "CONTENTS" if value.match?(/\ACONTENTS Editorial Committee [ivxlcdm]+\z/i)
+
+  value
+end
+
 def navigation_entries(path)
   fragment = source_fragment(path)
   document = Nokogiri::HTML::DocumentFragment.parse(fragment)
   document.css("span.navlevel1, span.navlevel2, span.navlevel3").map do |node|
-    [node["class"][/\d/].to_i, node.text.gsub(/\s+/, " ").strip]
+    [node["class"][/\d/].to_i, navigation_text(node.text)]
   end
 end
 
@@ -381,6 +446,8 @@ def apply_heading_hierarchy(markdown, entries)
   unless contents.empty?
     if markdown.match?(/^### CONTENTS$/)
       markdown.sub!(/^### CONTENTS\n\n/, "### CONTENTS\n\n#{contents}\n\n")
+    elsif markdown.match?(/^## Front Matter$/)
+      markdown.sub!(/^## Front Matter\n/, "## Front Matter\n\n### CONTENTS\n\n#{contents}\n\n")
     else
       first_section = entries.find do |depth, text|
         key = heading_key(text)
@@ -399,8 +466,12 @@ def apply_heading_hierarchy(markdown, entries)
   markdown
 end
 
+include_images = ARGV.delete("--include-images")
 input_directory = ARGV[0] || "HTML/VOLUME01"
 output_file = ARGV[1] || "MD/VOLUME1.md"
+@include_images = include_images
+@output_file = File.expand_path(output_file)
+@asset_directory = File.join(File.dirname(@output_file), "assets", File.basename(input_directory))
 pages = Dir.glob(File.join(input_directory, "*.html")).sort
 # 000.html is the archive's generated navigation page.  The printed volume's
 # own front matter (including its contents page) starts in 001.html.
@@ -411,6 +482,7 @@ output = +""
 heading_count = 0
 pages.each_with_index do |path, index|
   @source_page = File.basename(path, ".html")
+  @source_path = path
   node = content_node(source_fragment(path), index)
   heading_count = render(node, output, heading_count)
 end

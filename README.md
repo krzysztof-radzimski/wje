@@ -22,7 +22,10 @@ locally; the project does not automate downloading from the Yale website.
 The output preserves source content, heading structure, footnotes, and page
 numbers. Page numbers are intentionally stored as unobtrusive comments, for
 example `<!-- p. 123 -->`, so that they remain searchable without disrupting
-the document hierarchy. Images, site navigation, and footers are omitted.
+the document hierarchy. Images, site navigation, and footers are normally
+omitted. When illustrations are essential, the optional `--include-images`
+mode copies the locally saved content images to `MD/assets/VOLUMENN/` and uses
+relative paths in the Markdown file.
 
 ## Creating a volume
 
@@ -36,6 +39,13 @@ For example, for the second volume:
 
 ```bash
 ruby scripts/html_volume_to_markdown.rb HTML/VOLUME02 MD/VOLUME2.md
+```
+
+For a volume whose content images must be preserved:
+
+```bash
+ruby scripts/html_volume_to_markdown.rb --include-images HTML/VOLUMENN MD/VOLUMEN.md
+ruby scripts/verify_volume_markdown.rb --include-images HTML/VOLUMENN MD/VOLUMEN.md
 ```
 
 The converter reads local HTML only, identifies main content from the archive's
@@ -68,5 +78,6 @@ edition.
 | 3 — *Original Sin* | `MD/VOLUME3.md` | The saved content includes the complete hierarchy from `000.html`. Page markers 105–106, 220–222, 350–352, and 372–374 are absent from the source; the document does not add them artificially. `007.html` lacks the archive's usual closing comment, so the converter uses a safe fallback end. |
 | 4 — *The Great Awakening* | `MD/VOLUME4.md` | The saved content includes the complete hierarchy from `000.html` and page markers 1–570 without gaps. |
 | 5 — *Apocalyptic Writings* | `MD/VOLUME5.md` | The saved content includes the complete hierarchy from `000.html` and page markers 1–464 without gaps. The navigation notes that Edwards did not comment on Revelation 3 in the exposition. |
+| 6 — *Scientific and Philosophical Writings* | `MD/VOLUME6.md` | The saved content includes the complete hierarchy from `000.html`. Page markers 1 and 144–146, 170–171, and 311 are absent from the source; the document does not add them artificially. The locally saved content images are preserved in `MD/assets/VOLUME06/`. |
 
 Markdown documents contain only content present in the local capture.

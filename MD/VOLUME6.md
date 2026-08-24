@@ -4,27 +4,92 @@
 
 <!-- p. vi -->
 
-### CONTENTS Editorial Committee v
-
-Editor's Introduction 1 1. Biographical Background 2 Precollegiate Period, 3; Collegiate and Graduate Studies, 7; From New York to Northampton, 27; Northampton to Princeton, 34. 2. Edwards as a Scientist 37 3. The Development of Edwards' Philosophical Thought 52 The Refutation of Materialism, 53; The Necessity of Being, 68; The Structure of Being, 75; The World in Space and Time, 94; The Mind, 111. 4. Preparation and Editing of the Texts 136 5. Acknowledgments 141
-
-## Part I: The "Spider" Papers 145 Note on the "Spider" Papers 147 "Of Insects" 154 The "Spider" Letter 163
-
-## Part II: "Natural Philosophy" and Related Papers 171 Note on "Natural Philosophy" 173 "Natural Philosophy" 192 Cover-Leaf Memoranda 192 "Of the Prejudices of Imagination" 196 "Of Being" 202 ["Of Atoms"] 208 "Things to be Considered an[d] Written fully about" 219 Note on Papers on Nature and Natural Phenomena 296 "Of the Rainbow" 298 ["Of Light Rays"] 302 "Beauty of the World" 305 "Wisdom in the Contrivance of the World" 307
-
-## Part III: "The Mind" and Related Papers 311 Note on "The Mind" 313
-
 <!-- p. vii -->
 
- "The Mind" 332 Note on Short Philosophical Papers 394 Outline of "A Rational Account" 396 ["Notes on Knowledge and Existence"] 398
-
-Appendix A: "The Soul" 401 Note on "The Soul" 401 ["The Soul"] 405
-
-Appendix B: The "Spider" Letter-Draft 407 Note on the "Spider" Letter-Draft 407 "Spider" Letter of October 31, 1723—Draft 409
-
-Index 417
-
 <!-- p. viii -->
+
+### CONTENTS
+
+- EDITOR'S INTRODUCTION
+- 1. Biographical Background
+  - PRECOLLEGIATE PERIOD: 1703–16
+  - "COLLEGIATE AND GRADUATE STUDIES". 1716–22
+  - FROM NEW YORK TO NORTHAMPTON: 1722–26
+  - NORTHAMPTON TO PRINCETON: 1726–58
+- 2. Edwards as a Scientist
+- 3. The Development of Edwards' Philosophical Thought.
+  - THE REFUTATION OF MATERIALISM
+  - BEING KNOWN AND BEING LOVED: THE STRUCTURE OF BEING
+  - THE WORLD IN SPACE AND TIME
+  - THE MIND
+- 4. Preparation and Editing of the Texts.
+- 5. Acknowledgments
+- PART ONE
+  - The "Spider" Papers
+  - NOTE ON THE "SPIDER" PAPERS
+    - "Of Insects"
+    - The "Spider" Letter.
+    - Editing of the "Spider" Papers
+  - "OF INSECTS"
+  - THE "SPIDER" LETTER
+- PART TWO
+  - "Natural Philosophy" and Related Papers
+  - NOTE ON "NATURAL PHILOSOPHY"
+    - Chronology of "Natural Philosophy".
+    - Dating of "Natural Philosophy".
+    - Editing of "Natural Philosophy".
+  - "Natural Philosophy"
+  - COVER-LEAF MEMORANDA
+    - Side i:
+    - Side ii:
+  - "OF THE PREJUDICES OF IMAGINATION"
+    - Lemma to the whol
+  - "OF BEING"
+  - ["OF ATOMS"]
+  - "THINGS TO BE CONSIDERED AN[D] WRITTEN FULLY ABOUT"
+    - [Short Series]
+    - [Long Series]
+    - [Unnumbered Series]
+  - NOTE ON PAPERS ON NATURE AND NATURAL PHENOMENA
+  - "OF THE RAINBOW"
+  - ["OF LIGHT RAYS"]
+  - "BEAUTY OF THE WORLD"
+  - "WISDOM IN THE CONTRIVANCE OF THE WORLD"
+- PART THREE
+  - "The Mind" and Related Paper
+  - NOTE ON "THE MIND"
+    - Chronology and Dating of "The Mind"
+    - The Text of "The Mind"
+  - "The Mind"
+    - [Plan for a Treatise]
+  - SUBJECTS TO BE HANDLED IN THE TREATISE ON THE MIND:
+  - NOTE ON SHORT PHILOSOPHICAL PAPERS
+  - OUTLINE OF "A RATIONAL ACCOUNT"
+  - ["NOTES ON KNOWLEDGE AND EXISTENCE"]
+    - Side i:
+    - Side ii:
+- Appendixes
+  - APPENDIX A: "THE SOUL"
+    - NOTE ON "THE SOUL"
+    - ["THE SOUL"]
+  - APPENDIX B: THE "SPIDER" LETTER-DRAFT
+    - NOTE ON THE "SPIDER" LETTER-DRAFT
+    - "SPIDER" LETTER OF OCTOBER 31, 1723—DRAFT
+- Index to "The Mind"
+- [1]
+- Four quarto leaves, last page blank.
+  - [4]
+  - [6]
+  - [7]
+  - “THE MIND.”
+    - Subjects to be handled in the Treatise on the Mind.
+    - THE MIND.
+    - ["OF ATOMS"]
+    - Prop 2
+  - [Revised edited version]
+  - ["OF ATOMS"]
+  - things to be Considered
+  - JE, Notes in MS copy of George Downame, . N.d. [c. 1718-22]. BRBL, Gen. MSS vol. 159. Sixth leaf from end.
 
 ### EDITOR'S INTRODUCTION
 
@@ -2102,90 +2167,6 @@ Wallace E. Anderson
 
 [^002-note443]: See Ramsey's account in *Works* (Yale ed.), *1*, pp. 118 ff.
 
-### CONTENTS
-
-- CONTENTS Editorial Committee v
-- EDITOR'S INTRODUCTION
-- 1. Biographical Background
-  - PRECOLLEGIATE PERIOD: 1703–16
-  - "COLLEGIATE AND GRADUATE STUDIES". 1716–22
-  - FROM NEW YORK TO NORTHAMPTON: 1722–26
-  - NORTHAMPTON TO PRINCETON: 1726–58
-- 2. Edwards as a Scientist
-- 3. The Development of Edwards' Philosophical Thought.
-  - THE REFUTATION OF MATERIALISM
-  - BEING KNOWN AND BEING LOVED: THE STRUCTURE OF BEING
-  - THE WORLD IN SPACE AND TIME
-  - THE MIND
-- 4. Preparation and Editing of the Texts.
-- 5. Acknowledgments
-- PART ONE
-  - The "Spider" Papers
-  - NOTE ON THE "SPIDER" PAPERS
-    - "Of Insects"
-    - The "Spider" Letter.
-    - Editing of the "Spider" Papers
-  - "OF INSECTS"
-  - THE "SPIDER" LETTER
-- PART TWO
-  - "Natural Philosophy" and Related Papers
-  - NOTE ON "NATURAL PHILOSOPHY"
-    - Chronology of "Natural Philosophy".
-    - Dating of "Natural Philosophy".
-    - Editing of "Natural Philosophy".
-  - "Natural Philosophy"
-  - COVER-LEAF MEMORANDA
-    - Side i:
-    - Side ii:
-  - "OF THE PREJUDICES OF IMAGINATION"
-    - Lemma to the whol
-  - "OF BEING"
-  - ["OF ATOMS"]
-  - "THINGS TO BE CONSIDERED AN[D] WRITTEN FULLY ABOUT"
-    - [Short Series]
-    - [Long Series]
-    - [Unnumbered Series]
-  - NOTE ON PAPERS ON NATURE AND NATURAL PHENOMENA
-  - "OF THE RAINBOW"
-  - ["OF LIGHT RAYS"]
-  - "BEAUTY OF THE WORLD"
-  - "WISDOM IN THE CONTRIVANCE OF THE WORLD"
-- PART THREE
-  - "The Mind" and Related Paper
-  - NOTE ON "THE MIND"
-    - Chronology and Dating of "The Mind"
-    - The Text of "The Mind"
-  - "The Mind"
-    - [Plan for a Treatise]
-  - SUBJECTS TO BE HANDLED IN THE TREATISE ON THE MIND:
-  - NOTE ON SHORT PHILOSOPHICAL PAPERS
-  - OUTLINE OF "A RATIONAL ACCOUNT"
-  - ["NOTES ON KNOWLEDGE AND EXISTENCE"]
-    - Side i:
-    - Side ii:
-- Appendixes
-  - APPENDIX A: "THE SOUL"
-    - NOTE ON "THE SOUL"
-    - ["THE SOUL"]
-  - APPENDIX B: THE "SPIDER" LETTER-DRAFT
-    - NOTE ON THE "SPIDER" LETTER-DRAFT
-    - "SPIDER" LETTER OF OCTOBER 31, 1723—DRAFT
-- Index to "The Mind"
-- [1]
-- Four quarto leaves, last page blank.
-  - [4]
-  - [6]
-  - [7]
-  - “THE MIND.”
-    - Subjects to be handled in the Treatise on the Mind.
-    - THE MIND.
-    - ["OF ATOMS"]
-    - Prop 2
-  - [Revised edited version]
-  - ["OF ATOMS"]
-  - things to be Considered
-  - JE, Notes in MS copy of George Downame, . N.d. [c. 1718-22]. BRBL, Gen. MSS vol. 159. Sixth leaf from end.
-
 ## PART ONE
 
 ### The "Spider" Papers
@@ -2306,6 +2287,8 @@ There remain only two difficulties. The one is, how should they first begin to s
 
 the web was thereby drawn out, which being at first exceeding slender, the wind presently broke it at *d*, and drew it out, as in Figure the second, and it was immediately spun out to a very great length.
 
+![Illustration from source page 003](assets/VOLUME06/003-getimage.jpg)
+
 Figs. 1, 2
 
 The other difficulty is, how when they are once carried up into the air, how they get down again, or whether they are necessitated to continue, till they are beat down by some shower of rain, without any sustenance—which [is] not probable nor agreeable to nature's[^003-note25] providence. I answer: there is a way whereby they may come down again when they please by only gathering in their webs in to them again, by which way they may come down gradually and gently. But whether that be their way or no, I can't say—but without scruple, that or a better, for we always find things done by nature as well or better than [we] can imagine beforehand.
@@ -2361,6 +2344,8 @@ When a spider would go from one tree or branch to another, or would recreate him
 <!-- p. 165 -->
 
 be drawn [out] of his tail with infinite ease by the moving air, to what length the spider pleases, as [in] Fig. 3: And if the further end of the web *de*, as it is running out and moving to and fro, happens to catch by a shrub or the branch of a tree, the spider immediately feels it and fixes the hither end of it, *d*, to the web *bc*, and goes over as by a bridge by the web *de.* Every particular of this, Sir, my eyes have innumerable times made me sure of, saving that I never could distinctly see how they separated the part of the web *cd* (Fig. 2) from the part *bc*, whether it be done by biting of it off or how, because so small a piece of so fine a web is altogether imperceptible amongst the spider's legs, and because the spider is so very quick and dexterous in doing of it all. But I have seen that it is done, though I have not seen how they do it. For this, Sir, I can see: that the web *bc* (Fig. 3) is separated, and not joined to the spider's tail, while the web *de* is drawing out.
+
+![Illustration from source page 003](assets/VOLUME06/003-getimage-1-.jpg)
 
 Now, Sir, it is certain that these webs, when they first come from the spider, are so rare a substance that they are lighter than the air, because they will immediately ascend in a calm air, and never descend except driven by a wind: and 'tis as certain that what swims and ascends in the air is lighter than the air, as that what ascends and swims in water is lighter than that: So that if we should suppose any such time wherein the air is perfectly calm, this web is so easily drawn out of the spider's tail, that barely the levity of it is sufficient to carry it out to any length. But at least its levity, or ascending inclination, together with so much motion as the air is never without, will well suffice for this. Wherefore, if it be so that the end of the web *de* (Fig. 3) catches by no tree nor other body till it be drawn out so long that its levity shall be so great as to be
 
@@ -2503,6 +2488,8 @@ These papers were apparently discovered by Sereno Dwight in about 1820.[^004-not
 in 1963.[^004-note6] Edwards' shorthand passages were transcribed and published by William Upham in 1902.[^004-note7]
 
 Because Edwards' own title for the manuscript does not appear on any of the extant parts, it has come to be generally referred to by the title Dwight invented for it, "Notes on Natural Science." But "Natural Philosophy" is used as a title in several places among Edwards' other manuscript writings. In some cases he might have intended to refer to the treatise which he planned to write using the materials in this collection. But in one place in his "Miscellanies" it is evident that "Natural Philosophy" was his title for the manuscript collection itself. Miscell. no. 146 begins with the heading "Satan Defeated," followed by the reference, "Vid. in Natural Philosophy." The article here referred to, also headed "Satan Defeated," is found in the unnumbered series in the last section of the manuscript.[^004-note8]
+
+![Illustration from source page 004](assets/VOLUME06/004-getimage.jpg)
 
 Manuscript of "Natural Philosophy"
 
@@ -2772,6 +2759,8 @@ First, *Prop. 1.*: There is no degree of swiftness of motion whatsoever but what
 
 Secondly, *Prop. 2.*:[^004-note48] There may be bodies of any indefinite degree of smallness. Let two perfect spheres, *A* and *B*, touch each other in some point of their surfaces at *I* [Fig. 1]. 'Tis evident that there can be a globule of matter just so big as to reach from the surface of one sphere to the surface of the other sphere at any given distance from the point of contact *I*: suppose at *e.* Let the spheres be greater or smaller: since, therefore, that the distance *og* between the surface of one sphere and the surface of the other is less according as the spheres are greater, and since the touching spheres can be of any degree of magnitude, and since consequently the distance *og* can be of any degree of smallness, and since the body that fills up that distance is small accordingly, it follows that there can be a body of any degree of smallness.
 
+![Illustration from source page 004](assets/VOLUME06/004-getimage-1-.jpg)
+
 Fig. 1
 
 N.B. This I take to be all that is meant by the divisibility of matter *in infinitum*[^004-note49]
@@ -2788,9 +2777,13 @@ Let the laws of gravity and motion be mentioned, and let it be a postulatum inse
 
 *Postulatum 2.* That there may be bodies of any indefinite degree of smallness. That is, in any of those infinite divisions of matter, it is possible that matter or body may extend so far as the extremes of that part and no further, and then that part will be a distinct body. For instance: let the body *AB* [Fig. 2] be by you supposed to be as small as 'tis possible for a body to be. No doubt but there is a middle between the two extremes of that body, how small soever it is, at *C.* Now we mean that 'tis possible that matter may not extend any further than to the extremes of the half of that body, as far[^004-note51] only from *B* to *C*; so that 'tis possible there may be a body smaller than *AB*, however small that is.
 
+![Illustration from source page 004](assets/VOLUME06/004-getimage-2-.jpg)
+
 Fig. 2
 
 *Postulatum 3.* That there is no degree of swiftness of motion whatever but what is possible. For instance: suppose the body *AB* to be fixed at the point *B* [Fig. 3], and to move round the point *B* in an hour. If the body *AB* be made as long again, yet 'tis possible it may be moved round in an hour. So let it be made never so long; though it is manifest that the longer it is, the swifter doth the further extreme move.
+
+![Illustration from source page 004](assets/VOLUME06/004-getimage-3-.jpg)
 
 Fig. 3
 
@@ -2800,11 +2793,17 @@ Fig. 3
 
 touch before they are separated. Thus if we suppose them to be separated by the driving in a wedge at *C*, yet the parts must be separated before the wedge could get between them; not but that protrusion or impulsion in another place might cause divulsion in that. Or, if we suppose the parts of the body *D* to be broken thus: let the two ends, *A* and *D*, [be][^004-note52] laid upon two other bodies, *G* and *H*, and broken by the striking of the body *O* in the middle at *C* [Fig. 5]. Even then 'tis manifest that the parts *AC* and *CD* were pulled asunder. The extreme *e* of *AC* was pulled from the extreme *f* of *CD.* This is all I mean by divulsion.
 
+![Illustration from source page 004](assets/VOLUME06/004-getimage-4-.jpg)
+
 Fig. 4
+
+![Illustration from source page 004](assets/VOLUME06/004-getimage-5-.jpg)
 
 Fig. 5
 
 *Postulatum 5.* A body, everywhere and in every respect equal, if there be a possibility of separating the parts, may be most easily separated where 'tis least. For instance, the body *IK* [Fig. 6] may be most easily pulled in two at *L* than at *M.* And it is least where 'tis most easily separated.
+
+![Illustration from source page 004](assets/VOLUME06/004-getimage-6-.jpg)
 
 Fig. 6
 
@@ -2818,11 +2817,17 @@ Suppose the body *AB* to be an absolute plenum, and the parts *AC* and *CB* to b
 
 body *AB* at *C.* 'Tis manifest, by the sixth postulate, that the body *DB* would be broken at *C*, where 'tis equal to *C* of the body *AB.* But if so, it would also be broken by the same force in every point betwixt D[^004-note54] and *C*, by the fifth postulate; because in every point it is less than at *C.* But this is impossible, for it if breaks at every point, the broken parts have no length, breadth and thickness, contrary to the seventh postulate. Such breaking would be annihilation. All these are certain consequences from the supposition that the parts *AC* and *CB* of the body *AB* can be pulled asunder. But we see that these are impossible; therefore that[^004-note55]
 
+![Illustration from source page 004](assets/VOLUME06/004-getimage-7-.jpg)
+
 Fig. 7
+
+![Illustration from source page 004](assets/VOLUME06/004-getimage-8-.jpg)
 
 Fig. 8
 
 Again, let the cylinder *EF* [Fig. 9] be an absolute plenum and fixed at *F*, and let all the parts be pulled towards *E* with equal force. I say, that with how great force soever it is pulled, it will nowhere break. If it break, it will break either in some parts only, or in every point; not in some parts only and not in others, for if so it will be because some parts were more easily broken than others (for it is supposed that the force is equal everywhere). But some parts would not be more easily broken than others, by the fifth postulate; not in every point, for then 'tis manifest the broken parts would be without length, breadth and thickness.
+
+![Illustration from source page 004](assets/VOLUME06/004-getimage-9-.jpg)
 
 Fig. 9
 
@@ -2876,6 +2881,8 @@ When[^004-note69] we go to inquire whether or no there can be absolutely nothing
 
 *Prop. 1.* All bodies whatsoever, except atoms themselves, must of absolute necessity be composed of atoms, or of bodies that are indiscerpible,[^004-note71] that cannot be made less, or whose parts cannot by any finite power whatsoever, be separated one from another. And this will be fully seen as soon as it is seen what bodies those are that are indiscerpible, or what is requisite in a body in order to cause it to be so. And here we shall lay down this proposition: that that body that is absolutely plenum, or that has every part of space included within its surface impenetrable, is indivisible; and that the parts thereof can by no means [be] separated from each other, by any force how great soever. As for instance, suppose the body *B* [Fig. 1] to be what we call an absolute plenum, and suppose the two bodies *A* and *C* to come as impetuously and with as great force as you please, and strike on each side of the body *B*: I say the two bodies *A* and *C* could cause no fraction[^004-note72] in the body *B*
 
+![Illustration from source page 004](assets/VOLUME06/004-getimage-10-.jpg)
+
 Fig. 1
 
 For if the two bodies *A* and *C* should cause any fractions in the body *B*, those fractions must be in some certain places or parts of the body, and not in others; for there cannot be fractions in every part. For I suppose everybody will own, that after the body is supposed to be broken, that there remain parts of the broken body which are unbroken. And so it will be—let the body be broken into as fine parts as you please, those fine parts are still unbroken. The fraction is not through the midst of those parts, as it is between them. So the fraction must be, if at all, in some places and not in others; and indeed, breaking of a body all over, or in
@@ -2890,6 +2897,8 @@ And again,[^004-note73] suppose the body *D* [Fig. 2] to be a perfectly solid bo
 
 *E* and *F*, then it can be annihilated by them—which I believe nobody will own. And the case is all one, let the body *D* be of whatsoever figure. Q.E.D.
 
+![Illustration from source page 004](assets/VOLUME06/004-getimage-11-.jpg)
+
 Fig. 2
 
 But here I foresee that it will be immediately objected, to render what has been said invalid, "But what if the body *B* [Fig. 1] should begin first to be broken off at the corners, where pieces would be more easily cracked off than in other places? And what if it were less in some places than others, or what if the bodies *A* and *C* were applied with much greater force in some places than others?" These objections seem at first quite to render all good for nothing. But I must say that, notwithstanding these objections, what has been said does prove that, suppose the perfectly solid body were everywhere equally bulky, and the bodies *A* and *C* were all along applied with equal force, the perfectly solid body could never be broken. And to them that say it would first break at the corners, I ask how near the corner the first fraction would be. If they tell me, So near, I ask, Why was it not nearer still, since that the nearer the corner, the easier and sooner broken? If after that the place for the first fraction be assigned nearer yet, I ask still, Why not nearer still? So that at last they must be forced to say that the first fraction would be infinitely near the corner, or that the first piece that would be broken off would be infinitely little. And they had as good say that none at all would be broken off first; for as I take it, an actually infinitely little body and no body at all are the same thing—or rather, the same nothing.
@@ -2899,6 +2908,8 @@ And as to the other two parts of the objection, it is enough for them if we can 
 <!-- p. 211 -->
 
 out that a perfectly solid body cannot be broken. For the body *e* may be as great or as small, as long and as slender as you please; the case is the same. And let the force that *e* is to withstand be as great as you please—if the weight of the universe falling against it from never so great a distance, and as much more as you please—we can prove, and what is said above does prove, that it would neither bend nor break, but stiffly bear the shock of it all.
+
+![Illustration from source page 004](assets/VOLUME06/004-getimage-12-.jpg)
 
 Fig. 3
 
@@ -2920,6 +2931,8 @@ Or thus: Since that (by Corol. 1) annihilation and breaking are the same, their 
 
 N.B. It will be needful here a little to explain what it is that we mean by "perfectly solid," "absolute plenum," etc., for that we have laid down—that that is an absolutely full, a solid body, that has every part of space included within its surface solid or impenetrable. Our meaning is very liable to be mistaken, unless a little explained. We intend not but that a perfect solid may be very full of pores, though perhaps improperly so called, interspersed up and down in it, as in the perfect solid *L* [Fig. 4]. It is only requisite that every part of the body *L* should be intimately conjoined with some other parts of it, so as not only barely to touch in some points or lines thereof (I mean mathematical points or lines), as two perfect globes do, or as a cylinder, when it lies on one side, does a plane, and as all atoms do each other except the surfaces where they happen to be infinitely exactly fitted to join each other. So that the body *L*, although it may have some little holes in it, yet it has an absolute plenum continued all along between these holes, so that it is as impregnable as a body that has no holes at all; and this will be understood more fully after we have proved that two atoms touching each other by surfaces can never be separated.
 
+![Illustration from source page 004](assets/VOLUME06/004-getimage-13-.jpg)
+
 Fig. 4
 
 Now 'tis time to apply what we have said concerning atoms, to prove that all bodies are compounded of such. For if we suppose that all those bodies which are any way familiar to our senses yet have interstices so
@@ -2929,6 +2942,8 @@ Now 'tis time to apply what we have said concerning atoms, to prove that all bod
 interspersed throughout the whole body that some parts of [it] do only touch others, and are not conjoined with them, by which they are rendered imperfectly solid, yet we must allow that those parcels of matter that are between the pores (that is, betwixt this and the next adjacent pore) have no pores at all in them, and consequently are plenums or absolute solids, or atoms; and surely all bodies that have pores are made up of parcels of matter which are between the pores—which we have proved to be atoms.
 
 *Prop. 2.* Two or more atoms or perfect solids touching each other by surfaces—I mean so that every point in any surface of the one shall touch every point in some surface of the other, that is, not only barely in some particular parts[^004-note75] or lines of their surfaces, how many soever (for whatsoever does touch in more than points or lines toucheth in every point of some surface)—by that become one and the same atom or perfect solid; which will be abundantly clear by the figure: As, suppose the perfect solid *AB* and the perfect solid *CD* [Fig. 5] to be precisely like to the halves of the perfect solid *AD*, to wit, *Af* and *eD*; and then suppose the atom *AB* to move up to the body *CD*, so that the surface *gB* shall touch in every point of the surface *Ch.* Now since that these two bodies, when separate, were precisely every way like the two halves of the body *AD*, it follows that after they are joined together after the same manner as the two halves of the body *AD* are, they must make up a body every way precisely like the body *AD*, as if it were the same; and consequently must be a perfect solid as the body *AD* is.
+
+![Illustration from source page 004](assets/VOLUME06/004-getimage-14-.jpg)
 
 Fig. 5
 
@@ -3036,6 +3051,8 @@ rotten wood, glowworms, etc., are not accompanied with heat[^004-note95] is beca
 
 12. Belonging to clouds, and rain, dew, etc.:[^004-note97] to shew how, when the rarified air contained within the bubble begins to cool and condense and be contracted into a narrower compass, the water of the skin, being too much for it, necessarily will begin to gather at the bottom, as in [Fig. 1]; and how by that means the destruction of the cloud and production of rain is brought to pass.
 
+![Illustration from source page 004](assets/VOLUME06/004-getimage-15-.jpg)
+
 Fig. 1
 
 13. To observe that, all the rays of one sort being obstructed by any medium and others still proceeding, as by the air in smoky weather, etc.—to inquire how it can be; and to
@@ -3080,6 +3097,8 @@ N.B. That this light of the sun would not appear colored except the crevices thr
 
 22.[^004-note105] To observe that the motion of no animals is by any power they have of impelling their bodies forwards, but only by the mere sending forth of animal spirits and filling the muscles and thereby shortening of them ( *A*, the figure for man's motion. *B*, the motion of serpents and fishes [see Fig. 2]). Also to give the reason of the motion of hawks, etc., without any visible motion of their wings.
 
+![Illustration from source page 004](assets/VOLUME06/004-getimage-16-.jpg)
+
 Fig. 2
 
 23. In the plain flat rocks that rivers run over there are commonly holes, sometimes for a considerable depth into the rock, smooth on the sides, having a stone at the bottom something less than the diameter of the hole. That stone doubtless is the cause of the hole, but the difficulty
@@ -3096,9 +3115,13 @@ is to know how the stone should sink down so far into the firm rock. It must be 
 
 that the reflex ray has equally all directions. That is, the ray *cd* [Fig. 3] is not only reflected towards *ed*, as it would be if the surface of the earth were as a looking glass, but is also reflected back again towards *c*, and every way else indifferently, so that there is a direct opposition in the oblique ray as well as perpendicular. But yet there is not so much opposition, for all the reflections of the perpendicular ray *ab* are in some measure opposite to the direct. They are all reflected by less than a right angle, whereas all the reflections of the oblique ray that are on the other side of the line *fg*, perpendicular to *cd*, are by an angle greater than a right.
 
+![Illustration from source page 004](assets/VOLUME06/004-getimage-17-.jpg)
+
 Fig. 3
 
 Another reason why winter is so much colder than summer is because the rays of the sun when near the horizon travel longer in the atmosphere than when the sun is more over our heads. Thus the ray *be* [Fig. 4] travels much longer in the atmosphere from *f* to *e* before it comes to *e*, the eye, than the ray *ae.* Therefore the light and heat of the sun will be much less. Another reason is because the sun in winter is so much less time above the horizon than in summer. The cold that prevailed in the night is not chased away by the short sunshine of the next day. The next night there is a new addition of the cold of another night, and every night there is a new increase, and the sun stays too little a time to give a check to this progress.
+
+![Illustration from source page 004](assets/VOLUME06/004-getimage-18-.jpg)
 
 Fig. 4
 
@@ -3107,6 +3130,8 @@ But another reason why the perpendicularity of the rays adds to the heat is beca
 <!-- p. 227 -->
 
 way indifferently, the spissitude of this reflection must be in exact proportion to the spissitude of this incidence. For it is manifest that if the rays *ef* had been reflected towards *0*, they would have been reflected much thinner than if they were reflected by the same angle from the surface *LM* [towards *d*], in proportion as they fall nearer together on the surface *LM* than on the surface *AB.* 'Tis also manifest that if they are reflected from the surface *LM* towards *d* in the same angle as they are reflected from the surface *AB* towards *n*, the reflection is then also thicker in the same proportion.
+
+![Illustration from source page 004](assets/VOLUME06/004-getimage-19-.jpg)
 
 Fig. 5
 
@@ -3189,6 +3214,8 @@ between the two extremities of [it] at *fe*; in like manner let the atom *cd* be
 <!-- p. 234 -->
 
 and so in the atom *cd.*; and consequently, that the gravity of the whole put together is actually infinite. For certainly, any small quantity of attraction, let [it] be never so small—if it be a millionth or a million millionth—an infinite number of times repeated, will amount to an infinite gravity. Wherefore, the atoms *ah* and *cd* tend to each other with an infinite force of gravity.
+
+![Illustration from source page 004](assets/VOLUME06/004-getimage-20-.jpg)
 
 Fig. 1
 
@@ -3318,6 +3345,8 @@ they always grew in the same regular order. We don't despair of finding out the 
 
 But we shall be helped in this matter if we consider that all trees and plants universally, when they first sprout out [of] the ground, while there is as yet but one twig, are exactly regular; that is, having the buds that grow out of [them] (which are branches in little) standing in a regular and uniform manner, a leaf always growing under the bud. In some, two come out together, one right opposite to the other, always standing transverse to the last two, as in the twig *AB* [see Fig. 2] as in the maple tree; in others, but one at a time, standing at regular distances on different sides, in such order as to stand round the twig in the form of a screw, so that the branches shall stand out on every side, as in the twig *DE*, as in apple trees, pear trees, cherry trees, etc.; in others, having two together growing out of opposite sides, but not standing transverse as the maple, as in the twig *IK*; in others, having four or five standing round the twig together, as in *LM*; in others, having but one at a time standing always opposite to each other, as in *NO*; and innumerable other ways, but yet always regular.
 
+![Illustration from source page 004](assets/VOLUME06/004-getimage-21-.jpg)
+
 Fig. 2
 
 And as the first sprouts of a tree are always regular, so are all the young sprouts of the tree afterwards, when the tree comes to be divided into many branches; yea, always as long as the tree lives, all the twigs that are of that year's growth are regular. So that it follows that the body, the main branches, and the little twigs, and every part of every tree in the world, in their first beginnings, were regular. So that if all
@@ -3362,11 +3391,15 @@ all things and quite overthrow the universe, except God from time [to time] set 
 
 So that by that time it has got the distance from *S* to *T* in the direction *ST*, 'tis manifest it will have got ten times as far towards *W*, or in that direction. "So that 'tis most manifest that it would never reach 7". And even the ray *B* that is sent out right behind the star *S*, moves nine times as swiftly towards *W*, as towards *E*; so that 'tis evident that all the rays that can be emitted from the star *S*, move at least nine times so swiftly towards *W* as they go out towards the earth. 'Tis therefore evident that they all will fall on that side of the earth that is towards *W.*
 
+![Illustration from source page 004](assets/VOLUME06/004-getimage-22-.jpg)
+
 Fig. 3
 
 But we'll one instance more: let the emission of the ray *O* be towards *O.* 'Tis evident that this ray will never gain one inch towards *E* (or the east), being carried at least nine times so swiftly towards *W* (or the west), the contrary point; because, being carried at least nine times so swiftly towards *W*, by that time 'tis got halfway of the distance in that direction, it will have got nine times as far to the west, and therefore will miss the globe of the earth.
 
 55. *Prop.* The cleaving of bodies or the parts of bodies, one to another, can be from nothing else but their tendency or gravity one to another; so that all cohesion in the world arises from this, and this is the only reason why every least part of all bodies don't move perfectly at liberty, without any respect one to another. For instance, the only reason of the cohesion of the bodies or the parts of bodies *ab* [Fig. 4], must be from their tending or gravitating to each other. For it must be either because they tend to each other, or because the parts of the body *a* next to *b* are linked and fastened in amongst the parts of the body *b.* I can think of no medium. Neither is the second another case different from the first, why all the corporeal parts below the plane *cd* cleave to any of the parts above [the] plane. Let some of the corporeal parts be particles conceived as coming out of the body *a*: and linked and hooked[^004-note148] into the parts of the body *b* or no, it is all one as if they are conceived as only parts of the body *b*, only cleaving to the body *a.* 'Tis evident, therefore, that this is not the reason. Therefore the other must be it.
+
+![Illustration from source page 004](assets/VOLUME06/004-getimage-23-.jpg)
 
 Fig. 4
 
@@ -3428,6 +3461,8 @@ by reason of their long lives: and that the tradition of this from Noah and his 
 
 (3) We see that small bubbles live much longer than great ones because: *1*, the skin is not so strongly attracted by the subjoined water, inasmuch as the margin of the bubble is not so large; and *2*, the endeavor of the air to emerge is not so great, there not being so much of it, nor so much below the surface of the water, because the weight that presses it under is not so great; *3*, because the weight of the water of the skin is not so great [Fig. 5].
 
+![Illustration from source page 004](assets/VOLUME06/004-getimage-24-.jpg)
+
 Fig. 5
 
 (4) A very small bubble, being disjoined from the water and suspended
@@ -3474,6 +3509,8 @@ contribute to drying up of moisture. 'Tis not conceivable that the wind should r
 
 moves inward and leaves a valley there, so that the valley that began at *2* spreads around, further and further outward in a circle, from *1. 2, 3, 4*, etc. successively. But we are to remember that the hillock of water at *1* immediately subsides and flows every way into the space 2, and stops the water at *3* which was set in motion inwards, whereby it necessarily rises into a hill; for water being stopped in its motion will necessarily rise. The water at *3*, being stopped and raised in a hill, this hill, falling, contradicts and stops the water at *4*, and causes that to rise. So that it's easy to conceive why there must immediately succeed the first valley a rising, spreading after the same manner. We are to remember that we left a valley at *1*, where the water subsided, and must necessarily subside lower than the ordinary surface; because when the hill was raised there, there was a valley round it in the space *2*, [and] now the weight and libration of the water would cause all the water at *1* that was higher than that valley to flow away. There being now, therefore, a valley at *1* and hill at *2*, 'tis easy to conceive the libration of the water will raise another hill at *1*, leaving a valley at *2*; which valley will be communicated to *3, 4, 5*, etc. after the same manner, and for the same reason as the first valley; and this again will succeed another hill. And so there will be a continued succession of spreading hills and valleys, having their original in the successive hills and valleys in the spaces *1* and *2*, caused by the libration of the water.
 
+![Illustration from source page 004](assets/VOLUME06/004-getimage-25-.jpg)
+
 Fig. 6
 
 But if we suppose that in the first place a valley (and not a hill) is made in the space *1*, then the first circle will be a hill, and not a valley. For the water being expelled out of *1* necessarily thrusts up the water at *2* and causes a hill there; the water at *2* subsiding, thrusts up the water at *3*, that the water at *4*, and so on. And then, there being the same reciprocation of the water at *1* and *2* as in the former case, causes the same succession of circular hills and valleys.
@@ -3481,6 +3518,8 @@ But if we suppose that in the first place a valley (and not a hill) is made in t
 <!-- p. 260 -->
 
 65. Lever. Problem: To give the reason why the same force or weight upon a lever or balance has a stronger or weaker influence, according as it is further from or nearer to the center of motion. For instance, suppose that the weight *D* [Fig. 7], hanging from the end *A* of the balance *AB*, is *in equilibrio* with the weight *E* that is four times less, hanging at the other end of the balance at four times the distance from the center of motion, C.
+
+![Illustration from source page 004](assets/VOLUME06/004-getimage-26-.jpg)
 
 Fig. 7
 
@@ -3522,6 +3561,8 @@ There is no other way, therefore, than that this water, when it is in the abyss,
 
 I suppose no experiments that have yet been tried will prove but that such a force is sufficient to make water five times as dense and specifically heavy as the earth of this upper shell. And if it be so, it will be enough to support the weight of it, as we see the air here that is compressed supports many things that are perhaps a thousand times heavier than the air would be, had it liberty to expand itself. And seeing this body of earth is solid body, by this means the surface of it may be kept above the surface of the sea, though lighter than itself. For if quicksilver and oil be put in the same vessel, and a stone thrown in, the quicksilver may keep the top of the stone, it being solid, above the surface of the oil. Yea, 'tis possible that although the earth is much denser than the water in its natural state, yet that a body of water, by its own weight, may so compress itself as to bear the top of a column of earth above its surface. For instance, [Fig. 1] suppose *ABCD* to be a body of water, in which is a column of earth of equal height, *EF.* Let the water as far as *GH*, not half to the bottom, at a mean be lighter than earth, and below as much heavier. 'Tis manifest that the column of earth *EF* will float, and the top of it be lifted above water, because the column of the water, taken together from the top to the bottom, is heavier than the column of earth, and if the water be vastly deeper, so as to reach to *I*, 'tis all one.
 
+![Illustration from source page 004](assets/VOLUME06/004-getimage-27-.jpg)
+
 Fig. 1
 
 But according to this hypothesis, 'tis manifest that if there be any passages or chinks in the incumbent earth, the water will ascend in them till it is even with the surface of the sea, but no higher; so that the chinks of this upper earth that have an outlet at the abyss are full of water, so far as to be even [with] the surface of the ocean. Not with salt water, for there is no need that the water of the abyss should be salt because it has a communication with the sea, for the water of the sea at a very great depth is found not to be salt.[^004-note171]
@@ -3540,6 +3581,8 @@ as down, the immediate drinking up of water by tow, the adhesion of smooth thing
 
 [8] Axioms. [1] If a thing is to come one of two or more ways, if it falls out one of those ways and not another, it will be because there is some reason why it should happen this way and not another. And in things that have happened, there is some reason why they have happened this way more than another. For instance, I say it is evident that if the body *C* [Fig. 2] be at rest, but is to move either towards *A* or *B* or *D* or *E*, if it moves towards *E*, it will because there was some reason why it should move towards *E*, more than why it should move towards *A, B*, or *D.*
 
+![Illustration from source page 004](assets/VOLUME06/004-getimage-28-.jpg)
+
 Fig. 2
 
 (2) Which necessarily follows from the former; when there is an equal reason why the thing should be each of the supposed ways, and it cannot be all, it will be neither. If it can be proved that there is equal reason why the body *C* should move towards either *A, B, D*, or *E*, it will move towards neither of them.
@@ -3554,15 +3597,21 @@ body has no existence in that space, that it is all one with respect to that spa
 
 Wherefore (5) if a body placed alone in a space, as for instance, the body *C* in the midst of the space *ABE* [Fig. 3], there being no other corporeal being in that space, if this body be at rest and afterwards begins to move, 'tis manifest that it is not moved by any corporeal being, but by a eing not corporeal.
 
+![Illustration from source page 004](assets/VOLUME06/004-getimage-29-.jpg)
+
 Fig. 3
 
 Or, if the body *C* be held at rest, so that it cannot be moved, 'tis evident 'tis held there by an incorporeal being.
 
 (6) For the same reason, if the two bodies *e* and *o* touching each other [Fig. 4] be touched by no other body, if the body *e* be held to the body *o* so that it cannot be moved away from it, 'tis evident that it is held there by an incorporeal being. For the body *o* cannot possibly act upon the body *e* so as to hinder it from moving away, for by Axiom 4, the body *o* don't act where it is not, but the body *o* is no further than its surface.
 
+![Illustration from source page 004](assets/VOLUME06/004-getimage-30-.jpg)
+
 Fig. 4
 
 And the case will be the same, let the bodies touch in one point, or in more, or by lines, or surfaces as the bodies *a* and *u* [Fig. 5]. If *u* cannot be moved towards *y*, it must be an incorporeal being that keeps it immovable, for *a* is present no farther than the plane *fm*, and therefore cannot possibly act upon *u*, which is beyond it, to hinder its being moved towards *y.*
+
+![Illustration from source page 004](assets/VOLUME06/004-getimage-31-.jpg)
 
 Fig. 5
 
@@ -3584,6 +3633,8 @@ Now let the body *ABCD* [Fig. 6], whose particles have a firm union, be bent tow
 
 further one from another than they were, or that the particles at *D* are more condensed together, or both. But, as we have said, the particles at *D* will not be so easily thrust nearer together, because of their stubborn nature, as the particles at *B* may be drawn asunder. 'Tis also evident that the particles at *B* that are drawn asunder, by tending to come together again, will tend to pull the ends of the body back again to, and so recover it to, its former straightness; which tendency is elasticity. And further 'tis probable, by what we have said already, that if the particles of *D* are thrust together, their tendency to each other will not be very much increased, so as to hold the body in its bent posture, as the particles at *B* tend to pull it straight. But however that is, there is no need to suppose that the particles at *D*[^004-note178] are thrust nearer together, and 'tis probable the constitution of firm bodies hinders it. And certainly the constitution may be such as to hinder it much more than the pulling of bodies asunder; for 'tis certain that atoms, being infinitely hard, if they touch only by their prominences, they cannot be made to touch nearer, but may be drawn asunder. Wherefore 'tis certain that elasticity may be caused by this means: which is the thing we are proving. Cohesion, atoms, vid. supra.[^004-note179]
 
+![Illustration from source page 004](assets/VOLUME06/004-getimage-32-.jpg)
+
 Fig. 6
 
 (2) The second thing to be proved was that a rapid motion cannot be the first original of elasticity. For if we suppose that particles that are shut up in a little room are continually in a violent motion, and rebounding from side to side, yet elasticity is necessary in order to the maintaining of this motion. Otherwise, at the first stroke against the walls of the vacuity,[^004-note180] it would lose all its motion. There is necessary, therefore, another elasticity, in order to the maintaining of this motion; which being maintained by this elasticity, may in the aforesaid manner cause elasticity—and undoubtedly does in the atmosphere. Therefore, we see that, its motion being increased, its elasticity is increased with it.
@@ -3604,7 +3655,11 @@ have said of elasticity, arising from the tendency of separated atoms to a reuni
 
 the spaces between, so that they shall not have room to play and move freely amongst themselves.[^004-note184] For this hypothesis still leaves the matter inexplicable. For first, 'tis inexplicable how these wedges should thrust themselves in so fast, into a heap of particles so exceeding movable, that they can't be stirred at all. How these wedges should be of so happy a shape, and should so happily each of them find a vacuity amongst the vacuities of the water, exactly accommodated to their shape as to completely fill them up; so that of all these little, rolling, slippery [particles], none can stir at all, in so, much that [that] which was before a liquid body shall not only be made something more solid, like clay, but should be so hard as not to give way at all without breaking. Let us suppose, for the easiness of conceiving, that the particles of water were as big as peas. Let the frigid particles be as big in proportion, otherwise having all the same qualities. Let these particles, a multitude of them, be hovering over this heap of globules in the air. 'Tis very probable that many of them would get in amongst the globules, so that perhaps they would not slip and roll one over another so easily for it; but it is inconceivable how these nitrous particles, being so hard, should so be accommodated to the angled vacuities, that all the vacuities should be so filled, that the heap of globules should be so hard as to bear a great weight or hard stroke without any impression being made in it. But it would be yet more strange if it was evident that there was more of vacuity now in the heap of globules than before, and yet none of the globules should have room to stir; which is the case in water, as all know, ice being lighter than water.
 
+![Illustration from source page 004](assets/VOLUME06/004-getimage-33-.jpg)
+
 Fig. 7
+
+![Illustration from source page 004](assets/VOLUME06/004-getimage-34-.jpg)
 
 Fig. 8
 
@@ -3640,7 +3695,11 @@ And after this manner I suppose ice is made. And the only thing that remains to 
 
 up the vacuities made by the congealing of this parcel, they are drawn farther off themselves, and make the vacuity greater. Besides, the sides of the parcel, as it conforms itself to the figure (as Fig. 10), will unavoidably thrust out the neighboring particles from their places, which perhaps are congealed together into stiff parcels. Wherefore this thrusting must necessarily cause vacuities another way, by displacing of these now inflexible parcels of water, which cause the like displacing through the whole mass, as far as particles are contiguous.
 
+![Illustration from source page 004](assets/VOLUME06/004-getimage-35-.jpg)
+
 Fig. 9
+
+![Illustration from source page 004](assets/VOLUME06/004-getimage-36-.jpg)
 
 Fig. 10
 
@@ -3650,7 +3709,11 @@ Let[^004-note189] us still represent the matter in a larger figure, for clearer 
 
 be caused merely by their figures, for these parcels are stiff, and many of them tied, or rather glued, so one to another, that they will not be able to move freely and accommodate themselves one to another so much as their figure would allow of.
 
+![Illustration from source page 004](assets/VOLUME06/004-getimage-37-.jpg)
+
 Fig. 11
+
+![Illustration from source page 004](assets/VOLUME06/004-getimage-38-.jpg)
 
 Fig. 12
 
@@ -3687,6 +3750,8 @@ For this reason water is not so transparent when frozen, and fat when consolidat
 at the plane *AB* [Fig. 13], and be by the shock much compressed. 'Tis evident that the air on the right hand of that plane will leap back towards the right hand of that plane by its own elasticity, but that the elasticity of the air that is on the left hand will impel it that way with equal force, and so the reciprocations will be repeated with great violence for a time.
 
 [14] Gravity. Let it be a corollary to one of the former propositions:[^004-note192] hence it follows that two atoms or particles, however small, may, by the force of their gravity, cleave together with any finite degree of strength that can be mentioned, and yet not cleave with infinite strength. For seeing that when their surfaces touch each other they tend to each other with infinite strength; and the nearer two atoms approach to such touching, with so much the greater strength they tend to each other; and amongst the infinite numbers of degrees of nearness there is none but what is possible, all which are short of infinite but which [are not] touching: therefore it follows that there is no degree of finite tendency to each other but what the least particles are capable of. And it is no strange thing, if two very small particles should cleave together with such strength as to exceed the force of the motion of a comet in its perihelion, so that if all the force of that motion could be applied to those atoms, it shall not be able to rend them asunder; and yet a greater force shall be sufficient for it
+
+![Illustration from source page 004](assets/VOLUME06/004-getimage-39-.jpg)
 
 Fig. 13
 
@@ -3800,6 +3865,8 @@ But by the Prop.[^004-note200] the minute particles of bodies have, commonly, va
 
 solid mass, and do plainly show that they are not produced by such a cause; there is no such effect as is caused by the explosion of a cannon ball. It is not worth the while to stand to particularize, for 'tis exceeding evident that none of the effects of lightning can arise from any such cause.
 
+![Illustration from source page 004](assets/VOLUME06/004-getimage-40-.jpg)
+
 Fig. 14
 
 (2) Nor[^004-note202] are those streaks of lightning caused by a vein of combustible matter's taking fire, and the fire's running from one end of the vein to the other almost instantaneously. This would not produce any of those effects which are caused by lightning, except we should suppose that these veins enter into the hearts of trees, rocks and metals, and bodies of animals. If it were, it would be a wonder that the lower ends of these veins never took fire from fires that are upon the earth.
@@ -3828,6 +3895,8 @@ inflame the whole globe; but it may be because the pressure is not sufficient th
 
 that is too thin to support them. But on the contrary, when the wind blows from *A* to *B*, the vapors ben't at all hoisted, but carried into a thicker region that is better able to support them, and then it's fair weather.
 
+![Illustration from source page 004](assets/VOLUME06/004-getimage-41-.jpg)
+
 Fig. 15
 
 [33] Atmosphere, its qualities. That different quality of the air in some particular regions or towns at particular times, that sometimes causes some mortal distemper to rage in such a place, that is not a catching distemper, where other places not far off are free (the winds every day pass over 'em that removes the whole air out of that town a great many times in a day, and scatters it to many other places), may arise from noxious poisonous vapors and steams that are breathed out at or near such places from the subterraneous caverns of the earth, through the various vents and breathing places that are everywhere in the upper shell of the earth, such as springs and wells and other unseen chasms. In the times of earthquakes, they say they can smell sulphur, which must be by the steam of it coming up through these secret vents.
@@ -3845,6 +3914,8 @@ For one planet, by means of its attractions, and by means of the repelling natur
 <!-- p. 293 -->
 
 plane of the ecliptic. Let *CD* be the plane that one of these particles first begins to revolve in, about *S*, the sun. 'Tis plain that the ethereal matter, turning round everywhere parallel to *AB*, when the particle is in that part of its orbit towards *D*, will hinder its going far off from the zodiac as it did before, and will a little drive it up towards *B*; and so, when it comes in that part of its orbit about *C*, will bring it nearer to *A.*; and so will continually make its revolution to be nearer the zodiac.
+
+![Illustration from source page 004](assets/VOLUME06/004-getimage-42-.jpg)
 
 Fig. 16
 
@@ -3918,6 +3989,8 @@ against the floor or wall, it will much easier rebound sideways than right back 
 
 more easily reflect[ed],[^004-note220] reflects it along in the line *bg*; and so in the same manner, the ray *cib* will be reflected to *k.* So that an eye so much sidewise as *g* or *k* will take the rays that reflected from that drop, and nowhere else; it being only those rays, whose obliquity is adjusted [to] the refractive[^004-note221] power, that are reflected by it, and they being all reflected out again with such a degree of obliquity. We hence see why the rays ben't reflected all ways equally. We hence also see why the rays are only reflected out at the side of the drop, and not directly back again; and by that, why the eye does not take the rays from any drops but those that are so much sideways of, or on one side of, the point that is right opposite to the sun; and so why the parts that are so opposite look dark, and why the parts that are just so much on one side, or just at such a distance all round from the opposite point alone, are bright; or, which is the same thing, why there is such a bright circle.
 
+![Illustration from source page 004](assets/VOLUME06/004-getimage-43-.jpg)
+
 Fig. 1, 2
 
 The next grand question is, What is it causes the colors of the rainbow? And this question indeed is almost answered already, for it is very evident.[^004-note222]
@@ -3939,6 +4012,8 @@ together, will (reckoning much under) make but the 6,000,000th part of an inch s
 <!-- p. 304 -->
 
 obstruction in that fixed star which we are so nigh to. For the brightness of the star at the margin of it, caused by the rays *ag*, is not at all the less for the obstruction of the crossing rays. If the rays came anything near towards filling up the space, the rays could not proceed the least space without some sensible obstruction. How infinitely little of the space then must they fill up, when the rays proceed through the thickness of them, without being in the least obstructed, for some millions of miles on. But this will make the rays of light less than any man will have patience to make figures for.
+
+![Illustration from source page 004](assets/VOLUME06/004-getimage-44-.jpg)
 
 *Corol. 1.* Hence the exquisite skill of the artificer whose fingers have formed these infinitely small bodies.
 
@@ -4683,6 +4758,8 @@ It appears, therefore, that Edwards began writing "The Mind" on separately folde
 
 other leaves. After he had written No. 60, he assembled the six double-leaves of the main series of articles into a quire. The manuscript then probably remained dormant for some time, for Dwight judged that Nos. 61–72 were written at a later period of life. Edwards wrote them on additional leaves (probably double-leaves, for the most part), and inserted them at various places in the quire. Finally, in about 1747, he compiled a new index to the series based upon the revised order of pages, which he presumably renumbered as they stood. The diagram below represents the probable structure of the notebook at the time the second index was made, showing the nine original double-leaves, the original page numbers of the first six of these, and the articles on each leaf. The pieces Edwards inserted later might have been either single or double leaves, as shown.
 
+![Illustration from source page 005](assets/VOLUME06/005-getimage.jpg)
+
 "The Mind" Proposed Reconstruction of the Manuscript
 
 Although we have found for the most part reliable Dwight's testimony concerning the chronological sequence of articles, his judgments of the dating of "The Mind" are less trustworthy. He took it to be the earliest begun of Edwards' manuscript notebooks, and judged it was started in 1717, when Edwards was presumed to be reading Locke's *Essay Concerning Human Understanding* and studying logic as a sophomore in college (pp. 30, 34, 702 n.). Most of the articles, he suggests, were written while he was still an undergraduate (pp. 39–40), but those at the end of the series were written probably at a significantly later time. Dwight states this point, though with varying degrees of confidence, on three different occasions: the manuscript contained a few leaves that were "obviously written at a later period" (p. 34); and again, in a footnote to No. 61, "This article, and the numbers following, … are inserted in the manuscript distinctly from the rest, and were written
@@ -4775,15 +4852,27 @@ parallel line, as in Fig. 1, the beauty is greater than if they stood at irregul
 
 so that *BCD* is exactly similar to *ABC.* 'Tis evident this is a more complicated excellency than that which consisted in equality, because the terms of the relation are here complex, and before were simple. When there are three points set in a right line, it is requisite, in order to regularity, that they should be set at an equal distance, as *ABC* (Fig. 5), where *AB* is similar to *BC*, or the relation of *C* to *B* is the same as of *B* to *A.* But in the other are three terms necessary in each of the parts between which is the relation (*BCD* is as *ABC*, so that here more simple beauties are omitted, and yet there is a general complex beauty. That is, *BC* is not as *AB*, nor is *CD* as *BC;* but yet *BCD* is as *ABC.* It is requisite that the consent or regularity of *CD* to *BC* be omitted, for the sake of the harmony of the whole. For although, if *CD* was perfectly equal to *BC*, there would be regularity and beauty with respect to them two, yet if *AB* be taken into the idea, there is nothing but confusion. And it might be requisite, if these stood with others, even to omit this proposition for the sake of one more complex still. Thus, if they stood with other points, where *B* stood at four inches' distance from *A, C* at two from *B*, and *D* at six from *C* [Fig. 6], the place where *D* must stand in (if *A, B, C, D* were alone, viz., one inch from *C*) must be so as to be made proportionate with the other points beneath. So that although *A, B, C, D* are not proportioned, but are confusion among themselves, yet taken with the whole they are proportioned and beautiful.
 
+![Illustration from source page 005](assets/VOLUME06/005-getimage-1-.jpg)
+
 Fig. 1
+
+![Illustration from source page 005](assets/VOLUME06/005-getimage-2-.jpg)
 
 Fig. 2
 
+![Illustration from source page 005](assets/VOLUME06/005-getimage-3-.jpg)
+
 Fig. 3
+
+![Illustration from source page 005](assets/VOLUME06/005-getimage-4-.jpg)
 
 Fig. 4
 
+![Illustration from source page 005](assets/VOLUME06/005-getimage-5-.jpg)
+
 Fig. 5
+
+![Illustration from source page 005](assets/VOLUME06/005-getimage-6-.jpg)
 
 Fig. 6
 
