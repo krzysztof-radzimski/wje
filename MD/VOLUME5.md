@@ -1421,7 +1421,7 @@ Stephen J. Stein
 
 ### Exposition on the Apocalypse[^004-note1]
 
-### CHAPTER Revelation 1
+#### CHAPTER Revelation 1
 
 Revelation 1:4.[^004-note2] The seven churches in Asia. But John dedicates this epistle to the churches in Asia, because they were the churches in which John was principally conversant, and in whose affairs he had for great part of his life been nextly concerned. 'Tis like these churches were the principal in all Asia, or at least of that part of Asia where John was acquainted. Christ bids him send these visions in an epistle to them, because he knew that they would be very useful to all Christians, as in the Revelation 1:3 [and] Revelation 22:7, and that these prophecies of the church were such as would more especially afford[^004-note3] many useful documents suited to their state and circumstances. And we have this epistle dedicatory at large inserted in this book because, on the other hand, the state of these churches was such, as would afford many documents especially useful to the church in future ages, in these different states and revolutions that are here prophesied of.
 
@@ -1435,7 +1435,7 @@ These seven churches, seven being the number of perfection, seem to be a symbol 
 
 "White like wool, as white as snow" [Revelation 1:14], signifying his eternity.
 
-### CHAPTER Revelation 2
+#### CHAPTER Revelation 2
 
 Christ[^004-note5] foresaw that the same admonitions, instructions, encouragements, etc., that he was about to give to these seven churches would be very well adapted [to] the church under many of these changes: as that which is said to the church of Ephesus [Revelation 2:1–7] is not only adapted to the state of that church, but is also suited to encourage the church, under those various temptations and persecutions that are prophesied of in this book, to assure Christians that Christ is not ignorant nor unobservant of their trials, but takes a merciful notice of their steadfastness and labor and patience at such times; particularly adapted [to] the state of Christians at the first Reformation, when once they began to discover popish lies, cheats and impostures, and found out the falseness of the pretenses of the Romish clergy to apostolical power and succession and infallibility and power of working miracles, etc.; and also [adapted] to the Dissenters in England in their casting off[^004-note6] prelacy, and [when they] rejected their pretended divine right and succession from the apostles, and their power of making laws to bind the conscience, for which they have suffered so much.
 
@@ -1449,7 +1449,7 @@ Church. They had to do with such as said they were Jews and were not, but were o
 
 What is said to Pergamos seems very well to suit the case of the Church of England; "and where thou dwellest, even where Satan's seat is" [Revelation 2:13]. See no. 44.
 
-## CHAPTER Revelation 4[^004-note8]
+#### CHAPTER Revelation 4[^004-note8]
 
 By the rainbow which was round about the throne [Revelation 4:3], is signified the gospel or covenant of grace,[^004-note9] for the rainbow was the token of God's covenant to Noah. It was "like unto an emerald" [Revelation 4:3], which is so green that other things lose their greenness when compared with it. Green, being the most pleasing[^004-note10] color, and above all others easy and healthful to the eye, is a fit symbol of grace and mercy with which God is surrounded, and which he most especially doth exhibit unto us. By its being so exceedingly green, even like an emerald, is held forth the transcendent greatness and glory of the grace of God in the gospel. Green is a symbol of joy and prosperity. The trees and fields, when they prosper and flourish, are most green, and are said to rejoice and sing and clap their hands; hereby therefore is signified the joyful and glorious nature of the gospel. As greenness is caused on the face of the earth, by the kind influences of the sun, so[^004-note11] the joy and happiness of the gospel, is caused by the kind influences or grace and love of the Sun of[^004-note12] Righteousness. Therefore what color could have been so proper for this rainbow, as the wondrous greenness of the emerald?
 
@@ -1465,7 +1465,7 @@ A sea, not as the ocean, or as pools, but as the sea in Solomon's temple: a "sea
 
 "And they rest not day nor night, etc." [Revelation 4:8]. God's glory is continually manifested anew every moment, by the new exhibitions of those attributes in God's providence, which manifestations stir up the saints to give glory to God. For "when those beasts give glory and honor and thanks, to him that sat on the throne, who liveth forever and ever, the four and twenty elders fall down before him, etc." [Revelation 4:9–10].
 
-### CHAPTER Revelation 5[^004-note16]
+#### CHAPTER Revelation 5[^004-note16]
 
 There are things which do certainly prove the divinity of Christ. That he was "in the midst of the throne" [Revelation 5:6], the same throne mentioned in the beginning of the Revelation 4. And then he was in the midst of the four beasts, which must signify his possessing those four attributes of God.[^004-note17] And then he had seven horns, which doubtless signifies his perfection of power. And then the seven spirits of God were his spirit, not only as they are the saints', to help and assist and to dwell in them, nor as they were the prophets', to inspire them: but as a man's
 
@@ -1477,13 +1477,13 @@ eyes are his own, he had seven eyes, which are the seven spirits of God. And the
 
 Revelation 5:3. "And no man in heaven, nor in earth, nor under the earth, was able to open the book, neither to look thereon"; that is, neither the angels, nor glorified saints in heaven, nor men on earth, nor the devils in hell, could foretell those futurities.
 
-### CHAPTER Revelation 6
+#### CHAPTER Revelation 6
 
 By him that sat on the white horse cannot be meant Christ [Revelation 6:2]; the description is much too mean, and very unlike other descriptions of him.
 
 Revelation 6:8.[^004-note19] See concerning the pale horse, death and hell, no. 63; of the four first seals, see no. 70; concerning the third seal and black horse, etc., see nos. 74 and 94.
 
-### CHAPTER Revelation 7
+#### CHAPTER Revelation 7
 
 "Till we have sealed the servants of our God in their foreheads" [Revelation 7:3]. Let not the church presently be the subject of these storms, lest it should be quite overthrown, and Christianity be quite extinct, and the very elect should be overpowered. But let Christianity be a little settled first, that when these storms do come, they may find the church so well stablished, as not to be entirely overthrown. Though it be exceedingly weakened and diminished, yet let it remain at least in that little number that is elected. See no. 43.
 
@@ -1493,7 +1493,7 @@ The "hundred and forty and four thousand" [Revelation 7:4] is the church which G
 
 "And have washed their robes, and made them white in the blood of the Lamb" [Revelation 7:14]. Not only purged from all filthiness of sin, but their garments, that were stained with their own blood, are now made white in the blood of the Lamb; and they are perfectly freed from all manner of trouble and affliction, as well as all sin. The "great tribulation" spoken of [Revelation 7:14], were the heathen persecutions.[^004-note20] See no. 68.
 
-### CHAPTER Revelation 8
+#### CHAPTER Revelation 8
 
 The 6th seal ended with the end of the heathen persecutions, and the fixing the angels in their places to hold the four winds, and the voice that cried to them. The seventh seal begins with the silence that immediately ensued [Revelation 8:1]. See no. 6.[^004-note21]
 
@@ -1511,7 +1511,7 @@ The effect of the third trumpet was upon the rivers and fountains of waters [Rev
 
 The smiting of the fourth trumpet the third part of the sun, moon and stars [Revelation 8:12]. The fourth trumpet was the reduction of the Roman Empire down to its present states, to the dividing of it into ten kingdoms, and the lessening the imperial dignity, power and dominion to this low degree. See no. 15.
 
-### CHAPTER Revelation 9
+#### CHAPTER Revelation 9
 
 By this "star" may be intended Mahomet, who fell from Christianity; "and to him was given the key" [Revelation 9:1]. Arabia, from whence these came, is the country of locusts. It was a wind that blew from Arabia, that brought the plague of locusts upon Egypt.
 
@@ -1529,11 +1529,11 @@ convictions of their own hearts, and to the great torment of their consciences.
 
 Abaddon and Apollyon [Revelation 9:11], from *aubad* and *ἀπόλλυμι*,[^004-note26] signifies "destroyer"; this is Mahomet. See nos. 4, 56; v. 15, see no. 71; vv. 10 and 19, see no. 42.
 
-### CHAPTER Revelation 10
+#### CHAPTER Revelation 10
 
 "His right foot on the sea, and his left on the earth" [Revelation 10:2], to denote his sovereignty over both. And sware "that there should be time no longer" [Revelation 10:6]; or that the time should be no longer, that is, the time of all those long, numerous and tedious changes. When the seventh trumpet blows, [the] thing that is aimed at by them all shall be brought about: the overturning shall cease, and he shall rule and reign whose right it is. "The mystery of God shall be finished" [Revelation 10:7]. The meaning and end of all these mysterious providences of God, shall then be brought to light, and brought to pass. The time of all those things which have been prophesied of old, shall be finished; all these mysterious prophecies shall then be known by their events. The "time, times and half a time" [Revelation 12:14] shall see an end; the world shall then begin its sabbath of rest.
 
-### CHAPTER Revelation 11
+#### CHAPTER Revelation 11
 
 "And I will give power to my two witnesses" [Revelation 11:3]. They are called "two" because that was the number that was constituted by the law of Moses, and the institution of the apostles in the New Testament, and by the law of all nations: for one witness, in the eyes of all laws, is no witness at all. See nos. 5, 33, 45.
 
@@ -1567,7 +1567,7 @@ more generally spoken to and run over, even the last overthrow of the enemies of
 
 And then in the seventeenth [chapter], there is yet a more particular description of Antichrist, not only a more particular vision, but an explication of the vision, which is such a key to the whole book, that it is impossible to be mistaken in the general meaning of it.[^004-note33] In the Revelation 18, we have the angel's proclamation of his overthrow; and in the beginning of the next, there is the universal joy that was caused by it, and the wedding of the Lamb. And from the Revelation 18:11, we have another vision representing more particularly not only the destruction of Antichrist, but of all the church's enemies; and in the Revelation 20, a particular description of the glorious state of the church that followed, and of the general judgment; and then in the last two chapters, [a description] of the triumphant state of the church that followed. This, it is most evident, is the method of these visions.
 
-### CHAPTER Revelation 12
+#### CHAPTER Revelation 12
 
 "A woman clothed with the sun" [Revelation 12:1], without doubt, with the gospel or the Lord Jesus Christ; for we are commanded to put on the Lord Jesus Christ. If the[^004-note34] gospel is the sun, the Old Testament institution was the moon; the light of that is as much inferior to the light of the New Testament, as the light of the moon is to the light of the sun. Before Christ came into the world, the church enjoyed but the moonlight, just enough to give them light, till the sun should rise. The Mosaic institutions shewn wholly by a reflected light. They were useful only as
 
@@ -1607,7 +1607,7 @@ that the church's warfare with and victory over paganism is resumed, and more pa
 
 with the remnant of her seed, which keep the commandments of God, and have the testimony of Jesus Christ" [Revelation 12:17]. That is, the dragon shall be exceedingly vexed and enraged, when he sees that this grand invention also fails, and all his contrivances are frustrated; the effects of which rage are these cruel and horrid persecutions, that have been since the Reformation. Or if by the "woman" we understand the Christians in the valleys of Piedmont, hereby is intended the persecutions of the Waldenses and Albigenses,[^004-note42] which perhaps were the most barbarous of any that ever were in the world. See no. 57.
 
-### CHAPTER Revelation 13
+#### CHAPTER Revelation 13
 
 Concerning the number of the beast, see no. 61. "And the beast which I saw was like unto a leopard" [Revelation 13:2], which is spotted and gay, denoting as well the foolish gaiety of their worship, and the numerousness of their ceremonies, as their fierce cruel nature.[^004-note43] See no. 58.
 
@@ -1653,7 +1653,7 @@ things, the gazing multitude are so much astonished, and so filled with admirati
 
 Revelation 13:17. "That no man should either buy or sell." And the Council of Lateran anathematized all that entertained the Waldenses, or traded with them; a synod of France, in express terms, forbid any commerce with Protestants in buying or selling. Pope Martin the Fifth[^004-note47] by his bull prohibited Roman Catholics "to suffer any heretics to have any dwellings in their countries, or to make any bargains, or use any trades, or to perform to them any civil offices."[^004-note48] Hereby is meant, in short, that they should deprive them of all their privileges, all benefit of human society, their natural rights and the comforts of their lives. Concerning the number of the beast, see Ezekiel 8:16.[^004-note49]
 
-### CHAPTER Revelation 14
+#### CHAPTER Revelation 14
 
 "And I looked, and lo, a Lamb stood on the Mount Zion, and with him an hundred and [forty and] four thousand, having his father's name written in their foreheads" [Revelation 14:1]. These are that 144 thousand mentioned
 
@@ -1677,7 +1677,7 @@ It further appears that it is the Reformation, because there immediately after h
 
 angel who cries aloud for the destruction of the wicked is justice; the angel that had the sharp sickle, that he cries to, was vengeance or vindictive wrath.
 
-### CHAPTER Revelation 15
+#### CHAPTER Revelation 15
 
 "And I saw, as it were, a sea of glass mingled with fire" [Revelation 15:2]. A sea, in the same sense as the sea in the Revelation 4:[^004-note53] the end of it was to purify. "Mingled with fire," because fire is of a most purifying nature. Water purifies the outside, but fire purifies throughout the whole, inward and outward. Wherefore John the Baptist says, that he that comes after him shall baptize "with the Holy Ghost and with fire" [Matthew 3:11].
 
@@ -1685,7 +1685,7 @@ angel who cries aloud for the destruction of the wicked is justice; the angel th
 
 "And one of the four beasts gave unto the seven angels, seven golden vials full of the wrath of God" [Revelation 15:7]. This beast was the eagle, or justice.
 
-### CHAPTER Revelation 16
+#### CHAPTER Revelation 16
 
 Concerning the seven vials, see no. 86. Concerning the Revelation 16:3 first vials, see Miscell. no. xx.[^004-note54] [See] no. 23.
 
@@ -1723,7 +1723,7 @@ Now is the time for their final overthrow; now they are gathered together agains
 
 that nothing will be able to withstand them; and [they] will irresistibly beat down and immediately batter to pieces the kingdom of Antichrist and kill men as to popery, as at one blow, as if they were dashed to pieces by stones from heaven. For we know that Antichrist is to be destroyed by clear light, by the breath of Christ's mouth, [by the] brightness of his coming, that is, by plain reason and demonstration deduced from the Word of God. We know likewise, that he is to be destroyed by the sword that comes out of the mouth of him that sits on the horse (Revelation 19:15). And what is this but the Word of God, and the clear light of the gospel? What is meant by the overthrow of Antichrist, but the overthrow of falsehood, the abolishing their false doctrine and worship? And what can those hailstones be which dash falsehood to pieces, but clear proofs and plain manifestations of truth? [See] no. 26.
 
-### CHAPTER Revelation 17
+#### CHAPTER Revelation 17
 
 "And upon her forehead was a name written, 'Mystery'" [Revelation 17:5]. Upon the Pope's mitre used formerly to be written, "Mystery." The word "mystery" was not used anciently, just as commonly as it is now, only for something that is intricate and difficult in its own nature; but [it was used] for anything that was kept secret and was not known, however easy it might be in its own nature. "Mystery" is, I think, everywhere in Scripture and in this book of the Revelation used in this sense. The Trinity would not be called a mystery for anything else, but because it was in a great measure concealed before Christ revealed it. Thus Christ, as God manifest in the flesh, is the great mystery of godliness, because Christ's coming was a thing very much spoken of in the world, expected by everybody. [Christ's coming] was the chief subject of the prophecies of the Old Testament; but the particulars of his incarnation, birth, life, death, resurrection, ascension and kingdom[^004-note60] were in great measure concealed, wondered at and not known. So Antichrist is the great mystery of iniquity, because his coming used to be very much spoken of. He was expected by all Christians, and is the chief subject of the prophecies of the New Testament. But who he was, and the manner of his coming, and what he should do, and the particulars of his reign and kingdom, were in a great measure concealed, till that wicked one was revealed. Yea, he was concealed for a long time after he had actually come, and reigned over the whole world, till at length this great mystery, Antichrist, was discovered, though he still acts under the pretense of being Christ's vicar and successor in his kingdom on
 
@@ -1743,7 +1743,7 @@ different times, yet there were but about ten. If there are several little state
 
 "And the woman which thou sawest is that great city, which reigneth over the kings of the earth" [Revelation 17:18]. This verse is spoken the plainest of any one passage in the whole book, and is a key to the whole prophecy, whereby the general meaning of it may be unerringly discovered. 'Tis the only part of this prophecy that is spoken without allegory.
 
-### CHAPTER Revelation 18
+#### CHAPTER Revelation 18
 
 "And the merchants of the earth" [Revelation 18:3] are the priests.
 
@@ -1777,7 +1777,7 @@ Revelation 18:21. "And a mighty angel took up a stone like a great millstone, an
 
 [Revelation 18:23. "For by thy sorceries were all nations deceived." For their priests are but the instruments of the devil; they work by his power. The whole of their religion is his contrivance, and it is by the subtilty and craft of the devil that they have thus deceived all nations. 'Tis the devil that helps them in the propagation of his kingdom. Their whole constitution is a strange charm, and a politic device whereby all nations have been bewitched; it can't be better expressed than that the popish clergy have bewitched the nations.[^004-note67] [See] no. 39.
 
-### CHAPTER Revelation 19
+#### CHAPTER Revelation 19
 
 Revelation 19:3. "And her smoke rise up forever and ever"; that is, her memory should be most odious. She shall always be remembered as the object of the greatest scorn and detestation. Her memory shall [be] like a stinking scent rising up from her dead carcass, or like an offensive smoke rising from burning; her name shall stink to all generations. This
 
@@ -1793,7 +1793,7 @@ smoke is those visible marks of her ruin, that shall be continually before the e
 
 "And the remnant were slain with the sword of him that sat on the horse" [Revelation 19:21], that is, were slain as to antichristianism. Their life, as they were papists, was taken away by the sword, which is the Word of God.
 
-## CHAPTER Revelation 20[^004-note69]
+#### CHAPTER Revelation 20[^004-note69]
 
 "And I saw the souls of them that were beheaded, etc." [Revelation 20:4]. See Miscell. no. k;[^004-note70] see nos. 6, 21, 25, 27, 29, 48, 50, 55, 60, 66.
 
@@ -1805,13 +1805,13 @@ Revelation 20:14. "And death and hell (or Hades) were cast into the lake of fire
 
 terror nowhere else but in the lake of fire and brimstone, among the damned, where all that is evil in these shall yet be upheld. See no. 63.[^004-note74]
 
-### CHAPTER Revelation 21
+#### CHAPTER Revelation 21
 
 This and the following chapter, doubtless gives a description of the church triumphant; this appears by the description of it, and because it is after the day of judgment. See no. 41; [^004-note75] see Miscell. no. 148 and "Scripture" no. 306.[^004-note76]
 
 "And there was no more sea" [Revelation 21:1], which is dangerous, uncertain, unstable and never at rest, put into a ruffle by every wind; 'tis that from whence proceed all storms, clouds and tempests. Hereby is signified that all the changes, dangers, doubts, difficulties, storms and tempests, sorrows and afflictions of this world shall forever vanish and be abolished. And there shall be nothing but what is firm and stable as the earth. Water is the emblem of instability; Genesis 49:4, "unstable as water."[^004-note77] Of this, see further no. 72. See nos. 59, 62, 64, 65, 73a; see Miscell. no. 743.[^004-note78]
 
-### CHAPTER Revelation 22
+#### CHAPTER Revelation 22
 
 "And in the midst of the street of it,[^004-note79] and on either side [of] the river, was there the tree of life" [Revelation 22:2]. The river ran along in the midst of the street; and all along on the banks thereof, on both sides thereon,[^004-note80] grew this pleasant tree of life
 
@@ -5118,7 +5118,7 @@ Joshua Gee[^005-note2]
 
 <!-- p. 312 -->
 
-## Part I: The Text Opened, and an Account Given of the Affair Proposed in the Memorial from Scotland
+### Part I: The Text Opened, and an Account Given of the Affair Proposed in the Memorial from Scotland
 
 "THUS saith the Lord of Hosts, It shall yet come to pass, that there shall come people, and the inhabitants of many cities; and the inhabitants of one city shall go to another, saying, Let us go speedily to pray before the Lord, and to seek the Lord of Hosts: I will go also. Yea, many people and strong nations shall come to seek the Lord of Hosts in Jerusalem, and to pray before the Lord" (Zechariah 8:20–22).
 
@@ -5248,7 +5248,7 @@ though it seems very expedient, that it should exceed what was first agreed on; 
 
 <!-- p. 329 -->
 
-## Part II: Motives to a Compliance with What Is Proposed in the Memorial
+### Part II: Motives to a Compliance with What Is Proposed in the Memorial
 
 I NOW proceed to the second thing intended in this discourse, viz., to offer to consideration some things, which may tend to induce the people of God to comply with the proposal and request, made to them in the Memorial.[^005-note27]
 
@@ -5522,7 +5522,7 @@ The encouragement to explicit agreement in prayer is great from such instances a
 
 <!-- p. 368 -->
 
-## Part III: Objections Answered
+### Part III: Objections Answered
 
 I come now, as was proposed, in the third place, to answer and obviate some objections, that some may be ready to make against the thing that has been proposed to us.[^005-note56]
 
@@ -5972,7 +5972,7 @@ and had complied, and that not without success. Such like concerts or agreements
 
 <!-- p. 432 -->
 
-## The Conclusion
+### The Conclusion
 
 And now, upon the whole, I desire every serious Christian, that may read this discourse, calmly and deliberately to consider whether he can excuse himself from complying with what has been proposed to us and requested of us, by those ministers of Christ in Scotland, that are the authors of the late Memorial. God has stirred up a part of his church in a distant part of the world, to be in an extraordinary manner seeking and crying to him, that he would appear to favor Zion, as he has promised. And they are applying themselves to us, to join with them; and make that very proposal to us, that is spoken of in my text, and in like manner and circumstances. The members of one church, in one country, are coming to others, in other distant countries, saying, "Let us go speedily and constantly to pray before the Lord, and to seek the Lord of Hosts" [Zechariah 8:21]. Will it not become us readily to say, "I will go also?" What these servants of Christ ask of us, is not silver or gold, or any of our outward substance, or that we would put ourselves to any cost, or do anything that will be likely to expose us to any remarkable trouble, difficulty or suffering in our outward interest; but only that we would help together with them, by our prayers to God, for the greatest mercy in the world; and that a mercy which as much concerns us as them; for the glory of their Lord and ours, for the great advancement of our common interest and happiness, and the happiness of our fellow creatures through all nations; a mercy, which, at this day especially, there is great need of; a mercy, which we in this land do stand in particular need of; a mercy, which the Word of God requires us to make the subject matter of our prayers, above all other mercies, and gives us more encouragement to pray earnestly and unitedly to him for, than any other mercy; and a mercy, which the providence of God towards the world of mankind, at this day, does loudly call the people of God to pray for. I think, we cannot reasonably doubt but that these ministers have acted a part becoming disciples of the great Messiah, and ministers of his kingdom, and have done the will of God, and according to his Word, in setting forward such an affair at this day, and in proposing
 
@@ -6276,7 +6276,7 @@ greater engagedness, and more abundant alacrity, than this is; and that extraord
 
 <!-- p. 439 -->
 
-## Appendix A: An Outline of the Book of Revelation[^007-note1]
+### Appendix A: An Outline of the Book of Revelation[^007-note1]
 
 Revelation 1—Introduction of the Seer and the visions
 
@@ -6320,7 +6320,7 @@ Chs. Revelation 21–22—The "new heaven and new earth": the New Jerusalem
 
 [^007-note1]: This outline underscores themes highlighted by JE.
 
-## Appendix B: Sermons on the Apocalypse[^008-note1]
+### Appendix B: Sermons on the Apocalypse[^008-note1]
 
 Revelation 1:5 [1]—June, 1745 (Sacramental series). "What we are taught concerning Christ by these names by which he is called."Revelation 1:5 [2]—June, 1745 (Series). "That he is the faithful Witness."Revelation 1:5 [3]—July, 1745 (Series). "How Christ has been among the dead."Revelation 1:5 [4]—July, 1745 (Series). "Christ is spoken of as having a kingdom or portion among the kings and great men of the world."Revelation 1:5–6 [1]—July, 1745 (Series). "The love of Christ towards his chosen people; … those fruits of the love."Revelation 1:5–6 [2]—July, 1745 (Series). "Blood of Christ is a real atonement for sin."Revelation 1:7—Feb., 1751. "Christ's coming at the day of judgment."Revelation 1:17–18—Aug., 1734. "'Tis a solid foundation of comfort to the people of God, that Christ is one that was dead, and is alive, and is to die no more."Revelation 2:4–5—1730. "When any visible people of God continue long cold and dead, and declining in the things of religion, there is danger that God will take away their religious advantages."Revelation 2:17—Dec, 1742. "That white stone and new name written in it, that no man knows, but he that receives it."Revelation 2:19—1735–37. "'Tis a very pleasing sight to Jesus Christ, to see his people making progress in grace and good works, and the last to be more than the first."Revelation 3:4—Mar., 1744 (Andover coll.). "What sort of persons they are that Christ promises a glorious reward to."Revelation 3:5 [1]—1731–32. "He that overcomes in the spiritual warfare, Christ will confess his name before his Father, and before his angels."Revelation 3:5 [2]—1752–56. "Christ will not be ashamed hereafter, to own each one of them that have been his sincere and faithful followers."
 
@@ -6340,7 +6340,7 @@ Revelation 21:2—Feb., 1742. "The glorious state.… What is here spoken of the
 
 [^008-note1]: Manuscripts exist in the Yale collection for all of the following except two sermons the sources of which are indicated. The dates for the sermons written before 1733 have been determined by Thomas Schafer.
 
-## Appendix C: Edwards' Letter to a Correspondent in Scotland[^009-note1]
+### Appendix C: Edwards' Letter to a Correspondent in Scotland[^009-note1]
 
 Northampton, Nov. 20, 1745
 
@@ -6540,9 +6540,9 @@ Jonathan Edwards
 
 [^009-note25]: See HA; above, p. 358, n. 4.
 
-## Appendix D: Apocalyptic Themes in Other Notebooks
+### Appendix D: Apocalyptic Themes in Other Notebooks
 
-### 1. The "Miscellanies"
+#### 1. The "Miscellanies"
 
 See especially entries with the following headings.[^010-note1]
 
@@ -6618,7 +6618,7 @@ Scripture
 
 Types
 
-### 2. The "Scripture"
+#### 2. The "Scripture"
 
 See, for example, the following entries.[^010-note2]
 
@@ -6800,7 +6800,7 @@ See, for example, the following entries.[^010-note2]
 
 504 (Ephesians 2:7), ages to come
 
-### 3. Annotations on the Apocalypse in the "Blank Bible."[^010-note3]
+#### 3. Annotations on the Apocalypse in the "Blank Bible."[^010-note3]
 
 Revelation 1:4, 8, 10*, 13, 15, 18.
 
