@@ -81,5 +81,6 @@ edition.
 | 6 — *Scientific and Philosophical Writings* | `MD/VOLUME6.md` | The saved content includes the complete hierarchy from `000.html`. Page markers 1 and 144–146, 170–171, and 311 are absent from the source; the document does not add them artificially. The locally saved content images are preserved in `MD/assets/VOLUME06/`. |
 | 7 — *The Life of David Brainerd* | `MD/VOLUME7.md` | The saved content includes the complete hierarchy from `000.html`, with page markers 1–590 and front-matter markers viii–x. |
 | 8 — *Ethical Writings* | `MD/VOLUME8.md` | The saved content includes the complete hierarchy from `000.html`. Page markers 122–124, 127–128, 398–400, 403–404, 416–418, 455, 464–466, 507, 537–538, 628–630, 641–642, 651, 668, 672, 678, and 688 are absent from the source; the document does not add them artificially. |
+| 9 — *Sermons and Discourses 1720–1723* | `MD/VOLUME9.md` | The saved content includes the complete hierarchy from `000.html`. Page markers 2, 259–260, 578, and 644 are absent from the source; the document does not add them artificially. Two source diagrams are transcribed as Mermaid; only `jec-yje10-100.jpg` is retained as an image. |
 
 Markdown documents contain only content present in the local capture.

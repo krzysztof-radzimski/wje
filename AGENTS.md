@@ -43,6 +43,33 @@ ruby scripts/html_volume_to_markdown.rb --include-images HTML/VOLUMENN MD/VOLUME
 ruby scripts/verify_volume_markdown.rb --include-images HTML/VOLUMENN MD/VOLUMEN.md
 ```
 
+Aby zachować tylko jeden lokalny obraz treści, użyj identyfikatora z
+trzycyfrowym numerem pliku źródłowego i zapisaną nazwą pliku. Opcjonalna nazwa
+po znaku `=` określa nazwę w `MD/assets/VOLUMENN/`; argument zawierający nawiasy
+ujmij w apostrofy:
+
+```bash
+ruby scripts/html_volume_to_markdown.rb '--include-image=003:getimage(7).php=illustration.jpg' HTML/VOLUMENN MD/VOLUMEN.md
+```
+
+Jeżeli użytkownik wskaże diagram zamiast obrazu, wygeneruj dokument z
+pominiętym obrazem i wstaw w jego miejscu wierny blok `mermaid`. Nie zachowuj
+oryginalnego obrazu równolegle, chyba że użytkownik wyraźnie tego zażąda.
+
+### Wyjątek tomu 9
+
+`MD/VOLUME9.md` zawiera dwa ręcznie odtworzone diagramy Mermaid zamiast
+obrazów z `HTML/VOLUME09/003_files/`: `getimage.php` (schemat „Explication”)
+i `getimage(5).php` (sieć odwołań). Zachowany jest wyłącznie obraz
+`getimage(7).php`, pod nazwą `MD/assets/VOLUME09/jec-yje10-100.jpg`:
+
+```bash
+ruby scripts/html_volume_to_markdown.rb '--include-image=003:getimage(7).php=jec-yje10-100.jpg' HTML/VOLUME09 MD/VOLUME9.md
+```
+
+Ponowne wygenerowanie tomu usuwa ręcznie wstawione diagramy; należy je wtedy
+odtworzyć po fragmentach „First the Explication:” i „See diagram below.”.
+
 ## Kontrola kompletności
 
 Przed uznaniem tomu za gotowy sprawdź:

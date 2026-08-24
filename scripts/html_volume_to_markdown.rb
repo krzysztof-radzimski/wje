@@ -25,17 +25,25 @@ def image_extension(path)
 end
 
 def image_markdown(node)
-  return "" unless @include_images
-
   source = node["src"].to_s
   return "" if source.empty? || source.match?(%r{\Ahttps?://}i)
 
   source_path = File.expand_path(source, File.dirname(@source_path))
   return "" unless File.file?(source_path)
 
+  selector = "#{@source_page}:#{File.basename(source_path)}"
+  selected_asset = @included_images[selector]
+  return "" unless @include_images || @included_images.key?(selector)
+
   extension = image_extension(source_path)
   stem = File.basename(source_path, File.extname(source_path)).gsub(/[^A-Za-z0-9._-]+/, "-")
-  destination = File.join(@asset_directory, "#{@source_page}-#{stem}.#{extension}")
+  filename = if selected_asset.nil? || selected_asset.empty?
+               "#{@source_page}-#{stem}.#{extension}"
+             else
+               File.basename(selected_asset)
+             end
+  filename = "#{filename}.#{extension}" if File.extname(filename).empty?
+  destination = File.join(@asset_directory, filename)
   FileUtils.mkdir_p(File.dirname(destination))
   FileUtils.cp(source_path, destination)
 
@@ -199,12 +207,15 @@ def render(node, output, heading_count)
     # unclosed contents markup. Start at its first subsection heading before
     # the first Arabic marker; otherwise retain the existing fallback.
     front_matter_heading = if arabic_start
-                             node.css('div[type="subsection"] span.head').find do |heading|
+                             node.css("span.head").find do |heading|
                                position = serialized.index(heading.to_html)
                                subsection_depth = heading.ancestors.count do |ancestor|
                                  ancestor.name == "div" && ancestor["type"] == "subsection"
                                end
-                               position && position < arabic_start && subsection_depth > 1
+                               section_depth = heading.ancestors.count do |ancestor|
+                                 ancestor.name == "div" && ancestor["type"] == "section"
+                               end
+                               position && position < arabic_start && (subsection_depth > 1 || section_depth > 1)
                              end
                            end
     body_start = front_matter_heading || body_center
@@ -469,9 +480,15 @@ def apply_heading_hierarchy(markdown, entries)
 end
 
 include_images = ARGV.delete("--include-images")
+included_image_arguments = ARGV.select { |argument| argument.start_with?("--include-image=") }
+ARGV.reject! { |argument| argument.start_with?("--include-image=") }
 input_directory = ARGV[0] || "HTML/VOLUME01"
 output_file = ARGV[1] || "MD/VOLUME1.md"
 @include_images = include_images
+@included_images = included_image_arguments.each_with_object({}) do |argument, selected|
+  selector, asset_name = argument.delete_prefix("--include-image=").split("=", 2)
+  selected[selector] = asset_name
+end
 @output_file = File.expand_path(output_file)
 @asset_directory = File.join(File.dirname(@output_file), "assets", File.basename(input_directory))
 pages = Dir.glob(File.join(input_directory, "*.html")).sort

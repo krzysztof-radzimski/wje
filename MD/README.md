@@ -28,3 +28,10 @@ To preserve content images for an explicitly designated volume:
 ruby scripts/html_volume_to_markdown.rb --include-images HTML/VOLUMENN MD/VOLUMEN.md
 ruby scripts/verify_volume_markdown.rb --include-images HTML/VOLUMENN MD/VOLUMEN.md
 ```
+
+To preserve only one local content image, identify it by source page and saved
+filename. The optional final name controls the filename in the asset directory:
+
+```bash
+ruby scripts/html_volume_to_markdown.rb '--include-image=003:getimage(7).php=illustration.jpg' HTML/VOLUMENN MD/VOLUMEN.md
+```
