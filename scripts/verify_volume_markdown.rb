@@ -218,7 +218,11 @@ missing_headings = expected.reject do |text|
     (key == heading_key("CHAPTER Revelation 3 in the exposition.") &&
       markdown.include?("JE did not comment on Revelation 3 in the exposition.")) ||
     (key.start_with?(heading_key("JE, Notes in MS copy of George Downame")) &&
-      actual.any? { |actual_key| actual_key.start_with?(heading_key("JE, Notes in MS copy of George Downame")) })
+      actual.any? { |actual_key| actual_key.start_with?(heading_key("JE, Notes in MS copy of George Downame")) }) ||
+    # Volume 17's navigation omits the appendix's explicit 1733 date range,
+    # which is present in the source heading and therefore in Markdown.
+    (key == heading_key("Appendix: Dated Batches of Sermons, 1730–1732, and Dated Sermons, Dating by Thomas A. Schafer") &&
+      actual.include?(heading_key("Appendix: Dated Batches of Sermons, 1730–1732, and Dated Sermons, January–December 1733 Dating by Thomas A. Schafer")))
 end
 
 summary = "OK: #{source_pages.length} znaczników stron, #{markdown_refs.length} odwołań i #{markdown_notes.length} definicji przypisów."
