@@ -52,7 +52,8 @@ begin
   verify_complete_archive!(input_directory)
   volume = File.basename(File.expand_path(input_directory))
   manifest_path = options[:manifest] || File.join("metadata", "image-selections", "#{volume}.json")
-  manifest = ImageSelections.write_manifest(input_directory, manifest_path)
+  ImageSelections.write_manifest(input_directory, manifest_path)
+  manifest = ImageSelections.load_manifest(manifest_path)
   entries = ImageSelections.validate_manifest!(manifest, input_directory)
   includes = entries.select { |entry| entry["decision"] == "include" }
   uncertain = entries.select { |entry| entry["decision"] == "uncertain" }

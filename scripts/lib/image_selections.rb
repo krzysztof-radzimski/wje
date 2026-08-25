@@ -65,14 +65,21 @@ module ImageSelections
   def source_regions(html)
     start = html.index(CONTENT_START)
     finish = html.index(CONTENT_END, start || 0)
-    finish ||= html.index('<div id="footer">', start || 0)
-    finish ||= html.index("</body>", start || 0)
+    boundary_length = CONTENT_END.length
+    unless finish
+      finish = html.index('<div id="footer">', start || 0)
+      boundary_length = 0
+    end
+    unless finish
+      finish = html.index("</body>", start || 0)
+      boundary_length = 0
+    end
     return [["outside-before-content", html]] unless start && finish
 
     [
       ["outside-before-content", html[0...start]],
       ["content", html[(start + CONTENT_START.length)...finish]],
-      ["outside-after-content", html[(finish + CONTENT_END.length)..-1].to_s]
+      ["outside-after-content", html[(finish + boundary_length)..-1].to_s]
     ]
   end
 

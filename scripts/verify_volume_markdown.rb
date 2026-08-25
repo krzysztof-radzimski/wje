@@ -48,6 +48,54 @@ def navigation_text(text)
   value
 end
 
+def unescaped_pipe_positions(line)
+  positions = []
+  backslashes = 0
+  line.each_char.with_index do |character, index|
+    if character == "\\"
+      backslashes += 1
+      next
+    end
+
+    positions << index if character == "|" && backslashes.even?
+    backslashes = 0
+  end
+  positions
+end
+
+def gfm_separator_row?(line)
+  positions = unescaped_pipe_positions(line)
+  return false unless positions.length >= 2 && line[0...positions.first].strip.empty? && line[(positions.last + 1)..].to_s.strip.empty?
+
+  positions.each_cons(2).all? do |left, right|
+    line[(left + 1)...right].match?(/\A\s*:?-{3,}:?\s*\z/)
+  end
+end
+
+def validate_gfm_tables!(markdown)
+  lines = markdown.lines
+  index = 0
+  while index < lines.length
+    unless lines[index].start_with?("|")
+      index += 1
+      next
+    end
+
+    first_line = index + 1
+    rows = []
+    while index < lines.length && lines[index].start_with?("|")
+      rows << lines[index]
+      index += 1
+    end
+    abort "Tabela Markdown od wiersza #{first_line} nie ma separatora GFM w drugim wierszu." unless rows.length >= 2 && gfm_separator_row?(rows[1])
+
+    pipe_counts = rows.map { |row| unescaped_pipe_positions(row).length }
+    next if pipe_counts.uniq.length == 1
+
+    abort "Tabela Markdown od wiersza #{first_line} ma niespójną liczbę kolumn: #{pipe_counts.join(', ')}."
+  end
+end
+
 include_images = ARGV.delete("--include-images")
 image_selections_argument = ARGV.find { |argument| argument.start_with?("--image-selections=") }
 ARGV.delete(image_selections_argument) if image_selections_argument
@@ -88,6 +136,7 @@ abort "Odwołania bez definicji: #{missing_notes.join(', ')}" unless missing_not
 abort "Zduplikowane definicje: #{duplicate_notes.keys.join(', ')}" unless duplicate_notes.empty?
 abort "Niezgodna liczba znaczników stron: HTML=#{source_pages.length}, Markdown=#{markdown.scan(/<!-- p\. /).length}" unless source_pages.length == markdown.scan(/<!-- p\. /).length
 abort "Pozostały znaczniki <sup>" if markdown.include?("<sup>")
+validate_gfm_tables!(markdown)
 if image_selections_path
   abort "Nie znaleziono manifestu selekcji #{image_selections_path}" unless File.file?(image_selections_path)
 
@@ -107,11 +156,11 @@ if image_selections_path
   abort "Markdown zawiera obrazy spoza include: #{unexpected.join(', ')}" unless unexpected.empty?
   abort "Markdown nie zawiera obrazów include: #{missing_references.join(', ')}" unless missing_references.empty?
 
-  invalid_images = included_entries.filter_map do |entry|
+  invalid_images = included_entries.map do |entry|
     target = File.join(asset_directory, entry["assetName"])
     info = ImageSelections.image_info(target)
     entry["assetName"] unless File.file?(target) && info["mimeType"]
-  end
+  end.compact
   abort "Brakujące lub nierozpoznawalne pliki obrazów: #{invalid_images.join(', ')}" unless invalid_images.empty?
 elsif include_images
   markdown_images = markdown.scan(/!\[[^\]]*\]\(([^)]+)\)/).flatten

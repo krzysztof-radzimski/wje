@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "volume": "VOLUME99",
+  "sourceUrl": "https://example.invalid/volume99",
+  "entries": [
+    {
+      "localFile": "000.html",
+      "status": "complete",
+      "scroll": { "stabilized": true }
+    },
+    {
+      "localFile": "001.html",
+      "status": "complete",
+      "scroll": { "stabilized": true }
+    }
+  ]
+}
