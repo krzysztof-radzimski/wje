@@ -6,6 +6,8 @@
 # captures: page and navigation gaps are reported, not reconstructed.
 
 require "nokogiri"
+require "pathname"
+require_relative "lib/image_selections"
 
 CONTENT_START = "<!-- START OF CONTENT AREA -->"
 CONTENT_END = "<!-- END OF CONTEXT AREA, WE HOPE-->"
@@ -47,6 +49,10 @@ def navigation_text(text)
 end
 
 include_images = ARGV.delete("--include-images")
+image_selections_argument = ARGV.find { |argument| argument.start_with?("--image-selections=") }
+ARGV.delete(image_selections_argument) if image_selections_argument
+image_selections_path = image_selections_argument&.delete_prefix("--image-selections=")
+abort "Nie łącz --include-images z --image-selections." if include_images && image_selections_path
 input_directory = ARGV[0] || "HTML/VOLUME01"
 markdown_file = ARGV[1] || "MD/VOLUME01.md"
 pages = Dir.glob(File.join(input_directory, "*.html")).sort.reject { |path| File.basename(path) == "000.html" }
@@ -82,7 +88,32 @@ abort "Odwołania bez definicji: #{missing_notes.join(', ')}" unless missing_not
 abort "Zduplikowane definicje: #{duplicate_notes.keys.join(', ')}" unless duplicate_notes.empty?
 abort "Niezgodna liczba znaczników stron: HTML=#{source_pages.length}, Markdown=#{markdown.scan(/<!-- p\. /).length}" unless source_pages.length == markdown.scan(/<!-- p\. /).length
 abort "Pozostały znaczniki <sup>" if markdown.include?("<sup>")
-if include_images
+if image_selections_path
+  abort "Nie znaleziono manifestu selekcji #{image_selections_path}" unless File.file?(image_selections_path)
+
+  manifest = ImageSelections.load_manifest(image_selections_path)
+  entries = ImageSelections.validate_manifest!(manifest, input_directory)
+  included_entries = entries.select { |entry| entry["decision"] == "include" }
+  markdown_images = markdown.scan(/!\[(?:\\.|[^\]])*\]\(([^)]+)\)/).flatten
+  abort "Niezgodna liczba obrazów: manifest include=#{included_entries.length}, Markdown=#{markdown_images.length}" unless included_entries.length == markdown_images.length
+
+  asset_directory = File.join(File.dirname(markdown_file), "assets", File.basename(input_directory))
+  expected_paths = included_entries.map do |entry|
+    Pathname.new(File.join(asset_directory, entry["assetName"]))
+            .relative_path_from(Pathname.new(File.dirname(markdown_file))).to_s
+  end
+  unexpected = markdown_images - expected_paths
+  missing_references = expected_paths - markdown_images
+  abort "Markdown zawiera obrazy spoza include: #{unexpected.join(', ')}" unless unexpected.empty?
+  abort "Markdown nie zawiera obrazów include: #{missing_references.join(', ')}" unless missing_references.empty?
+
+  invalid_images = included_entries.filter_map do |entry|
+    target = File.join(asset_directory, entry["assetName"])
+    info = ImageSelections.image_info(target)
+    entry["assetName"] unless File.file?(target) && info["mimeType"]
+  end
+  abort "Brakujące lub nierozpoznawalne pliki obrazów: #{invalid_images.join(', ')}" unless invalid_images.empty?
+elsif include_images
   markdown_images = markdown.scan(/!\[[^\]]*\]\(([^)]+)\)/).flatten
   abort "Niezgodna liczba obrazów: HTML=#{source_images.length}, Markdown=#{markdown_images.length}" unless source_images.length == markdown_images.length
 
@@ -143,6 +174,7 @@ end
 
 summary = "OK: #{source_pages.length} znaczników stron, #{markdown_refs.length} odwołań i #{markdown_notes.length} definicji przypisów."
 summary += " #{source_images.length} obrazów." if include_images
+summary += " #{manifest['entries'].count { |entry| entry['decision'] == 'include' }} obrazów include z manifestu." if image_selections_path
 puts summary
 if missing_headings.empty?
   puts "Nagłówki z 000.html są obecne w Markdown."
