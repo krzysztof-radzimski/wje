@@ -74,16 +74,13 @@ test("numeruje tomy i pliki z zerami wiodącymi", () => {
   assert.throws(() => localStem(1000), /000–999/);
 });
 
-test("preflight przechodzi tylko dla macOS, Microsoft Edge, Accessibility i widocznego okna", async () => {
+test("preflight przechodzi dla macOS i dostępnego Microsoft Edge bez Accessibility", async () => {
   const result = await runPreflight({
     platform: "darwin",
     edgePath: EDGE_EXECUTABLE_PATH,
-    visibleWindow: true,
     canExecute: async () => true,
-    run: async () => ({ stdout: "true\n", stderr: "" }),
   });
-  assert.equal(result.accessibility, true);
-  assert.equal(result.visibleWindow, true);
+  assert.equal(result.browserAutomation, true);
   assert.equal(result.edgePath, EDGE_EXECUTABLE_PATH);
 });
 
@@ -92,22 +89,9 @@ test("preflight zgłasza brak Microsoft Edge i niewłaściwy system bez obejści
     runPreflight({
       platform: "linux",
       edgePath: "/missing/Microsoft Edge",
-      visibleWindow: true,
       canExecute: async () => false,
     }),
     (error) => error.message.includes("wymaga macOS") && error.message.includes("Microsoft Edge"),
-  );
-});
-
-test("preflight odrzuca brak Dostępności osascript i niewidoczne okno", async () => {
-  await assert.rejects(
-    runPreflight({
-      platform: "darwin",
-      visibleWindow: false,
-      canExecute: async () => true,
-      run: async () => ({ stdout: "false\n", stderr: "" }),
-    }),
-    (error) => error.message.includes("widocznego okna") && error.message.includes("/usr/bin/osascript"),
   );
 });
 
@@ -118,7 +102,7 @@ test("chroni tomy 01–16 i odrzuca zapis do niewłaściwego katalogu", async ()
     resume: false,
     delayMs: 100,
     retries: 2,
-    visibleWindow: true,
+    headless: true,
   };
   assert.throws(
     () => validateArchiveOptions({ ...base, volume: "16", destination: "HTML/VOLUME16" }, { projectRoot }),
@@ -168,33 +152,34 @@ test("resume pomija wyłącznie kompletny wpis z kompletnymi artefaktami", async
   assert.equal(await readFile(path.join(destination, "001.html"), "utf8"), "<html>saved</html>");
 });
 
-test("kod archiwizatora używa wyłącznie natywnego zapisu Microsoft Edge", async () => {
+test("kod archiwizatora używa sesji przeglądarkowej bez AppleScriptu i bez HTTP fallbacku", async () => {
   const files = [
     "scripts/archive_yale_volume.mjs",
     "scripts/lib/archive_preflight.mjs",
-    "scripts/lib/mac_edge_save_page.mjs",
-    "scripts/lib/mac_edge_save_page.applescript",
+    "scripts/lib/browser_page_archive.mjs",
     "scripts/lib/yale_archive_core.mjs",
   ];
   const forbidden = [
     "cu" + "rl",
     "wg" + "et",
     "fe" + "tch",
-    "page." + "content(",
     "MH" + "TML",
     "Google" + " Chrome",
+    "osas" + "cript",
   ];
+  let combinedSource = "";
   for (const file of files) {
     const source = await readFile(file, "utf8");
-    assert.match(source, /Microsoft Edge|yale_archive_core/);
+    combinedSource += source;
     for (const phrase of forbidden) {
       assert.equal(source.includes(phrase), false, `${file} zawiera zabroniony mechanizm lub markę`);
     }
   }
+  assert.match(combinedSource, /Microsoft Edge/);
   const cli = await readFile("scripts/archive_yale_volume.mjs", "utf8");
   assert.match(cli, /executablePath: preflight\.edgePath/);
-  assert.match(cli, /headless: false/);
-  const adapter = await readFile("scripts/lib/mac_edge_save_page.applescript", "utf8");
-  assert.match(adapter, /process "Microsoft Edge"/);
-  assert.match(adapter, /application "Microsoft Edge"/);
+  assert.match(cli, /headless: options\.headless/);
+  const archive = await readFile("scripts/lib/browser_page_archive.mjs", "utf8");
+  assert.match(archive, /response\.body\(\)/);
+  assert.match(archive, /page\.content\(\)/);
 });

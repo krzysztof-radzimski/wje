@@ -6,10 +6,11 @@
 
 This project creates searchable Markdown files from locally archived
 [WJE Online](http://edwards.yale.edu/research/browse) pages for the 73 volumes
-of *The Works of Jonathan Edwards*. For volumes 17–73, the controlled macOS
-import tool drives a visible Microsoft Edge window and uses the browser's
-native complete-page save. Direct downloads, APIs, DOM serialization, and
-editing the saved HTML are not allowed; conversion remains entirely local.
+of *The Works of Jonathan Edwards*. For volumes 17–73, the controlled import
+tool uses Microsoft Edge through Playwright/CDP, saves the rendered DOM and
+resources observed in the same browser session, and requires no macOS
+Accessibility permission. Direct HTTP downloads, APIs, MHTML, and editing the
+saved HTML are not allowed; conversion remains entirely local.
 
 ## Contents
 
@@ -21,8 +22,8 @@ editing the saved HTML are not allowed; conversion remains entirely local.
 - `scripts/html_volume_to_markdown.rb` — a converter that tolerates the
   archive's malformed HTML.
 - `scripts/archive_yale_volume.mjs` — the only permitted importer for new
-  Yale source pages; despite the historical “Chrome import” label, its current
-  CLI requires Microsoft Edge on macOS.
+  Yale source pages; it uses the same Playwright/CDP browser mechanism as the
+  code-architect preview and requires Microsoft Edge on macOS.
 - `scripts/audit_volume_images.rb` and `scripts/archive_and_convert_volume.rb`
   — deterministic image selection and selective conversion for new volumes.
 - `AGENTS.md` — the working procedure for subsequent volumes.

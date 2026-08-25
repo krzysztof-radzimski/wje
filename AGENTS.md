@@ -13,37 +13,29 @@ katalogów `NNN_files/`.
 - Wynikiem jest `MD/VOLUMENN.md`, z zerem wiodącym dla tomów 1–9
   (np. `MD/VOLUME01.md`).
 
-## Import przez Chrome — bieżące narzędzie używa Microsoft Edge
-
-Nazwa etapu „Import przez Chrome” jest historyczna. Końcowy interfejs
-archiwizatora z repozytorium obsługuje wyłącznie **Microsoft Edge**, nie Google
-Chrome. Nie zastępuj w poniższych poleceniach Edge'a Chrome'em i nie opisuj
-Chrome'a jako obsługiwanego, dopóki kod archiwizatora tego nie umożliwi.
+## Import przez wbudowany mechanizm przeglądarkowy
 
 Jedyną dopuszczalną drogą pozyskania nowych źródeł z Yale dla tomów 17–73 jest
-`scripts/archive_yale_volume.mjs`. Narzędzie uruchamia na macOS widoczne okno
-Microsoft Edge, przewija dokument do ustabilizowanego końca i korzysta z
-systemowego okna „Zapisz jako” oraz natywnego formatu „Kompletna strona
-internetowa”. Zabronione są `curl`, `wget`, bezpośrednie API, własna
-serializacja DOM oraz zapis HTML-em wygenerowanym przez Playwright. Nie wolno
-redagować, naprawiać ani nadpisywać utworzonych `NNN.html` i `NNN_files/`.
+`scripts/archive_yale_volume.mjs`. Narzędzie korzysta z tego samego mechanizmu
+Playwright/CDP i Microsoft Edge co wbudowana przeglądarka code-architect,
+przewija dokument do ustabilizowanego końca, zapisuje wyrenderowany DOM oraz
+zasoby otrzymane przez tę samą sesję przeglądarki. Nie używa AppleScriptu ani
+systemowego okna „Zapisz jako”. Zabronione są `curl`, `wget`, bezpośrednie API,
+MHTML i dodatkowe żądania HTTP poza nawigacją przeglądarki. Nie wolno redagować,
+naprawiać ani nadpisywać utworzonych `NNN.html` i `NNN_files/`.
 
 ### Wymagania i preflight
 
-- macOS z aktywną sesją graficzną;
+- macOS;
 - Microsoft Edge zainstalowany dokładnie jako `/Applications/Microsoft
   Edge.app` i uruchomiony co najmniej raz;
-- zgoda **Ustawienia systemowe → Prywatność i ochrona → Dostępność** dla
-  `/usr/bin/osascript`, który obsługuje systemowe okno „Zapisz jako”;
 - Node.js 20 lub nowszy, Ruby i gem `nokogiri`;
-- stale widoczne okno Edge'a; nie minimalizuj go ani nie używaj komputera do
-  równoległego sterowania interfejsem podczas zapisu;
 - tylko jeden aktywny przebieg archiwizatora naraz oraz odstęp co najmniej
   domyślnych 2500 ms między sekcjami. Nie próbuj równoleglić tomów.
 
-Zainstaluj zależności i wykonaj lokalny smoke test. Smoke test uruchamia ten sam
-preflight (system, Edge, widoczne okno i Accessibility), ale zapisuje tylko
-lokalną stronę w katalogu tymczasowym:
+Zainstaluj zależności i wykonaj lokalny smoke test. Smoke test zapisuje przez
+przeglądarkę tylko lokalną stronę w katalogu tymczasowym i nie wymaga
+Accessibility:
 
 ```bash
 npm ci
@@ -66,7 +58,7 @@ npm run archive -- \
   --volume "$VOLUME" \
   --source-url "$SOURCE_URL" \
   --destination "HTML/VOLUME${VOLUME}" \
-  --visible-window \
+  --headless \
   --delay-ms 2500 \
   --retries 3
 ```
@@ -86,7 +78,7 @@ npm run archive -- \
   --source-url "$SOURCE_URL" \
   --destination "HTML/VOLUME${VOLUME}" \
   --resume \
-  --visible-window \
+  --headless \
   --delay-ms 2500 \
   --retries 3
 ```
@@ -108,7 +100,7 @@ npm run archive -- \
   --source-url "$SOURCE_URL" \
   --destination "HTML/VOLUME${VOLUME}" \
   --resume \
-  --visible-window \
+  --headless \
   --delay-ms 2500 \
   --retries 3
 ```

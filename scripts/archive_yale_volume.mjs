@@ -5,7 +5,7 @@ import os from "node:os";
 import path from "node:path";
 import { pathToFileURL } from "node:url";
 import { runPreflight } from "./lib/archive_preflight.mjs";
-import { saveCompletePageWithEdge } from "./lib/mac_edge_save_page.mjs";
+import { beginBrowserPageCapture } from "./lib/browser_page_archive.mjs";
 import {
   assertArchiveDestinationSafe,
   assertRawTargetAbsent,
@@ -22,11 +22,11 @@ import {
 } from "./lib/yale_archive_core.mjs";
 
 export const HELP = `
-Natywny archiwizator pojedynczego tomu WJE przez widoczny Microsoft Edge na macOS.
+Archiwizator pojedynczego tomu WJE przez automatyzowaną przeglądarkę Microsoft Edge.
 
 Użycie:
   npm run archive -- --volume NN --source-url URL --destination HTML/VOLUMENN \\
-    [--resume] [--delay-ms 2500] [--visible-window] [--retries 3]
+    [--resume] [--delay-ms 2500] [--headless] [--retries 3]
   npm run archive:smoke
 
 Opcje:
@@ -35,18 +35,17 @@ Opcje:
   --destination PATH  Nowy katalog HTML/VOLUMENN; tomy 01–16 są chronione.
   --resume             Pomija tylko kompletne wpisy; ponawia błędne i niekompletne.
   --delay-ms MS        Minimalny odstęp między stronami (domyślnie 2500 ms).
-  --visible-window     Jawnie wybiera wymagane, widoczne okno Microsoft Edge.
-  --no-visible-window  Kończy się błędem; archiwizacja bez widocznego okna jest zabroniona.
+  --headless           Uruchamia Edge bez osobnego okna (ustawienie domyślne).
+  --visible-window     Opcjonalnie pokazuje okno Edge; nie wymaga sterowania interfejsem macOS.
   --retries N          Liczba prób na stronę, 1–10 (domyślnie 3).
   --smoke-test         Zapisuje lokalną stronę testową w odrębnym katalogu tymczasowym.
   --help               Pokazuje tę pomoc.
 
 Wymagania:
-  macOS z aktywną sesją graficzną, Microsoft Edge pod ścieżką
-  /Applications/Microsoft Edge.app/Contents/MacOS/Microsoft Edge oraz uprawnienie
-  Ustawienia systemowe → Prywatność i ochrona → Dostępność dla /usr/bin/osascript.
-  Microsoft Edge musi oferować format „Kompletna strona
-  internetowa” w systemowym oknie „Zapisz jako”. Brak wymagania kończy pracę błędem.
+  macOS i Microsoft Edge pod ścieżką
+  /Applications/Microsoft Edge.app/Contents/MacOS/Microsoft Edge. Archiwizator używa
+  Playwright/CDP, zapisuje wyrenderowany DOM i zasoby przechwycone z tej samej sesji
+  przeglądarki. Nie wymaga AppleScriptu ani uprawnienia macOS Accessibility.
 `;
 
 export function parseArguments(argv) {
@@ -54,7 +53,7 @@ export function parseArguments(argv) {
     resume: false,
     delayMs: 2500,
     retries: 3,
-    visibleWindow: true,
+    headless: true,
     smokeTest: false,
   };
   for (let index = 0; index < argv.length; index += 1) {
@@ -73,8 +72,8 @@ export function parseArguments(argv) {
     else if (argument === "--delay-ms") options.delayMs = Number.parseInt(value(), 10);
     else if (argument === "--retries") options.retries = Number.parseInt(value(), 10);
     else if (argument === "--resume") options.resume = true;
-    else if (argument === "--visible-window") options.visibleWindow = true;
-    else if (argument === "--no-visible-window") options.visibleWindow = false;
+    else if (argument === "--headless" || argument === "--no-visible-window") options.headless = true;
+    else if (argument === "--visible-window") options.headless = false;
     else if (argument === "--smoke-test") options.smokeTest = true;
     else throw new Error(`Nieznany argument: ${argument}`);
   }
@@ -135,25 +134,6 @@ export async function stabilizeDocument(page) {
   };
 }
 
-async function waitForCompleteSave(destination, stem, timeoutMs = 90_000) {
-  const deadline = Date.now() + timeoutMs;
-  let previousSignature = "";
-  let stableCount = 0;
-  while (Date.now() < deadline) {
-    const metrics = await captureMetrics(destination, stem);
-    const signature = JSON.stringify(metrics);
-    stableCount = metricsAreComplete(metrics) && signature === previousSignature ? stableCount + 1 : 0;
-    if (stableCount >= 3) return metrics;
-    previousSignature = signature;
-    await pause(300);
-  }
-  const metrics = await captureMetrics(destination, stem);
-  throw new Error(
-    `Microsoft Edge nie utworzył kompletnego ${stem}.html i ${stem}_files ` +
-    `(stan: ${JSON.stringify(metrics)}).`,
-  );
-}
-
 async function preparePage(page, url, log) {
   await log(`navigation:start ${url}`);
   const response = await page.goto(url, { waitUntil: "domcontentloaded", timeout: 60_000 });
@@ -206,15 +186,21 @@ async function archiveOne({
   let lastError;
   for (let attempt = 1; attempt <= retries; attempt += 1) {
     let navigation = null;
+    const capture = beginBrowserPageCapture(page, { log });
     const evidencePath = path.join(evidenceDirectory, `${stem}.png`);
     try {
       await assertRawTargetAbsent(destination, stem);
       await log(`attempt:${attempt}/${retries} ${localFile}`);
       navigation = await preparePage(page, requestedUrl, log);
-      await page.bringToFront();
       await page.screenshot({ path: evidencePath, fullPage: false });
-      await saveCompletePageWithEdge(destination, stem);
-      const files = await waitForCompleteSave(destination, stem);
+      await capture.save(destination, stem);
+      const files = await captureMetrics(destination, stem);
+      if (!metricsAreComplete(files)) {
+        throw new Error(
+          `Przeglądarka nie utworzyła kompletnego ${stem}.html i ${stem}_files ` +
+          `(stan: ${JSON.stringify(files)}).`,
+        );
+      }
       const entry = {
         localFile,
         title,
@@ -225,6 +211,7 @@ async function archiveOne({
         files,
         evidence: path.relative(destination, evidencePath),
         attempts: priorAttempts + attempt,
+        archiveMethod: "playwright-rendered-dom-and-responses",
         status: "complete",
         error: null,
       };
@@ -255,13 +242,15 @@ async function archiveOne({
       const backoff = Math.max(500, delayMs) * (2 ** (attempt - 1));
       await log(`retry:wait ${backoff}ms`);
       await pause(backoff);
+    } finally {
+      await capture.dispose();
     }
   }
   throw lastError;
 }
 
 export async function runArchive(options) {
-  const preflight = await runPreflight({ visibleWindow: options.visibleWindow });
+  const preflight = await runPreflight();
   await assertArchiveDestinationSafe(options.destination, { resume: options.resume });
   await mkdir(options.destination, { recursive: true });
   const manifest = await loadManifest(options.destination, options.volume, options.sourceUrl);
@@ -276,10 +265,10 @@ export async function runArchive(options) {
   const { chromium } = await import("playwright-core");
   const browser = await chromium.launch({
     executablePath: preflight.edgePath,
-    headless: false,
-    args: ["--start-maximized"],
+    headless: options.headless,
+    args: options.headless ? [] : ["--start-maximized"],
   });
-  const context = await browser.newContext({ viewport: null });
+  const context = await browser.newContext(options.headless ? {} : { viewport: null });
   const page = await context.newPage();
   context.on("page", async (openedPage) => {
     if (openedPage !== page) await openedPage.close().catch(() => {});
@@ -362,7 +351,7 @@ async function createSmokeOptions() {
     resume: false,
     delayMs: 100,
     retries: 2,
-    visibleWindow: true,
+    headless: true,
   }, { smoke: true });
 }
 
@@ -394,7 +383,7 @@ export async function main(argv = process.argv.slice(2)) {
   const result = await runArchive(options);
   if (parsed.smokeTest) {
     await verifySmokeResult(result);
-    process.stdout.write(`SMOKE TEST EDGE OK: ${result.destination}\nEvidence: ${result.logPath}\n`);
+    process.stdout.write(`SMOKE TEST BROWSER OK: ${result.destination}\nEvidence: ${result.logPath}\n`);
   }
 }
 

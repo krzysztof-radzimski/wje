@@ -20,9 +20,6 @@ export function localStem(index) {
 }
 
 export function validateArchiveOptions(options, { smoke = false, projectRoot = process.cwd() } = {}) {
-  if (!options.visibleWindow) {
-    throw new Error("Natywny zapis Microsoft Edge wymaga widocznego okna; usuń --no-visible-window.");
-  }
   if (!Number.isInteger(options.delayMs) || options.delayMs < 0) {
     throw new Error("--delay-ms musi być nieujemną liczbą całkowitą.");
   }

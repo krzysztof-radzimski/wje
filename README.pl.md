@@ -7,8 +7,9 @@
 Projekt tworzy przeszukiwalne pliki Markdown z lokalnie zarchiwizowanych stron
 [WJE Online](http://edwards.yale.edu/research/browse), obejmujących 73 tomy
 *The Works of Jonathan Edwards*. Dla tomów 17–73 kontrolowane narzędzie importu
-na macOS steruje widocznym oknem Microsoft Edge i używa natywnego zapisu całej
-strony. Bezpośrednie pobieranie, API, serializacja DOM oraz edycja zapisanych
+używa Microsoft Edge przez Playwright/CDP, zapisuje wyrenderowany DOM i zasoby
+zaobserwowane w tej samej sesji przeglądarki oraz nie wymaga uprawnienia macOS
+Accessibility. Bezpośrednie pobieranie HTTP, API, MHTML oraz edycja zapisanych
 HTML są zabronione; konwersja odbywa się wyłącznie lokalnie.
 
 ## Zawartość
@@ -21,8 +22,8 @@ HTML są zabronione; konwersja odbywa się wyłącznie lokalnie.
 - `scripts/html_volume_to_markdown.rb` — konwerter tolerujący niepoprawny HTML
   archiwum.
 - `scripts/archive_yale_volume.mjs` — jedyny dozwolony importer nowych stron
-  źródłowych Yale; mimo historycznej nazwy etapu „Import przez Chrome” bieżący
-  interfejs CLI wymaga Microsoft Edge na macOS.
+  źródłowych Yale; korzysta z tego samego mechanizmu Playwright/CDP co podgląd
+  code-architect i wymaga Microsoft Edge na macOS.
 - `scripts/audit_volume_images.rb` i `scripts/archive_and_convert_volume.rb` —
   deterministyczna selekcja obrazów i selektywna konwersja nowych tomów.
 - `AGENTS.md` — stała procedura pracy nad następnymi tomami.
