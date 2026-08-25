@@ -12,7 +12,7 @@ List of Illustrations viii
 
 Note to the Reader ix
 
-## Sermons and Discourses, 1730–1733
+### Sermons and Discourses, 1730–1733
 
 Preface to the Period 3
 
@@ -600,7 +600,7 @@ That Edwards led his congregation into a revival in 1734 suggests that he achiev
 
 [^003-note51]: Ibid., 149.
 
-### Practical Atheism
+## Practical Atheism
 
 We might wonder whether atheism was really a danger to participants in New England's standing order, not to mention congregants in the Northampton church, who viewed themselves as genuinely Christian. Yet Edwards makes it clear in this sermon that by atheism he refers to more than the urbane skepticism of self-styled literati in America and the doctrine of radical philosophes and proponents of Enlightenment in Britain or France. Edwards brings the dangers of atheism to bear on Northampton by linking it to such common shortcomings as the neglect of private and corporate religious exercises. His statement of the Doctrine implies that there is an intimate connection between practical ungodliness and philosophical unbelief. From Edwards' perspective, any form of disobedience is a denial of God's existence.
 
@@ -732,7 +732,7 @@ But especially is there one sort of wickedness that is a practical denying the b
 
 Thus wicked men by living prayerless lives, they live like atheists. [They do not practice] secret prayer; [they] profane [the] sabbath; [they neglect gospel] ordinances; [and they do not attend] public worship.[^004-note6]
 
-#### Application.
+### Application.
 
 I. Hence we may see one cause why there is so much wickedness in places of light. It is mysterious how men dare go on in wickedness, and give themselves such a license as they do, where they are taught that there
 
@@ -794,7 +794,7 @@ The rain from heaven [is evidence], the growing of corn and grass, the self-evid
 
 [^004-note7]: Bracketed phrases here and throughout the rest of the Application mark places where JE provided only a few words upon which he probably would have expanded extemporaneously in preaching.
 
-### The Pure in Heart Blessed
+## The Pure in Heart Blessed
 
 In *The Pure in Heart Blessed*, Edwards uses a familiar Beatitude to explore the nature of spiritual knowledge and its relation to human happiness. After an exegesis of the setting of Jesus' saying, a comparison with Moses' reception of the Law on Mount Sinai, and an excursus on the Transfiguration account, Edwards provides an extended discussion of the meaning of spiritual sight. He draws on the vocabulary of sensation, popular in eighteenth-century moral philosophy, to argue for an affective perception of God's glory. Spiritual sensation, he maintains, is the soul's perception of the divine attributes. An encounter with God's moral perfections yields joy and pleasure, so that a genuine sight of God yields happiness.
 
@@ -1046,7 +1046,7 @@ Those streams of pleasure that are at God's right hand, they are never dry, but 
 
 How much doth the sense of the sureness of this foundation confirm and heighten the joy! The soul enjoys its delight in a sense of this, free from all fears and jealousies, and with an unspeakable quietness and assurance; Isaiah 32:17, "And the works of righteousness shall be peace, and the effect of righteousness, quietness and assurance forever."
 
-#### Inferences.
+### Inferences.
 
 I. Here we may see one instance wherein the revelation of Jesus Christ excels all human wisdom. It was a thing that had been beyond the wisdom of the world, to tell wherein men's true happiness consisted. There was a vast variety of opinions about it amongst the wise men and philosophers of the heathen. There was scarcely anything that there was so great differences amongst them about. If I remember right, there were more than a hundred different opinions reckoned up about it, which shows that they were woefully in the dark, though there were many very wise men amongst them, men famed through all succeeding ages for their knowledge and wisdom. Yet their reason was not sufficient to find out men's true happiness.
 
@@ -1264,7 +1264,7 @@ If you would be in the way to have a pure heart:
 
 [^005-note8]: The MS ends abruptly at this point. The version of this sermon published in the Dwight ed., *8*, 303–04, indicates that at least one leaf, now missing from the manuscript booklet, followed. The rest of the sermon printed here, then, is based entirely on the Dwight edition.
 
-### The Dangers of Decline
+## The Dangers of Decline
 
 Jonathan Edwards has not always been associated with election-day preaching in New England. By tradition and ordinance, congregational ministers used the occasion of election days to preach on the religious duties of government or, conversely, the political duties of Christians. During the eighteenth century, such performances often followed one or more strategies within a set script: assertion of the divine origin of civil government; affirmation of the providential origins and covenantal responsibilities of New England; rehearsal of New England's peculiar advantages or blessings, such as material prosperity or independence from the corruptions of the English church; warnings against current signs of divine judgment, such as political discord or economic crisis; and exhortations to repentance and reform on the part of magistrates, ministers, and citizens.
 
@@ -1390,7 +1390,7 @@ And thus it has been God's manner to do. Thus he did of old by Samaria and the t
 
 the wall thereof, and it shall be trodden down: and I will lay it waste." So he did with the Jews at their second destruction, signified by the parable of the barren fig tree in the vineyard (Luke 13:6–9). Justice called to have the tree cut down at the end of three years, but mercy and patience stepped in {to delay its destruction}. But then patience itself was at an end, presented by his cursing the barren fig tree (Matthew 21:19).
 
-#### Application.
+### Application.
 
 I. Let the consideration of the truth before us stir us up to reflect upon the present state of this land, and especially of this town, with respect to religion. Let it be considered by us whether we are fallen. The time when God first took us to be his people, when our fathers went after God into the wilderness, was a time of love on God's part and on ours; the land was then famous for religion. What a spirit for God and religion did then appear amongst rulers, and ministers, and heads of families![^006-note7]
 
@@ -1474,7 +1474,7 @@ God sometimes leaves a people to bring ruin upon themselves by contentions, and 
 
 [^006-note11]: JE may have drawn from Josephus, *The Wars of the Jews*, VI, for this anecdote. This work later appeared in JE's "Catalogue of Books."
 
-### Envious Men
+## Envious Men
 
 Along with *The Dangers of Decline* and *The State of Public Affairs, Envious Men* shows Edwards' increasing attention to political, social, and economic controversy in Northampton and in Massachusetts generally in the early 1730s.[^007-note1] His subject here, in a two-preaching-unit sermon delivered on Aug. 9, 1730, a sacrament day, is envy.[^007-note2] Whereas the text warns against envy as a source of contention chiefly in the church, Edwards also employs the term to refer to a peculiarly civil disaffection. By his definition, envy involves relative social positions, political prerogatives, and economic advantages. The Lord's Supper, he concludes, was an occasion for repentance of envy and thus for unity in all matters of corporate life. The sacrament brought the Christian mandate of love to bear on a multiplicity of social relationships.
 
@@ -1632,7 +1632,7 @@ Sometimes envy and contention is the occasion of abominable cheating. Men will t
 
 Some men get such a blot upon their names by what they do in contention that [it] shall not be soon wiped away.[^007-note7]
 
-#### Application.
+### Application.
 
 *Use* I. Of *Self-Exam.* In two branches.
 
@@ -1802,7 +1802,7 @@ How does it seem to see a company and family of the visible children of the Most
 
 [^007-note18]: Two announcements follow as a fitting postscript to the sermon: "Baptism" and "Fast."
 
-### Honey from the Rock
+## Honey from the Rock
 
 This sermon, preached in the fall of 1730, is an extended meditation on what Edwards describes as the "elegant metaphor of sucking honey out of a rock." His text is from the Song of Moses. Placed immediately before the story of Israel's entrance into Canaan, the biblical poem memorializes God's miraculous provision for Israel in the wilderness, including the gifts of honey and oil from flinty rocks. Edwards does not pursue a typological association here between these images and corporate institutions like town or church. Rather, he dwells on the individual, spiritual significance of the metaphors: the lost and desperate soul who finds the honey of the Holy Spirit issuing from Christ the rock. *Honey from the Rock* is an illustration of how Edwards continues to preach on the inner spiritual life in the early 1730s even as he shows an increasing concern for public affairs.
 
@@ -1916,7 +1916,7 @@ sins. They are justified freely through {the blood of Christ}, and there is no m
 
 Thus wonderfully does God work for his chosen. Who that saw them in such a doleful and forlorn condition as they were in would have thought to have seen such blessedness arising to them? Who would have thought to have seen such waters breaking out in the wilderness? Who would have thought to have seen honey dripping, and rivers of oil flowing, out of the flinty rock?
 
-#### Application.
+### Application.
 
 In the application of this doctrine,
 
@@ -2072,7 +2072,7 @@ And therefore when the soul comes to have all obstacles removed and comes fully 
 
 <!-- p. 137 -->
 
-#### Application.
+### Application.
 
 I. This doctrine gives us argument of praise. 'Tis spoken of in this song as a glorious work of God, that he should make Israel "suck honey out of the rock, and oil out of the flinty rock." The expression denotes to us some strange and wonderful works, a peculiar effect of divine power.
 
@@ -2112,7 +2112,7 @@ He is a sure foundation to build upon. They that build their hope of heaven upon
 
 [^008-note5]: See the paired sermons from mid-1729 on Jeremiah 17:7–8 (123), which considers the benefits of trusting in God, and on Jeremiah 17:5–6 (122), on the dangers of trusting in the creature.
 
-### God Makes Men Sensible of Their Misery Before He Reveals His Mercy and Love
+## God Makes Men Sensible of Their Misery Before He Reveals His Mercy and Love
 
 In this four-preaching-unit sermon dating from the fall of 1730, Edwards offers an extended analysis of the meaning and use of spiritual humiliation. According to Puritan teaching, an apprehension of one's sin, unworthiness, guilt, and condemnation is implied in, if not a logical antecedent to, conversion. Edwards frequently urged his auditors to seek such convictions. In this sermon, he also defends this sort of humiliation against objections that it places an undue moral burden on the unregenerate.
 
@@ -2658,7 +2658,7 @@ The comfort and joys of hypocrites generally are otherwise. They have not that h
 
 [^009-note8]: I.e. "they need."
 
-### Stupid as Stones
+## Stupid as Stones
 
 Another sermon that was first written in late 1730 or early 1731, *Stupid as Stones* was as biting a condemnation of the people of Northampton as Edwards delivered until his more noted *Farewell Sermon* of 1750. We see here his disappointment with the congregation, a feeling that arose even before the disputes of the late 1740s that led to his dismissal. He turns his critique in *Stupid as Stones*, however, not to the issues that marked the later period—the vices of the rising generation or the sacramental controversy, for instance—but to something much more bothersome to a young preacher: indifference. What surfaces in this sermon is Edwards' nearly livid frustration with the churchgoer who has no enthusiasm for the preacher's message.
 
@@ -2804,13 +2804,13 @@ brought to their minds how they were warned and what counsels they had [been] gi
 
 Thus God is not frustrated. His word don't return to him void.
 
-#### Two Reasons
+### Two Reasons
 
 1. God is infinitely wise and powerful and is able to obtain his end whether [men will hear, or whether men will forbear].
 
 2. The word of God is too honorable and precious to be suffered to be in vain. 'Tis fit that the word of so great a God should take effect, should accomplish that. 'Tis the honor of the word; though men don't honor it, God will.
 
-#### Application.
+### Application.
 
 [*Use*] I. [Of *Encour.*] Ministers should not neglect faithfully to preach the word of God, however regardless men are of their message.[^010-note4]
 
@@ -2850,7 +2850,7 @@ Consider, first, [that] if you hear, God will attain his end in you, obtaining y
 
 [^010-note6]: Here JE later added: "You have often had the books of Scripture opened. At the day of judgment the same books shall be opened, and then you will always seek the work of God. You never will make light of it any more."
 
-### Born Again
+## Born Again
 
 In *Born Again*, Edwards reflects on new birth as a trope for conversion. Although part of John 3:3 served as his doctrine, Edwards omits his usual explication of the text. He may have done this extemporaneously. Along with the sometimes sketchy nature of the rest of the sermon, this omission indicates that the sermon may have been prepared for a private meeting and therefore did not warrant the completeness of a formal sermon. In any case, Edwards proceeds to a rather abstract meditation on the necessity of spiritual regeneration. *Born Again* has several focuses related, though somewhat disjointedly, to the central image. The result is rhetorically opaque; nonetheless, the sermon tells us much about Edwards' pastoral challenges and agenda.
 
@@ -2980,7 +2980,7 @@ Man by his first birth has natural faculties of understanding and will. He has s
 
 modifications of self-love, a man need not be new born in order to his loving God. But it is not so.
 
-#### Application.
+### Application.
 
 I. If there is so great a change to be wrought, how unreasonable is the security of multitudes of men. Every man that shall not see the kingdom of heaven will feel the torments of hell to all eternity, so that, except he be born again, he cannot see the kingdom of God; so he cannot escape the damnation of hell. This is a rule that has no exceptions. 'Tis fixed and unalterable, as is intimated by the manner of expression in the text, "Verily, verily."
 
@@ -3042,7 +3042,7 @@ Earnestly seek it of God, who is the Father.[^011-note10] Use the Word, which is
 
 [^011-note12]: JE added the following passage, with blank lines interspersed between sentences, at a later time, presumably for the 1753 reworking of this sermon: "Be speedy; don't halt; don't wait for a better time. Be earnest; don't spend time in contriving to spare yourself [the use of means]. Take heed you ben't undone through the deceitfulness of sin. Avoid temptation. Don't strive only in some duties. Don't flatter yourself that you are more likely to be saved than other sinners."
 
-### God Glorified in Man's Dependence
+## God Glorified in Man's Dependence
 
 *God Glorified in Man's Dependence* was Edwards' first published work. He originally delivered the sermon in Northampton in the fall of 1730; on July 8, 1731, he preached it to a meeting of clergy in Boston, soon after which it appeared in print. One of his more noted efforts, the sermon was reprinted frequently in subsequent editions of his work, including the Dwight edition (*8*, 147–62).
 
@@ -3224,7 +3224,7 @@ And the redeemed by reason of the greatness of their dependence on God, han't on
 
 else, man's respect would be divided to those different things on which he had dependence. Thus it would be if we depended on God only for a part of our good, and on ourselves, or some other being, for another part; or if we had our good only *from* God, and *through* another that was not God, and *in* something else distinct from both, our hearts would be divided between the good itself, and him *from* whom, and him *through* whom we received it. But now there is no occasion for this, God being not only he *from* or *of*whom we have all good, but also *through* whom, and one that is that good itself, that we have from him, and through him. So that whatsoever there is to attract our respect, the tendency is still directly towards God, all unites in him as the center.
 
-#### Use.
+### Use.
 
 I. We may here observe the marvelous wisdom of God in the work of redemption. God hath made man's emptiness and misery, his low, lost and ruined state into which he is sunk by the fall, an occasion of the greater advancement of his own glory, as in other ways so particularly in this, that there is now a much more universal and apparent dependence of man on God. Though God be pleased to lift man out of that dismal abyss of sin and woe into which he was fallen, and exceedingly to exalt him in excellency and honor, and to an high pitch of glory and blessedness, yet the creature has nothing in any respect to glory of; all the glory evidently belongs to God, all is in a mere, and most absolute and divine dependence on the Father, Son, and Holy Ghost.
 
@@ -3304,7 +3304,7 @@ Boston, August 17, 1731
 
 [^012-note9]: Thomas Prince (1687–1758) was a colleague of Joseph Sewall's at Boston's Old South Church from 1718 until his death; William Cooper (1694–1743) was a junior associate of Benjamin Colman's at Brattle Street Church, Boston. Both these ministers were to become close associates of JE's.
 
-### The Perpetuity and Change of the Sabbath
+## The Perpetuity and Change of the Sabbath
 
 In *The Perpetuity and Change of the Sabbath*, Edwards deals with the basic premise of corporate Christian worship: the observance of Sunday as the Christian sabbath. Other sermons in this volume, including *Self-Examination and the Lord's Supper*, show Edwards' interest in sacramental issues and their relation to social practice. *The Perpetuity and Change of the Sabbath*, a three-preaching-unit lecture first delivered in late 1730 or early 1731, includes practical applications like exhortations to keep the sabbath holy, to provide a visible witness to the gospel, and to abstain from sins that divert the Christian from genuine worship, such as drunkenness, gossip, and preoccupation with business. Yet this sermon is not a typical New England jeremiad against immoral behavior on the sabbath. Rather, it is largely an exegetical and theological defense of Sunday worship.
 
@@ -3598,7 +3598,7 @@ Thus tender was Christ of the church while an infant. He did not feed 'em with s
 
 And thus I leave it with everyone to judge whether there ben't sufficient evidences that 'tis the mind and will of God that the first day of the week should be kept by the Christian church as a sabbath.[^013-note14]
 
-#### Application.
+### Application.
 
 *Use* of *Exh*.
 
@@ -3750,7 +3750,7 @@ What can be more proper, than that on such a day we should be expressing our mer
 
 [^013-note16]: For a further exploration of this theme, see *Serving God in Heaven*, below.
 
-### Serving God in Heaven
+## Serving God in Heaven
 
 In *Serving God in Heaven*, first delivered on March 14, 1731,[^014-note1] Edwards contrasts a heavenly life of active service to God with the earthly temptations of religious apathy and inactivity. Edwards pursues the doctrine on the Aristotelian premise that human beings fulfill their nature by realizing their potency in activity. He also draws on contemporary Anglo-American ethical theory, which held that people became happy when they acted according to their powers. So, according to Edwards, "the happiness of the reasonable creature don't consist in idleness but rather in action." Because serving God was the most excellent end of humanity, acting in such service led to the most delightful happiness.
 
@@ -3858,7 +3858,7 @@ The saints in heaven have no opportunity to express their love by doing anything
 
 Therefore the saints in heaven are much happier in a subjection to God's authority and in his service than if they were not in such a state.
 
-#### Application.
+### Application.
 
 I. Hence we may learn something of the nature of the heavenly state. They are not idle but active. 'Tis true the heavenly state is a state of rest:
 
@@ -3910,7 +3910,7 @@ Hereby you may be directed how to live a pleasant life here in this world and in
 
 [^014-note3]: See JE's MS funeral sermon from Feb. 1736 for his grandmother Rebecca Warham Mather Stoddard, which is on this text and treats the idea that the good works of the saints follow them to heaven.
 
-### Self-Examination and the Lord's Supper
+## Self-Examination and the Lord's Supper
 
 In *Self-Examination and the Lord's Supper*, first delivered on Mar. 21, 1731,[^015-note1] Edwards uses a sacramental occasion to bring the theme of self-examination to bear on religious complacency and social faction. He applies a pungent New Testament text—Paul's warning that those who partake of the Lord's Supper in an unworthy fashion endanger their souls—to the Northampton church in a straightforward manner. Although Edwards' heightened interest in such sacramental issues as qualifications for church membership lies behind *Self-Examination and the Lord's Supper*, he does not address those controversies directly here. Instead, he focuses on the individual's responsibility to undergo intense self-scrutiny before participating in the Lord's Supper.
 
@@ -4076,7 +4076,7 @@ If there be any now about to approach that are in any of these mentioned ways {o
 
 [^015-note9]: JE only sketched in phrases from here to the end of sermon, leaving blank spaces or lines for later completion or extemporaneous expansion. Bracketed phrases are editorial interpolations.
 
-### Christians a Chosen Generation
+## Christians a Chosen Generation
 
 In *Christians a Chosen Generation*, first preached in May 1731,[^016-note1] Edwards delivers a major statement on the nature of Christian existence. Although a lengthy, six-preaching-unit performance, it is relatively straightforward in organization. Edwards derives two doctrines from the text and develops each with a compilation of scriptural references. Under the first, which takes up the five units included in the Dwight edition, he gives four propositions that follow the text. Christians were a chosen generation, a royal priesthood, a holy nation, and a peculiar people. Under the second doctrine he dwells on the theme of being called from darkness into light: the means, as it were, of entry into the select company of saints whose corporate character occupies the first doctrine.
 
@@ -4840,7 +4840,7 @@ The Spirit of God immediately brings them out of their darkness into light. When
 
 is made use of by the Spirit of God, it is effectual. The words that the Spirit of God makes use of in his call are the words of Christ in the gospel, his gracious invitations there. The Spirit of God opens the heart to receive and entertain this gospel call. That call that we hear from time to time, that is the call, which, being made use by the Spirit of God, brings men out of darkness into marvelous light.
 
-#### Application.
+### Application.
 
 *Use* [I. Of *Conviction*] By this doctrine the unconverted may be made sensible of their doleful condition. They walk in darkness and are under the power of darkness, and are lost and know not whither they go; those that walk in outward darkness, they are in danger of stumbling and falling. But you are in danger of falling and never rising more. You, if you ben't called out of darkness into light before long, your "feet will stumble upon the dark mountain of death" (Jeremiah 13:16). You walk, as it were, on a mountain where there is a precipice on every side, from whence you are in continual danger of falling into the depths of hell. You walk blindfold amongst snares and pits that the devil hath made to catch souls. And if you are taken by him, you will be devoured by him. He'll carry you to his den where you will be meat for those poison and carnal serpents [of] the devil. The jaws of the great dragon will trickle down with your blood [Revelation 20:2].
 
@@ -4938,7 +4938,7 @@ Do such things only as if they were known and published in the light, [and] woul
 
 [^016-note30]: MS: damaged. Editorial conjecture.
 
-### East of Eden
+## East of Eden
 
 The third chapter of Genesis, which Edwards here calls "the most sorrowful and melancholy chapter that we have in the whole Bible," recounts humanity's fall from innocence. Edwards uses his text, on the subsequent expulsion of Adam and Eve from the garden and the placing of a flaming sword to guard the tree of life, for a meditation on the debilitating effects of the fall. Edwards offers a theological analysis of the fall by way of contrast with life in Edenic paradise, not unlike a previous sermon in this volume, *Serving God in Heaven*, which contrasted life in this sinful world with eschatological paradise.
 
@@ -5136,7 +5136,7 @@ Thus man, when he fell, he lost his opportunity of getting eternal life, that bl
 
 These two doctrines may give us something of an idea of the melancholy and doleful loss that man sustained by the fall.
 
-#### Application.
+### Application.
 
 I shall make improvement of both these doctrines under one.
 
@@ -5234,7 +5234,7 @@ But a consideration of the doctrine will teach us how vain all such attempts are
 
 [^017-note5]: Bracketed phrases are editorial interpolations.
 
-### The State of Public Affairs
+## The State of Public Affairs
 
 *The State of Public Affairs* is one of Edwards' most explicitly political orations—a clear and direct discussion of the ideal civic order, the problem with politics in Massachusetts in the early 1730s, and the relation between religion and political leadership. Delivered sometime between August 1731 and December 1732, a period of great political turmoil in Massachusetts, this two-preaching-unit sermon appears to have been occasioned by a fast day or the death of a civic leader. As Edwards notes, there is an obvious "application" to "the circumstances of this land."
 
@@ -5374,7 +5374,7 @@ But I hasten to a conclusion with a brief
 
 <!-- p. 359 -->
 
-#### Application.
+### Application.
 
 I. This doctrine may give us occasion to conclude that very often when a people are in such circumstances, there is too much done at inveighing against instruments and too little at reflecting on themselves. As there is commonly among a people at such a time much of a spirit of contention, so it appears in finding fault very much one with another.
 
@@ -5530,7 +5530,7 @@ And there is no other method will do. If we don't reform our sins, do what else 
 
 [^018-note4]: I.e. respect to virtuous rulers gives them opportunity to improve the piety of the people, thereby promoting the public tranquillity.
 
-### The Duty of Charity to the Poor
+## The Duty of Charity to the Poor
 
 Delivered in January 1733, *The Duty of Charity to the Poor* is a lengthy sermon devoted to almsgiving. Edwards spends little effort here in development of the doctrine. The biblical text, he avers, clearly commands the people of God to supply the wants of the needy in bountiful measure and with free and willing dispositions. Giving to the poor is a duty, as necessary to religious practice as worship, and as important for salvation as prayer. This rather striking claim shows the concrete and practical side of Edwards' ethics. Indeed, in this sermon his insistence on social action almost overwhelms his evangelical theology.
 
@@ -5586,7 +5586,7 @@ Another is that we shall never want proper objects of our charity and bounty; De
 
 #### Doctrine.
 
-##### 'Tis the most absolute and indispensable duty of a people of God to give bountifully and willingly for the supply of the wants of the needy.
+#### 'Tis the most absolute and indispensable duty of a people of God to give bountifully and willingly for the supply of the wants of the needy.
 
 [There are] three propositions.
 
@@ -5642,7 +5642,7 @@ How unsuitable will it be for us that live wholly by kindness to be unkind! What
 
 And then, Christ by his redemption has brought us into a more near relation one to another, hath made us children of God, children in the same family. We are all brethren, having God for our common Father, which is much more than to be brethren in any other family. He has made us all one body; therefore, we ought to be united, and subserve to one another's good, and bear one another's burdens, as members of the same body in the natural body. If one of the members suffers, all the other members bear the burden with it (1 Corinthians 12:26). If one member be diseased or wounded, the other members of the body will minister to it and help it. And so surely it should be in the body of Christ; Galatians 6:2, "Bear ye one another's burdens, and so fulfill the law of Christ."
 
-#### Application.
+### Application.
 
 *Use* I. Of *Self-Exam.* Whether or no you don't lie under guilt upon the account of a neglect of this duty, in withholding that charity that God has required of you towards the needy. You have often been put upon examining
 
@@ -6004,7 +6004,7 @@ Let the design of the law be what it will, yet if there are in fact persons that
 
 [^019-note12]: I.e. our charitable gift.
 
-### A Divine and Supernatural Light
+## A Divine and Supernatural Light
 
 In *A Divine and Supernatural Light*, Edwards condensed much of a decade of preaching, rumination, and private writing on the nature of spiritual knowledge into a single, remarkable effort. First delivered in Northampton in August 1733 and printed in Boston the following year, it enhanced his reputation as a spokesman for experimental Calvinism and set forth many of the themes that undergirded his preaching through the Great Awakening.
 
@@ -6244,7 +6244,7 @@ J.E.
 
 [^020-note4]: For a detailed discussion of the changes, see *Works, 10*, 111–15.
 
-### The True Christian's Life a Journey Towards Heaven
+## The True Christian's Life a Journey Towards Heaven
 
 In this sermon, Edwards gently exhorts his listeners to forsake worldly attachments in pursuit of heaven. First delivered in September 1733, it may have been a funeral sermon, for it bears all the marks of that genre. It has a distinctly pastoral tone. The death of pious persons, Edwards preaches, should occasion not undue grief but rather reflection on the brevity of life in this world and the importance of self-sacrificial obedience in preparation for the afterlife.
 
@@ -6544,63 +6544,263 @@ All men that live any considerable time in the world see abundance that might co
 
 [^021-note23]: In revising for Boston, JE added "to obtain."
 
-### Appendix: Dated Batches of Sermons, 1730–1732, and Dated Sermons, January–December 1733 Dating by Thomas A. Schafer
+## Appendix: Dated Batches of Sermons, 1730–1732, and Dated Sermons, January–December 1733 Dating by Thomas A. Schafer
 
 The following list records the extant undated sermons that Edwards preached from January 1730 through December 1732, as well as sermons preached from January 1733, when he began dating his sermons, to December 1733, the end of the period covered by this volume. Undated sermons are listed according to approximate date of composition and the original Schafer number, followed by the title, if printed, or by the Scripture text, a statement of the doctrine, and any other relevant information, if unpublished. Within period groups, sermons are listed in canonical order. In some cases, more precise dating of a sermon consequent to its original numbering may be noted in its description. Sermon texts followed by an asterisk are printed in previous editions. Unless stated otherwise, the manuscript is in the Beinecke Rare Book and Manuscript Library, Yale University.
 
-Winter–Summer 1730Seven sermons (nos. 140, 147, 149, 152–54, and 158) are linked together by ink and are probably the earliest sermons in this group. 139. Numbers 14:22–23. "There is such a thing as men's going on to provoke God by their sins, till they have committed the last sin that God will bear with, before he as it were takes up a resolution that they never shall be saved." 140. Deuteronomy 23:35 (b). "Vengeance for sin properly belongs to God." 141. 2 Samuel 22:26–27. "God will deal with all men according to their own temper and practice." 142. 1 Kings 8:35–36. "If a people in a time of sore drought acknowledge God, and turn from their sins which procure this judgment, and go to God through Christ by prayer and supplication; 'tis the way for them both to obtain the temporal blessing they need, and also to
+### Winter–Summer 1730
+
+Seven sermons (nos. 140, 147, 149, 152–54, and 158) are linked together by ink and are probably the earliest sermons in this group.
+
+139. Numbers 14:22–23. "There is such a thing as men's going on to provoke God by their sins, till they have committed the last sin that God will bear with, before he as it were takes up a resolution that they never shall be saved."
+
+140. Deuteronomy 23:35 (b). "Vengeance for sin properly belongs to God."
+
+141. 2 Samuel 22:26–27. "God will deal with all men according to their own temper and practice."
+
+142. 1 Kings 8:35–36. "If a people in a time of sore drought acknowledge God, and turn from their sins which procure this judgment, and go to God through Christ by prayer and supplication; 'tis the way for them both to obtain the temporal blessing they need, and also to
 
 <!-- p. 448 -->
 
- obtain great spiritual blessings that are far better." Doctrine from a later preaching.There are no watermarks in this sermon, but chain line spacing, ink, and hand require its location here. As the sermon was originally written, the text functioned as the doctrine, on which JE made eight observations. When he preached the sermon again in 1749, he attached a slip of paper with a doctrine summarizing the observations. Probably a fast sermon. 143. Job 36:22. "There is none teaches like God." 144. Psalms 10:6. "Wicked men ben't apt to be sensible but that it will always be with them as it is now."This sermon lacks a cm but has been distinguished from the London/GR sermons by the chain line positions. 145. *Practical Atheism* (Psalms 14:1[a]). 146. Psalms 119:2. "The way to receive the blessed fruits of religion, is to practice it with our whole hearts." 147. Isaiah 5:20. "The putting evil for good and good for evil in affairs of religion and the concerns of our souls, is a thing of a very fatal tendency." 148. Isaiah 33:14(a). "Wicked men cannot bear the misery of damnation." 149. Habakkuk 2:4. "The saints do live by faith." 150. *The Pure in Heart Blessed* (Matthew 5:8[a]).∗ Dwight ed., *8*, 280–304. 151. Matthew 5:13. "The church of God is in this depraved and corrupted world as the salt that preserves it from utter ruin." 152. Mark 9:44. "The torments of hell will be eternal." 153. Romans 4:16. "The grace of God in the new covenant eminently appears in that, that it proposes justification only by faith." 154. Romans 7:14. "Men as they are by nature are perfect slaves to corruption; or, they are entirely under the dominion of sin." 155. Romans 9:22(a). "It is one design that God has upon his heart, to show how terrible his wrath is." 156. 1 Corinthians 10:16(a). "The thing designed in the sacrament of the Lord's Supper, is the communion of Christians in the body and blood of Christ." Sacrament sermon. 157. 1 Corinthians 10:22. "They that are so daring as to provoke God to jealousy, would do well to consider whether their strength be sufficient to oppose to his." 158. Philippians 3:11. "'Tis no matter what we go through in order to get salvation, so that we do but obtain it at last." 159. *Envious Men* (James 3:16). Sacrament sermon, probably Aug. 9, 1730. 160. *The Dangers of Decline* (Revelation 2:4–5). Election sermon, probably May 27, 1730.
+ obtain great spiritual blessings that are far better." Doctrine from a later preaching.There are no watermarks in this sermon, but chain line spacing, ink, and hand require its location here. As the sermon was originally written, the text functioned as the doctrine, on which JE made eight observations. When he preached the sermon again in 1749, he attached a slip of paper with a doctrine summarizing the observations. Probably a fast sermon.
+
+143. Job 36:22. "There is none teaches like God."
+
+144. Psalms 10:6. "Wicked men ben't apt to be sensible but that it will always be with them as it is now."This sermon lacks a cm but has been distinguished from the London/GR sermons by the chain line positions.
+
+145. *Practical Atheism* (Psalms 14:1[a]).
+
+146. Psalms 119:2. "The way to receive the blessed fruits of religion, is to practice it with our whole hearts."
+
+147. Isaiah 5:20. "The putting evil for good and good for evil in affairs of religion and the concerns of our souls, is a thing of a very fatal tendency."
+
+148. Isaiah 33:14(a). "Wicked men cannot bear the misery of damnation."
+
+149. Habakkuk 2:4. "The saints do live by faith."
+
+150. *The Pure in Heart Blessed* (Matthew 5:8[a]).∗ Dwight ed., *8*, 280–304.
+
+151. Matthew 5:13. "The church of God is in this depraved and corrupted world as the salt that preserves it from utter ruin."
+
+152. Mark 9:44. "The torments of hell will be eternal."
+
+153. Romans 4:16. "The grace of God in the new covenant eminently appears in that, that it proposes justification only by faith."
+
+154. Romans 7:14. "Men as they are by nature are perfect slaves to corruption; or, they are entirely under the dominion of sin."
+
+155. Romans 9:22(a). "It is one design that God has upon his heart, to show how terrible his wrath is."
+
+156. 1 Corinthians 10:16(a). "The thing designed in the sacrament of the Lord's Supper, is the communion of Christians in the body and blood of Christ." Sacrament sermon.
+
+157. 1 Corinthians 10:22. "They that are so daring as to provoke God to jealousy, would do well to consider whether their strength be sufficient to oppose to his."
+
+158. Philippians 3:11. "'Tis no matter what we go through in order to get salvation, so that we do but obtain it at last."
+
+159. *Envious Men* (James 3:16). Sacrament sermon, probably Aug. 9, 1730.
+
+160. *The Dangers of Decline* (Revelation 2:4–5). Election sermon, probably May 27, 1730.
 
 <!-- p. 449 -->
 
-Fall 1730Sermons in this batch are written on paper with either a London/IV or an English/GRwr watermark. 161. *Honey from the Rock* (Deuteronomy 32:13). 162. *God Makes Men Sensible of Their Misery Before He Reveals His Mercy and Love* (Hosea 5:15[a]).∗ Dwight ed., *8*, 44–63.This sermon contains three double leaves constituting a half sheet bearing a London Wm. Though the mark is not identical with that on the rest of the London/IV paper, the sheet may have come with that batch, and the ink is compatible with this location of the sermon. But the possibility must be kept open that JE wrote it later, in fall 1730 or spring 1731. 163. John 1:14(a). "Our Lord Jesus Christ is full of grace and truth." Two sermons in separate booklets; the first on "truth," the second on "grace." 164. 1 Peter 5:8. "The devil is exceeding great in his endeavors for the destruction of men's souls." MS at Franklin Trask Library, Andover Newton Theological School, Newton Centre, Massachusetts.
+### Fall 1730
 
-Fall 1730–Spring 1731Sermons in this batch are written on paper with an English/GRwr watermark. 165. Numbers 14:21. "The glory and honor of God requires that his displeasure be manifested against sin." Fast day, Mar. 25, 1731 (according to auditor's notes, Hawley Papers, New York Public Library). 166. 2 Chronicles 32:35. "God expects of us, that we should show our thankfulness for our mercies by our deeds." Thanksgiving sermon, Nov. 12, 1730. 167. Job 33:6–7. "'Tis a most desirable thing in our circumstances, to have a Mediator between God and us in our own nature, 〈one that is flesh, that is formed out of the clay as we are〉."JE added the words in angle brackets to the doctrine while writing the second sub-head under the third division of the doctrinal section; the earlier parts of the sermon presuppose the shorter form of the doctrine. 168. Psalms 73:18–19. "Those that are in a natural condition have reason to be always in fear of being destroyed." 169. Proverbs 19:21. "However men may project about many things, yet there is never nothing cometh to pass but what God determines." Not extant; probably preached Mar. 21 (p.m.), according to auditor's notes. 170. Ecclesiastes 2:26. "1. 'Tis to the godly alone that God gives wisdom and understanding to know how to use the worldly good things they possess, and ['tis the godly alone] that he enables truly to enjoy the comfort of them. 2. God gives wicked men the travail and vexation
+Sermons in this batch are written on paper with either a London/IV or an English/GRwr watermark.
+
+161. *Honey from the Rock* (Deuteronomy 32:13).
+
+162. *God Makes Men Sensible of Their Misery Before He Reveals His Mercy and Love* (Hosea 5:15[a]).∗ Dwight ed., *8*, 44–63.This sermon contains three double leaves constituting a half sheet bearing a London Wm. Though the mark is not identical with that on the rest of the London/IV paper, the sheet may have come with that batch, and the ink is compatible with this location of the sermon. But the possibility must be kept open that JE wrote it later, in fall 1730 or spring 1731.
+
+163. John 1:14(a). "Our Lord Jesus Christ is full of grace and truth." Two sermons in separate booklets; the first on "truth," the second on "grace."
+
+164. 1 Peter 5:8. "The devil is exceeding great in his endeavors for the destruction of men's souls." MS at Franklin Trask Library, Andover Newton Theological School, Newton Centre, Massachusetts.
+
+### Fall 1730–Spring 1731
+
+Sermons in this batch are written on paper with an English/GRwr watermark.
+
+165. Numbers 14:21. "The glory and honor of God requires that his displeasure be manifested against sin." Fast day, Mar. 25, 1731 (according to auditor's notes, Hawley Papers, New York Public Library).
+
+166. 2 Chronicles 32:35. "God expects of us, that we should show our thankfulness for our mercies by our deeds." Thanksgiving sermon, Nov. 12, 1730.
+
+167. Job 33:6–7. "'Tis a most desirable thing in our circumstances, to have a Mediator between God and us in our own nature, 〈one that is flesh, that is formed out of the clay as we are〉."JE added the words in angle brackets to the doctrine while writing the second sub-head under the third division of the doctrinal section; the earlier parts of the sermon presuppose the shorter form of the doctrine.
+
+168. Psalms 73:18–19. "Those that are in a natural condition have reason to be always in fear of being destroyed."
+
+169. Proverbs 19:21. "However men may project about many things, yet there is never nothing cometh to pass but what God determines." Not extant; probably preached Mar. 21 (p.m.), according to auditor's notes.
+
+170. Ecclesiastes 2:26. "1. 'Tis to the godly alone that God gives wisdom and understanding to know how to use the worldly good things they possess, and ['tis the godly alone] that he enables truly to enjoy the comfort of them. 2. God gives wicked men the travail and vexation
 
 <!-- p. 450 -->
 
- of gathering and heaping [up] worldly good things, but 'tis not for their own but the godly's benefit." Trask Library. 171. Ecclesiastes 12:7.† "When a man dies, his soul goes to God who gave it."Sermons in this group marked with a dagger have no cm but have been distinguished from the following English/GR group by the spacing of the chain lines in the paper. 172. Jeremiah 17:9. "The heart of man is exceeding deceitful." Probably Mar. 28, 1731 (auditor's notes). 173. *Stupid as Stones* (Ezekiel 3:27).† 174. Micah 3:11. "A pretense of trusting Christ is a vain pretense, as long as men live wicked lives." 175. Zechariah 11:8. "There is a mutual loathing and abhorrence between God and wicked men." 176. Matthew 7:21. "1. Not everyone that saith unto Christ, Lord, Lord, shall enter {into the kingdom of heaven}. 2. He that doth the will of God, he shall enter into the kingdom of heaven; or, he that keeps God's commandments ('tis the preceptive will of God that is spoken of)." 177. Matthew 11:12(a). "They that go to heaven are those that are set to obtain the kingdom of heaven." Preached May 2, 1731 (auditor's notes). 178. Matthew 11:29(a). "They that do truly come to Christ, they at the same time take Christ's yoke upon them." 179. Luke 6:24. "All the pleasure or comfort that ever wicked men are to have, they have in this life." Probably early Apr. 1731 (auditor's notes). 180. John 1:16. "1. Believers do receive of Christ, of the benefits he himself hath, and do partake with him therein. 2. There is every grace in the heart of a believer, which there is in Jesus Christ himself." 181. *Born Again* (John 3:3). 182. Acts 8:22. "Particular repentance is necessary to salvation." 183. Romans 9:31–32. "It's of fatal consequence to men's souls, for 'em to trust in their own righteousness." 184. *God Glorified in Man's Dependence* (1 Corinthians 1:29–31).∗ Preached in Northampton in the fall of 1730; delivered with revisions at Boston on July 8, 1731, and published there the same year. Worcester rev. ed., *4*, 169–78. 185. *Self-Examination and the Lord's Supper* (1 Corinthians 11:28–29). Sacrament sermon, probably Mar. 21, 1731 (auditor's notes).
+ of gathering and heaping [up] worldly good things, but 'tis not for their own but the godly's benefit." Trask Library.
+
+171. Ecclesiastes 12:7.† "When a man dies, his soul goes to God who gave it."Sermons in this group marked with a dagger have no cm but have been distinguished from the following English/GR group by the spacing of the chain lines in the paper.
+
+172. Jeremiah 17:9. "The heart of man is exceeding deceitful." Probably Mar. 28, 1731 (auditor's notes).
+
+173. *Stupid as Stones* (Ezekiel 3:27).†
+
+174. Micah 3:11. "A pretense of trusting Christ is a vain pretense, as long as men live wicked lives."
+
+175. Zechariah 11:8. "There is a mutual loathing and abhorrence between God and wicked men."
+
+176. Matthew 7:21. "1. Not everyone that saith unto Christ, Lord, Lord, shall enter {into the kingdom of heaven}. 2. He that doth the will of God, he shall enter into the kingdom of heaven; or, he that keeps God's commandments ('tis the preceptive will of God that is spoken of)."
+
+177. Matthew 11:12(a). "They that go to heaven are those that are set to obtain the kingdom of heaven." Preached May 2, 1731 (auditor's notes).
+
+178. Matthew 11:29(a). "They that do truly come to Christ, they at the same time take Christ's yoke upon them."
+
+179. Luke 6:24. "All the pleasure or comfort that ever wicked men are to have, they have in this life." Probably early Apr. 1731 (auditor's notes).
+
+180. John 1:16. "1. Believers do receive of Christ, of the benefits he himself hath, and do partake with him therein. 2. There is every grace in the heart of a believer, which there is in Jesus Christ himself."
+
+181. *Born Again* (John 3:3).
+
+182. Acts 8:22. "Particular repentance is necessary to salvation."
+
+183. Romans 9:31–32. "It's of fatal consequence to men's souls, for 'em to trust in their own righteousness."
+
+184. *God Glorified in Man's Dependence* (1 Corinthians 1:29–31).∗ Preached in Northampton in the fall of 1730; delivered with revisions at Boston on July 8, 1731, and published there the same year. Worcester rev. ed., *4*, 169–78.
+
+185. *Self-Examination and the Lord's Supper* (1 Corinthians 11:28–29). Sacrament sermon, probably Mar. 21, 1731 (auditor's notes).
 
 <!-- p. 451 -->
 
- 186. *The Perpetuity and Change of the Sabbath* (1 Corinthians 16:1–2).∗ Jonathan Edwards, Jr., *Sermons on the Following Subjects* (Hartford, 1780); Worcester rev. ed., *4*, 616–37. 187. *Serving God in Heaven* (Revelation 22:3). Mar. 14, 1731 (auditor's notes).
+186. *The Perpetuity and Change of the Sabbath* (1 Corinthians 16:1–2).∗ Jonathan Edwards, Jr., *Sermons on the Following Subjects* (Hartford, 1780); Worcester rev. ed., *4*, 616–37. 187. *Serving God in Heaven* (Revelation 22:3). Mar. 14, 1731 (auditor's notes).
 
-May–June 1731Paper in sermons from this period are English/GRwr, Maid of Dort/CAW, and odd pieces. 188. Ecclesiastes 7:8. "'Tis what is more to be regarded how things will be in their end and issue, than how they begin." 189. Luke 11:27–28. "The hearing and keeping the word of God renders a person more blessed than any other privilege that ever God bestowed on any of the children of men." Octavo. 190. John 15:10. "Jesus Christ kept all his Father's commandments." 191. Romans 5:7–8. "There never was any love that could be paralleled with the dying love of Christ." Edwards removed the Application and incorporated it into the May 1737 sermon on 2 Corinthians 9:15. 192. *Christians a Chosen Generation* (1 Peter 2:9).∗ Dwight ed., *8*, 379–417. 193. 1 John 3:9. "Grace is in the hearts of the saints, in this world, as a seed."
+### May–June 1731
 
-July–August 1731Of the sermons in this batch, no. 198 is composed wholly of a discarded "Notes on Scripture" index (three double leaves), the much longer no. 197 is mostly from the index, no. 196 contains two double leaves of index paper to eleven of English/GR, and nos. 194 and 195 are wholly English/GR except for a piece of index paper at the end of each. 194. *East of Eden* (Genesis 3:24). Possibly a lecture. 195. Psalms 108:4. "God is a Being of transcendent mercy." 196. Luke 10:38–42. "1. The way to receive spiritual knowledge and wisdom, is to sit at Jesus' feet and hear his word. 2. The most acceptable way of showing respect to Christ, is to give hearty entertainment to his word. 3. Anxiousness and fullness of cares about the things of this world, is inconsistent with our minding the great concern of our souls as we ought to do." Three sermons. 197. Revelation 17:14. "1. Those that are Christ's and belonging to him, 'tis of God that they are so. 2. They that belong to Jesus Christ, they are faithful to Christ." 198. Revelation 22:17. "Nothing is required in order to having all the blessings of the gospel, but willingly receiving." Incomplete as extant; possibly uncompleted.
+Paper in sermons from this period are English/GRwr, Maid of Dort/CAW, and odd pieces.
+
+188. Ecclesiastes 7:8. "'Tis what is more to be regarded how things will be in their end and issue, than how they begin."
+
+189. Luke 11:27–28. "The hearing and keeping the word of God renders a person more blessed than any other privilege that ever God bestowed on any of the children of men." Octavo.
+
+190. John 15:10. "Jesus Christ kept all his Father's commandments."
+
+191. Romans 5:7–8. "There never was any love that could be paralleled with the dying love of Christ." Edwards removed the Application and incorporated it into the May 1737 sermon on 2 Corinthians 9:15.
+
+192. *Christians a Chosen Generation* (1 Peter 2:9).∗ Dwight ed., *8*, 379–417.
+
+193. 1 John 3:9. "Grace is in the hearts of the saints, in this world, as a seed."
+
+### July–August 1731
+
+Of the sermons in this batch, no. 198 is composed wholly of a discarded "Notes on Scripture" index (three double leaves), the much longer no. 197 is mostly from the index, no. 196 contains two double leaves of index paper to eleven of English/GR, and nos. 194 and 195 are wholly English/GR except for a piece of index paper at the end of each.
+
+194. *East of Eden* (Genesis 3:24). Possibly a lecture.
+
+195. Psalms 108:4. "God is a Being of transcendent mercy."
+
+196. Luke 10:38–42. "1. The way to receive spiritual knowledge and wisdom, is to sit at Jesus' feet and hear his word. 2. The most acceptable way of showing respect to Christ, is to give hearty entertainment to his word. 3. Anxiousness and fullness of cares about the things of this world, is inconsistent with our minding the great concern of our souls as we ought to do." Three sermons.
+
+197. Revelation 17:14. "1. Those that are Christ's and belonging to him, 'tis of God that they are so. 2. They that belong to Jesus Christ, they are faithful to Christ."
+
+198. Revelation 22:17. "Nothing is required in order to having all the blessings of the gospel, but willingly receiving." Incomplete as extant; possibly uncompleted.
 
 <!-- p. 452 -->
 
-August 1731–December 1732Sermons in this batch are written on paper with an English/GR watermark. 199. Genesis 4:7.† "Wicked men's sins lie at their door."Sermons in this batch marked with a dagger have no cm but are distinguished from the preceding English/GRwr by the spacing of the chain lines. 200. Genesis 32:26–29. "The way to obtain the blessing of God, is not to let God go except he bless us." 201. Exodus 19:4. "God carries his people along through the world towards glory far above the reach of all their enemies, or anything that might hinder their blessedness." 202. Exodus 33:18–19. "God's goodness is that wherein his glory doth eminently appear to the children of men." Possibly a thanksgiving sermon. 203. 2 Kings 20:1–3. "When persons look death in the face, they stand in great need of clear evidences of their being at good terms with God." 204. Job 11:12. "Man is naturally a proud creature." 205. Job 18:15. "The wrath and curse of God attends all the concerns of some men." 206. Psalms 78:25. "Those that spiritually partake of Christ, they eat angels' food." Probably a sacrament sermon. 207. Psalms 94:12(a). "He is a happy man, though an afflicted one, whom God chastens and teaches out of his Word." Edwards titled this "For bid lecture." 208. Proverbs 8:34. "The way to obtain grace, is daily to wait upon God for it in the use [of] the means of his appointment." 209. Proverbs 14:14. "They that set out in religion and go back again, shall have enough of the fruits of it to make them bitterly repent it." 210. Proverbs 16:4.† "Wicked men answer the end of their creation no other way but in their suffering." 211. Proverbs 26:11. "Wicked men, though for a while they may seem to forsake their sins; yet if their natures are not changed, they will be very liable to return to them again." 212. *The State of Public Affairs* (Proverbs 28:2). Possibly for an election or for a fast day to commemorate the death of a public leader. 213. Proverbs 28:13. "God stands ready to forgive every sinner, upon his heartily confessing and forsaking his sin." 214. Ecclesiastes 12:1(a).† "The time of youth is the best time to be improved to religious purposes."
+### August 1731–December 1732
+
+Sermons in this batch are written on paper with an English/GR watermark.
+
+199. Genesis 4:7.† "Wicked men's sins lie at their door."Sermons in this batch marked with a dagger have no cm but are distinguished from the preceding English/GRwr by the spacing of the chain lines.
+
+200. Genesis 32:26–29. "The way to obtain the blessing of God, is not to let God go except he bless us."
+
+201. Exodus 19:4. "God carries his people along through the world towards glory far above the reach of all their enemies, or anything that might hinder their blessedness."
+
+202. Exodus 33:18–19. "God's goodness is that wherein his glory doth eminently appear to the children of men." Possibly a thanksgiving sermon.
+
+203. 2 Kings 20:1–3. "When persons look death in the face, they stand in great need of clear evidences of their being at good terms with God."
+
+204. Job 11:12. "Man is naturally a proud creature."
+
+205. Job 18:15. "The wrath and curse of God attends all the concerns of some men."
+
+206. Psalms 78:25. "Those that spiritually partake of Christ, they eat angels' food." Probably a sacrament sermon.
+
+207. Psalms 94:12(a). "He is a happy man, though an afflicted one, whom God chastens and teaches out of his Word." Edwards titled this "For bid lecture."
+
+208. Proverbs 8:34. "The way to obtain grace, is daily to wait upon God for it in the use [of] the means of his appointment."
+
+209. Proverbs 14:14. "They that set out in religion and go back again, shall have enough of the fruits of it to make them bitterly repent it."
+
+210. Proverbs 16:4.† "Wicked men answer the end of their creation no other way but in their suffering."
+
+211. Proverbs 26:11. "Wicked men, though for a while they may seem to forsake their sins; yet if their natures are not changed, they will be very liable to return to them again."
+
+212. *The State of Public Affairs* (Proverbs 28:2). Possibly for an election or for a fast day to commemorate the death of a public leader.
+
+213. Proverbs 28:13. "God stands ready to forgive every sinner, upon his heartily confessing and forsaking his sin."
+
+214. Ecclesiastes 12:1(a).† "The time of youth is the best time to be improved to religious purposes."
 
 <!-- p. 453 -->
 
- 215. Isaiah 1:5. "There are some men that, whatever means are used with them, will only grow worse and worse." 216. Isaiah 53:10(a). "That Christ should see sinners converted and saved, was part of the reward that God promised him for his sufferings." 217. Jeremiah 5:31. "They that are going on in sin would do well to consider, what they shall do in the end thereof." 218. Jeremiah 6:4. "'Tis very sorrowful when 'tis late in the day with persons, and a work of great importance and difficulty remains undone, that must be done before the day be past." 219. Jeremiah 10:16. "1. God is his people's portion. 2. God's people are God's portion." Two sermons. 220. Ezekiel 7:10. Not extant; cited in "Miscellanies" no. 588 on the "eternity of hell punishment, the justice and suitableness of it." 221. Ezekiel 16:5–6. "Man never would have had any pity from anyone, in the miserable state into which he fell, if God had not pitied him." 222. Ezekiel 23:37–39.∗ "When they that attend ordinances of divine worship allow themselves in known wickedness, they are guilty of dreadfully profaning and polluting those ordinances." Probably a sacrament sermon. Worcester rev. ed., *4*, 525–39. 223. Daniel 5:5–6. "Guilt is a thing that is sufficient to ruin sensual pleasures." 224. Hosea 11:9. "'Tis well for us, that God is not as we are." 225. Zechariah 7:5–6. "No religion is acceptable to God but that which is done from a true respect to him." 226. Zechariah 8:23. "It is what may well make us willing and desirous to go with God's people, that God is with them." 227. Matthew 5:4(a).† "Mourning is the way to true comfort." 228. Matthew 5:29. "Wicked men shall go to hell." 229. Matthew 5:44. "Men ought to love their enemies." 230. Matthew 10:17. "The nature of man is so corrupted, that he is become a very evil and hurtful creature." 231. Matthew 11:6. "They are blessed persons, that hear the gospel of Christ and are not offended in him." 232. Matthew 11:21. "Sinners under means of grace are ordinarily more hardened in sin than the heathen." 233. Matthew 11:29(b). "We ought to follow Christ's example." 234. Matthew 16:21–23. "It was a thing exceeding offensive to Christ, to hear anything said against enduring those great sufferings which he came into the world to undergo."
+215. Isaiah 1:5. "There are some men that, whatever means are used with them, will only grow worse and worse." 216. Isaiah 53:10(a). "That Christ should see sinners converted and saved, was part of the reward that God promised him for his sufferings." 217. Jeremiah 5:31. "They that are going on in sin would do well to consider, what they shall do in the end thereof." 218. Jeremiah 6:4. "'Tis very sorrowful when 'tis late in the day with persons, and a work of great importance and difficulty remains undone, that must be done before the day be past." 219. Jeremiah 10:16. "1. God is his people's portion. 2. God's people are God's portion." Two sermons. 220. Ezekiel 7:10. Not extant; cited in "Miscellanies" no. 588 on the "eternity of hell punishment, the justice and suitableness of it." 221. Ezekiel 16:5–6. "Man never would have had any pity from anyone, in the miserable state into which he fell, if God had not pitied him." 222. Ezekiel 23:37–39.∗ "When they that attend ordinances of divine worship allow themselves in known wickedness, they are guilty of dreadfully profaning and polluting those ordinances." Probably a sacrament sermon. Worcester rev. ed., *4*, 525–39. 223. Daniel 5:5–6. "Guilt is a thing that is sufficient to ruin sensual pleasures." 224. Hosea 11:9. "'Tis well for us, that God is not as we are." 225. Zechariah 7:5–6. "No religion is acceptable to God but that which is done from a true respect to him." 226. Zechariah 8:23. "It is what may well make us willing and desirous to go with God's people, that God is with them." 227. Matthew 5:4(a).† "Mourning is the way to true comfort." 228. Matthew 5:29. "Wicked men shall go to hell." 229. Matthew 5:44. "Men ought to love their enemies." 230. Matthew 10:17. "The nature of man is so corrupted, that he is become a very evil and hurtful creature." 231. Matthew 11:6. "They are blessed persons, that hear the gospel of Christ and are not offended in him." 232. Matthew 11:21. "Sinners under means of grace are ordinarily more hardened in sin than the heathen." 233. Matthew 11:29(b). "We ought to follow Christ's example." 234. Matthew 16:21–23. "It was a thing exceeding offensive to Christ, to hear anything said against enduring those great sufferings which he came into the world to undergo."
 
 <!-- p. 454 -->
 
- 235. Matthew 22:14. "There are but few, even of those that live under the calls of the gospel, that shall be saved." Only the first double leaf is extant. 236. Matthew 25:8. "1. The religion of hypocrites is not of a durable nature. 2. When Christ comes, wicked men's hopes of salvation, and seeming evidences of conviction, will at once totally vanish and disappear." 237. Luke 6:35. "God is kind to the unthankful and to the evil." 238. Luke 9:18. "True Christians differ from all the world in their thoughts of Jesus Christ." 239. Luke 10:2. "1. The character under which God is here spoken of, viz. the Lord of the harvest. 2. The duty here directed to, viz. to pray that God would send forth laborers into his harvest." Preached to a congregation without a pastor. 240. Luke 10:42(a). "1. Grace is the one thing needful. 2. True grace is the good part… 3. Grace differs from all worldly enjoyments in this, that it is a portion that never shall be taken away from those that do possess [it]." 241. Luke 12:4–5. "1. The worst evils that the power of men can inflict, are as nothing in comparison of damnation. 2. 'Tis a thing of great importance, that persons be thoroughly possessed with a dread of the wrath and vengeance of God." 242. Luke 13:7. Not extant; the Application is cited in "Miscellanies" no. 564 as giving "reasons why hell is the fittest place for wicked men." 243. Luke 13:28–29. "Wicked men will hereafter have this to aggravate their woe, that they shall see many of all kinds and nations admitted into glory, when they themselves are thrust out." 244. Luke 16:25(a). "Wicked men in hell will remember how things were with them here in this world." 245. Luke 16:25(b). "The wicked in hell will be sensible what a happy state the saints are in in heaven." This and no. 244 are now in separate booklets but were preached on the same day. 246. Luke 22:31. "Christ's intercession is that which will effectually secure believers from ever totally and finally falling away from grace." 247. Acts 8:8.† "'Tis a blessed time amongst a people, when it is a time of the pouring out of God's Spirit upon them." 248. Romans 2:5(a). "Unawakened and impenitent sinners do heap up to themselves wrath against the day of wrath, as men are wont to heap up treasures." 249. Romans 3:13–18. "The nature of man in his fallen state is utterly and universally corrupt."
+235. Matthew 22:14. "There are but few, even of those that live under the calls of the gospel, that shall be saved." Only the first double leaf is extant. 236. Matthew 25:8. "1. The religion of hypocrites is not of a durable nature. 2. When Christ comes, wicked men's hopes of salvation, and seeming evidences of conviction, will at once totally vanish and disappear." 237. Luke 6:35. "God is kind to the unthankful and to the evil." 238. Luke 9:18. "True Christians differ from all the world in their thoughts of Jesus Christ." 239. Luke 10:2. "1. The character under which God is here spoken of, viz. the Lord of the harvest. 2. The duty here directed to, viz. to pray that God would send forth laborers into his harvest." Preached to a congregation without a pastor. 240. Luke 10:42(a). "1. Grace is the one thing needful. 2. True grace is the good part… 3. Grace differs from all worldly enjoyments in this, that it is a portion that never shall be taken away from those that do possess [it]." 241. Luke 12:4–5. "1. The worst evils that the power of men can inflict, are as nothing in comparison of damnation. 2. 'Tis a thing of great importance, that persons be thoroughly possessed with a dread of the wrath and vengeance of God." 242. Luke 13:7. Not extant; the Application is cited in "Miscellanies" no. 564 as giving "reasons why hell is the fittest place for wicked men." 243. Luke 13:28–29. "Wicked men will hereafter have this to aggravate their woe, that they shall see many of all kinds and nations admitted into glory, when they themselves are thrust out." 244. Luke 16:25(a). "Wicked men in hell will remember how things were with them here in this world." 245. Luke 16:25(b). "The wicked in hell will be sensible what a happy state the saints are in in heaven." This and no. 244 are now in separate booklets but were preached on the same day. 246. Luke 22:31. "Christ's intercession is that which will effectually secure believers from ever totally and finally falling away from grace." 247. Acts 8:8.† "'Tis a blessed time amongst a people, when it is a time of the pouring out of God's Spirit upon them." 248. Romans 2:5(a). "Unawakened and impenitent sinners do heap up to themselves wrath against the day of wrath, as men are wont to heap up treasures." 249. Romans 3:13–18. "The nature of man in his fallen state is utterly and universally corrupt."
 
 <!-- p. 455 -->
 
- 250. Romans 9:18.∗ "God doth exercise his sovereignty in the affair of men's eternal salvation." Dwight ed., *8*, 105–22. 251. 1 Corinthians 8:13. "We ought to be exceeding careful that we don't lead others into sin." 252. 1 Corinthians 10:8–11. "Those awful temporal destructions that we have an account of God's bringing on wicked men of old, are types and shadows of God's eternal judgments." 253. 1 Corinthians 15:34. "It is a matter of awful note and consideration, that there are some men that have not the knowledge of God." 254. Galatians 2:17. "The gospel is no encouragement to sin." 255. Colossians 2:13–15. "When a sinner is converted, then Jesus Christ triumphs over his enemy the devil." 256. Hebrews 12:2–3. "The redeeming love of Christ held out under great difficulties and discouragements." 257. Hebrews 12:29(a). "God is a consuming fire." 258. James 1:26. "Bridling the tongue is a great and essential part of religion." 259. James 2:19(a).† "The devils tremble at the thoughts of the wrath of God." 260. 1 Peter 1:13. "When persons are seeking God's grace and blessing in the way of his appointment, they ought to hope to the end for the bestowment of it." 261. 1 Peter 2:5. "The good works of the godly can't be accepted any other way, than in and through Christ." 262. Revelation 3:5(a). "He that overcomes in the spiritual warfare, Christ will confess his name before his Father and before his angels." 263. Revelation 5:12. "Christ was worthy of his exaltation upon the account of his being slain." 264. Revelation 6:15–16. "Wicked men will hereafter earnestly wish to be turned to nothing and forever cease to be, that they may escape the wrath of God." 265. Revelation 19:2–3. "'Tis not inconsistent with the attributes of God, to punish ungodly men with a misery that is eternal."
+250. Romans 9:18.∗ "God doth exercise his sovereignty in the affair of men's eternal salvation." Dwight ed., *8*, 105–22. 251. 1 Corinthians 8:13. "We ought to be exceeding careful that we don't lead others into sin." 252. 1 Corinthians 10:8–11. "Those awful temporal destructions that we have an account of God's bringing on wicked men of old, are types and shadows of God's eternal judgments." 253. 1 Corinthians 15:34. "It is a matter of awful note and consideration, that there are some men that have not the knowledge of God." 254. Galatians 2:17. "The gospel is no encouragement to sin." 255. Colossians 2:13–15. "When a sinner is converted, then Jesus Christ triumphs over his enemy the devil." 256. Hebrews 12:2–3. "The redeeming love of Christ held out under great difficulties and discouragements." 257. Hebrews 12:29(a). "God is a consuming fire." 258. James 1:26. "Bridling the tongue is a great and essential part of religion." 259. James 2:19(a).† "The devils tremble at the thoughts of the wrath of God." 260. 1 Peter 1:13. "When persons are seeking God's grace and blessing in the way of his appointment, they ought to hope to the end for the bestowment of it." 261. 1 Peter 2:5. "The good works of the godly can't be accepted any other way, than in and through Christ." 262. Revelation 3:5(a). "He that overcomes in the spiritual warfare, Christ will confess his name before his Father and before his angels." 263. Revelation 5:12. "Christ was worthy of his exaltation upon the account of his being slain." 264. Revelation 6:15–16. "Wicked men will hereafter earnestly wish to be turned to nothing and forever cease to be, that they may escape the wrath of God." 265. Revelation 19:2–3. "'Tis not inconsistent with the attributes of God, to punish ungodly men with a misery that is eternal."
 
-Undated Sermons: Printed Text Only 266. "Great Guilt No Obstacle to the Pardon of the Returning Sinner" (Psalms 25:11).∗ Worcester rev. ed., *4*, 422–28. 267. "The Vain Self-Flatteries of the Sinner" (Psalms 36:2).∗ Worcester rev. ed., *4*, 322–29. 268. "The Warnings of Scripture are in the Best Manner Adapted to the Awakening and Conversion of Sinners" (Luke 16:31).∗ Worcester rev. ed., *4*, 330–37.
+### Undated Sermons: Printed Text Only
+
+266. "Great Guilt No Obstacle to the Pardon of the Returning Sinner" (Psalms 25:11).∗ Worcester rev. ed., *4*, 422–28.
+
+267. "The Vain Self-Flatteries of the Sinner" (Psalms 36:2).∗ Worcester rev. ed., *4*, 322–29.
+
+268. "The Warnings of Scripture are in the Best Manner Adapted to the Awakening and Conversion of Sinners" (Luke 16:31).∗ Worcester rev. ed., *4*, 330–37.
 
 <!-- p. 456 -->
 
-Dated Sermons 269. *The Duty of Charity to the Poor* (Deuteronomy 15:7–11).∗ Jan. 1733. Possibly a contribution lecture. [John Erskine, ed.,] *Practical Sermons* (Edinburgh, 1788), 343–85; Dwight ed., *6*, 536–68. 270. 1 Corinthians 11:29. "The sacrament of the Lord's Supper is a very sacred ordinance." Jan. 1733. Two sermons. 271. 1 Samuel 1:27–28. "'Tis a reasonable and becoming thing that we should give those things to God and devote 'em to his service that we receive from him as the fruit of his goodness." Feb. 1733. 272. 1 Samuel 28:15. "Saul was a remarkable instance of the awful and doleful circumstances a man is in when left of God." Feb. 1733. 273. Ecclesiastes 4:5. "Many persons suffer the most extreme misery through slothful neglecting to seek their own good." Feb. 1733. Trask Library. 274. Job 20:11. "Many persons never get rid of the guilt of the sins of their youth, but it attends them to their graves and goes with them into eternity." Mar. 1733, to young people at a private meeting. 275. Psalms 51:17. "A broken heart is an acceptable sacrifice to God." Mar. 1733. Fast sermon. 276. Ephesians 3:10. "The wisdom appearing in the way of salvation by Jesus Christ is far above the wisdom of the angels." Mar. 1733. 277. Revelation 18:20. "When the saints in glory shall see the wrath of God executed on ungodly men, it will be no occasion of grief to 'em, but of rejoicing." Mar. 1733. 278. Matthew 5:27–28. "The law of God is exceedingly strict." Apr. 1733. 279. Matthew 13:22(b). "The world is commonly a great snare to the souls of men." Apr. 1733. 280. Ephesians 2:12. "When men are in a natural condition, they are without Christ and are alien from the commonwealth of Israel, and strangers from the covenant of promise, having [no] good ground of hope, and without God in the world." Apr. 1733. 281. James 1:13. "'Tis impossible that God should be under any temptation to do anything that is evil." Apr. 1733. Lecture. 282. Psalms 110:2. "Christ will rule in the midst of his enemies." May 1733. Lecture. 283. Canticles 2:3(a). "The true believer hath rest in Christ." May 1733. 284. Matthew 13:41–42. "The wicked hereafter will be cast into a furnace of fire." May 1733. 285. Hebrews 12:14. "None will ever be admitted to see Christ but only holy persons." May 1733.
+### Dated Sermons
+
+269. *The Duty of Charity to the Poor* (Deuteronomy 15:7–11).∗ Jan. 1733. Possibly a contribution lecture. [John Erskine, ed.,] *Practical Sermons* (Edinburgh, 1788), 343–85; Dwight ed., *6*, 536–68.
+
+270. 1 Corinthians 11:29. "The sacrament of the Lord's Supper is a very sacred ordinance." Jan. 1733. Two sermons.
+
+271. 1 Samuel 1:27–28. "'Tis a reasonable and becoming thing that we should give those things to God and devote 'em to his service that we receive from him as the fruit of his goodness." Feb. 1733.
+
+272. 1 Samuel 28:15. "Saul was a remarkable instance of the awful and doleful circumstances a man is in when left of God." Feb. 1733.
+
+273. Ecclesiastes 4:5. "Many persons suffer the most extreme misery through slothful neglecting to seek their own good." Feb. 1733. Trask Library.
+
+274. Job 20:11. "Many persons never get rid of the guilt of the sins of their youth, but it attends them to their graves and goes with them into eternity." Mar. 1733, to young people at a private meeting.
+
+275. Psalms 51:17. "A broken heart is an acceptable sacrifice to God." Mar. 1733. Fast sermon.
+
+276. Ephesians 3:10. "The wisdom appearing in the way of salvation by Jesus Christ is far above the wisdom of the angels." Mar. 1733.
+
+277. Revelation 18:20. "When the saints in glory shall see the wrath of God executed on ungodly men, it will be no occasion of grief to 'em, but of rejoicing." Mar. 1733.
+
+278. Matthew 5:27–28. "The law of God is exceedingly strict." Apr. 1733.
+
+279. Matthew 13:22(b). "The world is commonly a great snare to the souls of men." Apr. 1733.
+
+280. Ephesians 2:12. "When men are in a natural condition, they are without Christ and are alien from the commonwealth of Israel, and strangers from the covenant of promise, having [no] good ground of hope, and without God in the world." Apr. 1733.
+
+281. James 1:13. "'Tis impossible that God should be under any temptation to do anything that is evil." Apr. 1733. Lecture.
+
+282. Psalms 110:2. "Christ will rule in the midst of his enemies." May 1733. Lecture.
+
+283. Canticles 2:3(a). "The true believer hath rest in Christ." May 1733.
+
+284. Matthew 13:41–42. "The wicked hereafter will be cast into a furnace of fire." May 1733.
+
+285. Hebrews 12:14. "None will ever be admitted to see Christ but only holy persons." May 1733.
 
 <!-- p. 457 -->
 
- 286. John 5:43. "Man's heart is naturally wholly opposite to the gospel." June 1733. 287. Luke 22:30. "The saints shall hereafter as it were eat and drink with Christ at his table in his kingdom of glory." June 1733. Sacrament. Trask Library. 288. Canticles 1:3. "That Jesus Christ is a person transcendently excellent and lovely." June 1733, at Boston. Octavo. 289. Psalms 39:4. "It would be a thing that would tend much to men's spiritual profit and advantage if they would be much in considering their own mortality." July 1733. 290. Romans 12:17. "It becomes Christians in all things relating to their outward estates to live honestly with their neighbors." July 1733. 291. 2 Corinthians 4:18(a). "The things of the unseen world are eternal things." July 1733. Edwards noted that "This may be preached at new place." 292. John 14:23. "They that love and obey Christ, God and Christ will come to them and dwell with them." Aug. 1733. 293. Ephesians 4:19. "Some men's consciences are in a great measure past feeling." Aug. 1733. 294. 1 Corinthians 5:7. "Christ was represented by the lamb that was sacrificed at the Passover." Aug. 1733. Sacrament. 295. *A Divine and Supernatural Light* (Matthew 16:17).∗ Aug. 1733. Published in Boston, 1734. Worcester rev. ed., *4*, 438–50. 296. 1 Peter 2:8. "It would have been better for some persons if Christ never had come into the world to save sinners." Aug. 1733. 297. Psalms 139:23–24. "Persons should be much concerned to know, whether they do not live in some way of sin." Sept. 1733. 298. Daniel 6:23. "Faith renders those things that are most terrible in their own nature harmless to believers." Sept. 1733. 299. *The True Christian's Life a Journey Towards Heaven* (Hebrews 11:13–14).∗ Sept. 1733. Hopkins, *Life and Character of the late Reverend Mr. Jonathan Edwards* (Boston, 1765), 253–79; Worcester rev. ed., *4*, 573–84. 300. Jeremiah 8:11. "'Tis greatly to be desired that we should have a thorough and not only a slight and deceitful cure of our spiritual wound." Oct. 1733. 301. Matthew 28:9. "We ought to exercise the most dear, humble and adoring respect to the Lord Jesus Christ." Oct. 1733. 302. 2 Timothy 2:26. "Wicked men are the devil's captives." Oct. 1733. 303. Proverbs 27:22. "Folly is naturally so rooted and confirmed in men that
+286. John 5:43. "Man's heart is naturally wholly opposite to the gospel." June 1733. 287. Luke 22:30. "The saints shall hereafter as it were eat and drink with Christ at his table in his kingdom of glory." June 1733. Sacrament. Trask Library. 288. Canticles 1:3. "That Jesus Christ is a person transcendently excellent and lovely." June 1733, at Boston. Octavo. 289. Psalms 39:4. "It would be a thing that would tend much to men's spiritual profit and advantage if they would be much in considering their own mortality." July 1733. 290. Romans 12:17. "It becomes Christians in all things relating to their outward estates to live honestly with their neighbors." July 1733. 291. 2 Corinthians 4:18(a). "The things of the unseen world are eternal things." July 1733. Edwards noted that "This may be preached at new place." 292. John 14:23. "They that love and obey Christ, God and Christ will come to them and dwell with them." Aug. 1733. 293. Ephesians 4:19. "Some men's consciences are in a great measure past feeling." Aug. 1733. 294. 1 Corinthians 5:7. "Christ was represented by the lamb that was sacrificed at the Passover." Aug. 1733. Sacrament. 295. *A Divine and Supernatural Light* (Matthew 16:17).∗ Aug. 1733. Published in Boston, 1734. Worcester rev. ed., *4*, 438–50. 296. 1 Peter 2:8. "It would have been better for some persons if Christ never had come into the world to save sinners." Aug. 1733. 297. Psalms 139:23–24. "Persons should be much concerned to know, whether they do not live in some way of sin." Sept. 1733. 298. Daniel 6:23. "Faith renders those things that are most terrible in their own nature harmless to believers." Sept. 1733. 299. *The True Christian's Life a Journey Towards Heaven* (Hebrews 11:13–14).∗ Sept. 1733. Hopkins, *Life and Character of the late Reverend Mr. Jonathan Edwards* (Boston, 1765), 253–79; Worcester rev. ed., *4*, 573–84. 300. Jeremiah 8:11. "'Tis greatly to be desired that we should have a thorough and not only a slight and deceitful cure of our spiritual wound." Oct. 1733. 301. Matthew 28:9. "We ought to exercise the most dear, humble and adoring respect to the Lord Jesus Christ." Oct. 1733. 302. 2 Timothy 2:26. "Wicked men are the devil's captives." Oct. 1733. 303. Proverbs 27:22. "Folly is naturally so rooted and confirmed in men that
 
 <!-- p. 458 -->
 
- if God leaves them to themselves, let what will be done with them, they will not learn wisdom." Nov. 1733.
+if God leaves them to themselves, let what will be done with them, they will not learn wisdom." Nov. 1733.
 
 304. Micah 2:11. "If the business of ministers was the further gratification of men's lusts, they would be much better received by many than they are now." Nov. 1733.
 

@@ -367,6 +367,18 @@ def render(node, output, heading_count)
     end
     return heading_count
   end
+  if node.name == "span" && classes.include?("item")
+    # Appendix lists sometimes wrap a real heading and all following entries
+    # in one `span.item`. Flattening the wrapper would join the heading with
+    # its annotation and make the entire appendix look like one paragraph.
+    direct_heading = node.element_children.any? do |child|
+      child.name == "span" && child["class"].to_s.split.include?("head")
+    end
+    if direct_heading
+      node.children.each { |child| heading_count = render(child, output, heading_count) }
+      return heading_count
+    end
+  end
   if node.name == "span" && classes.any? { |klass| %w[item navhead navlevel1 navlevel2 navlevel3].include?(klass) }
     text = inline(node).strip
     append_paragraph(output, text) unless text.empty?
@@ -437,6 +449,18 @@ def expected_heading_level(text, navigation)
   level = navigation[key]
   return level unless level.nil?
 
+  # Volume 17's navigation shortens the appendix title by omitting the
+  # explicit January–December 1733 range preserved in the printed heading.
+  volume_17_appendix = heading_key(
+    "Appendix: Dated Batches of Sermons, 1730–1732, and Dated Sermons, " \
+    "Dating by Thomas A. Schafer"
+  )
+  volume_17_full_appendix = heading_key(
+    "Appendix: Dated Batches of Sermons, 1730–1732, and Dated Sermons, " \
+    "January–December 1733 Dating by Thomas A. Schafer"
+  )
+  return navigation[volume_17_appendix] if key == volume_17_full_appendix
+
   # The source navigation has two inconsistent depths: Part III is shown as a
   # child of Part II, and Part IV's first section as a grandchild.  The text
   # itself makes their sibling relationships unambiguous.
@@ -449,9 +473,10 @@ end
 
 def apply_heading_hierarchy(markdown, entries)
   markdown = markdown.lstrip
-  navigation = entries.each_with_object({}) do |(depth, text), index|
-    index[heading_key(text)] = depth + 1
+  navigation_sequences = entries.each_with_object(Hash.new { |hash, key| hash[key] = [] }) do |(depth, text), index|
+    index[heading_key(text)] << depth + 1
   end
+  navigation = navigation_sequences.transform_values(&:last)
 
   # Correct the two malformed navigation levels noted above and retain the
   # natural document hierarchy for sections and subtopics.
@@ -491,6 +516,40 @@ def apply_heading_hierarchy(markdown, entries)
   end
   markdown = merged.join
 
+  # A title can legitimately occur at several navigation depths, for example
+  # once as the sermon (H2) and again as its opening textual section (H3).
+  # Use the ordered navigation levels only when all non-title occurrences are
+  # present; otherwise retain the established last-level fallback for partial
+  # or malformed captures.
+  candidate_counts = Hash.new(0)
+  markdown.each_line do |line|
+    next if line.lstrip.start_with?("|")
+
+    match = line.match(/\A#+\s+(.+?)\s*\n?\z/)
+    next if match && line.start_with?("# ")
+
+    text = match ? match[1] : line.strip
+    next if text.empty? || text.match?(/\A\[\^[^\]]+\]:/)
+
+    key = heading_key(text)
+    candidate_counts[key] += 1 if navigation_sequences.key?(key)
+  end
+  sequenced_levels = navigation_sequences.each_with_object({}) do |(key, levels), selected|
+    selected[key] = levels if levels.uniq.length > 1 && candidate_counts[key] == levels.length
+  end
+  sequence_positions = Hash.new(0)
+  resolve_level = lambda do |text|
+    key = heading_key(text)
+    levels = sequenced_levels[key]
+    if levels
+      position = sequence_positions[key]
+      sequence_positions[key] += 1
+      levels[position]
+    else
+      expected_heading_level(text, navigation)
+    end
+  end
+
   markdown = markdown.lines.map do |line|
     next line if line.lstrip.start_with?("|")
 
@@ -498,13 +557,13 @@ def apply_heading_hierarchy(markdown, entries)
     if match
       next line if line.start_with?("# ")
 
-      level = expected_heading_level(match[1], navigation)
+      level = resolve_level.call(match[1])
       level ? "#{'#' * level} #{match[1]}\n" : line
     else
       text = line.strip
       next line if text.match?(/\A\[\^[^\]]+\]:/)
 
-      level = expected_heading_level(text, navigation)
+      level = resolve_level.call(text)
       level && !text.empty? ? "#{'#' * level} #{text}\n" : line
     end
   end.join
@@ -535,6 +594,10 @@ def apply_heading_hierarchy(markdown, entries)
   unless contents.empty?
     if markdown.match?(/^### CONTENTS$/)
       markdown.sub!(/^### CONTENTS\n\n/, "### CONTENTS\n\n#{contents}\n\n")
+    elsif markdown.match?(/^### Contents$/)
+      # The printed contents are already present. Do not prepend a second,
+      # navigation-derived contents block when a newly corrected H2 makes the
+      # first main section discoverable by the fallback below.
     elsif markdown.match?(/^## Front Matter$/)
       markdown.sub!(/^## Front Matter\n/, "## Front Matter\n\n### CONTENTS\n\n#{contents}\n\n")
     else
