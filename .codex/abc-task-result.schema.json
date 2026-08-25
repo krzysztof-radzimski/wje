@@ -1,0 +1,96 @@
+{
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "completed": {
+      "type": "boolean"
+    },
+    "summary": {
+      "type": "string"
+    },
+    "result": {
+      "type": "string"
+    },
+    "errorMessage": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "issues": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "recommendations": {
+      "type": [
+        "array",
+        "null"
+      ],
+      "items": {
+        "$ref": "#/$defs/suggestedTask"
+      }
+    },
+    "suggestedTasks": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/suggestedTask"
+      }
+    }
+  },
+  "required": [
+    "completed",
+    "summary",
+    "result",
+    "errorMessage",
+    "issues",
+    "recommendations",
+    "suggestedTasks"
+  ],
+  "$defs": {
+    "suggestedTask": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "title": {
+          "type": "string"
+        },
+        "description": {
+          "type": "string"
+        },
+        "priority": {
+          "type": "integer",
+          "enum": [
+            0,
+            1,
+            2
+          ]
+        },
+        "rationale": {
+          "type": "string"
+        },
+        "relatedToTaskId": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "differentBecause": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      },
+      "required": [
+        "title",
+        "description",
+        "priority",
+        "rationale",
+        "relatedToTaskId",
+        "differentBecause"
+      ]
+    }
+  }
+}

@@ -3,3 +3,6 @@
 
 # Lokalna konfiguracja integracji code-architect
 .mcp.json
+
+# Zależności lokalnego narzędzia archiwizującego
+node_modules/

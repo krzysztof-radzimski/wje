@@ -1,0 +1,12 @@
+{
+  "name": "wje-local-tools",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test",
+    "archive:smoke": "node scripts/archive_yale_volume.mjs --smoke-test"
+  },
+  "dependencies": {
+    "playwright-core": "1.62.1"
+  }
+}
