@@ -3,15 +3,18 @@ import { mkdtemp, mkdir, readFile, readdir, writeFile } from "node:fs/promises";
 import os from "node:os";
 import path from "node:path";
 import test from "node:test";
-import { runPreflight } from "../scripts/lib/archive_preflight.mjs";
+import { EDGE_EXECUTABLE_PATH, runPreflight } from "../scripts/lib/archive_preflight.mjs";
 import {
+  assertArchiveDestinationSafe,
+  assertRawTargetAbsent,
   discoverTopLevelSections,
   localStem,
   resumeDecision,
+  validateArchiveOptions,
   volumeName,
 } from "../scripts/lib/yale_archive_core.mjs";
 
-test("odkrywa tylko navlevel1, zachowuje kolejność i usuwa duplikaty URL", () => {
+test("odkrywa sekcje w kolejności spisu, numeruje je i usuwa duplikaty URL", () => {
   const html = `
     <span class="navlevel1"><a href="/archive?path=second">Druga w URL, pierwsza w tomie</a></span>
     <span class="navlevel2"><a href="/archive?path=child">Podsekcja</a></span>
@@ -34,8 +37,10 @@ test("odkrywa tylko navlevel1, zachowuje kolejność i usuwa duplikaty URL", () 
   ]);
 });
 
-test("grupuje potomne odnośniki Yale do nadrzędnych sekcji bez sortowania numerów", () => {
-  const encoded = (object) => Buffer.from(`http://edwards.yale.edu/cgi-bin/newphilo/getobject.pl?${object}`, "utf8").toString("base64");
+test("grupuje potomne odnośniki Yale bez sortowania po numerach URL", () => {
+  const encoded = (object) => Buffer
+    .from(`http://edwards.yale.edu/cgi-bin/newphilo/getobject.pl?${object}`, "utf8")
+    .toString("base64");
   const html = `
     <span class="navlevel2"><a href="https://edwards.yale.edu/archive?path=${encoded("c.0:7:0.wjeo")}">Part III</a></span>
     <span class="navlevel3"><a href="https://edwards.yale.edu/archive?path=${encoded("c.0:7:0:1.wjeo")}">Child</a></span>
@@ -45,8 +50,10 @@ test("grupuje potomne odnośniki Yale do nadrzędnych sekcji bez sortowania nume
   assert.equal(sections.length, 2);
   assert.equal(sections[0].title, "Part III");
   assert.equal(sections[1].title, "Earlier URL number, later section");
-  assert.equal(Buffer.from(new URL(sections[0].url).searchParams.get("path"), "base64").toString("utf8"),
-    "http://edwards.yale.edu/cgi-bin/newphilo/getobject.pl?c.0:7.wjeo");
+  assert.equal(
+    Buffer.from(new URL(sections[0].url).searchParams.get("path"), "base64").toString("utf8"),
+    "http://edwards.yale.edu/cgi-bin/newphilo/getobject.pl?c.0:7.wjeo",
+  );
 });
 
 test("odkryta liczba sekcji odpowiada ręcznym zrzutom tomów 01–16", async () => {
@@ -63,64 +70,131 @@ test("numeruje tomy i pliki z zerami wiodącymi", () => {
   assert.equal(volumeName("17"), "VOLUME17");
   assert.equal(localStem(0), "000");
   assert.equal(localStem(42), "042");
+  assert.throws(() => volumeName("17abc"), /1 do 99/);
   assert.throws(() => localStem(1000), /000–999/);
 });
 
-test("preflight przechodzi dla macOS, Chrome i Accessibility", async () => {
+test("preflight przechodzi tylko dla macOS, Microsoft Edge, Accessibility i widocznego okna", async () => {
   const result = await runPreflight({
     platform: "darwin",
-    chromeCandidates: ["/Applications/Google Chrome.app/test"],
+    edgePath: EDGE_EXECUTABLE_PATH,
+    visibleWindow: true,
     canExecute: async () => true,
     run: async () => ({ stdout: "true\n", stderr: "" }),
   });
   assert.equal(result.accessibility, true);
-  assert.match(result.chromePath, /Google Chrome/);
+  assert.equal(result.visibleWindow, true);
+  assert.equal(result.edgePath, EDGE_EXECUTABLE_PATH);
 });
 
-test("preflight zgłasza wszystkie wymagania bez cichego obejścia", async () => {
+test("preflight zgłasza brak Microsoft Edge i niewłaściwy system bez obejścia", async () => {
   await assert.rejects(
     runPreflight({
       platform: "linux",
-      chromeCandidates: ["/missing/chrome"],
+      edgePath: "/missing/Microsoft Edge",
+      visibleWindow: true,
       canExecute: async () => false,
-      run: async () => ({ stdout: "false\n", stderr: "" }),
     }),
-    (error) => error.message.includes("wymaga macOS") && error.message.includes("Nie znaleziono Google Chrome"),
-  );
-  await assert.rejects(
-    runPreflight({
-      platform: "darwin",
-      chromeCandidates: ["/Applications/Google Chrome.app/test"],
-      canExecute: async () => true,
-      run: async () => ({ stdout: "false\n", stderr: "" }),
-    }),
-    /Dostępność|Accessibility/,
+    (error) => error.message.includes("wymaga macOS") && error.message.includes("Microsoft Edge"),
   );
 });
 
-test("resume pomija tylko kompletny wpis z istniejącymi artefaktami", async () => {
+test("preflight odrzuca brak Accessibility i niewidoczne okno", async () => {
+  await assert.rejects(
+    runPreflight({
+      platform: "darwin",
+      visibleWindow: false,
+      canExecute: async () => true,
+      run: async () => ({ stdout: "false\n", stderr: "" }),
+    }),
+    (error) => error.message.includes("widocznego okna") && error.message.includes("Dostępność"),
+  );
+});
+
+test("chroni tomy 01–16 i odrzuca zapis do niewłaściwego katalogu", async () => {
+  const projectRoot = await mkdtemp(path.join(os.tmpdir(), "wje-options-test-"));
+  const base = {
+    sourceUrl: "https://edwards.yale.edu/archive/volume",
+    resume: false,
+    delayMs: 100,
+    retries: 2,
+    visibleWindow: true,
+  };
+  assert.throws(
+    () => validateArchiveOptions({ ...base, volume: "16", destination: "HTML/VOLUME16" }, { projectRoot }),
+    /VOLUME01–VOLUME16/,
+  );
+  assert.throws(
+    () => validateArchiveOptions({ ...base, volume: "17", destination: "tmp/VOLUME17" }, { projectRoot }),
+    /HTML\/VOLUME17/,
+  );
+  const valid = validateArchiveOptions(
+    { ...base, volume: "17", destination: "HTML/VOLUME17" },
+    { projectRoot },
+  );
+  assert.equal(valid.destination, path.join(projectRoot, "HTML", "VOLUME17"));
+});
+
+test("nie rozpoczyna nowego przebiegu w niepustym katalogu i nie nadpisuje HTML", async () => {
+  const destination = await mkdtemp(path.join(os.tmpdir(), "wje-protection-test-"));
+  const original = "<html>existing raw capture</html>";
+  await writeFile(path.join(destination, "000.html"), original, "utf8");
+  await assert.rejects(assertArchiveDestinationSafe(destination), /nie jest pusty/);
+  await assert.rejects(assertArchiveDestinationSafe(destination, { resume: true }), /nie ma \.archive-manifest/);
+  await writeFile(
+    path.join(destination, ".archive-manifest.json"),
+    '{"schemaVersion":1,"volume":"VOLUME17","sourceUrl":"https://example.test/","entries":[]}\n',
+    "utf8",
+  );
+  await assert.doesNotReject(assertArchiveDestinationSafe(destination, { resume: true }));
+  await assert.rejects(assertRawTargetAbsent(destination, "000"), /Odmowa nadpisania/);
+  assert.equal(await readFile(path.join(destination, "000.html"), "utf8"), original);
+});
+
+test("resume pomija wyłącznie kompletny wpis z kompletnymi artefaktami", async () => {
   const destination = await mkdtemp(path.join(os.tmpdir(), "wje-resume-test-"));
   await writeFile(path.join(destination, "001.html"), "<html>saved</html>", "utf8");
   await mkdir(path.join(destination, "001_files"));
   await writeFile(path.join(destination, "001_files", "asset.css"), "body{}", "utf8");
-  const complete = await resumeDecision(destination, { localFile: "001.html", status: "complete" });
-  assert.equal(complete.skip, true);
-  const incomplete = await resumeDecision(destination, { localFile: "001.html", status: "error" });
-  assert.equal(incomplete.skip, false);
+  const completeEntry = {
+    localFile: "001.html",
+    status: "complete",
+    finalUrl: "https://edwards.yale.edu/final",
+    scroll: { stabilized: true, stabilizedHeight: 1200 },
+  };
+  assert.equal((await resumeDecision(destination, completeEntry)).skip, true);
+  assert.equal((await resumeDecision(destination, { ...completeEntry, status: "error" })).skip, false);
+  assert.equal((await resumeDecision(destination, { ...completeEntry, scroll: null })).skip, false);
   assert.equal(await readFile(path.join(destination, "001.html"), "utf8"), "<html>saved</html>");
 });
 
-test("kod archiwizatora nie zawiera zakazanych mechanizmów zastępczych", async () => {
+test("kod archiwizatora używa wyłącznie natywnego zapisu Microsoft Edge", async () => {
   const files = [
     "scripts/archive_yale_volume.mjs",
     "scripts/lib/archive_preflight.mjs",
-    "scripts/lib/mac_chrome_save_page.mjs",
-    "scripts/lib/mac_chrome_save_page.applescript",
+    "scripts/lib/mac_edge_save_page.mjs",
+    "scripts/lib/mac_edge_save_page.applescript",
     "scripts/lib/yale_archive_core.mjs",
   ];
-  const forbidden = ["cu" + "rl", "wg" + "et", "fe" + "tch", "page." + "content(", "MH" + "TML"];
+  const forbidden = [
+    "cu" + "rl",
+    "wg" + "et",
+    "fe" + "tch",
+    "page." + "content(",
+    "MH" + "TML",
+    "Google" + " Chrome",
+  ];
   for (const file of files) {
     const source = await readFile(file, "utf8");
-    for (const phrase of forbidden) assert.equal(source.includes(phrase), false, `${file} zawiera ${phrase}`);
+    assert.match(source, /Microsoft Edge|yale_archive_core/);
+    for (const phrase of forbidden) {
+      assert.equal(source.includes(phrase), false, `${file} zawiera zabroniony mechanizm lub markę`);
+    }
   }
+  const cli = await readFile("scripts/archive_yale_volume.mjs", "utf8");
+  assert.match(cli, /executablePath: preflight\.edgePath/);
+  assert.match(cli, /headless: false/);
+  const adapter = await readFile("scripts/lib/mac_edge_save_page.applescript", "utf8");
+  assert.match(adapter, /process "Microsoft Edge"/);
+  assert.match(adapter, /application "Microsoft Edge"/);
 });

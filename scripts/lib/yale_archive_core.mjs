@@ -4,7 +4,8 @@ import path from "node:path";
 export const MANIFEST_NAME = ".archive-manifest.json";
 
 export function volumeName(value) {
-  const parsed = Number.parseInt(String(value), 10);
+  const raw = String(value);
+  const parsed = /^\d{1,2}$/.test(raw) ? Number.parseInt(raw, 10) : Number.NaN;
   if (!Number.isInteger(parsed) || parsed < 1 || parsed > 99) {
     throw new Error("--volume musi być liczbą od 1 do 99.");
   }
@@ -16,6 +17,40 @@ export function localStem(index) {
     throw new Error("Numer lokalnego pliku musi należeć do zakresu 000–999.");
   }
   return String(index).padStart(3, "0");
+}
+
+export function validateArchiveOptions(options, { smoke = false, projectRoot = process.cwd() } = {}) {
+  if (!options.visibleWindow) {
+    throw new Error("Natywny zapis Microsoft Edge wymaga widocznego okna; usuń --no-visible-window.");
+  }
+  if (!Number.isInteger(options.delayMs) || options.delayMs < 0) {
+    throw new Error("--delay-ms musi być nieujemną liczbą całkowitą.");
+  }
+  if (!Number.isInteger(options.retries) || options.retries < 1 || options.retries > 10) {
+    throw new Error("--retries musi należeć do zakresu 1–10.");
+  }
+  if (!options.volume || !options.sourceUrl || !options.destination) {
+    throw new Error("Wymagane są --volume, --source-url i --destination.");
+  }
+
+  const volume = volumeName(options.volume);
+  const parsedUrl = new URL(options.sourceUrl);
+  if (!smoke && !["http:", "https:"].includes(parsedUrl.protocol)) {
+    throw new Error("--source-url musi używać HTTP lub HTTPS.");
+  }
+
+  const destination = path.resolve(projectRoot, options.destination);
+  if (!smoke) {
+    const htmlRoot = path.resolve(projectRoot, "HTML");
+    if (path.dirname(destination) !== htmlRoot || path.basename(destination) !== volume) {
+      throw new Error(`--destination musi wskazywać dokładnie HTML/${volume}.`);
+    }
+    if (Number.parseInt(String(options.volume), 10) <= 16) {
+      throw new Error("Tych danych nie wolno zapisywać do istniejących HTML/VOLUME01–VOLUME16.");
+    }
+  }
+
+  return { ...options, volume, sourceUrl: parsedUrl.href, destination };
 }
 
 function decodeEntities(value) {
@@ -126,6 +161,9 @@ export async function loadManifest(destination, volume, sourceUrl) {
   if (manifest.volume !== volume) {
     throw new Error(`Manifest należy do tomu ${manifest.volume}, a nie ${volume}.`);
   }
+  if (manifest.sourceUrl !== sourceUrl) {
+    throw new Error("Manifest ma inny sourceUrl; odmowa połączenia dwóch zrzutów w jednym katalogu.");
+  }
   return manifest;
 }
 
@@ -145,12 +183,36 @@ export function replaceManifestEntry(manifest, entry) {
 }
 
 export async function resumeDecision(destination, entry) {
-  if (!entry || entry.status !== "complete") return { skip: false, reason: "manifest-incomplete" };
+  if (
+    !entry ||
+    entry.status !== "complete" ||
+    !entry.finalUrl ||
+    entry.scroll?.stabilized !== true
+  ) {
+    return { skip: false, reason: "manifest-incomplete" };
+  }
   const stem = path.basename(entry.localFile, ".html");
   const metrics = await captureMetrics(destination, stem);
   return metricsAreComplete(metrics)
     ? { skip: true, reason: "complete", metrics }
     : { skip: false, reason: "artifacts-incomplete", metrics };
+}
+
+export async function assertArchiveDestinationSafe(destination, { resume = false } = {}) {
+  if (!(await pathExists(destination))) return;
+  const entries = await readdir(destination);
+  if (entries.length > 0 && !resume) {
+    throw new Error(
+      `Katalog ${destination} nie jest pusty. Odmowa naruszenia istniejących danych; ` +
+      "użyj --resume tylko dla zrzutu utworzonego przez ten archiwizator.",
+    );
+  }
+  if (entries.length > 0 && resume && !entries.includes(MANIFEST_NAME)) {
+    throw new Error(
+      `Katalog ${destination} nie ma ${MANIFEST_NAME}. ` +
+      "Odmowa wznowienia zrzutu, którego nie utworzył ten archiwizator.",
+    );
+  }
 }
 
 export async function assertRawTargetAbsent(destination, stem) {

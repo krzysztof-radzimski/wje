@@ -5,9 +5,7 @@ import { promisify } from "node:util";
 
 const execFile = promisify(execFileCallback);
 
-export const CHROME_CANDIDATES = [
-  "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
-];
+export const EDGE_EXECUTABLE_PATH = "/Applications/Microsoft Edge.app/Contents/MacOS/Microsoft Edge";
 
 async function executableExists(target) {
   try {
@@ -22,13 +20,20 @@ export async function runPreflight(options = {}) {
   const platform = options.platform ?? process.platform;
   const canExecute = options.canExecute ?? executableExists;
   const run = options.run ?? execFile;
-  const chromeCandidates = options.chromeCandidates ?? CHROME_CANDIDATES;
+  const edgePath = options.edgePath ?? EDGE_EXECUTABLE_PATH;
+  const visibleWindow = options.visibleWindow ?? true;
   const errors = [];
 
   if (platform !== "darwin") errors.push("Narzędzie wymaga macOS.");
-  const chromePath = (await Promise.all(chromeCandidates.map(async (candidate) => [candidate, await canExecute(candidate)])))
-    .find(([, available]) => available)?.[0];
-  if (!chromePath) errors.push("Nie znaleziono Google Chrome w /Applications. Zainstaluj Chrome i uruchom go co najmniej raz.");
+  if (!visibleWindow) {
+    errors.push("Archiwizowanie wymaga widocznego okna Microsoft Edge; usuń --no-visible-window.");
+  }
+  if (!(await canExecute(edgePath))) {
+    errors.push(
+      `Nie znaleziono wykonywalnego Microsoft Edge pod ${edgePath}. ` +
+      "Zainstaluj Microsoft Edge w /Applications i uruchom go co najmniej raz.",
+    );
+  }
 
   if (platform === "darwin") {
     try {
@@ -45,5 +50,5 @@ export async function runPreflight(options = {}) {
   }
 
   if (errors.length) throw new Error(`Preflight nieudany:\n- ${errors.join("\n- ")}`);
-  return { chromePath, accessibility: true };
+  return { edgePath, accessibility: true, visibleWindow: true };
 }

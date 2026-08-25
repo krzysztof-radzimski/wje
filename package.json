@@ -4,7 +4,12 @@
   "type": "module",
   "scripts": {
     "test": "node --test",
-    "archive:smoke": "node scripts/archive_yale_volume.mjs --smoke-test"
+    "archive": "node scripts/archive_yale_volume.mjs",
+    "archive:smoke": "node scripts/archive_yale_volume.mjs --smoke-test",
+    "test:integration": "npm run archive:smoke"
+  },
+  "engines": {
+    "node": ">=20"
   },
   "dependencies": {
     "playwright-core": "1.62.1"
