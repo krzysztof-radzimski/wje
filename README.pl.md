@@ -4,10 +4,12 @@
 
 ![Portret Jonathana Edwardsa](assets/jonathan-edwards.svg)
 
-Projekt tworzy przeszukiwalne pliki Markdown z ręcznie zapisanych stron
+Projekt tworzy przeszukiwalne pliki Markdown z lokalnie zarchiwizowanych stron
 [WJE Online](http://edwards.yale.edu/research/browse), obejmujących 73 tomy
-*The Works of Jonathan Edwards*. Zawartość jest pobierana ręcznie i następnie
-przekształcana lokalnie; projekt nie automatyzuje pobierania ze strony Yale.
+*The Works of Jonathan Edwards*. Dla tomów 17–73 kontrolowane narzędzie importu
+na macOS steruje widocznym oknem Microsoft Edge i używa natywnego zapisu całej
+strony. Bezpośrednie pobieranie, API, serializacja DOM oraz edycja zapisanych
+HTML są zabronione; konwersja odbywa się wyłącznie lokalnie.
 
 ## Zawartość
 
@@ -18,6 +20,11 @@ przekształcana lokalnie; projekt nie automatyzuje pobierania ze strony Yale.
 - `assets/` — grafiki projektu wykorzystywane w dokumentacji.
 - `scripts/html_volume_to_markdown.rb` — konwerter tolerujący niepoprawny HTML
   archiwum.
+- `scripts/archive_yale_volume.mjs` — jedyny dozwolony importer nowych stron
+  źródłowych Yale; mimo historycznej nazwy etapu „Import przez Chrome” bieżący
+  interfejs CLI wymaga Microsoft Edge na macOS.
+- `scripts/audit_volume_images.rb` i `scripts/archive_and_convert_volume.rb` —
+  deterministyczna selekcja obrazów i selektywna konwersja nowych tomów.
 - `AGENTS.md` — stała procedura pracy nad następnymi tomami.
 
 Wynik zachowuje treść źródłową, strukturę nagłówków, przypisy i numery stron.
@@ -29,7 +36,9 @@ tryb `--include-images` kopiuje lokalnie zapisane obrazy treści do
 
 ## Tworzenie tomu
 
-Po umieszczeniu ręcznie zapisanych plików w `HTML/VOLUMENN/` uruchom:
+Pełna procedura kontrolowanego importu, wznowienia, manifestu obrazów, konwersji
+i selektywnej walidacji tomów 17–73 znajduje się w `AGENTS.md`. Gdy
+niezmodyfikowane źródła są już w `HTML/VOLUMENN/`, konwersję można uruchomić:
 
 ```bash
 ruby scripts/html_volume_to_markdown.rb HTML/VOLUMENN MD/VOLUMENN.md
@@ -65,8 +74,9 @@ git diff --check
 
 Walidator porównuje znaczniki stron, odwołania i definicje przypisów z lokalnym
 HTML oraz zgłasza nagłówki z `000.html`, których nie ma w wyniku. Braki w
-sekwencji stron oznaczają, że trzeba ręcznie zapisać brakujące fragmenty — nie
-należy rekonstruować ich z pamięci ani z innego wydania.
+sekwencji stron oznaczają, że trzeba ponowić brakujące fragmenty kontrolowanym
+importerem z `--resume` — nie należy rekonstruować ich z pamięci ani z innego
+wydania.
 
 ## Stan zrzutów
 

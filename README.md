@@ -4,10 +4,12 @@
 
 ![Portrait of Jonathan Edwards](assets/jonathan-edwards.svg)
 
-This project creates searchable Markdown files from manually saved
+This project creates searchable Markdown files from locally archived
 [WJE Online](http://edwards.yale.edu/research/browse) pages for the 73 volumes
-of *The Works of Jonathan Edwards*. Content is saved manually and converted
-locally; the project does not automate downloading from the Yale website.
+of *The Works of Jonathan Edwards*. For volumes 17–73, the controlled macOS
+import tool drives a visible Microsoft Edge window and uses the browser's
+native complete-page save. Direct downloads, APIs, DOM serialization, and
+editing the saved HTML are not allowed; conversion remains entirely local.
 
 ## Contents
 
@@ -18,6 +20,11 @@ locally; the project does not automate downloading from the Yale website.
 - `assets/` — project graphics used by documentation.
 - `scripts/html_volume_to_markdown.rb` — a converter that tolerates the
   archive's malformed HTML.
+- `scripts/archive_yale_volume.mjs` — the only permitted importer for new
+  Yale source pages; despite the historical “Chrome import” label, its current
+  CLI requires Microsoft Edge on macOS.
+- `scripts/audit_volume_images.rb` and `scripts/archive_and_convert_volume.rb`
+  — deterministic image selection and selective conversion for new volumes.
 - `AGENTS.md` — the working procedure for subsequent volumes.
 
 The output preserves source content, heading structure, footnotes, and page
@@ -30,7 +37,10 @@ relative paths in the Markdown file.
 
 ## Creating a volume
 
-After placing manually saved files in `HTML/VOLUMENN/`, run:
+For the full controlled import, resume, image-manifest, conversion, and
+selective-verification procedure for volumes 17–73, follow `AGENTS.md`. Once
+the unmodified source files are present in `HTML/VOLUMENN/`, conversion can be
+run with:
 
 ```bash
 ruby scripts/html_volume_to_markdown.rb HTML/VOLUMENN MD/VOLUMENN.md
@@ -67,8 +77,8 @@ git diff --check
 The validator compares page markers, footnote references, and footnote
 definitions with the local HTML, and reports headings from `000.html` that are
 absent from the result. A gap in page numbering means the missing fragment
-should be saved manually; it must not be reconstructed from memory or another
-edition.
+should be retried with the controlled importer and `--resume`; it must not be
+reconstructed from memory or another edition.
 
 ## Capture status
 

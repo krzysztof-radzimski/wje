@@ -11,7 +11,7 @@ args = ["/Applications/code-architect.app/Contents/Resources/backend/dist/mcp/ta
 [mcp_servers.abc-task.env]
 ABC_BACKEND_PORT = "5145"
 ABC_PROJECT_ID = "21"
-ABC_TASK_ID = "2642"
+ABC_TASK_ID = "2643"
 
 [mcp_servers.abc-task-context]
 command = "node"

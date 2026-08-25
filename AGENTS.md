@@ -1,9 +1,9 @@
 # Instrukcja pracy nad kolejnymi tomami
 
-Repozytorium przekształca ręcznie zapisane strony HTML z **The Works of
-Jonathan Edwards** do pojedynczych dokumentów Markdown. Surowe pliki w
-`HTML/` są materiałem źródłowym: nie edytuj ich ani nie pobieraj automatycznie
-z serwisu Yale.
+Repozytorium archiwizuje strony **The Works of Jonathan Edwards** i
+przekształca je do pojedynczych dokumentów Markdown. Surowe pliki w `HTML/` są
+materiałem źródłowym: nie edytuj zapisanych `NNN.html` ani odpowiadających im
+katalogów `NNN_files/`.
 
 ## Wejście i wynik
 
@@ -12,6 +12,163 @@ z serwisu Yale.
 - Pozostałe pliki HTML są fragmentami treści; zachowaj ich kolejność numeryczną.
 - Wynikiem jest `MD/VOLUMENN.md`, z zerem wiodącym dla tomów 1–9
   (np. `MD/VOLUME01.md`).
+
+## Import przez Chrome — bieżące narzędzie używa Microsoft Edge
+
+Nazwa etapu „Import przez Chrome” jest historyczna. Końcowy interfejs
+archiwizatora z repozytorium obsługuje wyłącznie **Microsoft Edge**, nie Google
+Chrome. Nie zastępuj w poniższych poleceniach Edge'a Chrome'em i nie opisuj
+Chrome'a jako obsługiwanego, dopóki kod archiwizatora tego nie umożliwi.
+
+Jedyną dopuszczalną drogą pozyskania nowych źródeł z Yale dla tomów 17–73 jest
+`scripts/archive_yale_volume.mjs`. Narzędzie uruchamia na macOS widoczne okno
+Microsoft Edge, przewija dokument do ustabilizowanego końca i korzysta z
+systemowego okna „Zapisz jako” oraz natywnego formatu „Kompletna strona
+internetowa”. Zabronione są `curl`, `wget`, bezpośrednie API, własna
+serializacja DOM oraz zapis HTML-em wygenerowanym przez Playwright. Nie wolno
+redagować, naprawiać ani nadpisywać utworzonych `NNN.html` i `NNN_files/`.
+
+### Wymagania i preflight
+
+- macOS z aktywną sesją graficzną;
+- Microsoft Edge zainstalowany dokładnie jako `/Applications/Microsoft
+  Edge.app` i uruchomiony co najmniej raz;
+- zgoda **Ustawienia systemowe → Prywatność i ochrona → Dostępność** dla
+  Terminala lub procesu uruchamiającego Node;
+- Node.js 20 lub nowszy, Ruby i gem `nokogiri`;
+- stale widoczne okno Edge'a; nie minimalizuj go ani nie używaj komputera do
+  równoległego sterowania interfejsem podczas zapisu;
+- tylko jeden aktywny przebieg archiwizatora naraz oraz odstęp co najmniej
+  domyślnych 2500 ms między sekcjami. Nie próbuj równoleglić tomów.
+
+Zainstaluj zależności i wykonaj lokalny smoke test. Smoke test uruchamia ten sam
+preflight (system, Edge, widoczne okno i Accessibility), ale zapisuje tylko
+lokalną stronę w katalogu tymczasowym:
+
+```bash
+npm ci
+gem install nokogiri
+npm test
+npm run archive:smoke
+```
+
+### Jeden tom od pustego katalogu do Markdown
+
+Poniższy przykład dotyczy tomu 17. Skopiuj z WJE Online dokładny adres
+nawigacji tomu, który ma zostać zapisany jako `000.html`, i przypisz go do
+`SOURCE_URL`. Katalog docelowy musi nie istnieć albo być pusty; archiwizator
+chroni tomy 01–16.
+
+```bash
+VOLUME=17
+SOURCE_URL='WKLEJ_TUTAJ_DOKLADNY_ADRES_NAWIGACJI_TOMU'
+npm run archive -- \
+  --volume "$VOLUME" \
+  --source-url "$SOURCE_URL" \
+  --destination "HTML/VOLUME${VOLUME}" \
+  --visible-window \
+  --delay-ms 2500 \
+  --retries 3
+```
+
+Narzędzie najpierw zapisuje spis jako `000.html`, odkrywa z niego sekcje i
+zapisuje je kolejno jako `001.html`, `002.html`, … wraz z katalogami
+`NNN_files/`. Stan każdej próby znajduje się w
+`HTML/VOLUMENN/.archive-manifest.json`; log i zrzuty kontrolne są w
+`HTML/VOLUMENN/.archive-evidence/`.
+
+Po przerwaniu uruchom dokładnie to samo polecenie z `--resume`. Kompletne wpisy
+są pomijane, a błędne lub niekompletne są ponawiane:
+
+```bash
+npm run archive -- \
+  --volume "$VOLUME" \
+  --source-url "$SOURCE_URL" \
+  --destination "HTML/VOLUME${VOLUME}" \
+  --resume \
+  --visible-window \
+  --delay-ms 2500 \
+  --retries 3
+```
+
+Jeśli błędna próba pozostawiła np. `003.html` lub `003_files/`, archiwizator
+celowo odmówi ich nadpisania. Przenieś wyłącznie te niekompletne artefakty do
+osobnego katalogu kwarantanny (nie edytuj ich i nie usuwaj), pozostaw
+`.archive-manifest.json`, po czym ponów powyższe polecenie z `--resume`. W ten
+sposób tylko wpisy oznaczone jako błędne/niekompletne zostaną zapisane ponownie;
+kompletne sekcje pozostaną nietknięte.
+
+```bash
+mkdir -p archive-quarantine/VOLUME17-003
+for target in HTML/VOLUME17/003.html HTML/VOLUME17/003_files; do
+  [ ! -e "$target" ] || mv "$target" archive-quarantine/VOLUME17-003/
+done
+npm run archive -- \
+  --volume "$VOLUME" \
+  --source-url "$SOURCE_URL" \
+  --destination "HTML/VOLUME${VOLUME}" \
+  --resume \
+  --visible-window \
+  --delay-ms 2500 \
+  --retries 3
+```
+
+Gdy manifest archiwum zawiera wyłącznie kompletne sekcje, wykonaj automatyczny
+audyt wszystkich kandydatów obrazowych. Polecenie zapisuje pełny manifest,
+łącznie z decyzjami `include`, `omit-scan`, `omit-noncontent` i `uncertain`:
+
+```bash
+ruby scripts/audit_volume_images.rb "HTML/VOLUME${VOLUME}"
+```
+
+Następnie uruchom przepływ, który ponownie tworzy ten sam manifest, przekazuje
+wyłącznie wpisy `include` jako `--include-image` do generatora i wywołuje
+selektywny walidator z `--image-selections`:
+
+```bash
+ruby scripts/archive_and_convert_volume.rb \
+  "HTML/VOLUME${VOLUME}" \
+  "MD/VOLUME${VOLUME}.md"
+```
+
+Równoważne jawne wywołanie końcowego walidatora, przydatne do powtórnej
+kontroli, ma postać:
+
+```bash
+ruby scripts/verify_volume_markdown.rb \
+  --image-selections="metadata/image-selections/VOLUME${VOLUME}.json" \
+  "HTML/VOLUME${VOLUME}" \
+  "MD/VOLUME${VOLUME}.md"
+```
+
+Nie dodawaj interaktywnego etapu zatwierdzania manifestu. Automatyczne
+`include` jest wiążące: diagramy i ilustracje sklasyfikowane jako istotne są
+zachowywane jako obrazy zgodnie z aktualnym wymaganiem użytkownika. Skany
+całych stron rękopisów otrzymują `omit-scan`. Pozycje `uncertain` pozostają w
+manifeście i są wypisywane w raporcie, ale nie są kopiowane do `MD/assets/` i
+nie blokują konwersji. Do `MD/assets/VOLUMENN/` trafiają tylko manifestowe
+`include`.
+
+Na końcu uruchom pełną kontrolę:
+
+```bash
+ruby -c scripts/html_volume_to_markdown.rb
+ruby -c scripts/audit_volume_images.rb
+ruby -c scripts/archive_and_convert_volume.rb
+ruby scripts/verify_volume_markdown.rb \
+  --image-selections="metadata/image-selections/VOLUME${VOLUME}.json" \
+  "HTML/VOLUME${VOLUME}" \
+  "MD/VOLUME${VOLUME}.md"
+git diff --check
+```
+
+Walidator sprawdza przypisy, paginację, nagłówki i wszystkie tabele GFM, w tym
+separator w drugim wierszu oraz zgodną liczbę kolumn. Niekompletny zapis nie
+jest treścią do odtworzenia: błąd/przerwanie pozostaje w manifeście archiwum,
+a ucięcie lub luka musi zostać opisana w głównych `README.md` i
+`README.pl.md`. Nigdy nie dopisuj brakującego tekstu. Jeśli sekcja może zostać
+ponownie zapisana, użyj `--resume` według procedury powyżej; jeśli źródła nadal
+brakuje, konwertuj wyłącznie dostępny materiał i jawnie opisz brak.
 
 ## Konwersja
 
