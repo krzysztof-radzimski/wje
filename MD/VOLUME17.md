@@ -732,7 +732,7 @@ But especially is there one sort of wickedness that is a practical denying the b
 
 Thus wicked men by living prayerless lives, they live like atheists. [They do not practice] secret prayer; [they] profane [the] sabbath; [they neglect gospel] ordinances; [and they do not attend] public worship.[^004-note6]
 
-### Application.
+#### Application.
 
 I. Hence we may see one cause why there is so much wickedness in places of light. It is mysterious how men dare go on in wickedness, and give themselves such a license as they do, where they are taught that there
 
@@ -1046,7 +1046,7 @@ Those streams of pleasure that are at God's right hand, they are never dry, but 
 
 How much doth the sense of the sureness of this foundation confirm and heighten the joy! The soul enjoys its delight in a sense of this, free from all fears and jealousies, and with an unspeakable quietness and assurance; Isaiah 32:17, "And the works of righteousness shall be peace, and the effect of righteousness, quietness and assurance forever."
 
-### Inferences.
+#### Inferences.
 
 I. Here we may see one instance wherein the revelation of Jesus Christ excels all human wisdom. It was a thing that had been beyond the wisdom of the world, to tell wherein men's true happiness consisted. There was a vast variety of opinions about it amongst the wise men and philosophers of the heathen. There was scarcely anything that there was so great differences amongst them about. If I remember right, there were more than a hundred different opinions reckoned up about it, which shows that they were woefully in the dark, though there were many very wise men amongst them, men famed through all succeeding ages for their knowledge and wisdom. Yet their reason was not sufficient to find out men's true happiness.
 
@@ -1390,7 +1390,7 @@ And thus it has been God's manner to do. Thus he did of old by Samaria and the t
 
 the wall thereof, and it shall be trodden down: and I will lay it waste." So he did with the Jews at their second destruction, signified by the parable of the barren fig tree in the vineyard (Luke 13:6–9). Justice called to have the tree cut down at the end of three years, but mercy and patience stepped in {to delay its destruction}. But then patience itself was at an end, presented by his cursing the barren fig tree (Matthew 21:19).
 
-### Application.
+#### Application.
 
 I. Let the consideration of the truth before us stir us up to reflect upon the present state of this land, and especially of this town, with respect to religion. Let it be considered by us whether we are fallen. The time when God first took us to be his people, when our fathers went after God into the wilderness, was a time of love on God's part and on ours; the land was then famous for religion. What a spirit for God and religion did then appear amongst rulers, and ministers, and heads of families![^006-note7]
 
@@ -1632,7 +1632,7 @@ Sometimes envy and contention is the occasion of abominable cheating. Men will t
 
 Some men get such a blot upon their names by what they do in contention that [it] shall not be soon wiped away.[^007-note7]
 
-### Application.
+#### Application.
 
 *Use* I. Of *Self-Exam.* In two branches.
 
@@ -1916,7 +1916,7 @@ sins. They are justified freely through {the blood of Christ}, and there is no m
 
 Thus wonderfully does God work for his chosen. Who that saw them in such a doleful and forlorn condition as they were in would have thought to have seen such blessedness arising to them? Who would have thought to have seen such waters breaking out in the wilderness? Who would have thought to have seen honey dripping, and rivers of oil flowing, out of the flinty rock?
 
-### Application.
+#### Application.
 
 In the application of this doctrine,
 
@@ -2072,7 +2072,7 @@ And therefore when the soul comes to have all obstacles removed and comes fully 
 
 <!-- p. 137 -->
 
-### Application.
+#### Application.
 
 I. This doctrine gives us argument of praise. 'Tis spoken of in this song as a glorious work of God, that he should make Israel "suck honey out of the rock, and oil out of the flinty rock." The expression denotes to us some strange and wonderful works, a peculiar effect of divine power.
 
@@ -2804,13 +2804,13 @@ brought to their minds how they were warned and what counsels they had [been] gi
 
 Thus God is not frustrated. His word don't return to him void.
 
-### Two Reasons
+#### Two Reasons
 
 1. God is infinitely wise and powerful and is able to obtain his end whether [men will hear, or whether men will forbear].
 
 2. The word of God is too honorable and precious to be suffered to be in vain. 'Tis fit that the word of so great a God should take effect, should accomplish that. 'Tis the honor of the word; though men don't honor it, God will.
 
-### Application.
+#### Application.
 
 [*Use*] I. [Of *Encour.*] Ministers should not neglect faithfully to preach the word of God, however regardless men are of their message.[^010-note4]
 
@@ -2980,7 +2980,7 @@ Man by his first birth has natural faculties of understanding and will. He has s
 
 modifications of self-love, a man need not be new born in order to his loving God. But it is not so.
 
-### Application.
+#### Application.
 
 I. If there is so great a change to be wrought, how unreasonable is the security of multitudes of men. Every man that shall not see the kingdom of heaven will feel the torments of hell to all eternity, so that, except he be born again, he cannot see the kingdom of God; so he cannot escape the damnation of hell. This is a rule that has no exceptions. 'Tis fixed and unalterable, as is intimated by the manner of expression in the text, "Verily, verily."
 
@@ -3224,7 +3224,7 @@ And the redeemed by reason of the greatness of their dependence on God, han't on
 
 else, man's respect would be divided to those different things on which he had dependence. Thus it would be if we depended on God only for a part of our good, and on ourselves, or some other being, for another part; or if we had our good only *from* God, and *through* another that was not God, and *in* something else distinct from both, our hearts would be divided between the good itself, and him *from* whom, and him *through* whom we received it. But now there is no occasion for this, God being not only he *from* or *of*whom we have all good, but also *through* whom, and one that is that good itself, that we have from him, and through him. So that whatsoever there is to attract our respect, the tendency is still directly towards God, all unites in him as the center.
 
-### Use.
+#### Use.
 
 I. We may here observe the marvelous wisdom of God in the work of redemption. God hath made man's emptiness and misery, his low, lost and ruined state into which he is sunk by the fall, an occasion of the greater advancement of his own glory, as in other ways so particularly in this, that there is now a much more universal and apparent dependence of man on God. Though God be pleased to lift man out of that dismal abyss of sin and woe into which he was fallen, and exceedingly to exalt him in excellency and honor, and to an high pitch of glory and blessedness, yet the creature has nothing in any respect to glory of; all the glory evidently belongs to God, all is in a mere, and most absolute and divine dependence on the Father, Son, and Holy Ghost.
 
@@ -3598,7 +3598,7 @@ Thus tender was Christ of the church while an infant. He did not feed 'em with s
 
 And thus I leave it with everyone to judge whether there ben't sufficient evidences that 'tis the mind and will of God that the first day of the week should be kept by the Christian church as a sabbath.[^013-note14]
 
-### Application.
+#### Application.
 
 *Use* of *Exh*.
 
@@ -3858,7 +3858,7 @@ The saints in heaven have no opportunity to express their love by doing anything
 
 Therefore the saints in heaven are much happier in a subjection to God's authority and in his service than if they were not in such a state.
 
-### Application.
+#### Application.
 
 I. Hence we may learn something of the nature of the heavenly state. They are not idle but active. 'Tis true the heavenly state is a state of rest:
 
@@ -4840,7 +4840,7 @@ The Spirit of God immediately brings them out of their darkness into light. When
 
 is made use of by the Spirit of God, it is effectual. The words that the Spirit of God makes use of in his call are the words of Christ in the gospel, his gracious invitations there. The Spirit of God opens the heart to receive and entertain this gospel call. That call that we hear from time to time, that is the call, which, being made use by the Spirit of God, brings men out of darkness into marvelous light.
 
-### Application.
+#### Application.
 
 *Use* [I. Of *Conviction*] By this doctrine the unconverted may be made sensible of their doleful condition. They walk in darkness and are under the power of darkness, and are lost and know not whither they go; those that walk in outward darkness, they are in danger of stumbling and falling. But you are in danger of falling and never rising more. You, if you ben't called out of darkness into light before long, your "feet will stumble upon the dark mountain of death" (Jeremiah 13:16). You walk, as it were, on a mountain where there is a precipice on every side, from whence you are in continual danger of falling into the depths of hell. You walk blindfold amongst snares and pits that the devil hath made to catch souls. And if you are taken by him, you will be devoured by him. He'll carry you to his den where you will be meat for those poison and carnal serpents [of] the devil. The jaws of the great dragon will trickle down with your blood [Revelation 20:2].
 
@@ -5136,7 +5136,7 @@ Thus man, when he fell, he lost his opportunity of getting eternal life, that bl
 
 These two doctrines may give us something of an idea of the melancholy and doleful loss that man sustained by the fall.
 
-### Application.
+#### Application.
 
 I shall make improvement of both these doctrines under one.
 
@@ -5374,7 +5374,7 @@ But I hasten to a conclusion with a brief
 
 <!-- p. 359 -->
 
-### Application.
+#### Application.
 
 I. This doctrine may give us occasion to conclude that very often when a people are in such circumstances, there is too much done at inveighing against instruments and too little at reflecting on themselves. As there is commonly among a people at such a time much of a spirit of contention, so it appears in finding fault very much one with another.
 
@@ -5586,7 +5586,7 @@ Another is that we shall never want proper objects of our charity and bounty; De
 
 #### Doctrine.
 
-#### 'Tis the most absolute and indispensable duty of a people of God to give bountifully and willingly for the supply of the wants of the needy.
+##### 'Tis the most absolute and indispensable duty of a people of God to give bountifully and willingly for the supply of the wants of the needy.
 
 [There are] three propositions.
 
@@ -5642,7 +5642,7 @@ How unsuitable will it be for us that live wholly by kindness to be unkind! What
 
 And then, Christ by his redemption has brought us into a more near relation one to another, hath made us children of God, children in the same family. We are all brethren, having God for our common Father, which is much more than to be brethren in any other family. He has made us all one body; therefore, we ought to be united, and subserve to one another's good, and bear one another's burdens, as members of the same body in the natural body. If one of the members suffers, all the other members bear the burden with it (1 Corinthians 12:26). If one member be diseased or wounded, the other members of the body will minister to it and help it. And so surely it should be in the body of Christ; Galatians 6:2, "Bear ye one another's burdens, and so fulfill the law of Christ."
 
-### Application.
+#### Application.
 
 *Use* I. Of *Self-Exam.* Whether or no you don't lie under guilt upon the account of a neglect of this duty, in withholding that charity that God has required of you towards the needy. You have often been put upon examining
 
