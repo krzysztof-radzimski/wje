@@ -37,15 +37,27 @@ export async function runPreflight(options = {}) {
 
   if (platform === "darwin") {
     try {
-      const result = await run("/usr/bin/osascript", ["-e", 'tell application "System Events" to get UI elements enabled']);
+      // The native save adapter runs under osascript, so verify the TCC trust
+      // of that exact process. "UI elements enabled" is a deprecated global
+      // switch and can report false even for a trusted client.
+      const result = await run("/usr/bin/osascript", [
+        "-l",
+        "JavaScript",
+        "-e",
+        'ObjC.import("ApplicationServices"); $.AXIsProcessTrusted()',
+      ]);
       if (result.stdout.trim() !== "true") {
         errors.push(
-          "Automatyzacja interfejsu jest wyłączona. W Ustawienia systemowe → Prywatność i ochrona → Dostępność " +
-          "zezwól aplikacji Terminal (lub procesowi uruchamiającemu Node) na sterowanie komputerem.",
+          "macOS nie przyznał Dostępności procesowi /usr/bin/osascript, który obsługuje okno „Zapisz jako”. " +
+          "W Ustawienia systemowe → Prywatność i ochrona → Dostępność dodaj i włącz /usr/bin/osascript.",
         );
       }
     } catch (error) {
-      errors.push(`Nie udało się sprawdzić macOS Accessibility: ${error.message}`);
+      errors.push(
+        "Nie udało się sprawdzić Dostępności procesu /usr/bin/osascript. W Ustawienia systemowe → " +
+        "Prywatność i ochrona → Dostępność dodaj i włącz /usr/bin/osascript. " +
+        `Szczegóły: ${error.message}`,
+      );
     }
   }
 

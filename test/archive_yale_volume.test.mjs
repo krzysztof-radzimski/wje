@@ -99,7 +99,7 @@ test("preflight zgłasza brak Microsoft Edge i niewłaściwy system bez obejści
   );
 });
 
-test("preflight odrzuca brak Accessibility i niewidoczne okno", async () => {
+test("preflight odrzuca brak Dostępności osascript i niewidoczne okno", async () => {
   await assert.rejects(
     runPreflight({
       platform: "darwin",
@@ -107,7 +107,7 @@ test("preflight odrzuca brak Accessibility i niewidoczne okno", async () => {
       canExecute: async () => true,
       run: async () => ({ stdout: "false\n", stderr: "" }),
     }),
-    (error) => error.message.includes("widocznego okna") && error.message.includes("Dostępność"),
+    (error) => error.message.includes("widocznego okna") && error.message.includes("/usr/bin/osascript"),
   );
 });
 

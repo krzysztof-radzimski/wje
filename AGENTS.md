@@ -34,7 +34,7 @@ redagować, naprawiać ani nadpisywać utworzonych `NNN.html` i `NNN_files/`.
 - Microsoft Edge zainstalowany dokładnie jako `/Applications/Microsoft
   Edge.app` i uruchomiony co najmniej raz;
 - zgoda **Ustawienia systemowe → Prywatność i ochrona → Dostępność** dla
-  Terminala lub procesu uruchamiającego Node;
+  `/usr/bin/osascript`, który obsługuje systemowe okno „Zapisz jako”;
 - Node.js 20 lub nowszy, Ruby i gem `nokogiri`;
 - stale widoczne okno Edge'a; nie minimalizuj go ani nie używaj komputera do
   równoległego sterowania interfejsem podczas zapisu;

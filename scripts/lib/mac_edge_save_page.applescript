@@ -7,9 +7,11 @@ on run argv
   delay 0.5
 
   tell application "System Events"
-    if UI elements enabled is false then error "macOS Accessibility is disabled for this process."
     if not (exists process "Microsoft Edge") then error "Microsoft Edge process is not running."
 
+    -- "UI elements enabled" is a deprecated global flag. It may be false
+    -- despite the caller having a valid per-process TCC Accessibility grant.
+    -- The UI operations below are the authoritative permission check.
     tell process "Microsoft Edge"
       set frontmost to true
       keystroke "s" using command down

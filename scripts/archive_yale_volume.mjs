@@ -44,8 +44,8 @@ Opcje:
 Wymagania:
   macOS z aktywną sesją graficzną, Microsoft Edge pod ścieżką
   /Applications/Microsoft Edge.app/Contents/MacOS/Microsoft Edge oraz uprawnienie
-  Ustawienia systemowe → Prywatność i ochrona → Dostępność dla Terminala lub procesu
-  uruchamiającego Node. Microsoft Edge musi oferować format „Kompletna strona
+  Ustawienia systemowe → Prywatność i ochrona → Dostępność dla /usr/bin/osascript.
+  Microsoft Edge musi oferować format „Kompletna strona
   internetowa” w systemowym oknie „Zapisz jako”. Brak wymagania kończy pracę błędem.
 `;
 
