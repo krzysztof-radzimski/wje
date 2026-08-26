@@ -149,6 +149,8 @@ class ImageSelectionsTest < Minitest::Test
     assert_includes markdown, "52. \\|"
     assert_includes markdown, "\n\\|\n"
     assert_includes markdown, "Particularly. --1--"
+    assert_includes markdown, "I Isai 40. 15. -- 17 -- 22."
+    assert_includes markdown, "\\======="
     assert_equal 1, markdown.scan(/<!-- p\. /).length
     assert_gfm_tables(markdown)
 

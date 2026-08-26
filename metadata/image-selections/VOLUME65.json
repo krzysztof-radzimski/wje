@@ -1,0 +1,3101 @@
+{
+  "schemaVersion": 1,
+  "rulesVersion": "wje-image-selection-v3",
+  "volume": "VOLUME65",
+  "generatedAt": "2026-08-26T17:12:49Z",
+  "rules": {
+    "version": "wje-image-selection-v3",
+    "precedence": [
+      "omit-scan",
+      "omit-noncontent",
+      "include",
+      "uncertain"
+    ],
+    "interfaceMarkers": [
+      "addthis",
+      "button",
+      "creative commons",
+      "footer",
+      "header",
+      "icon",
+      "jonathan edwards center",
+      "logo",
+      "navigation",
+      "new search",
+      "next section",
+      "previous section",
+      "share this page",
+      "site-title",
+      "yale university"
+    ],
+    "scanMarkers": [
+      "facsimile",
+      "folio",
+      "full page",
+      "handwritten",
+      "handwriting",
+      "manuscript",
+      "recto",
+      "scan",
+      "scanned",
+      "verso"
+    ],
+    "includeMarkers": [
+      "chart",
+      "diagram",
+      "fig.",
+      "figure",
+      "graph",
+      "illustration",
+      "map",
+      "plan",
+      "plate",
+      "schematic"
+    ],
+    "scanThresholds": {
+      "minimumFileBytes": 4096,
+      "minimumShortSide": 600,
+      "minimumLongSide": 800,
+      "minimumPixels": 800000,
+      "minimumPageAspectRatio": 1.15,
+      "maximumPageAspectRatio": 1.8
+    },
+    "explicitPageScanMarkers": [
+      "first page"
+    ],
+    "explicitPageScanThresholds": {
+      "minimumFileBytes": 4096,
+      "minimumShortSide": 600,
+      "minimumLongSide": 800,
+      "minimumPixels": 800000
+    }
+  },
+  "entries": [
+    {
+      "id": "000:cc-logo.jpg",
+      "sourcePage": "000",
+      "savedFile": "cc-logo.jpg",
+      "sourcePath": "000_files/cc-logo.jpg",
+      "occurrences": [
+        {
+          "position": "outside-after-content",
+          "alt": "",
+          "title": "",
+          "caption": "",
+          "context": ""
+        }
+      ],
+      "positions": [
+        "outside-after-content"
+      ],
+      "position": "outside-after-content",
+      "mimeType": "image/jpeg",
+      "width": 173,
+      "height": 174,
+      "heightToWidthRatio": 1.0058,
+      "fileBytes": 44905,
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "context": "",
+      "matchedMarkers": {
+        "interface": [
+          "logo"
+        ],
+        "scan": [
+
+        ],
+        "explicitPageScan": [
+
+        ],
+        "include": [
+
+        ]
+      },
+      "decision": "omit-noncontent",
+      "reason": "Obraz występuje wyłącznie poza obszarem treści."
+    },
+    {
+      "id": "000:logo.png",
+      "sourcePage": "000",
+      "savedFile": "logo.png",
+      "sourcePath": "000_files/logo.png",
+      "occurrences": [
+        {
+          "position": "outside-before-content",
+          "alt": "Jonathan Edwards Center",
+          "title": "",
+          "caption": "",
+          "context": ""
+        }
+      ],
+      "positions": [
+        "outside-before-content"
+      ],
+      "position": "outside-before-content",
+      "mimeType": "image/png",
+      "width": 34,
+      "height": 61,
+      "heightToWidthRatio": 1.7941,
+      "fileBytes": 3369,
+      "alt": "Jonathan Edwards Center",
+      "title": "",
+      "caption": "",
+      "context": "",
+      "matchedMarkers": {
+        "interface": [
+          "jonathan edwards center",
+          "logo"
+        ],
+        "scan": [
+
+        ],
+        "explicitPageScan": [
+
+        ],
+        "include": [
+
+        ]
+      },
+      "decision": "omit-noncontent",
+      "reason": "Obraz występuje wyłącznie poza obszarem treści."
+    },
+    {
+      "id": "001:cc-logo.jpg",
+      "sourcePage": "001",
+      "savedFile": "cc-logo.jpg",
+      "sourcePath": "001_files/cc-logo.jpg",
+      "occurrences": [
+        {
+          "position": "outside-after-content",
+          "alt": "",
+          "title": "",
+          "caption": "",
+          "context": ""
+        }
+      ],
+      "positions": [
+        "outside-after-content"
+      ],
+      "position": "outside-after-content",
+      "mimeType": "image/jpeg",
+      "width": 173,
+      "height": 174,
+      "heightToWidthRatio": 1.0058,
+      "fileBytes": 44905,
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "context": "",
+      "matchedMarkers": {
+        "interface": [
+          "logo"
+        ],
+        "scan": [
+
+        ],
+        "explicitPageScan": [
+
+        ],
+        "include": [
+
+        ]
+      },
+      "decision": "omit-noncontent",
+      "reason": "Obraz występuje wyłącznie poza obszarem treści."
+    },
+    {
+      "id": "001:logo.png",
+      "sourcePage": "001",
+      "savedFile": "logo.png",
+      "sourcePath": "001_files/logo.png",
+      "occurrences": [
+        {
+          "position": "outside-before-content",
+          "alt": "Jonathan Edwards Center",
+          "title": "",
+          "caption": "",
+          "context": ""
+        }
+      ],
+      "positions": [
+        "outside-before-content"
+      ],
+      "position": "outside-before-content",
+      "mimeType": "image/png",
+      "width": 34,
+      "height": 61,
+      "heightToWidthRatio": 1.7941,
+      "fileBytes": 3369,
+      "alt": "Jonathan Edwards Center",
+      "title": "",
+      "caption": "",
+      "context": "",
+      "matchedMarkers": {
+        "interface": [
+          "jonathan edwards center",
+          "logo"
+        ],
+        "scan": [
+
+        ],
+        "explicitPageScan": [
+
+        ],
+        "include": [
+
+        ]
+      },
+      "decision": "omit-noncontent",
+      "reason": "Obraz występuje wyłącznie poza obszarem treści."
+    },
+    {
+      "id": "002:cc-logo.jpg",
+      "sourcePage": "002",
+      "savedFile": "cc-logo.jpg",
+      "sourcePath": "002_files/cc-logo.jpg",
+      "occurrences": [
+        {
+          "position": "outside-after-content",
+          "alt": "",
+          "title": "",
+          "caption": "",
+          "context": ""
+        }
+      ],
+      "positions": [
+        "outside-after-content"
+      ],
+      "position": "outside-after-content",
+      "mimeType": "image/jpeg",
+      "width": 173,
+      "height": 174,
+      "heightToWidthRatio": 1.0058,
+      "fileBytes": 44905,
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "context": "",
+      "matchedMarkers": {
+        "interface": [
+          "logo"
+        ],
+        "scan": [
+
+        ],
+        "explicitPageScan": [
+
+        ],
+        "include": [
+
+        ]
+      },
+      "decision": "omit-noncontent",
+      "reason": "Obraz występuje wyłącznie poza obszarem treści."
+    },
+    {
+      "id": "002:logo.png",
+      "sourcePage": "002",
+      "savedFile": "logo.png",
+      "sourcePath": "002_files/logo.png",
+      "occurrences": [
+        {
+          "position": "outside-before-content",
+          "alt": "Jonathan Edwards Center",
+          "title": "",
+          "caption": "",
+          "context": ""
+        }
+      ],
+      "positions": [
+        "outside-before-content"
+      ],
+      "position": "outside-before-content",
+      "mimeType": "image/png",
+      "width": 34,
+      "height": 61,
+      "heightToWidthRatio": 1.7941,
+      "fileBytes": 3369,
+      "alt": "Jonathan Edwards Center",
+      "title": "",
+      "caption": "",
+      "context": "",
+      "matchedMarkers": {
+        "interface": [
+          "jonathan edwards center",
+          "logo"
+        ],
+        "scan": [
+
+        ],
+        "explicitPageScan": [
+
+        ],
+        "include": [
+
+        ]
+      },
+      "decision": "omit-noncontent",
+      "reason": "Obraz występuje wyłącznie poza obszarem treści."
+    },
+    {
+      "id": "003:cc-logo.jpg",
+      "sourcePage": "003",
+      "savedFile": "cc-logo.jpg",
+      "sourcePath": "003_files/cc-logo.jpg",
+      "occurrences": [
+        {
+          "position": "outside-after-content",
+          "alt": "",
+          "title": "",
+          "caption": "",
+          "context": ""
+        }
+      ],
+      "positions": [
+        "outside-after-content"
+      ],
+      "position": "outside-after-content",
+      "mimeType": "image/jpeg",
+      "width": 173,
+      "height": 174,
+      "heightToWidthRatio": 1.0058,
+      "fileBytes": 44905,
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "context": "",
+      "matchedMarkers": {
+        "interface": [
+          "logo"
+        ],
+        "scan": [
+
+        ],
+        "explicitPageScan": [
+
+        ],
+        "include": [
+
+        ]
+      },
+      "decision": "omit-noncontent",
+      "reason": "Obraz występuje wyłącznie poza obszarem treści."
+    },
+    {
+      "id": "003:logo.png",
+      "sourcePage": "003",
+      "savedFile": "logo.png",
+      "sourcePath": "003_files/logo.png",
+      "occurrences": [
+        {
+          "position": "outside-before-content",
+          "alt": "Jonathan Edwards Center",
+          "title": "",
+          "caption": "",
+          "context": ""
+        }
+      ],
+      "positions": [
+        "outside-before-content"
+      ],
+      "position": "outside-before-content",
+      "mimeType": "image/png",
+      "width": 34,
+      "height": 61,
+      "heightToWidthRatio": 1.7941,
+      "fileBytes": 3369,
+      "alt": "Jonathan Edwards Center",
+      "title": "",
+      "caption": "",
+      "context": "",
+      "matchedMarkers": {
+        "interface": [
+          "jonathan edwards center",
+          "logo"
+        ],
+        "scan": [
+
+        ],
+        "explicitPageScan": [
+
+        ],
+        "include": [
+
+        ]
+      },
+      "decision": "omit-noncontent",
+      "reason": "Obraz występuje wyłącznie poza obszarem treści."
+    },
+    {
+      "id": "004:cc-logo.jpg",
+      "sourcePage": "004",
+      "savedFile": "cc-logo.jpg",
+      "sourcePath": "004_files/cc-logo.jpg",
+      "occurrences": [
+        {
+          "position": "outside-after-content",
+          "alt": "",
+          "title": "",
+          "caption": "",
+          "context": ""
+        }
+      ],
+      "positions": [
+        "outside-after-content"
+      ],
+      "position": "outside-after-content",
+      "mimeType": "image/jpeg",
+      "width": 173,
+      "height": 174,
+      "heightToWidthRatio": 1.0058,
+      "fileBytes": 44905,
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "context": "",
+      "matchedMarkers": {
+        "interface": [
+          "logo"
+        ],
+        "scan": [
+
+        ],
+        "explicitPageScan": [
+
+        ],
+        "include": [
+
+        ]
+      },
+      "decision": "omit-noncontent",
+      "reason": "Obraz występuje wyłącznie poza obszarem treści."
+    },
+    {
+      "id": "004:logo.png",
+      "sourcePage": "004",
+      "savedFile": "logo.png",
+      "sourcePath": "004_files/logo.png",
+      "occurrences": [
+        {
+          "position": "outside-before-content",
+          "alt": "Jonathan Edwards Center",
+          "title": "",
+          "caption": "",
+          "context": ""
+        }
+      ],
+      "positions": [
+        "outside-before-content"
+      ],
+      "position": "outside-before-content",
+      "mimeType": "image/png",
+      "width": 34,
+      "height": 61,
+      "heightToWidthRatio": 1.7941,
+      "fileBytes": 3369,
+      "alt": "Jonathan Edwards Center",
+      "title": "",
+      "caption": "",
+      "context": "",
+      "matchedMarkers": {
+        "interface": [
+          "jonathan edwards center",
+          "logo"
+        ],
+        "scan": [
+
+        ],
+        "explicitPageScan": [
+
+        ],
+        "include": [
+
+        ]
+      },
+      "decision": "omit-noncontent",
+      "reason": "Obraz występuje wyłącznie poza obszarem treści."
+    },
+    {
+      "id": "005:cc-logo.jpg",
+      "sourcePage": "005",
+      "savedFile": "cc-logo.jpg",
+      "sourcePath": "005_files/cc-logo.jpg",
+      "occurrences": [
+        {
+          "position": "outside-after-content",
+          "alt": "",
+          "title": "",
+          "caption": "",
+          "context": ""
+        }
+      ],
+      "positions": [
+        "outside-after-content"
+      ],
+      "position": "outside-after-content",
+      "mimeType": "image/jpeg",
+      "width": 173,
+      "height": 174,
+      "heightToWidthRatio": 1.0058,
+      "fileBytes": 44905,
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "context": "",
+      "matchedMarkers": {
+        "interface": [
+          "logo"
+        ],
+        "scan": [
+
+        ],
+        "explicitPageScan": [
+
+        ],
+        "include": [
+
+        ]
+      },
+      "decision": "omit-noncontent",
+      "reason": "Obraz występuje wyłącznie poza obszarem treści."
+    },
+    {
+      "id": "005:logo.png",
+      "sourcePage": "005",
+      "savedFile": "logo.png",
+      "sourcePath": "005_files/logo.png",
+      "occurrences": [
+        {
+          "position": "outside-before-content",
+          "alt": "Jonathan Edwards Center",
+          "title": "",
+          "caption": "",
+          "context": ""
+        }
+      ],
+      "positions": [
+        "outside-before-content"
+      ],
+      "position": "outside-before-content",
+      "mimeType": "image/png",
+      "width": 34,
+      "height": 61,
+      "heightToWidthRatio": 1.7941,
+      "fileBytes": 3369,
+      "alt": "Jonathan Edwards Center",
+      "title": "",
+      "caption": "",
+      "context": "",
+      "matchedMarkers": {
+        "interface": [
+          "jonathan edwards center",
+          "logo"
+        ],
+        "scan": [
+
+        ],
+        "explicitPageScan": [
+
+        ],
+        "include": [
+
+        ]
+      },
+      "decision": "omit-noncontent",
+      "reason": "Obraz występuje wyłącznie poza obszarem treści."
+    },
+    {
+      "id": "006:cc-logo.jpg",
+      "sourcePage": "006",
+      "savedFile": "cc-logo.jpg",
+      "sourcePath": "006_files/cc-logo.jpg",
+      "occurrences": [
+        {
+          "position": "outside-after-content",
+          "alt": "",
+          "title": "",
+          "caption": "",
+          "context": ""
+        }
+      ],
+      "positions": [
+        "outside-after-content"
+      ],
+      "position": "outside-after-content",
+      "mimeType": "image/jpeg",
+      "width": 173,
+      "height": 174,
+      "heightToWidthRatio": 1.0058,
+      "fileBytes": 44905,
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "context": "",
+      "matchedMarkers": {
+        "interface": [
+          "logo"
+        ],
+        "scan": [
+
+        ],
+        "explicitPageScan": [
+
+        ],
+        "include": [
+
+        ]
+      },
+      "decision": "omit-noncontent",
+      "reason": "Obraz występuje wyłącznie poza obszarem treści."
+    },
+    {
+      "id": "006:logo.png",
+      "sourcePage": "006",
+      "savedFile": "logo.png",
+      "sourcePath": "006_files/logo.png",
+      "occurrences": [
+        {
+          "position": "outside-before-content",
+          "alt": "Jonathan Edwards Center",
+          "title": "",
+          "caption": "",
+          "context": ""
+        }
+      ],
+      "positions": [
+        "outside-before-content"
+      ],
+      "position": "outside-before-content",
+      "mimeType": "image/png",
+      "width": 34,
+      "height": 61,
+      "heightToWidthRatio": 1.7941,
+      "fileBytes": 3369,
+      "alt": "Jonathan Edwards Center",
+      "title": "",
+      "caption": "",
+      "context": "",
+      "matchedMarkers": {
+        "interface": [
+          "jonathan edwards center",
+          "logo"
+        ],
+        "scan": [
+
+        ],
+        "explicitPageScan": [
+
+        ],
+        "include": [
+
+        ]
+      },
+      "decision": "omit-noncontent",
+      "reason": "Obraz występuje wyłącznie poza obszarem treści."
+    },
+    {
+      "id": "007:cc-logo.jpg",
+      "sourcePage": "007",
+      "savedFile": "cc-logo.jpg",
+      "sourcePath": "007_files/cc-logo.jpg",
+      "occurrences": [
+        {
+          "position": "outside-after-content",
+          "alt": "",
+          "title": "",
+          "caption": "",
+          "context": ""
+        }
+      ],
+      "positions": [
+        "outside-after-content"
+      ],
+      "position": "outside-after-content",
+      "mimeType": "image/jpeg",
+      "width": 173,
+      "height": 174,
+      "heightToWidthRatio": 1.0058,
+      "fileBytes": 44905,
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "context": "",
+      "matchedMarkers": {
+        "interface": [
+          "logo"
+        ],
+        "scan": [
+
+        ],
+        "explicitPageScan": [
+
+        ],
+        "include": [
+
+        ]
+      },
+      "decision": "omit-noncontent",
+      "reason": "Obraz występuje wyłącznie poza obszarem treści."
+    },
+    {
+      "id": "007:logo.png",
+      "sourcePage": "007",
+      "savedFile": "logo.png",
+      "sourcePath": "007_files/logo.png",
+      "occurrences": [
+        {
+          "position": "outside-before-content",
+          "alt": "Jonathan Edwards Center",
+          "title": "",
+          "caption": "",
+          "context": ""
+        }
+      ],
+      "positions": [
+        "outside-before-content"
+      ],
+      "position": "outside-before-content",
+      "mimeType": "image/png",
+      "width": 34,
+      "height": 61,
+      "heightToWidthRatio": 1.7941,
+      "fileBytes": 3369,
+      "alt": "Jonathan Edwards Center",
+      "title": "",
+      "caption": "",
+      "context": "",
+      "matchedMarkers": {
+        "interface": [
+          "jonathan edwards center",
+          "logo"
+        ],
+        "scan": [
+
+        ],
+        "explicitPageScan": [
+
+        ],
+        "include": [
+
+        ]
+      },
+      "decision": "omit-noncontent",
+      "reason": "Obraz występuje wyłącznie poza obszarem treści."
+    },
+    {
+      "id": "008:cc-logo.jpg",
+      "sourcePage": "008",
+      "savedFile": "cc-logo.jpg",
+      "sourcePath": "008_files/cc-logo.jpg",
+      "occurrences": [
+        {
+          "position": "outside-after-content",
+          "alt": "",
+          "title": "",
+          "caption": "",
+          "context": ""
+        }
+      ],
+      "positions": [
+        "outside-after-content"
+      ],
+      "position": "outside-after-content",
+      "mimeType": "image/jpeg",
+      "width": 173,
+      "height": 174,
+      "heightToWidthRatio": 1.0058,
+      "fileBytes": 44905,
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "context": "",
+      "matchedMarkers": {
+        "interface": [
+          "logo"
+        ],
+        "scan": [
+
+        ],
+        "explicitPageScan": [
+
+        ],
+        "include": [
+
+        ]
+      },
+      "decision": "omit-noncontent",
+      "reason": "Obraz występuje wyłącznie poza obszarem treści."
+    },
+    {
+      "id": "008:logo.png",
+      "sourcePage": "008",
+      "savedFile": "logo.png",
+      "sourcePath": "008_files/logo.png",
+      "occurrences": [
+        {
+          "position": "outside-before-content",
+          "alt": "Jonathan Edwards Center",
+          "title": "",
+          "caption": "",
+          "context": ""
+        }
+      ],
+      "positions": [
+        "outside-before-content"
+      ],
+      "position": "outside-before-content",
+      "mimeType": "image/png",
+      "width": 34,
+      "height": 61,
+      "heightToWidthRatio": 1.7941,
+      "fileBytes": 3369,
+      "alt": "Jonathan Edwards Center",
+      "title": "",
+      "caption": "",
+      "context": "",
+      "matchedMarkers": {
+        "interface": [
+          "jonathan edwards center",
+          "logo"
+        ],
+        "scan": [
+
+        ],
+        "explicitPageScan": [
+
+        ],
+        "include": [
+
+        ]
+      },
+      "decision": "omit-noncontent",
+      "reason": "Obraz występuje wyłącznie poza obszarem treści."
+    },
+    {
+      "id": "009:cc-logo.jpg",
+      "sourcePage": "009",
+      "savedFile": "cc-logo.jpg",
+      "sourcePath": "009_files/cc-logo.jpg",
+      "occurrences": [
+        {
+          "position": "outside-after-content",
+          "alt": "",
+          "title": "",
+          "caption": "",
+          "context": ""
+        }
+      ],
+      "positions": [
+        "outside-after-content"
+      ],
+      "position": "outside-after-content",
+      "mimeType": "image/jpeg",
+      "width": 173,
+      "height": 174,
+      "heightToWidthRatio": 1.0058,
+      "fileBytes": 44905,
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "context": "",
+      "matchedMarkers": {
+        "interface": [
+          "logo"
+        ],
+        "scan": [
+
+        ],
+        "explicitPageScan": [
+
+        ],
+        "include": [
+
+        ]
+      },
+      "decision": "omit-noncontent",
+      "reason": "Obraz występuje wyłącznie poza obszarem treści."
+    },
+    {
+      "id": "009:logo.png",
+      "sourcePage": "009",
+      "savedFile": "logo.png",
+      "sourcePath": "009_files/logo.png",
+      "occurrences": [
+        {
+          "position": "outside-before-content",
+          "alt": "Jonathan Edwards Center",
+          "title": "",
+          "caption": "",
+          "context": ""
+        }
+      ],
+      "positions": [
+        "outside-before-content"
+      ],
+      "position": "outside-before-content",
+      "mimeType": "image/png",
+      "width": 34,
+      "height": 61,
+      "heightToWidthRatio": 1.7941,
+      "fileBytes": 3369,
+      "alt": "Jonathan Edwards Center",
+      "title": "",
+      "caption": "",
+      "context": "",
+      "matchedMarkers": {
+        "interface": [
+          "jonathan edwards center",
+          "logo"
+        ],
+        "scan": [
+
+        ],
+        "explicitPageScan": [
+
+        ],
+        "include": [
+
+        ]
+      },
+      "decision": "omit-noncontent",
+      "reason": "Obraz występuje wyłącznie poza obszarem treści."
+    },
+    {
+      "id": "010:cc-logo.jpg",
+      "sourcePage": "010",
+      "savedFile": "cc-logo.jpg",
+      "sourcePath": "010_files/cc-logo.jpg",
+      "occurrences": [
+        {
+          "position": "outside-after-content",
+          "alt": "",
+          "title": "",
+          "caption": "",
+          "context": ""
+        }
+      ],
+      "positions": [
+        "outside-after-content"
+      ],
+      "position": "outside-after-content",
+      "mimeType": "image/jpeg",
+      "width": 173,
+      "height": 174,
+      "heightToWidthRatio": 1.0058,
+      "fileBytes": 44905,
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "context": "",
+      "matchedMarkers": {
+        "interface": [
+          "logo"
+        ],
+        "scan": [
+
+        ],
+        "explicitPageScan": [
+
+        ],
+        "include": [
+
+        ]
+      },
+      "decision": "omit-noncontent",
+      "reason": "Obraz występuje wyłącznie poza obszarem treści."
+    },
+    {
+      "id": "010:logo.png",
+      "sourcePage": "010",
+      "savedFile": "logo.png",
+      "sourcePath": "010_files/logo.png",
+      "occurrences": [
+        {
+          "position": "outside-before-content",
+          "alt": "Jonathan Edwards Center",
+          "title": "",
+          "caption": "",
+          "context": ""
+        }
+      ],
+      "positions": [
+        "outside-before-content"
+      ],
+      "position": "outside-before-content",
+      "mimeType": "image/png",
+      "width": 34,
+      "height": 61,
+      "heightToWidthRatio": 1.7941,
+      "fileBytes": 3369,
+      "alt": "Jonathan Edwards Center",
+      "title": "",
+      "caption": "",
+      "context": "",
+      "matchedMarkers": {
+        "interface": [
+          "jonathan edwards center",
+          "logo"
+        ],
+        "scan": [
+
+        ],
+        "explicitPageScan": [
+
+        ],
+        "include": [
+
+        ]
+      },
+      "decision": "omit-noncontent",
+      "reason": "Obraz występuje wyłącznie poza obszarem treści."
+    },
+    {
+      "id": "011:cc-logo.jpg",
+      "sourcePage": "011",
+      "savedFile": "cc-logo.jpg",
+      "sourcePath": "011_files/cc-logo.jpg",
+      "occurrences": [
+        {
+          "position": "outside-after-content",
+          "alt": "",
+          "title": "",
+          "caption": "",
+          "context": ""
+        }
+      ],
+      "positions": [
+        "outside-after-content"
+      ],
+      "position": "outside-after-content",
+      "mimeType": "image/jpeg",
+      "width": 173,
+      "height": 174,
+      "heightToWidthRatio": 1.0058,
+      "fileBytes": 44905,
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "context": "",
+      "matchedMarkers": {
+        "interface": [
+          "logo"
+        ],
+        "scan": [
+
+        ],
+        "explicitPageScan": [
+
+        ],
+        "include": [
+
+        ]
+      },
+      "decision": "omit-noncontent",
+      "reason": "Obraz występuje wyłącznie poza obszarem treści."
+    },
+    {
+      "id": "011:logo.png",
+      "sourcePage": "011",
+      "savedFile": "logo.png",
+      "sourcePath": "011_files/logo.png",
+      "occurrences": [
+        {
+          "position": "outside-before-content",
+          "alt": "Jonathan Edwards Center",
+          "title": "",
+          "caption": "",
+          "context": ""
+        }
+      ],
+      "positions": [
+        "outside-before-content"
+      ],
+      "position": "outside-before-content",
+      "mimeType": "image/png",
+      "width": 34,
+      "height": 61,
+      "heightToWidthRatio": 1.7941,
+      "fileBytes": 3369,
+      "alt": "Jonathan Edwards Center",
+      "title": "",
+      "caption": "",
+      "context": "",
+      "matchedMarkers": {
+        "interface": [
+          "jonathan edwards center",
+          "logo"
+        ],
+        "scan": [
+
+        ],
+        "explicitPageScan": [
+
+        ],
+        "include": [
+
+        ]
+      },
+      "decision": "omit-noncontent",
+      "reason": "Obraz występuje wyłącznie poza obszarem treści."
+    },
+    {
+      "id": "012:cc-logo.jpg",
+      "sourcePage": "012",
+      "savedFile": "cc-logo.jpg",
+      "sourcePath": "012_files/cc-logo.jpg",
+      "occurrences": [
+        {
+          "position": "outside-after-content",
+          "alt": "",
+          "title": "",
+          "caption": "",
+          "context": ""
+        }
+      ],
+      "positions": [
+        "outside-after-content"
+      ],
+      "position": "outside-after-content",
+      "mimeType": "image/jpeg",
+      "width": 173,
+      "height": 174,
+      "heightToWidthRatio": 1.0058,
+      "fileBytes": 44905,
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "context": "",
+      "matchedMarkers": {
+        "interface": [
+          "logo"
+        ],
+        "scan": [
+
+        ],
+        "explicitPageScan": [
+
+        ],
+        "include": [
+
+        ]
+      },
+      "decision": "omit-noncontent",
+      "reason": "Obraz występuje wyłącznie poza obszarem treści."
+    },
+    {
+      "id": "012:logo.png",
+      "sourcePage": "012",
+      "savedFile": "logo.png",
+      "sourcePath": "012_files/logo.png",
+      "occurrences": [
+        {
+          "position": "outside-before-content",
+          "alt": "Jonathan Edwards Center",
+          "title": "",
+          "caption": "",
+          "context": ""
+        }
+      ],
+      "positions": [
+        "outside-before-content"
+      ],
+      "position": "outside-before-content",
+      "mimeType": "image/png",
+      "width": 34,
+      "height": 61,
+      "heightToWidthRatio": 1.7941,
+      "fileBytes": 3369,
+      "alt": "Jonathan Edwards Center",
+      "title": "",
+      "caption": "",
+      "context": "",
+      "matchedMarkers": {
+        "interface": [
+          "jonathan edwards center",
+          "logo"
+        ],
+        "scan": [
+
+        ],
+        "explicitPageScan": [
+
+        ],
+        "include": [
+
+        ]
+      },
+      "decision": "omit-noncontent",
+      "reason": "Obraz występuje wyłącznie poza obszarem treści."
+    },
+    {
+      "id": "013:cc-logo.jpg",
+      "sourcePage": "013",
+      "savedFile": "cc-logo.jpg",
+      "sourcePath": "013_files/cc-logo.jpg",
+      "occurrences": [
+        {
+          "position": "outside-after-content",
+          "alt": "",
+          "title": "",
+          "caption": "",
+          "context": ""
+        }
+      ],
+      "positions": [
+        "outside-after-content"
+      ],
+      "position": "outside-after-content",
+      "mimeType": "image/jpeg",
+      "width": 173,
+      "height": 174,
+      "heightToWidthRatio": 1.0058,
+      "fileBytes": 44905,
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "context": "",
+      "matchedMarkers": {
+        "interface": [
+          "logo"
+        ],
+        "scan": [
+
+        ],
+        "explicitPageScan": [
+
+        ],
+        "include": [
+
+        ]
+      },
+      "decision": "omit-noncontent",
+      "reason": "Obraz występuje wyłącznie poza obszarem treści."
+    },
+    {
+      "id": "013:logo.png",
+      "sourcePage": "013",
+      "savedFile": "logo.png",
+      "sourcePath": "013_files/logo.png",
+      "occurrences": [
+        {
+          "position": "outside-before-content",
+          "alt": "Jonathan Edwards Center",
+          "title": "",
+          "caption": "",
+          "context": ""
+        }
+      ],
+      "positions": [
+        "outside-before-content"
+      ],
+      "position": "outside-before-content",
+      "mimeType": "image/png",
+      "width": 34,
+      "height": 61,
+      "heightToWidthRatio": 1.7941,
+      "fileBytes": 3369,
+      "alt": "Jonathan Edwards Center",
+      "title": "",
+      "caption": "",
+      "context": "",
+      "matchedMarkers": {
+        "interface": [
+          "jonathan edwards center",
+          "logo"
+        ],
+        "scan": [
+
+        ],
+        "explicitPageScan": [
+
+        ],
+        "include": [
+
+        ]
+      },
+      "decision": "omit-noncontent",
+      "reason": "Obraz występuje wyłącznie poza obszarem treści."
+    },
+    {
+      "id": "014:cc-logo.jpg",
+      "sourcePage": "014",
+      "savedFile": "cc-logo.jpg",
+      "sourcePath": "014_files/cc-logo.jpg",
+      "occurrences": [
+        {
+          "position": "outside-after-content",
+          "alt": "",
+          "title": "",
+          "caption": "",
+          "context": ""
+        }
+      ],
+      "positions": [
+        "outside-after-content"
+      ],
+      "position": "outside-after-content",
+      "mimeType": "image/jpeg",
+      "width": 173,
+      "height": 174,
+      "heightToWidthRatio": 1.0058,
+      "fileBytes": 44905,
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "context": "",
+      "matchedMarkers": {
+        "interface": [
+          "logo"
+        ],
+        "scan": [
+
+        ],
+        "explicitPageScan": [
+
+        ],
+        "include": [
+
+        ]
+      },
+      "decision": "omit-noncontent",
+      "reason": "Obraz występuje wyłącznie poza obszarem treści."
+    },
+    {
+      "id": "014:logo.png",
+      "sourcePage": "014",
+      "savedFile": "logo.png",
+      "sourcePath": "014_files/logo.png",
+      "occurrences": [
+        {
+          "position": "outside-before-content",
+          "alt": "Jonathan Edwards Center",
+          "title": "",
+          "caption": "",
+          "context": ""
+        }
+      ],
+      "positions": [
+        "outside-before-content"
+      ],
+      "position": "outside-before-content",
+      "mimeType": "image/png",
+      "width": 34,
+      "height": 61,
+      "heightToWidthRatio": 1.7941,
+      "fileBytes": 3369,
+      "alt": "Jonathan Edwards Center",
+      "title": "",
+      "caption": "",
+      "context": "",
+      "matchedMarkers": {
+        "interface": [
+          "jonathan edwards center",
+          "logo"
+        ],
+        "scan": [
+
+        ],
+        "explicitPageScan": [
+
+        ],
+        "include": [
+
+        ]
+      },
+      "decision": "omit-noncontent",
+      "reason": "Obraz występuje wyłącznie poza obszarem treści."
+    },
+    {
+      "id": "015:cc-logo.jpg",
+      "sourcePage": "015",
+      "savedFile": "cc-logo.jpg",
+      "sourcePath": "015_files/cc-logo.jpg",
+      "occurrences": [
+        {
+          "position": "outside-after-content",
+          "alt": "",
+          "title": "",
+          "caption": "",
+          "context": ""
+        }
+      ],
+      "positions": [
+        "outside-after-content"
+      ],
+      "position": "outside-after-content",
+      "mimeType": "image/jpeg",
+      "width": 173,
+      "height": 174,
+      "heightToWidthRatio": 1.0058,
+      "fileBytes": 44905,
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "context": "",
+      "matchedMarkers": {
+        "interface": [
+          "logo"
+        ],
+        "scan": [
+
+        ],
+        "explicitPageScan": [
+
+        ],
+        "include": [
+
+        ]
+      },
+      "decision": "omit-noncontent",
+      "reason": "Obraz występuje wyłącznie poza obszarem treści."
+    },
+    {
+      "id": "015:logo.png",
+      "sourcePage": "015",
+      "savedFile": "logo.png",
+      "sourcePath": "015_files/logo.png",
+      "occurrences": [
+        {
+          "position": "outside-before-content",
+          "alt": "Jonathan Edwards Center",
+          "title": "",
+          "caption": "",
+          "context": ""
+        }
+      ],
+      "positions": [
+        "outside-before-content"
+      ],
+      "position": "outside-before-content",
+      "mimeType": "image/png",
+      "width": 34,
+      "height": 61,
+      "heightToWidthRatio": 1.7941,
+      "fileBytes": 3369,
+      "alt": "Jonathan Edwards Center",
+      "title": "",
+      "caption": "",
+      "context": "",
+      "matchedMarkers": {
+        "interface": [
+          "jonathan edwards center",
+          "logo"
+        ],
+        "scan": [
+
+        ],
+        "explicitPageScan": [
+
+        ],
+        "include": [
+
+        ]
+      },
+      "decision": "omit-noncontent",
+      "reason": "Obraz występuje wyłącznie poza obszarem treści."
+    },
+    {
+      "id": "016:cc-logo.jpg",
+      "sourcePage": "016",
+      "savedFile": "cc-logo.jpg",
+      "sourcePath": "016_files/cc-logo.jpg",
+      "occurrences": [
+        {
+          "position": "outside-after-content",
+          "alt": "",
+          "title": "",
+          "caption": "",
+          "context": ""
+        }
+      ],
+      "positions": [
+        "outside-after-content"
+      ],
+      "position": "outside-after-content",
+      "mimeType": "image/jpeg",
+      "width": 173,
+      "height": 174,
+      "heightToWidthRatio": 1.0058,
+      "fileBytes": 44905,
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "context": "",
+      "matchedMarkers": {
+        "interface": [
+          "logo"
+        ],
+        "scan": [
+
+        ],
+        "explicitPageScan": [
+
+        ],
+        "include": [
+
+        ]
+      },
+      "decision": "omit-noncontent",
+      "reason": "Obraz występuje wyłącznie poza obszarem treści."
+    },
+    {
+      "id": "016:logo.png",
+      "sourcePage": "016",
+      "savedFile": "logo.png",
+      "sourcePath": "016_files/logo.png",
+      "occurrences": [
+        {
+          "position": "outside-before-content",
+          "alt": "Jonathan Edwards Center",
+          "title": "",
+          "caption": "",
+          "context": ""
+        }
+      ],
+      "positions": [
+        "outside-before-content"
+      ],
+      "position": "outside-before-content",
+      "mimeType": "image/png",
+      "width": 34,
+      "height": 61,
+      "heightToWidthRatio": 1.7941,
+      "fileBytes": 3369,
+      "alt": "Jonathan Edwards Center",
+      "title": "",
+      "caption": "",
+      "context": "",
+      "matchedMarkers": {
+        "interface": [
+          "jonathan edwards center",
+          "logo"
+        ],
+        "scan": [
+
+        ],
+        "explicitPageScan": [
+
+        ],
+        "include": [
+
+        ]
+      },
+      "decision": "omit-noncontent",
+      "reason": "Obraz występuje wyłącznie poza obszarem treści."
+    },
+    {
+      "id": "017:cc-logo.jpg",
+      "sourcePage": "017",
+      "savedFile": "cc-logo.jpg",
+      "sourcePath": "017_files/cc-logo.jpg",
+      "occurrences": [
+        {
+          "position": "outside-after-content",
+          "alt": "",
+          "title": "",
+          "caption": "",
+          "context": ""
+        }
+      ],
+      "positions": [
+        "outside-after-content"
+      ],
+      "position": "outside-after-content",
+      "mimeType": "image/jpeg",
+      "width": 173,
+      "height": 174,
+      "heightToWidthRatio": 1.0058,
+      "fileBytes": 44905,
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "context": "",
+      "matchedMarkers": {
+        "interface": [
+          "logo"
+        ],
+        "scan": [
+
+        ],
+        "explicitPageScan": [
+
+        ],
+        "include": [
+
+        ]
+      },
+      "decision": "omit-noncontent",
+      "reason": "Obraz występuje wyłącznie poza obszarem treści."
+    },
+    {
+      "id": "017:logo.png",
+      "sourcePage": "017",
+      "savedFile": "logo.png",
+      "sourcePath": "017_files/logo.png",
+      "occurrences": [
+        {
+          "position": "outside-before-content",
+          "alt": "Jonathan Edwards Center",
+          "title": "",
+          "caption": "",
+          "context": ""
+        }
+      ],
+      "positions": [
+        "outside-before-content"
+      ],
+      "position": "outside-before-content",
+      "mimeType": "image/png",
+      "width": 34,
+      "height": 61,
+      "heightToWidthRatio": 1.7941,
+      "fileBytes": 3369,
+      "alt": "Jonathan Edwards Center",
+      "title": "",
+      "caption": "",
+      "context": "",
+      "matchedMarkers": {
+        "interface": [
+          "jonathan edwards center",
+          "logo"
+        ],
+        "scan": [
+
+        ],
+        "explicitPageScan": [
+
+        ],
+        "include": [
+
+        ]
+      },
+      "decision": "omit-noncontent",
+      "reason": "Obraz występuje wyłącznie poza obszarem treści."
+    },
+    {
+      "id": "018:cc-logo.jpg",
+      "sourcePage": "018",
+      "savedFile": "cc-logo.jpg",
+      "sourcePath": "018_files/cc-logo.jpg",
+      "occurrences": [
+        {
+          "position": "outside-after-content",
+          "alt": "",
+          "title": "",
+          "caption": "",
+          "context": ""
+        }
+      ],
+      "positions": [
+        "outside-after-content"
+      ],
+      "position": "outside-after-content",
+      "mimeType": "image/jpeg",
+      "width": 173,
+      "height": 174,
+      "heightToWidthRatio": 1.0058,
+      "fileBytes": 44905,
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "context": "",
+      "matchedMarkers": {
+        "interface": [
+          "logo"
+        ],
+        "scan": [
+
+        ],
+        "explicitPageScan": [
+
+        ],
+        "include": [
+
+        ]
+      },
+      "decision": "omit-noncontent",
+      "reason": "Obraz występuje wyłącznie poza obszarem treści."
+    },
+    {
+      "id": "018:logo.png",
+      "sourcePage": "018",
+      "savedFile": "logo.png",
+      "sourcePath": "018_files/logo.png",
+      "occurrences": [
+        {
+          "position": "outside-before-content",
+          "alt": "Jonathan Edwards Center",
+          "title": "",
+          "caption": "",
+          "context": ""
+        }
+      ],
+      "positions": [
+        "outside-before-content"
+      ],
+      "position": "outside-before-content",
+      "mimeType": "image/png",
+      "width": 34,
+      "height": 61,
+      "heightToWidthRatio": 1.7941,
+      "fileBytes": 3369,
+      "alt": "Jonathan Edwards Center",
+      "title": "",
+      "caption": "",
+      "context": "",
+      "matchedMarkers": {
+        "interface": [
+          "jonathan edwards center",
+          "logo"
+        ],
+        "scan": [
+
+        ],
+        "explicitPageScan": [
+
+        ],
+        "include": [
+
+        ]
+      },
+      "decision": "omit-noncontent",
+      "reason": "Obraz występuje wyłącznie poza obszarem treści."
+    },
+    {
+      "id": "019:cc-logo.jpg",
+      "sourcePage": "019",
+      "savedFile": "cc-logo.jpg",
+      "sourcePath": "019_files/cc-logo.jpg",
+      "occurrences": [
+        {
+          "position": "outside-after-content",
+          "alt": "",
+          "title": "",
+          "caption": "",
+          "context": ""
+        }
+      ],
+      "positions": [
+        "outside-after-content"
+      ],
+      "position": "outside-after-content",
+      "mimeType": "image/jpeg",
+      "width": 173,
+      "height": 174,
+      "heightToWidthRatio": 1.0058,
+      "fileBytes": 44905,
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "context": "",
+      "matchedMarkers": {
+        "interface": [
+          "logo"
+        ],
+        "scan": [
+
+        ],
+        "explicitPageScan": [
+
+        ],
+        "include": [
+
+        ]
+      },
+      "decision": "omit-noncontent",
+      "reason": "Obraz występuje wyłącznie poza obszarem treści."
+    },
+    {
+      "id": "019:logo.png",
+      "sourcePage": "019",
+      "savedFile": "logo.png",
+      "sourcePath": "019_files/logo.png",
+      "occurrences": [
+        {
+          "position": "outside-before-content",
+          "alt": "Jonathan Edwards Center",
+          "title": "",
+          "caption": "",
+          "context": ""
+        }
+      ],
+      "positions": [
+        "outside-before-content"
+      ],
+      "position": "outside-before-content",
+      "mimeType": "image/png",
+      "width": 34,
+      "height": 61,
+      "heightToWidthRatio": 1.7941,
+      "fileBytes": 3369,
+      "alt": "Jonathan Edwards Center",
+      "title": "",
+      "caption": "",
+      "context": "",
+      "matchedMarkers": {
+        "interface": [
+          "jonathan edwards center",
+          "logo"
+        ],
+        "scan": [
+
+        ],
+        "explicitPageScan": [
+
+        ],
+        "include": [
+
+        ]
+      },
+      "decision": "omit-noncontent",
+      "reason": "Obraz występuje wyłącznie poza obszarem treści."
+    },
+    {
+      "id": "020:cc-logo.jpg",
+      "sourcePage": "020",
+      "savedFile": "cc-logo.jpg",
+      "sourcePath": "020_files/cc-logo.jpg",
+      "occurrences": [
+        {
+          "position": "outside-after-content",
+          "alt": "",
+          "title": "",
+          "caption": "",
+          "context": ""
+        }
+      ],
+      "positions": [
+        "outside-after-content"
+      ],
+      "position": "outside-after-content",
+      "mimeType": "image/jpeg",
+      "width": 173,
+      "height": 174,
+      "heightToWidthRatio": 1.0058,
+      "fileBytes": 44905,
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "context": "",
+      "matchedMarkers": {
+        "interface": [
+          "logo"
+        ],
+        "scan": [
+
+        ],
+        "explicitPageScan": [
+
+        ],
+        "include": [
+
+        ]
+      },
+      "decision": "omit-noncontent",
+      "reason": "Obraz występuje wyłącznie poza obszarem treści."
+    },
+    {
+      "id": "020:logo.png",
+      "sourcePage": "020",
+      "savedFile": "logo.png",
+      "sourcePath": "020_files/logo.png",
+      "occurrences": [
+        {
+          "position": "outside-before-content",
+          "alt": "Jonathan Edwards Center",
+          "title": "",
+          "caption": "",
+          "context": ""
+        }
+      ],
+      "positions": [
+        "outside-before-content"
+      ],
+      "position": "outside-before-content",
+      "mimeType": "image/png",
+      "width": 34,
+      "height": 61,
+      "heightToWidthRatio": 1.7941,
+      "fileBytes": 3369,
+      "alt": "Jonathan Edwards Center",
+      "title": "",
+      "caption": "",
+      "context": "",
+      "matchedMarkers": {
+        "interface": [
+          "jonathan edwards center",
+          "logo"
+        ],
+        "scan": [
+
+        ],
+        "explicitPageScan": [
+
+        ],
+        "include": [
+
+        ]
+      },
+      "decision": "omit-noncontent",
+      "reason": "Obraz występuje wyłącznie poza obszarem treści."
+    },
+    {
+      "id": "021:cc-logo.jpg",
+      "sourcePage": "021",
+      "savedFile": "cc-logo.jpg",
+      "sourcePath": "021_files/cc-logo.jpg",
+      "occurrences": [
+        {
+          "position": "outside-after-content",
+          "alt": "",
+          "title": "",
+          "caption": "",
+          "context": ""
+        }
+      ],
+      "positions": [
+        "outside-after-content"
+      ],
+      "position": "outside-after-content",
+      "mimeType": "image/jpeg",
+      "width": 173,
+      "height": 174,
+      "heightToWidthRatio": 1.0058,
+      "fileBytes": 44905,
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "context": "",
+      "matchedMarkers": {
+        "interface": [
+          "logo"
+        ],
+        "scan": [
+
+        ],
+        "explicitPageScan": [
+
+        ],
+        "include": [
+
+        ]
+      },
+      "decision": "omit-noncontent",
+      "reason": "Obraz występuje wyłącznie poza obszarem treści."
+    },
+    {
+      "id": "021:logo.png",
+      "sourcePage": "021",
+      "savedFile": "logo.png",
+      "sourcePath": "021_files/logo.png",
+      "occurrences": [
+        {
+          "position": "outside-before-content",
+          "alt": "Jonathan Edwards Center",
+          "title": "",
+          "caption": "",
+          "context": ""
+        }
+      ],
+      "positions": [
+        "outside-before-content"
+      ],
+      "position": "outside-before-content",
+      "mimeType": "image/png",
+      "width": 34,
+      "height": 61,
+      "heightToWidthRatio": 1.7941,
+      "fileBytes": 3369,
+      "alt": "Jonathan Edwards Center",
+      "title": "",
+      "caption": "",
+      "context": "",
+      "matchedMarkers": {
+        "interface": [
+          "jonathan edwards center",
+          "logo"
+        ],
+        "scan": [
+
+        ],
+        "explicitPageScan": [
+
+        ],
+        "include": [
+
+        ]
+      },
+      "decision": "omit-noncontent",
+      "reason": "Obraz występuje wyłącznie poza obszarem treści."
+    },
+    {
+      "id": "022:cc-logo.jpg",
+      "sourcePage": "022",
+      "savedFile": "cc-logo.jpg",
+      "sourcePath": "022_files/cc-logo.jpg",
+      "occurrences": [
+        {
+          "position": "outside-after-content",
+          "alt": "",
+          "title": "",
+          "caption": "",
+          "context": ""
+        }
+      ],
+      "positions": [
+        "outside-after-content"
+      ],
+      "position": "outside-after-content",
+      "mimeType": "image/jpeg",
+      "width": 173,
+      "height": 174,
+      "heightToWidthRatio": 1.0058,
+      "fileBytes": 44905,
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "context": "",
+      "matchedMarkers": {
+        "interface": [
+          "logo"
+        ],
+        "scan": [
+
+        ],
+        "explicitPageScan": [
+
+        ],
+        "include": [
+
+        ]
+      },
+      "decision": "omit-noncontent",
+      "reason": "Obraz występuje wyłącznie poza obszarem treści."
+    },
+    {
+      "id": "022:logo.png",
+      "sourcePage": "022",
+      "savedFile": "logo.png",
+      "sourcePath": "022_files/logo.png",
+      "occurrences": [
+        {
+          "position": "outside-before-content",
+          "alt": "Jonathan Edwards Center",
+          "title": "",
+          "caption": "",
+          "context": ""
+        }
+      ],
+      "positions": [
+        "outside-before-content"
+      ],
+      "position": "outside-before-content",
+      "mimeType": "image/png",
+      "width": 34,
+      "height": 61,
+      "heightToWidthRatio": 1.7941,
+      "fileBytes": 3369,
+      "alt": "Jonathan Edwards Center",
+      "title": "",
+      "caption": "",
+      "context": "",
+      "matchedMarkers": {
+        "interface": [
+          "jonathan edwards center",
+          "logo"
+        ],
+        "scan": [
+
+        ],
+        "explicitPageScan": [
+
+        ],
+        "include": [
+
+        ]
+      },
+      "decision": "omit-noncontent",
+      "reason": "Obraz występuje wyłącznie poza obszarem treści."
+    },
+    {
+      "id": "023:cc-logo.jpg",
+      "sourcePage": "023",
+      "savedFile": "cc-logo.jpg",
+      "sourcePath": "023_files/cc-logo.jpg",
+      "occurrences": [
+        {
+          "position": "outside-after-content",
+          "alt": "",
+          "title": "",
+          "caption": "",
+          "context": ""
+        }
+      ],
+      "positions": [
+        "outside-after-content"
+      ],
+      "position": "outside-after-content",
+      "mimeType": "image/jpeg",
+      "width": 173,
+      "height": 174,
+      "heightToWidthRatio": 1.0058,
+      "fileBytes": 44905,
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "context": "",
+      "matchedMarkers": {
+        "interface": [
+          "logo"
+        ],
+        "scan": [
+
+        ],
+        "explicitPageScan": [
+
+        ],
+        "include": [
+
+        ]
+      },
+      "decision": "omit-noncontent",
+      "reason": "Obraz występuje wyłącznie poza obszarem treści."
+    },
+    {
+      "id": "023:logo.png",
+      "sourcePage": "023",
+      "savedFile": "logo.png",
+      "sourcePath": "023_files/logo.png",
+      "occurrences": [
+        {
+          "position": "outside-before-content",
+          "alt": "Jonathan Edwards Center",
+          "title": "",
+          "caption": "",
+          "context": ""
+        }
+      ],
+      "positions": [
+        "outside-before-content"
+      ],
+      "position": "outside-before-content",
+      "mimeType": "image/png",
+      "width": 34,
+      "height": 61,
+      "heightToWidthRatio": 1.7941,
+      "fileBytes": 3369,
+      "alt": "Jonathan Edwards Center",
+      "title": "",
+      "caption": "",
+      "context": "",
+      "matchedMarkers": {
+        "interface": [
+          "jonathan edwards center",
+          "logo"
+        ],
+        "scan": [
+
+        ],
+        "explicitPageScan": [
+
+        ],
+        "include": [
+
+        ]
+      },
+      "decision": "omit-noncontent",
+      "reason": "Obraz występuje wyłącznie poza obszarem treści."
+    },
+    {
+      "id": "024:cc-logo.jpg",
+      "sourcePage": "024",
+      "savedFile": "cc-logo.jpg",
+      "sourcePath": "024_files/cc-logo.jpg",
+      "occurrences": [
+        {
+          "position": "outside-after-content",
+          "alt": "",
+          "title": "",
+          "caption": "",
+          "context": ""
+        }
+      ],
+      "positions": [
+        "outside-after-content"
+      ],
+      "position": "outside-after-content",
+      "mimeType": "image/jpeg",
+      "width": 173,
+      "height": 174,
+      "heightToWidthRatio": 1.0058,
+      "fileBytes": 44905,
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "context": "",
+      "matchedMarkers": {
+        "interface": [
+          "logo"
+        ],
+        "scan": [
+
+        ],
+        "explicitPageScan": [
+
+        ],
+        "include": [
+
+        ]
+      },
+      "decision": "omit-noncontent",
+      "reason": "Obraz występuje wyłącznie poza obszarem treści."
+    },
+    {
+      "id": "024:logo.png",
+      "sourcePage": "024",
+      "savedFile": "logo.png",
+      "sourcePath": "024_files/logo.png",
+      "occurrences": [
+        {
+          "position": "outside-before-content",
+          "alt": "Jonathan Edwards Center",
+          "title": "",
+          "caption": "",
+          "context": ""
+        }
+      ],
+      "positions": [
+        "outside-before-content"
+      ],
+      "position": "outside-before-content",
+      "mimeType": "image/png",
+      "width": 34,
+      "height": 61,
+      "heightToWidthRatio": 1.7941,
+      "fileBytes": 3369,
+      "alt": "Jonathan Edwards Center",
+      "title": "",
+      "caption": "",
+      "context": "",
+      "matchedMarkers": {
+        "interface": [
+          "jonathan edwards center",
+          "logo"
+        ],
+        "scan": [
+
+        ],
+        "explicitPageScan": [
+
+        ],
+        "include": [
+
+        ]
+      },
+      "decision": "omit-noncontent",
+      "reason": "Obraz występuje wyłącznie poza obszarem treści."
+    },
+    {
+      "id": "025:cc-logo.jpg",
+      "sourcePage": "025",
+      "savedFile": "cc-logo.jpg",
+      "sourcePath": "025_files/cc-logo.jpg",
+      "occurrences": [
+        {
+          "position": "outside-after-content",
+          "alt": "",
+          "title": "",
+          "caption": "",
+          "context": ""
+        }
+      ],
+      "positions": [
+        "outside-after-content"
+      ],
+      "position": "outside-after-content",
+      "mimeType": "image/jpeg",
+      "width": 173,
+      "height": 174,
+      "heightToWidthRatio": 1.0058,
+      "fileBytes": 44905,
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "context": "",
+      "matchedMarkers": {
+        "interface": [
+          "logo"
+        ],
+        "scan": [
+
+        ],
+        "explicitPageScan": [
+
+        ],
+        "include": [
+
+        ]
+      },
+      "decision": "omit-noncontent",
+      "reason": "Obraz występuje wyłącznie poza obszarem treści."
+    },
+    {
+      "id": "025:logo.png",
+      "sourcePage": "025",
+      "savedFile": "logo.png",
+      "sourcePath": "025_files/logo.png",
+      "occurrences": [
+        {
+          "position": "outside-before-content",
+          "alt": "Jonathan Edwards Center",
+          "title": "",
+          "caption": "",
+          "context": ""
+        }
+      ],
+      "positions": [
+        "outside-before-content"
+      ],
+      "position": "outside-before-content",
+      "mimeType": "image/png",
+      "width": 34,
+      "height": 61,
+      "heightToWidthRatio": 1.7941,
+      "fileBytes": 3369,
+      "alt": "Jonathan Edwards Center",
+      "title": "",
+      "caption": "",
+      "context": "",
+      "matchedMarkers": {
+        "interface": [
+          "jonathan edwards center",
+          "logo"
+        ],
+        "scan": [
+
+        ],
+        "explicitPageScan": [
+
+        ],
+        "include": [
+
+        ]
+      },
+      "decision": "omit-noncontent",
+      "reason": "Obraz występuje wyłącznie poza obszarem treści."
+    },
+    {
+      "id": "026:cc-logo.jpg",
+      "sourcePage": "026",
+      "savedFile": "cc-logo.jpg",
+      "sourcePath": "026_files/cc-logo.jpg",
+      "occurrences": [
+        {
+          "position": "outside-after-content",
+          "alt": "",
+          "title": "",
+          "caption": "",
+          "context": ""
+        }
+      ],
+      "positions": [
+        "outside-after-content"
+      ],
+      "position": "outside-after-content",
+      "mimeType": "image/jpeg",
+      "width": 173,
+      "height": 174,
+      "heightToWidthRatio": 1.0058,
+      "fileBytes": 44905,
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "context": "",
+      "matchedMarkers": {
+        "interface": [
+          "logo"
+        ],
+        "scan": [
+
+        ],
+        "explicitPageScan": [
+
+        ],
+        "include": [
+
+        ]
+      },
+      "decision": "omit-noncontent",
+      "reason": "Obraz występuje wyłącznie poza obszarem treści."
+    },
+    {
+      "id": "026:logo.png",
+      "sourcePage": "026",
+      "savedFile": "logo.png",
+      "sourcePath": "026_files/logo.png",
+      "occurrences": [
+        {
+          "position": "outside-before-content",
+          "alt": "Jonathan Edwards Center",
+          "title": "",
+          "caption": "",
+          "context": ""
+        }
+      ],
+      "positions": [
+        "outside-before-content"
+      ],
+      "position": "outside-before-content",
+      "mimeType": "image/png",
+      "width": 34,
+      "height": 61,
+      "heightToWidthRatio": 1.7941,
+      "fileBytes": 3369,
+      "alt": "Jonathan Edwards Center",
+      "title": "",
+      "caption": "",
+      "context": "",
+      "matchedMarkers": {
+        "interface": [
+          "jonathan edwards center",
+          "logo"
+        ],
+        "scan": [
+
+        ],
+        "explicitPageScan": [
+
+        ],
+        "include": [
+
+        ]
+      },
+      "decision": "omit-noncontent",
+      "reason": "Obraz występuje wyłącznie poza obszarem treści."
+    },
+    {
+      "id": "027:cc-logo.jpg",
+      "sourcePage": "027",
+      "savedFile": "cc-logo.jpg",
+      "sourcePath": "027_files/cc-logo.jpg",
+      "occurrences": [
+        {
+          "position": "outside-after-content",
+          "alt": "",
+          "title": "",
+          "caption": "",
+          "context": ""
+        }
+      ],
+      "positions": [
+        "outside-after-content"
+      ],
+      "position": "outside-after-content",
+      "mimeType": "image/jpeg",
+      "width": 173,
+      "height": 174,
+      "heightToWidthRatio": 1.0058,
+      "fileBytes": 44905,
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "context": "",
+      "matchedMarkers": {
+        "interface": [
+          "logo"
+        ],
+        "scan": [
+
+        ],
+        "explicitPageScan": [
+
+        ],
+        "include": [
+
+        ]
+      },
+      "decision": "omit-noncontent",
+      "reason": "Obraz występuje wyłącznie poza obszarem treści."
+    },
+    {
+      "id": "027:logo.png",
+      "sourcePage": "027",
+      "savedFile": "logo.png",
+      "sourcePath": "027_files/logo.png",
+      "occurrences": [
+        {
+          "position": "outside-before-content",
+          "alt": "Jonathan Edwards Center",
+          "title": "",
+          "caption": "",
+          "context": ""
+        }
+      ],
+      "positions": [
+        "outside-before-content"
+      ],
+      "position": "outside-before-content",
+      "mimeType": "image/png",
+      "width": 34,
+      "height": 61,
+      "heightToWidthRatio": 1.7941,
+      "fileBytes": 3369,
+      "alt": "Jonathan Edwards Center",
+      "title": "",
+      "caption": "",
+      "context": "",
+      "matchedMarkers": {
+        "interface": [
+          "jonathan edwards center",
+          "logo"
+        ],
+        "scan": [
+
+        ],
+        "explicitPageScan": [
+
+        ],
+        "include": [
+
+        ]
+      },
+      "decision": "omit-noncontent",
+      "reason": "Obraz występuje wyłącznie poza obszarem treści."
+    },
+    {
+      "id": "028:cc-logo.jpg",
+      "sourcePage": "028",
+      "savedFile": "cc-logo.jpg",
+      "sourcePath": "028_files/cc-logo.jpg",
+      "occurrences": [
+        {
+          "position": "outside-after-content",
+          "alt": "",
+          "title": "",
+          "caption": "",
+          "context": ""
+        }
+      ],
+      "positions": [
+        "outside-after-content"
+      ],
+      "position": "outside-after-content",
+      "mimeType": "image/jpeg",
+      "width": 173,
+      "height": 174,
+      "heightToWidthRatio": 1.0058,
+      "fileBytes": 44905,
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "context": "",
+      "matchedMarkers": {
+        "interface": [
+          "logo"
+        ],
+        "scan": [
+
+        ],
+        "explicitPageScan": [
+
+        ],
+        "include": [
+
+        ]
+      },
+      "decision": "omit-noncontent",
+      "reason": "Obraz występuje wyłącznie poza obszarem treści."
+    },
+    {
+      "id": "028:logo.png",
+      "sourcePage": "028",
+      "savedFile": "logo.png",
+      "sourcePath": "028_files/logo.png",
+      "occurrences": [
+        {
+          "position": "outside-before-content",
+          "alt": "Jonathan Edwards Center",
+          "title": "",
+          "caption": "",
+          "context": ""
+        }
+      ],
+      "positions": [
+        "outside-before-content"
+      ],
+      "position": "outside-before-content",
+      "mimeType": "image/png",
+      "width": 34,
+      "height": 61,
+      "heightToWidthRatio": 1.7941,
+      "fileBytes": 3369,
+      "alt": "Jonathan Edwards Center",
+      "title": "",
+      "caption": "",
+      "context": "",
+      "matchedMarkers": {
+        "interface": [
+          "jonathan edwards center",
+          "logo"
+        ],
+        "scan": [
+
+        ],
+        "explicitPageScan": [
+
+        ],
+        "include": [
+
+        ]
+      },
+      "decision": "omit-noncontent",
+      "reason": "Obraz występuje wyłącznie poza obszarem treści."
+    },
+    {
+      "id": "029:cc-logo.jpg",
+      "sourcePage": "029",
+      "savedFile": "cc-logo.jpg",
+      "sourcePath": "029_files/cc-logo.jpg",
+      "occurrences": [
+        {
+          "position": "outside-after-content",
+          "alt": "",
+          "title": "",
+          "caption": "",
+          "context": ""
+        }
+      ],
+      "positions": [
+        "outside-after-content"
+      ],
+      "position": "outside-after-content",
+      "mimeType": "image/jpeg",
+      "width": 173,
+      "height": 174,
+      "heightToWidthRatio": 1.0058,
+      "fileBytes": 44905,
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "context": "",
+      "matchedMarkers": {
+        "interface": [
+          "logo"
+        ],
+        "scan": [
+
+        ],
+        "explicitPageScan": [
+
+        ],
+        "include": [
+
+        ]
+      },
+      "decision": "omit-noncontent",
+      "reason": "Obraz występuje wyłącznie poza obszarem treści."
+    },
+    {
+      "id": "029:logo.png",
+      "sourcePage": "029",
+      "savedFile": "logo.png",
+      "sourcePath": "029_files/logo.png",
+      "occurrences": [
+        {
+          "position": "outside-before-content",
+          "alt": "Jonathan Edwards Center",
+          "title": "",
+          "caption": "",
+          "context": ""
+        }
+      ],
+      "positions": [
+        "outside-before-content"
+      ],
+      "position": "outside-before-content",
+      "mimeType": "image/png",
+      "width": 34,
+      "height": 61,
+      "heightToWidthRatio": 1.7941,
+      "fileBytes": 3369,
+      "alt": "Jonathan Edwards Center",
+      "title": "",
+      "caption": "",
+      "context": "",
+      "matchedMarkers": {
+        "interface": [
+          "jonathan edwards center",
+          "logo"
+        ],
+        "scan": [
+
+        ],
+        "explicitPageScan": [
+
+        ],
+        "include": [
+
+        ]
+      },
+      "decision": "omit-noncontent",
+      "reason": "Obraz występuje wyłącznie poza obszarem treści."
+    },
+    {
+      "id": "030:cc-logo.jpg",
+      "sourcePage": "030",
+      "savedFile": "cc-logo.jpg",
+      "sourcePath": "030_files/cc-logo.jpg",
+      "occurrences": [
+        {
+          "position": "outside-after-content",
+          "alt": "",
+          "title": "",
+          "caption": "",
+          "context": ""
+        }
+      ],
+      "positions": [
+        "outside-after-content"
+      ],
+      "position": "outside-after-content",
+      "mimeType": "image/jpeg",
+      "width": 173,
+      "height": 174,
+      "heightToWidthRatio": 1.0058,
+      "fileBytes": 44905,
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "context": "",
+      "matchedMarkers": {
+        "interface": [
+          "logo"
+        ],
+        "scan": [
+
+        ],
+        "explicitPageScan": [
+
+        ],
+        "include": [
+
+        ]
+      },
+      "decision": "omit-noncontent",
+      "reason": "Obraz występuje wyłącznie poza obszarem treści."
+    },
+    {
+      "id": "030:logo.png",
+      "sourcePage": "030",
+      "savedFile": "logo.png",
+      "sourcePath": "030_files/logo.png",
+      "occurrences": [
+        {
+          "position": "outside-before-content",
+          "alt": "Jonathan Edwards Center",
+          "title": "",
+          "caption": "",
+          "context": ""
+        }
+      ],
+      "positions": [
+        "outside-before-content"
+      ],
+      "position": "outside-before-content",
+      "mimeType": "image/png",
+      "width": 34,
+      "height": 61,
+      "heightToWidthRatio": 1.7941,
+      "fileBytes": 3369,
+      "alt": "Jonathan Edwards Center",
+      "title": "",
+      "caption": "",
+      "context": "",
+      "matchedMarkers": {
+        "interface": [
+          "jonathan edwards center",
+          "logo"
+        ],
+        "scan": [
+
+        ],
+        "explicitPageScan": [
+
+        ],
+        "include": [
+
+        ]
+      },
+      "decision": "omit-noncontent",
+      "reason": "Obraz występuje wyłącznie poza obszarem treści."
+    },
+    {
+      "id": "031:cc-logo.jpg",
+      "sourcePage": "031",
+      "savedFile": "cc-logo.jpg",
+      "sourcePath": "031_files/cc-logo.jpg",
+      "occurrences": [
+        {
+          "position": "outside-after-content",
+          "alt": "",
+          "title": "",
+          "caption": "",
+          "context": ""
+        }
+      ],
+      "positions": [
+        "outside-after-content"
+      ],
+      "position": "outside-after-content",
+      "mimeType": "image/jpeg",
+      "width": 173,
+      "height": 174,
+      "heightToWidthRatio": 1.0058,
+      "fileBytes": 44905,
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "context": "",
+      "matchedMarkers": {
+        "interface": [
+          "logo"
+        ],
+        "scan": [
+
+        ],
+        "explicitPageScan": [
+
+        ],
+        "include": [
+
+        ]
+      },
+      "decision": "omit-noncontent",
+      "reason": "Obraz występuje wyłącznie poza obszarem treści."
+    },
+    {
+      "id": "031:logo.png",
+      "sourcePage": "031",
+      "savedFile": "logo.png",
+      "sourcePath": "031_files/logo.png",
+      "occurrences": [
+        {
+          "position": "outside-before-content",
+          "alt": "Jonathan Edwards Center",
+          "title": "",
+          "caption": "",
+          "context": ""
+        }
+      ],
+      "positions": [
+        "outside-before-content"
+      ],
+      "position": "outside-before-content",
+      "mimeType": "image/png",
+      "width": 34,
+      "height": 61,
+      "heightToWidthRatio": 1.7941,
+      "fileBytes": 3369,
+      "alt": "Jonathan Edwards Center",
+      "title": "",
+      "caption": "",
+      "context": "",
+      "matchedMarkers": {
+        "interface": [
+          "jonathan edwards center",
+          "logo"
+        ],
+        "scan": [
+
+        ],
+        "explicitPageScan": [
+
+        ],
+        "include": [
+
+        ]
+      },
+      "decision": "omit-noncontent",
+      "reason": "Obraz występuje wyłącznie poza obszarem treści."
+    },
+    {
+      "id": "032:cc-logo.jpg",
+      "sourcePage": "032",
+      "savedFile": "cc-logo.jpg",
+      "sourcePath": "032_files/cc-logo.jpg",
+      "occurrences": [
+        {
+          "position": "outside-after-content",
+          "alt": "",
+          "title": "",
+          "caption": "",
+          "context": ""
+        }
+      ],
+      "positions": [
+        "outside-after-content"
+      ],
+      "position": "outside-after-content",
+      "mimeType": "image/jpeg",
+      "width": 173,
+      "height": 174,
+      "heightToWidthRatio": 1.0058,
+      "fileBytes": 44905,
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "context": "",
+      "matchedMarkers": {
+        "interface": [
+          "logo"
+        ],
+        "scan": [
+
+        ],
+        "explicitPageScan": [
+
+        ],
+        "include": [
+
+        ]
+      },
+      "decision": "omit-noncontent",
+      "reason": "Obraz występuje wyłącznie poza obszarem treści."
+    },
+    {
+      "id": "032:logo.png",
+      "sourcePage": "032",
+      "savedFile": "logo.png",
+      "sourcePath": "032_files/logo.png",
+      "occurrences": [
+        {
+          "position": "outside-before-content",
+          "alt": "Jonathan Edwards Center",
+          "title": "",
+          "caption": "",
+          "context": ""
+        }
+      ],
+      "positions": [
+        "outside-before-content"
+      ],
+      "position": "outside-before-content",
+      "mimeType": "image/png",
+      "width": 34,
+      "height": 61,
+      "heightToWidthRatio": 1.7941,
+      "fileBytes": 3369,
+      "alt": "Jonathan Edwards Center",
+      "title": "",
+      "caption": "",
+      "context": "",
+      "matchedMarkers": {
+        "interface": [
+          "jonathan edwards center",
+          "logo"
+        ],
+        "scan": [
+
+        ],
+        "explicitPageScan": [
+
+        ],
+        "include": [
+
+        ]
+      },
+      "decision": "omit-noncontent",
+      "reason": "Obraz występuje wyłącznie poza obszarem treści."
+    },
+    {
+      "id": "033:cc-logo.jpg",
+      "sourcePage": "033",
+      "savedFile": "cc-logo.jpg",
+      "sourcePath": "033_files/cc-logo.jpg",
+      "occurrences": [
+        {
+          "position": "outside-after-content",
+          "alt": "",
+          "title": "",
+          "caption": "",
+          "context": ""
+        }
+      ],
+      "positions": [
+        "outside-after-content"
+      ],
+      "position": "outside-after-content",
+      "mimeType": "image/jpeg",
+      "width": 173,
+      "height": 174,
+      "heightToWidthRatio": 1.0058,
+      "fileBytes": 44905,
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "context": "",
+      "matchedMarkers": {
+        "interface": [
+          "logo"
+        ],
+        "scan": [
+
+        ],
+        "explicitPageScan": [
+
+        ],
+        "include": [
+
+        ]
+      },
+      "decision": "omit-noncontent",
+      "reason": "Obraz występuje wyłącznie poza obszarem treści."
+    },
+    {
+      "id": "033:logo.png",
+      "sourcePage": "033",
+      "savedFile": "logo.png",
+      "sourcePath": "033_files/logo.png",
+      "occurrences": [
+        {
+          "position": "outside-before-content",
+          "alt": "Jonathan Edwards Center",
+          "title": "",
+          "caption": "",
+          "context": ""
+        }
+      ],
+      "positions": [
+        "outside-before-content"
+      ],
+      "position": "outside-before-content",
+      "mimeType": "image/png",
+      "width": 34,
+      "height": 61,
+      "heightToWidthRatio": 1.7941,
+      "fileBytes": 3369,
+      "alt": "Jonathan Edwards Center",
+      "title": "",
+      "caption": "",
+      "context": "",
+      "matchedMarkers": {
+        "interface": [
+          "jonathan edwards center",
+          "logo"
+        ],
+        "scan": [
+
+        ],
+        "explicitPageScan": [
+
+        ],
+        "include": [
+
+        ]
+      },
+      "decision": "omit-noncontent",
+      "reason": "Obraz występuje wyłącznie poza obszarem treści."
+    }
+  ]
+}

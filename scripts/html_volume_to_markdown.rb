@@ -180,6 +180,11 @@ def append_paragraph(output, text)
   # malformed GFM table row. Tables are rendered separately below, so escape
   # prose pipes here while retaining their visible source character.
   text = text.gsub(/(?<!\\)\|/, "\\\\|")
+  # Manuscript dividers can consist of seven or more equals signs. A literal
+  # line beginning that way is visually valid Markdown but Git interprets it
+  # as a leftover merge-conflict marker. Escape the first sign so the rendered
+  # text stays faithful and checkpoint validation remains meaningful.
+  text = "\\#{text}" if text.match?(/\A={7}/)
   output << text << "\n\n"
 end
 
@@ -700,10 +705,11 @@ output.gsub!(/Previous section Next section Jonathan Edwards \[.*?\[word count\]
 # A few pages have unbalanced tags around their page-number elements.  Convert
 # any remaining printed page markers after traversal, rather than losing them
 # inside a paragraph or a heading.
-# Remaining printed markers use whitespace inside both pairs of dashes.  Do
-# not reinterpret a compact deletion such as --<del>1</del>-- (flattened to
-# --1--) as pagination.
-output.gsub!(/(?<![<!])\s--\s+([ivxlcdm]+|\d+)\s+--(?=\s)/i) { "\n\n<!-- p. #{$1} -->\n\n" }
+# Remaining printed markers use whitespace inside both pairs of dashes and
+# occupy their own rendered line. Do not reinterpret compact deletions such
+# as --<del>1</del>--, or manuscript numbering embedded in prose such as
+# "15. -- 17 -- 22.", as pagination.
+output.gsub!(/(?:\A|\n)[ \t]*--\s+([ivxlcdm]+|\d+)\s+--[ \t]*(?=\n|\z)/i) { "\n\n<!-- p. #{$1} -->\n\n" }
 output.gsub!(/[ \t]+\n/, "\n")
 output.gsub!(/\n{3,}/, "\n\n")
 output = apply_heading_hierarchy(output, navigation_entries(File.join(input_directory, "000.html")))
