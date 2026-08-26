@@ -33,19 +33,20 @@ class ImageSelectionsTest < Minitest::Test
       @volume_directory
     )
     assert status.success?, "audit failed:\n#{stdout}\n#{stderr}"
-    assert_includes stdout, "5 kandydatów"
+    assert_includes stdout, "6 kandydatów"
     assert_includes stdout, "uncertain=1"
     manifest = JSON.parse(File.read(manifest_path, encoding: "UTF-8"))
     entries = manifest.fetch("entries").to_h { |entry| [entry.fetch("id"), entry] }
 
     assert_equal ImageSelections::RULES_VERSION, manifest["rulesVersion"]
     assert_equal ImageSelections.rule_definition, manifest["rules"]
-    assert_equal 5, entries.length
+    assert_equal 6, entries.length
     assert_entry entries, "001:diagram.svg", "include", "content", "image/svg+xml"
     assert_equal "001-diagram.svg", entries.fetch("001:diagram.svg").fetch("assetName")
     assert_entry entries, "001:manuscript-scan.svg", "omit-scan", "content", "image/svg+xml"
     assert_operator entries.fetch("001:manuscript-scan.svg").fetch("fileBytes"), :>=,
                     ImageSelections::SCAN_THRESHOLDS.fetch("minimumFileBytes")
+    assert_entry entries, "001:manuscript-spread.svg", "omit-scan", "content", "image/svg+xml"
     assert_entry entries, "001:broken-image.jpg", "omit-noncontent", "content", nil
     assert_entry entries, "001:outside-logo.svg", "omit-noncontent", "outside-before-content", "image/svg+xml"
     assert_entry entries, "001:neutral.svg", "uncertain", "content", "image/svg+xml"
@@ -65,6 +66,14 @@ class ImageSelectionsTest < Minitest::Test
     assert_includes regions.fetch("outside-after-content"), "footer.svg"
   end
 
+  def test_validator_accepts_traceable_previous_rules_version
+    manifest = ImageSelections.build_manifest(@volume_directory)
+    manifest["rulesVersion"] = ImageSelections::LEGACY_RULES_VERSION
+    manifest["rules"] = ImageSelections.rule_definition(ImageSelections::LEGACY_RULES_VERSION)
+
+    assert_equal manifest.fetch("entries"), ImageSelections.validate_manifest!(manifest, @volume_directory)
+  end
+
   def test_orchestrator_copies_only_include_and_selective_verifier_passes
     markdown_file = File.join(@temporary_root, "MD", "VOLUME99.md")
     manifest_path = File.join(@temporary_root, "metadata", "image-selections", "VOLUME99.json")
@@ -81,7 +90,7 @@ class ImageSelectionsTest < Minitest::Test
     assert_includes stdout, "UNCERTAIN 001:neutral.svg"
 
     manifest = JSON.parse(File.read(manifest_path, encoding: "UTF-8"))
-    assert_equal 5, manifest.fetch("entries").length
+    assert_equal 6, manifest.fetch("entries").length
     markdown = File.read(markdown_file, encoding: "UTF-8")
     assert_equal ["assets/VOLUME99/001-diagram.svg"], markdown.scan(/!\[[^\]]*\]\(([^)]+)\)/).flatten
     assert_equal ["001-diagram.svg"], Dir.children(File.join(@temporary_root, "MD", "assets", "VOLUME99")).sort
@@ -139,6 +148,11 @@ class ImageSelectionsTest < Minitest::Test
     File.write(
       File.join(directory, "manuscript-scan.svg"),
       svg(1000, 1400, "Manuscript scan", padding: "x" * 5000),
+      encoding: "UTF-8"
+    )
+    File.write(
+      File.join(directory, "manuscript-spread.svg"),
+      svg(1400, 1000, "Manuscript scan", padding: "x" * 5000),
       encoding: "UTF-8"
     )
     File.write(File.join(directory, "neutral.svg"), svg(320, 240, "Object"), encoding: "UTF-8")

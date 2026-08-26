@@ -1,0 +1,645 @@
+{
+  "schemaVersion": 1,
+  "rulesVersion": "wje-image-selection-v2",
+  "volume": "VOLUME23",
+  "generatedAt": "2026-08-26T07:17:58Z",
+  "rules": {
+    "version": "wje-image-selection-v2",
+    "precedence": [
+      "omit-scan",
+      "omit-noncontent",
+      "include",
+      "uncertain"
+    ],
+    "interfaceMarkers": [
+      "addthis",
+      "button",
+      "creative commons",
+      "footer",
+      "header",
+      "icon",
+      "jonathan edwards center",
+      "logo",
+      "navigation",
+      "new search",
+      "next section",
+      "previous section",
+      "share this page",
+      "site-title",
+      "yale university"
+    ],
+    "scanMarkers": [
+      "facsimile",
+      "folio",
+      "full page",
+      "handwritten",
+      "handwriting",
+      "manuscript",
+      "recto",
+      "scan",
+      "scanned",
+      "verso"
+    ],
+    "includeMarkers": [
+      "chart",
+      "diagram",
+      "fig.",
+      "figure",
+      "graph",
+      "illustration",
+      "map",
+      "plan",
+      "plate",
+      "schematic"
+    ],
+    "scanThresholds": {
+      "minimumFileBytes": 4096,
+      "minimumShortSide": 600,
+      "minimumLongSide": 800,
+      "minimumPixels": 800000,
+      "minimumPageAspectRatio": 1.15,
+      "maximumPageAspectRatio": 1.8
+    }
+  },
+  "entries": [
+    {
+      "id": "000:cc-logo.jpg",
+      "sourcePage": "000",
+      "savedFile": "cc-logo.jpg",
+      "sourcePath": "000_files/cc-logo.jpg",
+      "occurrences": [
+        {
+          "position": "outside-after-content",
+          "alt": "",
+          "title": "",
+          "caption": "",
+          "context": ""
+        }
+      ],
+      "positions": [
+        "outside-after-content"
+      ],
+      "position": "outside-after-content",
+      "mimeType": "image/jpeg",
+      "width": 173,
+      "height": 174,
+      "heightToWidthRatio": 1.0058,
+      "fileBytes": 44905,
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "context": "",
+      "matchedMarkers": {
+        "interface": [
+          "logo"
+        ],
+        "scan": [
+
+        ],
+        "include": [
+
+        ]
+      },
+      "decision": "omit-noncontent",
+      "reason": "Obraz występuje wyłącznie poza obszarem treści."
+    },
+    {
+      "id": "000:logo.png",
+      "sourcePage": "000",
+      "savedFile": "logo.png",
+      "sourcePath": "000_files/logo.png",
+      "occurrences": [
+        {
+          "position": "outside-before-content",
+          "alt": "Jonathan Edwards Center",
+          "title": "",
+          "caption": "",
+          "context": ""
+        }
+      ],
+      "positions": [
+        "outside-before-content"
+      ],
+      "position": "outside-before-content",
+      "mimeType": "image/png",
+      "width": 34,
+      "height": 61,
+      "heightToWidthRatio": 1.7941,
+      "fileBytes": 3369,
+      "alt": "Jonathan Edwards Center",
+      "title": "",
+      "caption": "",
+      "context": "",
+      "matchedMarkers": {
+        "interface": [
+          "jonathan edwards center",
+          "logo"
+        ],
+        "scan": [
+
+        ],
+        "include": [
+
+        ]
+      },
+      "decision": "omit-noncontent",
+      "reason": "Obraz występuje wyłącznie poza obszarem treści."
+    },
+    {
+      "id": "001:cc-logo.jpg",
+      "sourcePage": "001",
+      "savedFile": "cc-logo.jpg",
+      "sourcePath": "001_files/cc-logo.jpg",
+      "occurrences": [
+        {
+          "position": "outside-after-content",
+          "alt": "",
+          "title": "",
+          "caption": "",
+          "context": ""
+        }
+      ],
+      "positions": [
+        "outside-after-content"
+      ],
+      "position": "outside-after-content",
+      "mimeType": "image/jpeg",
+      "width": 173,
+      "height": 174,
+      "heightToWidthRatio": 1.0058,
+      "fileBytes": 44905,
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "context": "",
+      "matchedMarkers": {
+        "interface": [
+          "logo"
+        ],
+        "scan": [
+
+        ],
+        "include": [
+
+        ]
+      },
+      "decision": "omit-noncontent",
+      "reason": "Obraz występuje wyłącznie poza obszarem treści."
+    },
+    {
+      "id": "001:logo.png",
+      "sourcePage": "001",
+      "savedFile": "logo.png",
+      "sourcePath": "001_files/logo.png",
+      "occurrences": [
+        {
+          "position": "outside-before-content",
+          "alt": "Jonathan Edwards Center",
+          "title": "",
+          "caption": "",
+          "context": ""
+        }
+      ],
+      "positions": [
+        "outside-before-content"
+      ],
+      "position": "outside-before-content",
+      "mimeType": "image/png",
+      "width": 34,
+      "height": 61,
+      "heightToWidthRatio": 1.7941,
+      "fileBytes": 3369,
+      "alt": "Jonathan Edwards Center",
+      "title": "",
+      "caption": "",
+      "context": "",
+      "matchedMarkers": {
+        "interface": [
+          "jonathan edwards center",
+          "logo"
+        ],
+        "scan": [
+
+        ],
+        "include": [
+
+        ]
+      },
+      "decision": "omit-noncontent",
+      "reason": "Obraz występuje wyłącznie poza obszarem treści."
+    },
+    {
+      "id": "002:archive",
+      "sourcePage": "002",
+      "savedFile": "archive",
+      "sourcePath": "002_files/archive",
+      "occurrences": [
+        {
+          "position": "content",
+          "alt": "",
+          "title": "",
+          "caption": "",
+          "context": "\"Miscellanies,\" Bk. 8, showing the beginning of No. 1181, \"Traditions of the Heathen, Particularly the Chinese….\" Courtesy of Beinecke Rare Book and Manuscript Library, Yale University."
+        }
+      ],
+      "positions": [
+        "content"
+      ],
+      "position": "content",
+      "mimeType": "image/jpeg",
+      "width": 936,
+      "height": 1417,
+      "heightToWidthRatio": 1.5139,
+      "fileBytes": 415701,
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "context": "\"Miscellanies,\" Bk. 8, showing the beginning of No. 1181, \"Traditions of the Heathen, Particularly the Chinese….\" Courtesy of Beinecke Rare Book and Manuscript Library, Yale University.",
+      "matchedMarkers": {
+        "interface": [
+          "yale university"
+        ],
+        "scan": [
+          "manuscript"
+        ],
+        "include": [
+
+        ]
+      },
+      "decision": "omit-scan",
+      "reason": "Marker skanu (manuscript) oraz wszystkie progi rozmiaru, wymiarów i proporcji strony w orientacji pionowej lub poziomej są spełnione."
+    },
+    {
+      "id": "002:archive(1)",
+      "sourcePage": "002",
+      "savedFile": "archive(1)",
+      "sourcePath": "002_files/archive(1)",
+      "occurrences": [
+        {
+          "position": "content",
+          "alt": "",
+          "title": "",
+          "caption": "",
+          "context": "\"Miscellanies,\" Bk. 9, showing the beginning of No. 1297, \"The Necessity of Revealed Religion.\" Courtesy of Beinecke Rare Book and Manuscript Library, Yale University."
+        }
+      ],
+      "positions": [
+        "content"
+      ],
+      "position": "content",
+      "mimeType": "image/jpeg",
+      "width": 1423,
+      "height": 920,
+      "heightToWidthRatio": 0.6465,
+      "fileBytes": 442904,
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "context": "\"Miscellanies,\" Bk. 9, showing the beginning of No. 1297, \"The Necessity of Revealed Religion.\" Courtesy of Beinecke Rare Book and Manuscript Library, Yale University.",
+      "matchedMarkers": {
+        "interface": [
+          "yale university"
+        ],
+        "scan": [
+          "manuscript"
+        ],
+        "include": [
+
+        ]
+      },
+      "decision": "omit-scan",
+      "reason": "Marker skanu (manuscript) oraz wszystkie progi rozmiaru, wymiarów i proporcji strony w orientacji pionowej lub poziomej są spełnione."
+    },
+    {
+      "id": "002:cc-logo.jpg",
+      "sourcePage": "002",
+      "savedFile": "cc-logo.jpg",
+      "sourcePath": "002_files/cc-logo.jpg",
+      "occurrences": [
+        {
+          "position": "outside-after-content",
+          "alt": "",
+          "title": "",
+          "caption": "",
+          "context": ""
+        }
+      ],
+      "positions": [
+        "outside-after-content"
+      ],
+      "position": "outside-after-content",
+      "mimeType": "image/jpeg",
+      "width": 173,
+      "height": 174,
+      "heightToWidthRatio": 1.0058,
+      "fileBytes": 44905,
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "context": "",
+      "matchedMarkers": {
+        "interface": [
+          "logo"
+        ],
+        "scan": [
+
+        ],
+        "include": [
+
+        ]
+      },
+      "decision": "omit-noncontent",
+      "reason": "Obraz występuje wyłącznie poza obszarem treści."
+    },
+    {
+      "id": "002:logo.png",
+      "sourcePage": "002",
+      "savedFile": "logo.png",
+      "sourcePath": "002_files/logo.png",
+      "occurrences": [
+        {
+          "position": "outside-before-content",
+          "alt": "Jonathan Edwards Center",
+          "title": "",
+          "caption": "",
+          "context": ""
+        }
+      ],
+      "positions": [
+        "outside-before-content"
+      ],
+      "position": "outside-before-content",
+      "mimeType": "image/png",
+      "width": 34,
+      "height": 61,
+      "heightToWidthRatio": 1.7941,
+      "fileBytes": 3369,
+      "alt": "Jonathan Edwards Center",
+      "title": "",
+      "caption": "",
+      "context": "",
+      "matchedMarkers": {
+        "interface": [
+          "jonathan edwards center",
+          "logo"
+        ],
+        "scan": [
+
+        ],
+        "include": [
+
+        ]
+      },
+      "decision": "omit-noncontent",
+      "reason": "Obraz występuje wyłącznie poza obszarem treści."
+    },
+    {
+      "id": "003:archive",
+      "sourcePage": "003",
+      "savedFile": "archive",
+      "sourcePath": "003_files/archive",
+      "occurrences": [
+        {
+          "position": "content",
+          "alt": "",
+          "title": "",
+          "caption": "",
+          "context": "\"Miscellanies,\" Bk. 9, showing the beginning of No. 1351, \"Extracts of The Travels of Cyrus….\" Courtesy of Beinecke Rare Book and Manuscript Library, Yale University."
+        }
+      ],
+      "positions": [
+        "content"
+      ],
+      "position": "content",
+      "mimeType": "image/jpeg",
+      "width": 1441,
+      "height": 940,
+      "heightToWidthRatio": 0.6523,
+      "fileBytes": 479458,
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "context": "\"Miscellanies,\" Bk. 9, showing the beginning of No. 1351, \"Extracts of The Travels of Cyrus….\" Courtesy of Beinecke Rare Book and Manuscript Library, Yale University.",
+      "matchedMarkers": {
+        "interface": [
+          "yale university"
+        ],
+        "scan": [
+          "manuscript"
+        ],
+        "include": [
+
+        ]
+      },
+      "decision": "omit-scan",
+      "reason": "Marker skanu (manuscript) oraz wszystkie progi rozmiaru, wymiarów i proporcji strony w orientacji pionowej lub poziomej są spełnione."
+    },
+    {
+      "id": "003:cc-logo.jpg",
+      "sourcePage": "003",
+      "savedFile": "cc-logo.jpg",
+      "sourcePath": "003_files/cc-logo.jpg",
+      "occurrences": [
+        {
+          "position": "outside-after-content",
+          "alt": "",
+          "title": "",
+          "caption": "",
+          "context": ""
+        }
+      ],
+      "positions": [
+        "outside-after-content"
+      ],
+      "position": "outside-after-content",
+      "mimeType": "image/jpeg",
+      "width": 173,
+      "height": 174,
+      "heightToWidthRatio": 1.0058,
+      "fileBytes": 44905,
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "context": "",
+      "matchedMarkers": {
+        "interface": [
+          "logo"
+        ],
+        "scan": [
+
+        ],
+        "include": [
+
+        ]
+      },
+      "decision": "omit-noncontent",
+      "reason": "Obraz występuje wyłącznie poza obszarem treści."
+    },
+    {
+      "id": "003:logo.png",
+      "sourcePage": "003",
+      "savedFile": "logo.png",
+      "sourcePath": "003_files/logo.png",
+      "occurrences": [
+        {
+          "position": "outside-before-content",
+          "alt": "Jonathan Edwards Center",
+          "title": "",
+          "caption": "",
+          "context": ""
+        }
+      ],
+      "positions": [
+        "outside-before-content"
+      ],
+      "position": "outside-before-content",
+      "mimeType": "image/png",
+      "width": 34,
+      "height": 61,
+      "heightToWidthRatio": 1.7941,
+      "fileBytes": 3369,
+      "alt": "Jonathan Edwards Center",
+      "title": "",
+      "caption": "",
+      "context": "",
+      "matchedMarkers": {
+        "interface": [
+          "jonathan edwards center",
+          "logo"
+        ],
+        "scan": [
+
+        ],
+        "include": [
+
+        ]
+      },
+      "decision": "omit-noncontent",
+      "reason": "Obraz występuje wyłącznie poza obszarem treści."
+    },
+    {
+      "id": "004:archive",
+      "sourcePage": "004",
+      "savedFile": "archive",
+      "sourcePath": "004_files/archive",
+      "occurrences": [
+        {
+          "position": "content",
+          "alt": "",
+          "title": "",
+          "caption": "",
+          "context": "\"Miscellanies,\" Bk. 9, showing the beginning of No. 1359, \"Extracts from Dr. Cudworth….\" Courtesy of Beinecke Rare Book and Manuscript Library, Yale University."
+        }
+      ],
+      "positions": [
+        "content"
+      ],
+      "position": "content",
+      "mimeType": "image/jpeg",
+      "width": 1430,
+      "height": 915,
+      "heightToWidthRatio": 0.6399,
+      "fileBytes": 451215,
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "context": "\"Miscellanies,\" Bk. 9, showing the beginning of No. 1359, \"Extracts from Dr. Cudworth….\" Courtesy of Beinecke Rare Book and Manuscript Library, Yale University.",
+      "matchedMarkers": {
+        "interface": [
+          "yale university"
+        ],
+        "scan": [
+          "manuscript"
+        ],
+        "include": [
+
+        ]
+      },
+      "decision": "omit-scan",
+      "reason": "Marker skanu (manuscript) oraz wszystkie progi rozmiaru, wymiarów i proporcji strony w orientacji pionowej lub poziomej są spełnione."
+    },
+    {
+      "id": "004:cc-logo.jpg",
+      "sourcePage": "004",
+      "savedFile": "cc-logo.jpg",
+      "sourcePath": "004_files/cc-logo.jpg",
+      "occurrences": [
+        {
+          "position": "outside-after-content",
+          "alt": "",
+          "title": "",
+          "caption": "",
+          "context": ""
+        }
+      ],
+      "positions": [
+        "outside-after-content"
+      ],
+      "position": "outside-after-content",
+      "mimeType": "image/jpeg",
+      "width": 173,
+      "height": 174,
+      "heightToWidthRatio": 1.0058,
+      "fileBytes": 44905,
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "context": "",
+      "matchedMarkers": {
+        "interface": [
+          "logo"
+        ],
+        "scan": [
+
+        ],
+        "include": [
+
+        ]
+      },
+      "decision": "omit-noncontent",
+      "reason": "Obraz występuje wyłącznie poza obszarem treści."
+    },
+    {
+      "id": "004:logo.png",
+      "sourcePage": "004",
+      "savedFile": "logo.png",
+      "sourcePath": "004_files/logo.png",
+      "occurrences": [
+        {
+          "position": "outside-before-content",
+          "alt": "Jonathan Edwards Center",
+          "title": "",
+          "caption": "",
+          "context": ""
+        }
+      ],
+      "positions": [
+        "outside-before-content"
+      ],
+      "position": "outside-before-content",
+      "mimeType": "image/png",
+      "width": 34,
+      "height": 61,
+      "heightToWidthRatio": 1.7941,
+      "fileBytes": 3369,
+      "alt": "Jonathan Edwards Center",
+      "title": "",
+      "caption": "",
+      "context": "",
+      "matchedMarkers": {
+        "interface": [
+          "jonathan edwards center",
+          "logo"
+        ],
+        "scan": [
+
+        ],
+        "include": [
+
+        ]
+      },
+      "decision": "omit-noncontent",
+      "reason": "Obraz występuje wyłącznie poza obszarem treści."
+    }
+  ]
+}

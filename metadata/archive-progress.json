@@ -8,10 +8,13 @@
     17,
     18,
     19,
-    20
+    20,
+    21,
+    22,
+    23
   ],
-  "firstIncompleteVolume": 21,
-  "updatedAt": "2026-08-26T05:14:39.000Z",
+  "firstIncompleteVolume": 24,
+  "updatedAt": "2026-08-26T07:18:07.000Z",
   "volumes": {
     "17": {
       "status": "complete",
@@ -69,6 +72,73 @@
         "Navigation labels 840a, 861, 1137, and 1150 differ from their saved content headings, but the corresponding entries are present.",
         "The source notes that entry 1149 and the beginning of 1150 are missing from the original manuscript; available editorially supplied text is preserved without reconstruction.",
         "068.html lacks END OF CONTEXT AREA; the converter's safe fallback ends after complete entry 1152, with page 525 as the last captured marker."
+      ]
+    },
+    "21": {
+      "status": "complete-with-documented-source-gap",
+      "sourceUrl": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9zZWxlY3QucGw/d2plby4yMA==",
+      "archiveManifest": "HTML/VOLUME21/.archive-manifest.json",
+      "markdown": "MD/VOLUME21.md",
+      "imageSelections": "metadata/image-selections/VOLUME21.json",
+      "contentGaps": [
+        {
+          "sourceFile": "000.html",
+          "description": "The printed contents list a General Index at page 525 and an Index of Biblical Passages at page 545, but the visible Yale navigation has no entries for either. The absent index material was not reconstructed."
+        },
+        {
+          "sourceFile": "002.html, 003.html, 008.html, 011.html, and 012.html",
+          "description": "Five content image elements all point to Yale's literal NAME OF FILE.jpg placeholder. No image file was captured for the frontispiece or the four manuscript-page illustrations, and none was reconstructed."
+        }
+      ],
+      "sourceAnomalies": [
+        "Front-matter markers occur in the saved order ii, vii, viii, ix, x, xi, xii.",
+        "Arabic page markers 1–524 are ordered without duplicates; markers 107–108 are absent.",
+        "011.html contains one unreferenced footnote definition, preserved explicitly as [^011-note4] with the source text 'review me. Romans 17'.",
+        "015.html lacks END OF CONTEXT AREA; the converter's safe fallback ends after the complete final visible section and page 524, before the captured footer."
+      ]
+    },
+    "22": {
+      "status": "complete-with-documented-source-gap",
+      "sourceUrl": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9zZWxlY3QucGw/d2plby4yMQ==",
+      "archiveManifest": "HTML/VOLUME22/.archive-manifest.json",
+      "markdown": "MD/VOLUME22.md",
+      "imageSelections": "metadata/image-selections/VOLUME22.json",
+      "contentGaps": [
+        {
+          "sourceFile": "000.html",
+          "description": "The printed contents list a General Index at page 553 and an Index of Biblical Passages at page 573, but the visible Yale navigation has no entries for either. The absent index material was not reconstructed."
+        },
+        {
+          "sourceFile": "005.html, 033.html, 039.html, and 048.html",
+          "description": "Four content image elements point to manuscript scans at printed pages 36, 266, 323, and 419, but their image responses were not captured as local files. The absent scans were not reconstructed or embedded."
+        }
+      ],
+      "sourceAnomalies": [
+        "Front-matter page markers vii–xiv are continuous.",
+        "Arabic page markers 1–552 are ordered without duplicates; illustration-page markers 36 and 419 are absent.",
+        "The [transcription] and [renditional] navigation labels are technical grouping placeholders; their substantive child headings and content are present, and manuscript folio markers are preserved.",
+        "065.html lacks END OF CONTEXT AREA; the converter's safe fallback ends after the complete final visible appendix and page 552, before the captured footer."
+      ]
+    },
+    "23": {
+      "status": "complete-with-documented-source-gap",
+      "sourceUrl": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9zZWxlY3QucGw/d2plby4yMg==",
+      "archiveManifest": "HTML/VOLUME23/.archive-manifest.json",
+      "markdown": "MD/VOLUME23.md",
+      "imageSelections": "metadata/image-selections/VOLUME23.json",
+      "contentGaps": [
+        {
+          "sourceFile": "001.html and 002.html",
+          "description": "The visible Yale Front Matter contains only the volume title, and the saved content begins with page markers 38–39. Printed pages 1–37 are unavailable in the visible navigation and were not reconstructed."
+        }
+      ],
+      "sourceAnomalies": [
+        "Arabic page markers 38–716 are continuous, ordered, and free of duplicates.",
+        "002.html contains complete entries 1153–1350 through page 461, 003.html contains entry 1351 on pages 462–481, and 004.html contains entries 1352–1360 through their complete conclusion on page 716; descendant recovery was not required.",
+        "Yale navigation labels for entries 1264 and 1325 stop mid-heading, while the corresponding complete headings and text are present in Markdown.",
+        "002.html contains one unreferenced footnote definition, preserved explicitly as [^002-note417] with its source editorial note beginning 'review me'.",
+        "The image audit classifies four manuscript-page scans as omit-scan and ten interface images as omit-noncontent; include=0 and uncertain=0.",
+        "004.html lacks END OF CONTEXT AREA; the converter's safe fallback ends after the complete final paragraph and page 716, before the captured footer."
       ]
     }
   }

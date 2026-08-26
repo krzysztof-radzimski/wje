@@ -12,7 +12,8 @@ module ImageSelections
   CONTENT_START = "<!-- START OF CONTENT AREA -->"
   CONTENT_END = "<!-- END OF CONTEXT AREA, WE HOPE-->"
   SCHEMA_VERSION = 1
-  RULES_VERSION = "wje-image-selection-v1"
+  LEGACY_RULES_VERSION = "wje-image-selection-v1"
+  RULES_VERSION = "wje-image-selection-v2"
   DECISIONS = %w[include omit-scan omit-noncontent uncertain].freeze
 
   INTERFACE_MARKERS = [
@@ -31,6 +32,14 @@ module ImageSelections
   ].freeze
   SCAN_THRESHOLDS = {
     "minimumFileBytes" => 4096,
+    "minimumShortSide" => 600,
+    "minimumLongSide" => 800,
+    "minimumPixels" => 800_000,
+    "minimumPageAspectRatio" => 1.15,
+    "maximumPageAspectRatio" => 1.80
+  }.freeze
+  LEGACY_SCAN_THRESHOLDS = {
+    "minimumFileBytes" => 4096,
     "minimumWidth" => 600,
     "minimumHeight" => 800,
     "minimumPixels" => 800_000,
@@ -40,14 +49,22 @@ module ImageSelections
 
   module_function
 
-  def rule_definition
+  def rule_definition(version = RULES_VERSION)
+    precedence, thresholds = case version
+                             when RULES_VERSION
+                               [["omit-scan", "omit-noncontent", "include", "uncertain"], SCAN_THRESHOLDS]
+                             when LEGACY_RULES_VERSION
+                               [["omit-noncontent", "omit-scan", "include", "uncertain"], LEGACY_SCAN_THRESHOLDS]
+                             else
+                               return nil
+                             end
     {
-      "version" => RULES_VERSION,
-      "precedence" => ["omit-noncontent", "omit-scan", "include", "uncertain"],
+      "version" => version,
+      "precedence" => precedence,
       "interfaceMarkers" => INTERFACE_MARKERS,
       "scanMarkers" => SCAN_MARKERS,
       "includeMarkers" => INCLUDE_MARKERS,
-      "scanThresholds" => SCAN_THRESHOLDS
+      "scanThresholds" => thresholds
     }
   end
 
@@ -265,15 +282,16 @@ module ImageSelections
     width = info["width"]
     height = info["height"]
     bytes = info["fileBytes"]
-    return false unless width && height && bytes && width.positive?
+    return false unless width && height && bytes && width.positive? && height.positive?
 
-    ratio = height.to_f / width
+    short_side, long_side = [width, height].minmax
+    page_aspect_ratio = long_side.to_f / short_side
     bytes >= SCAN_THRESHOLDS["minimumFileBytes"] &&
-      width >= SCAN_THRESHOLDS["minimumWidth"] &&
-      height >= SCAN_THRESHOLDS["minimumHeight"] &&
+      short_side >= SCAN_THRESHOLDS["minimumShortSide"] &&
+      long_side >= SCAN_THRESHOLDS["minimumLongSide"] &&
       width * height >= SCAN_THRESHOLDS["minimumPixels"] &&
-      ratio >= SCAN_THRESHOLDS["minimumHeightToWidthRatio"] &&
-      ratio <= SCAN_THRESHOLDS["maximumHeightToWidthRatio"]
+      page_aspect_ratio >= SCAN_THRESHOLDS["minimumPageAspectRatio"] &&
+      page_aspect_ratio <= SCAN_THRESHOLDS["maximumPageAspectRatio"]
   end
 
   def stable_asset_name(candidate, extension)
@@ -298,10 +316,10 @@ module ImageSelections
                          ["omit-noncontent", "Typ MIME nie jest rozpoznawalnym obrazem odczytanym z zawartości pliku."]
                        elsif content_occurrence.nil?
                          ["omit-noncontent", "Obraz występuje wyłącznie poza obszarem treści."]
+                       elsif scan.any? && scan_shape?(info)
+                         ["omit-scan", "Marker skanu (#{scan.join(', ')}) oraz wszystkie progi rozmiaru, wymiarów i proporcji strony w orientacji pionowej lub poziomej są spełnione."]
                        elsif interface.any?
                          ["omit-noncontent", "Marker interfejsu: #{interface.join(', ')}."]
-                       elsif scan.any? && scan_shape?(info)
-                         ["omit-scan", "Marker skanu (#{scan.join(', ')}) oraz wszystkie progi rozmiaru, wymiarów i proporcji strony są spełnione."]
                        elsif scan.any?
                          ["uncertain", "Marker skanu (#{scan.join(', ')}) występuje, lecz nie są spełnione wszystkie progi skanu strony."]
                        elsif include_markers.any?
@@ -363,7 +381,9 @@ module ImageSelections
     volume = File.basename(File.expand_path(volume_directory))
     raise "Manifest należy do #{manifest['volume']}, a nie #{volume}." unless manifest["volume"] == volume
     raise "Nieobsługiwana wersja schematu manifestu: #{manifest['schemaVersion'].inspect}." unless manifest["schemaVersion"] == SCHEMA_VERSION
-    raise "Manifest używa innych reguł niż #{RULES_VERSION}." unless manifest["rulesVersion"] == RULES_VERSION
+    expected_rules = rule_definition(manifest["rulesVersion"])
+    raise "Nieobsługiwana wersja reguł manifestu: #{manifest['rulesVersion'].inspect}." unless expected_rules
+    raise "Manifest ma niespójną definicję reguł #{manifest['rulesVersion']}." unless manifest["rules"] == expected_rules
 
     entries = manifest["entries"]
     raise "Manifest nie zawiera tablicy entries." unless entries.is_a?(Array)
