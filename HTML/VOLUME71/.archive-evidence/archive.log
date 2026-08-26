@@ -1,0 +1,43 @@
+2026-08-26T18:14:41.284Z archive:start volume=VOLUME71 source=http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9zZWxlY3QucGw/d2plby42OA==
+2026-08-26T18:14:41.285Z attempt:1/3 000.html
+2026-08-26T18:14:41.286Z navigation:start http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9zZWxlY3QucGw/d2plby42OA==
+2026-08-26T18:14:42.718Z resource:omit http://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-mu0SC55I.woff2 reason=response.body: Response body is unavailable for redirect responses
+2026-08-26T18:14:42.718Z resource:omit http://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTUGmu0SC55K5gw.woff2 reason=response.body: Response body is unavailable for redirect responses
+2026-08-26T18:14:42.718Z resource:omit http://fonts.gstatic.com/s/playfairdisplay/v40/nuFiD-vYSZviVYUb_rj3ij__anPXDTzYgEM86xQ.woff2 reason=response.body: Response body is unavailable for redirect responses
+2026-08-26T18:14:42.905Z resource:omit http://www.google-analytics.com/ga.js reason=response.body: Response body is unavailable for redirect responses
+2026-08-26T18:14:42.906Z resource:omit http://fonts.gstatic.com/s/playfairdisplay/v40/nuFkD-vYSZviVYUb_rj3ij__anPXDTnogkk7yRZrPA.woff2 reason=response.body: Response body is unavailable for redirect responses
+2026-08-26T18:14:42.974Z resource:omit http://www.google-analytics.com/r/__utm.gif?utmwv=5.7.2&utms=1&utmn=2084898198&utmhn=edwards.yale.edu&utmcs=UTF-8&utmsr=1280x720&utmvp=1280x720&utmsc=24-bit&utmul=pl&utmje=0&utmfl=-&utmdt=Search%20WJE%20Online%20%7C%20The%20Jonathan%20Edwards%20Center%20at%20Yale%20University&utmhid=559409930&utmr=-&utmp=%2Farchive%3Fpath%3DaHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9zZWxlY3QucGw%2Fd2plby42OA%3D%3D&utmht=1787768082971&utmac=UA-1489454-4&utmcc=__utma%3D258641246.1875960059.1787768083.1787768083.1787768083.1%3B%2B__utmz%3D258641246.1787768083.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmjid=677210935&utmredir=1&utmu=qAAAAAAAAAAAAAAAAAAAAAAE~ reason=response.body: Response body is unavailable for redirect responses
+2026-08-26T18:14:43.551Z scroll:stable height=1226 samples=5
+2026-08-26T18:14:44.799Z complete:000.html html=35532 assets=18
+2026-08-26T18:14:44.800Z discovery:sections 3
+2026-08-26T18:14:47.303Z attempt:1/3 001.html
+2026-08-26T18:14:47.303Z navigation:start http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw%2FYy42ODoxLndqZW8%3D
+2026-08-26T18:14:47.692Z resource:omit http://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-mu0SC55I.woff2 reason=response.body: Response body is unavailable for redirect responses
+2026-08-26T18:14:47.693Z resource:omit http://fonts.gstatic.com/s/playfairdisplay/v40/nuFiD-vYSZviVYUb_rj3ij__anPXDTzYgEM86xQ.woff2 reason=response.body: Response body is unavailable for redirect responses
+2026-08-26T18:14:47.693Z resource:omit http://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTUGmu0SC55K5gw.woff2 reason=response.body: Response body is unavailable for redirect responses
+2026-08-26T18:14:47.992Z resource:omit http://fonts.gstatic.com/s/playfairdisplay/v40/nuFkD-vYSZviVYUb_rj3ij__anPXDTnogkk7yRZrPA.woff2 reason=response.body: Response body is unavailable for redirect responses
+2026-08-26T18:14:48.051Z resource:omit http://www.google-analytics.com/ga.js reason=response.body: Response body is unavailable for redirect responses
+2026-08-26T18:14:48.058Z resource:omit http://www.google-analytics.com/__utm.gif?utmwv=5.7.2&utms=2&utmn=1042174833&utmhn=edwards.yale.edu&utmcs=UTF-8&utmsr=1280x720&utmvp=1280x720&utmsc=24-bit&utmul=pl&utmje=0&utmfl=-&utmdt=Search%20WJE%20Online%20%7C%20The%20Jonathan%20Edwards%20Center%20at%20Yale%20University&utmhid=2096546935&utmr=-&utmp=%2Farchive%3Fpath%3DaHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw%25252FYy42ODoxLndqZW8%25253D&utmht=1787768088054&utmac=UA-1489454-4&utmcc=__utma%3D258641246.1875960059.1787768083.1787768083.1787768083.1%3B%2B__utmz%3D258641246.1787768083.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmjid=&utmu=qAAAAAAAAAAAAAAAAAAAAAAE~ reason=response.body: Response body is unavailable for redirect responses
+2026-08-26T18:14:52.866Z scroll:stable height=19785 samples=40
+2026-08-26T18:14:53.921Z complete:001.html html=54006 assets=18
+2026-08-26T18:14:56.424Z attempt:1/3 002.html
+2026-08-26T18:14:56.425Z navigation:start http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw%2FYy42ODoyLndqZW8%3D
+2026-08-26T18:14:56.957Z resource:omit http://fonts.gstatic.com/s/playfairdisplay/v40/nuFiD-vYSZviVYUb_rj3ij__anPXDTzYgEM86xQ.woff2 reason=response.body: Response body is unavailable for redirect responses
+2026-08-26T18:14:56.957Z resource:omit http://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-mu0SC55I.woff2 reason=response.body: Response body is unavailable for redirect responses
+2026-08-26T18:14:56.957Z resource:omit http://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTUGmu0SC55K5gw.woff2 reason=response.body: Response body is unavailable for redirect responses
+2026-08-26T18:14:57.140Z resource:omit http://fonts.gstatic.com/s/playfairdisplay/v40/nuFkD-vYSZviVYUb_rj3ij__anPXDTnogkk7yRZrPA.woff2 reason=response.body: Response body is unavailable for redirect responses
+2026-08-26T18:14:57.459Z resource:omit http://www.google-analytics.com/ga.js reason=response.body: Response body is unavailable for redirect responses
+2026-08-26T18:14:57.466Z resource:omit http://www.google-analytics.com/__utm.gif?utmwv=5.7.2&utms=3&utmn=1738467034&utmhn=edwards.yale.edu&utmcs=UTF-8&utmsr=1280x720&utmvp=1280x720&utmsc=24-bit&utmul=pl&utmje=0&utmfl=-&utmdt=Search%20WJE%20Online%20%7C%20The%20Jonathan%20Edwards%20Center%20at%20Yale%20University&utmhid=1464340923&utmr=-&utmp=%2Farchive%3Fpath%3DaHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw%25252FYy42ODoyLndqZW8%25253D&utmht=1787768097462&utmac=UA-1489454-4&utmcc=__utma%3D258641246.1875960059.1787768083.1787768083.1787768083.1%3B%2B__utmz%3D258641246.1787768083.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmjid=&utmu=qAAAAAAAAAAAAAAAAAAAAAAE~ reason=response.body: Response body is unavailable for redirect responses
+2026-08-26T18:15:02.042Z scroll:stable height=18872 samples=38
+2026-08-26T18:15:03.090Z complete:002.html html=58776 assets=18
+2026-08-26T18:15:05.592Z attempt:1/3 003.html
+2026-08-26T18:15:05.592Z navigation:start http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw%2FYy42ODozLndqZW8%3D
+2026-08-26T18:15:06.174Z resource:omit http://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-mu0SC55I.woff2 reason=response.body: Response body is unavailable for redirect responses
+2026-08-26T18:15:06.174Z resource:omit http://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTUGmu0SC55K5gw.woff2 reason=response.body: Response body is unavailable for redirect responses
+2026-08-26T18:15:06.174Z resource:omit http://fonts.gstatic.com/s/playfairdisplay/v40/nuFiD-vYSZviVYUb_rj3ij__anPXDTzYgEM86xQ.woff2 reason=response.body: Response body is unavailable for redirect responses
+2026-08-26T18:15:06.350Z resource:omit http://fonts.gstatic.com/s/playfairdisplay/v40/nuFkD-vYSZviVYUb_rj3ij__anPXDTnogkk7yRZrPA.woff2 reason=response.body: Response body is unavailable for redirect responses
+2026-08-26T18:15:06.515Z resource:omit http://www.google-analytics.com/ga.js reason=response.body: Response body is unavailable for redirect responses
+2026-08-26T18:15:06.520Z resource:omit http://www.google-analytics.com/__utm.gif?utmwv=5.7.2&utms=4&utmn=2126207705&utmhn=edwards.yale.edu&utmcs=UTF-8&utmsr=1280x720&utmvp=1280x720&utmsc=24-bit&utmul=pl&utmje=0&utmfl=-&utmdt=Search%20WJE%20Online%20%7C%20The%20Jonathan%20Edwards%20Center%20at%20Yale%20University&utmhid=1250761053&utmr=-&utmp=%2Farchive%3Fpath%3DaHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw%25252FYy42ODozLndqZW8%25253D&utmht=1787768106518&utmac=UA-1489454-4&utmcc=__utma%3D258641246.1875960059.1787768083.1787768083.1787768083.1%3B%2B__utmz%3D258641246.1787768083.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmjid=&utmu=qAAAAAAAAAAAAAAAAAAAAAAE~ reason=response.body: Response body is unavailable for redirect responses
+2026-08-26T18:15:10.232Z scroll:stable height=14774 samples=31
+2026-08-26T18:15:11.278Z complete:003.html html=43668 assets=18
+2026-08-26T18:15:11.278Z archive:complete

@@ -56,10 +56,13 @@
     65,
     66,
     67,
-    68
+    68,
+    69,
+    70,
+    71
   ],
-  "firstIncompleteVolume": 69,
-  "updatedAt": "2026-08-26T18:05:38.000Z",
+  "firstIncompleteVolume": 72,
+  "updatedAt": "2026-08-26T18:16:17.000Z",
   "volumes": {
     "17": {
       "status": "complete",
@@ -1479,6 +1482,88 @@
         "All 1,956 semantic footnote references have nonempty definitions.",
         "The image audit classifies all 56 locally saved candidates as omit-noncontent; include=0, omit-scan=0, and uncertain=0.",
         "027.html lacks END OF CONTEXT AREA; the converter's footer fallback preserves the abrupt final source fragment through 'on the sabbath' before the site footer."
+      ]
+    },
+    "69": {
+      "status": "complete-with-documented-source-gap",
+      "sourceUrl": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9zZWxlY3QucGw/d2plby42Nw==",
+      "archiveManifest": "HTML/VOLUME69/.archive-manifest.json",
+      "markdown": "MD/VOLUME69.md",
+      "imageSelections": "metadata/image-selections/VOLUME69.json",
+      "contentGaps": [
+        {
+          "sourceFile": "000.html and 001.html",
+          "description": "The Previous section link in 001.html exposes Yale identifier c.67:0.wjeo, but that preceding section is absent from the visible 000.html navigation, archive manifest, and local files. Its unavailable content was not reconstructed."
+        },
+        {
+          "sourceFile": "006.html",
+          "description": "The source preserves two manuscript-damage annotations and one [JE om.] annotation. No unavailable or omitted wording was inferred or reconstructed."
+        },
+        {
+          "sourceFile": "007.html",
+          "description": "The rendered Yale source ends after 'all your streams will fail you' and then enters the site footer without footnotes, lower navigation, repeated citation, or END OF CONTEXT AREA. Only the available fragment was converted."
+        },
+        {
+          "sourceFile": "001.html–007.html",
+          "description": "Every source contains an empty transcriptImage element with no usable URL, alternative text, caption, or captured local content image. No missing image was inferred, reconstructed, or embedded."
+        }
+      ],
+      "sourceAnomalies": [
+        "All seven visible navigation entries c.67:1–7 are archived consecutively as 001.html–007.html and every heading is present in Markdown; Yale preserves their nonnumeric label order 1000, 1003, 974, 976, 977, 979, and 999.",
+        "006.html contains the volume's only explicit blank-manuscript annotation.",
+        "The manuscripts contain no semantic printed page markers; the last source reaches leaf annotation L. 2v.",
+        "All 67 semantic footnote references have nonempty definitions.",
+        "The image audit classifies all 16 locally saved candidates as omit-noncontent; include=0, omit-scan=0, and uncertain=0.",
+        "007.html lacks END OF CONTEXT AREA; the converter's footer fallback preserves the final available source text through 'all your streams will fail you' before the site footer."
+      ]
+    },
+    "70": {
+      "status": "unavailable-official-index-gap",
+      "sourceUrl": null,
+      "archiveManifest": null,
+      "markdown": null,
+      "imageSelections": null,
+      "contentGaps": [
+        {
+          "sourceFile": "official WJE Online Browse index",
+          "description": "The browser-visible official index proceeds directly from WJE Online Vol. 69 to Vol. 71 and exposes no Vol. 70 navigation link, source URL, or content. No source, manifest, or Markdown placeholder was invented."
+        }
+      ],
+      "sourceAnomalies": [
+        "WJE Online has no browser-visible volume numbered 70; the numbering gap is preserved and documented."
+      ]
+    },
+    "71": {
+      "status": "complete-with-documented-source-gap",
+      "sourceUrl": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9zZWxlY3QucGw/d2plby42OA==",
+      "archiveManifest": "HTML/VOLUME71/.archive-manifest.json",
+      "markdown": "MD/VOLUME71.md",
+      "imageSelections": "metadata/image-selections/VOLUME71.json",
+      "contentGaps": [
+        {
+          "sourceFile": "000.html and 001.html",
+          "description": "The Previous section link in 001.html exposes Yale identifier c.68:0.wjeo, but that preceding section is absent from the visible 000.html navigation, archive manifest, and local files. Its unavailable content was not reconstructed."
+        },
+        {
+          "sourceFile": "001.html",
+          "description": "The source preserves one [JE om.] annotation. No omitted wording was inferred or reconstructed."
+        },
+        {
+          "sourceFile": "003.html",
+          "description": "The rendered Yale source ends after 'Those who are immediately employed as Instruments especially' at leaf notation [4v] and then enters the site footer without footnotes, lower navigation, repeated citation, or END OF CONTEXT AREA. Only the available fragment was converted."
+        },
+        {
+          "sourceFile": "001.html–003.html",
+          "description": "Every source contains an empty transcriptImage element with no usable URL, alternative text, caption, or captured local content image. No missing image was inferred, reconstructed, or embedded."
+        }
+      ],
+      "sourceAnomalies": [
+        "All three visible navigation entries c.68:1–3 are archived consecutively as 001.html–003.html and every heading is present in Markdown; Yale's sermon labels are 1064, 1072, and 1082.",
+        "The sources contain no explicit blank-manuscript annotations.",
+        "The manuscripts contain no semantic printed page markers; the last source preserves consecutive leaf annotations [1r]–[4v].",
+        "All 69 semantic footnote references have nonempty definitions.",
+        "The image audit classifies all eight locally saved candidates as omit-noncontent; include=0, omit-scan=0, and uncertain=0.",
+        "003.html lacks END OF CONTEXT AREA; the converter's footer fallback preserves the abrupt final source fragment through 'Instruments especially' and [4v] before the site footer."
       ]
     }
   }
