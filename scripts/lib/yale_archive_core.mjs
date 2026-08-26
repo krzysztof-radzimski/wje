@@ -103,6 +103,54 @@ export function discoverTopLevelSections(html, baseUrl) {
   }));
 }
 
+export function discoverDescendantSections(html, baseUrl, { fromTitle, startIndex = 1 } = {}) {
+  const requestedPrefix = String(fromTitle ?? "").trim();
+  if (!requestedPrefix) {
+    throw new Error("Odzyskiwanie podsekcji wymaga niepustego prefiksu tytułu.");
+  }
+  const items = [];
+  const spanPattern = /<span\b[^>]*class=["'][^"']*\bnavlevel([123])\b[^"']*["'][^>]*>([\s\S]*?)<\/span>/gi;
+  let spanMatch;
+  while ((spanMatch = spanPattern.exec(html)) !== null) {
+    const anchor = spanMatch[2].match(/<a\b[^>]*href=["']([^"']+)["'][^>]*>([\s\S]*?)<\/a>/i);
+    if (!anchor) continue;
+    items.push({
+      level: Number.parseInt(spanMatch[1], 10),
+      url: new URL(decodeEntities(anchor[1]), baseUrl).href,
+      title: decodeEntities(anchor[2].replace(/<[^>]+>/g, " ").replace(/\s+/g, " ").trim()),
+    });
+  }
+
+  const matches = items
+    .map((item, index) => ({ item, index }))
+    .filter(({ item }) => item.title.startsWith(requestedPrefix));
+  if (matches.length !== 1) {
+    throw new Error(
+      `Prefiks podsekcji "${requestedPrefix}" powinien wskazywać dokładnie jedną pozycję; znaleziono ${matches.length}.`,
+    );
+  }
+  const { item: first, index: firstIndex } = matches[0];
+  if (first.level === 1) {
+    throw new Error("Odzyskiwanie podsekcji musi zaczynać się od navlevel2 albo navlevel3.");
+  }
+
+  const results = [];
+  const seen = new Set();
+  for (let index = firstIndex; index < items.length; index += 1) {
+    const item = items[index];
+    if (index > firstIndex && item.level < first.level) break;
+    if (item.level !== first.level || seen.has(item.url)) continue;
+    seen.add(item.url);
+    results.push(item);
+  }
+  return results.map((section, offset) => ({
+    url: section.url,
+    title: section.title,
+    index: startIndex + offset,
+    localFile: `${localStem(startIndex + offset)}.html`,
+  }));
+}
+
 export async function pathExists(target) {
   try {
     await access(target);

@@ -10,6 +10,7 @@ import {
   assertArchiveDestinationSafe,
   assertRawTargetAbsent,
   captureMetrics,
+  discoverDescendantSections,
   discoverTopLevelSections,
   loadManifest,
   localStem,
@@ -26,7 +27,8 @@ Archiwizator pojedynczego tomu WJE przez automatyzowaną przeglądarkę Microsof
 
 Użycie:
   npm run archive -- --volume NN --source-url URL --destination HTML/VOLUMENN \\
-    [--resume] [--delay-ms 2500] [--headless] [--retries 3]
+    [--resume] [--delay-ms 2500] [--headless] [--retries 3] \\
+    [--append-descendants-from TITLE_PREFIX]
   npm run archive:smoke
 
 Opcje:
@@ -38,6 +40,9 @@ Opcje:
   --headless           Uruchamia Edge bez osobnego okna (ustawienie domyślne).
   --visible-window     Opcjonalnie pokazuje okno Edge; nie wymaga sterowania interfejsem macOS.
   --retries N          Liczba prób na stronę, 1–10 (domyślnie 3).
+  --append-descendants-from TITLE_PREFIX
+                       Dołącza równorzędne podsekcje od wskazanej pozycji, gdy
+                       strona zbiorcza Yale jest ucięta.
   --smoke-test         Zapisuje lokalną stronę testową w odrębnym katalogu tymczasowym.
   --help               Pokazuje tę pomoc.
 
@@ -71,6 +76,7 @@ export function parseArguments(argv) {
     else if (argument === "--destination") options.destination = value();
     else if (argument === "--delay-ms") options.delayMs = Number.parseInt(value(), 10);
     else if (argument === "--retries") options.retries = Number.parseInt(value(), 10);
+    else if (argument === "--append-descendants-from") options.appendDescendantsFrom = value();
     else if (argument === "--resume") options.resume = true;
     else if (argument === "--headless" || argument === "--no-visible-window") options.headless = true;
     else if (argument === "--visible-window") options.headless = false;
@@ -81,13 +87,14 @@ export function parseArguments(argv) {
 }
 
 const pause = (milliseconds) => new Promise((resolve) => setTimeout(resolve, milliseconds));
+const SCROLL_VIEWPORT_FRACTION = 0.75;
 
-export async function stabilizeDocument(page) {
+export async function stabilizeDocument(page, { sampleDelayMs = 120 } = {}) {
   const measurements = [];
   let stableAtBottom = 0;
   let reachedBottom = false;
   for (let step = 0; step < 500; step += 1) {
-    const measurement = await page.evaluate(() => {
+    const measurement = await page.evaluate((scrollFraction) => {
       const root = document.documentElement;
       const body = document.body;
       const height = Math.max(
@@ -97,14 +104,14 @@ export async function stabilizeDocument(page) {
         body?.offsetHeight ?? 0,
       );
       const bottom = Math.ceil(window.scrollY + window.innerHeight) >= height;
-      if (!bottom) window.scrollBy(0, Math.max(180, Math.floor(window.innerHeight * 0.35)));
+      if (!bottom) window.scrollBy(0, Math.max(180, Math.floor(window.innerHeight * scrollFraction)));
       return {
         height,
         scrollY: Math.round(window.scrollY),
         viewportHeight: window.innerHeight,
         bottom,
       };
-    });
+    }, SCROLL_VIEWPORT_FRACTION);
     measurements.push({ ...measurement, measuredAt: new Date().toISOString() });
     reachedBottom ||= measurement.bottom;
     const previous = measurements.at(-2);
@@ -121,7 +128,7 @@ export async function stabilizeDocument(page) {
         measurements,
       };
     }
-    await pause(120);
+    if (sampleDelayMs > 0) await pause(sampleDelayMs);
   }
   const final = measurements.at(-1);
   return {
@@ -291,9 +298,22 @@ export async function runArchive(options) {
 
     const navigationHtml = await readFile(path.join(options.destination, "000.html"), "utf8");
     const navigationEntry = manifest.entries.find((entry) => entry.localFile === "000.html");
-    const sections = discoverTopLevelSections(navigationHtml, navigationEntry.finalUrl);
-    if (sections.length === 0) {
+    const topLevelSections = discoverTopLevelSections(navigationHtml, navigationEntry.finalUrl);
+    if (topLevelSections.length === 0) {
       throw new Error("000.html nie zawiera linków nawigacji tomu; nie można ustalić kolejności sekcji.");
+    }
+    const descendantSections = options.appendDescendantsFrom
+      ? discoverDescendantSections(navigationHtml, navigationEntry.finalUrl, {
+        fromTitle: options.appendDescendantsFrom,
+        startIndex: topLevelSections.length + 1,
+      })
+      : [];
+    const sections = [...topLevelSections, ...descendantSections];
+    if (descendantSections.length > 0) {
+      await log(
+        `discovery:descendants ${descendantSections.length} ` +
+        `from=${JSON.stringify(options.appendDescendantsFrom)}`,
+      );
     }
     await log(`discovery:sections ${sections.length}`);
     for (const section of sections) {

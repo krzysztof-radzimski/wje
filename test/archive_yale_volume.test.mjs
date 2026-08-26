@@ -3,10 +3,12 @@ import { mkdtemp, mkdir, readFile, readdir, writeFile } from "node:fs/promises";
 import os from "node:os";
 import path from "node:path";
 import test from "node:test";
+import { parseArguments, stabilizeDocument } from "../scripts/archive_yale_volume.mjs";
 import { EDGE_EXECUTABLE_PATH, runPreflight } from "../scripts/lib/archive_preflight.mjs";
 import {
   assertArchiveDestinationSafe,
   assertRawTargetAbsent,
+  discoverDescendantSections,
   discoverTopLevelSections,
   localStem,
   resumeDecision,
@@ -54,6 +56,79 @@ test("grupuje potomne odnośniki Yale bez sortowania po numerach URL", () => {
     Buffer.from(new URL(sections[0].url).searchParams.get("path"), "base64").toString("utf8"),
     "http://edwards.yale.edu/cgi-bin/newphilo/getobject.pl?c.0:7.wjeo",
   );
+});
+
+test("dołącza brakujące równorzędne podsekcje od jednoznacznego tytułu", () => {
+  const encoded = (object) => Buffer
+    .from(`http://edwards.yale.edu/cgi-bin/newphilo/getobject.pl?${object}`, "utf8")
+    .toString("base64");
+  const html = `
+    <span class="navlevel1"><a href="?path=${encoded("c.17:4.wjeo")}">Main</a></span>
+    <span class="navlevel2"><a href="?path=${encoded("c.17:4:247.wjeo")}">748. Earlier</a></span>
+    <span class="navlevel2"><a href="?path=${encoded("c.17:4:248.wjeo")}">749. Start</a></span>
+    <span class="navlevel3"><a href="?path=${encoded("c.17:4:248:0.wjeo")}">Nested child</a></span>
+    <span class="navlevel2"><a href="?path=${encoded("c.17:4:249.wjeo")}">750. Next</a></span>
+    <span class="navlevel1"><a href="?path=${encoded("c.17:5.wjeo")}">Appendix</a></span>
+    <span class="navlevel2"><a href="?path=${encoded("c.17:5:0.wjeo")}">Later child</a></span>
+  `;
+
+  const sections = discoverDescendantSections(html, "http://edwards.yale.edu/archive", {
+    fromTitle: "749.",
+    startIndex: 5,
+  });
+
+  assert.deepEqual(sections.map(({ title, index, localFile }) => ({ title, index, localFile })), [
+    { title: "749. Start", index: 5, localFile: "005.html" },
+    { title: "750. Next", index: 6, localFile: "006.html" },
+  ]);
+  assert.match(
+    Buffer.from(new URL(sections[0].url).searchParams.get("path"), "base64").toString("utf8"),
+    /c\.17:4:248\.wjeo$/,
+  );
+});
+
+test("odczytuje jawny prefiks odzyskiwania podsekcji z CLI", () => {
+  const options = parseArguments(["--append-descendants-from", "749. BEING OF GOD"]);
+  assert.equal(options.appendDescendantsFrom, "749. BEING OF GOD");
+});
+
+test("stabilizuje bardzo długą, rosnącą stronę w limicie 500 próbek", async () => {
+  const viewportHeight = 720;
+  let height = 84_000;
+  let scrollY = 0;
+  let grew = false;
+  let maxJump = 0;
+  const page = {
+    async evaluate(_callback, scrollFraction) {
+      if (scrollY >= 40_000) {
+        height = 168_180;
+        grew = true;
+      }
+      const bottom = Math.ceil(scrollY + viewportHeight) >= height;
+      if (!bottom) {
+        const step = Math.max(180, Math.floor(viewportHeight * scrollFraction));
+        const nextScrollY = Math.min(scrollY + step, height - viewportHeight);
+        maxJump = Math.max(maxJump, nextScrollY - scrollY);
+        scrollY = nextScrollY;
+      }
+      return {
+        height,
+        scrollY,
+        viewportHeight,
+        bottom,
+      };
+    },
+  };
+
+  const result = await stabilizeDocument(page, { sampleDelayMs: 0 });
+
+  assert.equal(grew, true);
+  assert.equal(result.reachedBottom, true);
+  assert.equal(result.stabilized, true);
+  assert.equal(result.stabilizedHeight, 168_180);
+  assert.equal(result.stableSamples, 4);
+  assert.ok(result.measurementCount < 400);
+  assert.ok(maxJump < viewportHeight);
 });
 
 test("odkryta liczba sekcji odpowiada ręcznym zrzutom tomów 01–16", async () => {
