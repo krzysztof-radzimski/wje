@@ -1,0 +1,156 @@
+{
+  "schemaVersion": 1,
+  "volume": "VOLUME29",
+  "sourceUrl": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9zZWxlY3QucGw/d2plby4yOA==",
+  "createdAt": "2026-08-26T09:07:04.358Z",
+  "updatedAt": "2026-08-26T09:07:13.988Z",
+  "entries": [
+    {
+      "localFile": "000.html",
+      "title": "Volume navigation",
+      "requestedUrl": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9zZWxlY3QucGw/d2plby4yOA==",
+      "finalUrl": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9zZWxlY3QucGw/d2plby4yOA==",
+      "archivedAt": "2026-08-26T09:07:08.691Z",
+      "scroll": {
+        "reachedBottom": true,
+        "stabilized": true,
+        "stabilizedHeight": 1153,
+        "stableSamples": 4,
+        "measurementCount": 5,
+        "measurements": [
+          {
+            "height": 1126,
+            "scrollY": 406,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T09:07:06.899Z"
+          },
+          {
+            "height": 1153,
+            "scrollY": 433,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T09:07:07.022Z"
+          },
+          {
+            "height": 1153,
+            "scrollY": 433,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T09:07:07.145Z"
+          },
+          {
+            "height": 1153,
+            "scrollY": 433,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T09:07:07.267Z"
+          },
+          {
+            "height": 1153,
+            "scrollY": 433,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T09:07:07.391Z"
+          }
+        ]
+      },
+      "files": {
+        "htmlExists": true,
+        "assetsDirectoryExists": true,
+        "htmlBytes": 35090,
+        "assetsBytes": 434726,
+        "assetCount": 18
+      },
+      "evidence": ".archive-evidence/000.png",
+      "attempts": 1,
+      "archiveMethod": "playwright-rendered-dom-and-responses",
+      "status": "complete",
+      "error": null
+    },
+    {
+      "localFile": "001.html",
+      "title": "\"Extracts out of the Bishop of London's Third Pastoral Letter\" Extracts from Bp. of London's Letter",
+      "requestedUrl": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw%2FYy4yODoxLndqZW8%3D",
+      "finalUrl": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw%2FYy4yODoxLndqZW8%3D",
+      "archivedAt": "2026-08-26T09:07:13.981Z",
+      "scroll": {
+        "reachedBottom": true,
+        "stabilized": true,
+        "stabilizedHeight": 2098,
+        "stableSamples": 4,
+        "measurementCount": 8,
+        "measurements": [
+          {
+            "height": 2089,
+            "scrollY": 540,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T09:07:12.074Z"
+          },
+          {
+            "height": 2062,
+            "scrollY": 1053,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T09:07:12.197Z"
+          },
+          {
+            "height": 2062,
+            "scrollY": 1342,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T09:07:12.320Z"
+          },
+          {
+            "height": 2098,
+            "scrollY": 1378,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T09:07:12.443Z"
+          },
+          {
+            "height": 2098,
+            "scrollY": 1378,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T09:07:12.566Z"
+          },
+          {
+            "height": 2098,
+            "scrollY": 1378,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T09:07:12.689Z"
+          },
+          {
+            "height": 2098,
+            "scrollY": 1378,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T09:07:12.812Z"
+          },
+          {
+            "height": 2098,
+            "scrollY": 1378,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T09:07:12.935Z"
+          }
+        ]
+      },
+      "files": {
+        "htmlExists": true,
+        "assetsDirectoryExists": true,
+        "htmlBytes": 40596,
+        "assetsBytes": 434726,
+        "assetCount": 18
+      },
+      "evidence": ".archive-evidence/001.png",
+      "attempts": 1,
+      "archiveMethod": "playwright-rendered-dom-and-responses",
+      "status": "complete",
+      "error": null
+    }
+  ]
+}

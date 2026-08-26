@@ -14,10 +14,13 @@
     23,
     24,
     25,
-    26
+    26,
+    27,
+    28,
+    29
   ],
-  "firstIncompleteVolume": 27,
-  "updatedAt": "2026-08-26T08:52:27.000Z",
+  "firstIncompleteVolume": 30,
+  "updatedAt": "2026-08-26T09:08:46.000Z",
   "volumes": {
     "17": {
       "status": "complete",
@@ -211,6 +214,79 @@
         "Source notes and the two printed tables are flattened inside figures and prose rather than represented as semantic footnotes or content HTML tables.",
         "The image audit classifies all eighteen interface candidates as omit-noncontent; include=0, omit-scan=0, and uncertain=0.",
         "008.html lacks END OF CONTEXT AREA; the converter's footer fallback includes the complete Index of Biblical Passages through the final Revelation entry."
+      ]
+    },
+    "27": {
+      "status": "complete-with-documented-source-gap",
+      "sourceUrl": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9zZWxlY3QucGw/d2plby4yNg==",
+      "archiveManifest": "HTML/VOLUME27/.archive-manifest.json",
+      "markdown": "MD/VOLUME27.md",
+      "imageSelections": "metadata/image-selections/VOLUME27.json",
+      "contentGaps": [
+        {
+          "sourceFile": "000.html and 001.html–002.html",
+          "description": "Saved Previous/Next links expose Yale identifiers c.26:0.wjeo, c.26:2.wjeo, and c.26:3.wjeo, but all three sections are absent from the visible 000.html navigation, archive manifest, and local files. Their unavailable content was not reconstructed."
+        },
+        {
+          "sourceFile": "001.html, 002.html, 003.html, and 005.html",
+          "description": "Each source contains an empty transcriptImage placeholder with no URL, alternative text, caption, or captured local file. No missing image was inferred, reconstructed, or embedded."
+        }
+      ],
+      "sourceAnomalies": [
+        "The five visible navigation entries are archived as 001.html–005.html and all corresponding substantive headings are present in Markdown; their labels contain technical repetitions and editorial suffixes.",
+        "The saved manuscript pages contain no standard printed page markers, so no printed pagination range can be asserted or reconstructed.",
+        "All 474 semantic footnote references have definitions. Nine source definitions without semantic references are preserved as explicit unreferenced Markdown definitions.",
+        "The image audit classifies all twelve locally saved interface candidates as omit-noncontent; include=0, omit-scan=0, and uncertain=0.",
+        "005.html lacks END OF CONTEXT AREA; the converter's footer fallback ends after the complete Part V conclusion and complete note 119."
+      ]
+    },
+    "28": {
+      "status": "complete-with-documented-source-gap",
+      "sourceUrl": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9zZWxlY3QucGw/d2plby4yNw==",
+      "archiveManifest": "HTML/VOLUME28/.archive-manifest.json",
+      "markdown": "MD/VOLUME28.md",
+      "imageSelections": "metadata/image-selections/VOLUME28.json",
+      "contentGaps": [
+        {
+          "sourceFile": "000.html and 001.html",
+          "description": "The Previous section link in 001.html exposes Yale identifier c.27:0.wjeo, but that preceding section is absent from the visible 000.html navigation, archive manifest, and local files. Its unavailable content was not reconstructed."
+        },
+        {
+          "sourceFile": "002.html–005.html",
+          "description": "Each source contains an empty transcriptImage placeholder with no URL, alternative text, caption, or captured local file. No missing image was inferred, reconstructed, or embedded."
+        }
+      ],
+      "sourceAnomalies": [
+        "The five visible navigation entries c.27:1–5 are archived consecutively as 001.html–005.html and all corresponding substantive headings are present in Markdown; their labels contain repetitions and editorial filename suffixes.",
+        "The saved manuscript pages contain no standard printed page markers, so no printed pagination range can be asserted or reconstructed.",
+        "All 171 semantic footnote references have definitions. Two nested parenthetical source definitions without semantic references are preserved as explicit unreferenced Markdown definitions.",
+        "The final source preserves 114 inline annotations, including numbered notes 1–87, as prose; 003.html also contains five literal source strings ';nd', retained without editorial repair.",
+        "The image audit classifies all twelve locally saved interface candidates as omit-noncontent; include=0, omit-scan=0, and uncertain=0.",
+        "005.html lacks END OF CONTEXT AREA; the converter's footer fallback ends after the complete final Subjects of Inquiry entry and its editorial note."
+      ]
+    },
+    "29": {
+      "status": "complete-with-documented-source-gap",
+      "sourceUrl": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9zZWxlY3QucGw/d2plby4yOA==",
+      "archiveManifest": "HTML/VOLUME29/.archive-manifest.json",
+      "markdown": "MD/VOLUME29.md",
+      "imageSelections": "metadata/image-selections/VOLUME29.json",
+      "contentGaps": [
+        {
+          "sourceFile": "000.html and 001.html",
+          "description": "The Previous section link in 001.html exposes Yale identifier c.28:0.wjeo, but that preceding section is absent from the visible 000.html navigation, archive manifest, and local files. Its unavailable content was not reconstructed."
+        },
+        {
+          "sourceFile": "001.html",
+          "description": "The only visible source contains an empty transcriptImage placeholder with no URL, alternative text, caption, or captured local file. No missing image was inferred, reconstructed, or embedded."
+        }
+      ],
+      "sourceAnomalies": [
+        "The sole visible navigation entry c.28:1 is archived as 001.html and its complete Extracts out of the Bishop of London's Third Pastoral Letter heading and text are present in Markdown.",
+        "The saved manuscript page contains no standard printed page markers; bracketed manuscript leaf numbers in the text are retained as source prose.",
+        "The source exposes no semantic footnote definitions or content tables; its four inline editorial and marginal notes are retained as source prose, and no structures were invented during conversion.",
+        "The image audit classifies all four locally saved interface candidates as omit-noncontent; include=0, omit-scan=0, and uncertain=0.",
+        "001.html lacks END OF CONTEXT AREA; the converter's footer fallback ends after the complete final extract and the source's [blank] [4] notation."
       ]
     }
   }
