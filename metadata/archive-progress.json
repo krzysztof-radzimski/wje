@@ -59,10 +59,12 @@
     68,
     69,
     70,
-    71
+    71,
+    72,
+    73
   ],
-  "firstIncompleteVolume": 72,
-  "updatedAt": "2026-08-26T18:16:17.000Z",
+  "firstIncompleteVolume": 74,
+  "updatedAt": "2026-08-26T18:31:05.000Z",
   "volumes": {
     "17": {
       "status": "complete",
@@ -1564,6 +1566,74 @@
         "All 69 semantic footnote references have nonempty definitions.",
         "The image audit classifies all eight locally saved candidates as omit-noncontent; include=0, omit-scan=0, and uncertain=0.",
         "003.html lacks END OF CONTEXT AREA; the converter's footer fallback preserves the abrupt final source fragment through 'Instruments especially' and [4v] before the site footer."
+      ]
+    },
+    "72": {
+      "status": "complete-with-documented-source-gap",
+      "sourceUrl": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9zZWxlY3QucGw/d2plby42OQ==",
+      "archiveManifest": "HTML/VOLUME72/.archive-manifest.json",
+      "markdown": "MD/VOLUME72.md",
+      "imageSelections": "metadata/image-selections/VOLUME72.json",
+      "contentGaps": [
+        {
+          "sourceFile": "000.html and 001.html",
+          "description": "The Previous section link in 001.html exposes Yale identifier c.69:0.wjeo, but that preceding section is absent from the visible 000.html navigation, archive manifest, and local files. Its unavailable content was not reconstructed."
+        },
+        {
+          "sourceFile": "001.html",
+          "description": "The source preserves one [JE om.] annotation. No omitted wording was inferred or reconstructed."
+        },
+        {
+          "sourceFile": "004.html",
+          "description": "The rendered Yale source ends abruptly after '& v. ------' and then enters the page footer without a continuation, footnotes, lower navigation, repeated citation, or END OF CONTEXT AREA. Only the available fragment was converted."
+        },
+        {
+          "sourceFile": "001.html–004.html",
+          "description": "Every source contains an empty transcriptImage element with no usable URL, alternative text, caption, or captured local content image. No missing image was inferred, reconstructed, or embedded."
+        }
+      ],
+      "sourceAnomalies": [
+        "All four visible navigation entries c.69:1–4 are archived consecutively as 001.html–004.html and every heading is present in Markdown; Yale's sermon labels are 1114, 1116, 1144, and 1148.",
+        "Yale renders bibliographic year [1743] with the 1754–1755 volume title, and 004.html visibly identifies Ps. 60:9-11 while its technical transcript label says Ps. 60:9-12. All forms are preserved as rendered.",
+        "Sources 001.html, 003.html, and 004.html explicitly annotate blank manuscript columns or leaves; these are source-described manuscript features rather than archive failures.",
+        "The manuscripts contain no semantic printed page markers; the last source reaches leaf annotation L. 15r. with unexplained source jumps from 10r to 11r and 12r to 13r.",
+        "All 171 semantic footnote references have nonempty definitions.",
+        "The image audit classifies all ten locally saved candidates as omit-noncontent; include=0, omit-scan=0, and uncertain=0.",
+        "004.html lacks END OF CONTEXT AREA; the converter's footer fallback preserves the abrupt final source fragment through '& v. ------' before the page footer."
+      ]
+    },
+    "73": {
+      "status": "complete-with-documented-source-gap",
+      "sourceUrl": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9zZWxlY3QucGw/d2plby43MA==",
+      "archiveManifest": "HTML/VOLUME73/.archive-manifest.json",
+      "markdown": "MD/VOLUME73.md",
+      "imageSelections": "metadata/image-selections/VOLUME73.json",
+      "contentGaps": [
+        {
+          "sourceFile": "000.html and 001.html",
+          "description": "The Previous section link in 001.html exposes Yale identifier c.70:0.wjeo, but that preceding section is absent from the visible 000.html navigation, archive manifest, and local files. Its unavailable content was not reconstructed."
+        },
+        {
+          "sourceFile": "002.html",
+          "description": "The source preserves three [JE om.] annotations, damage at a stitch hole, blank columns, and a manuscript fragment ending on blank leaf L. 14v. after announcing Isa. 51:1. No omitted or unavailable wording was inferred or reconstructed."
+        },
+        {
+          "sourceFile": "005.html",
+          "description": "The aggregate NoMS source reaches a complete final sentence ending 'those that are of the best, and most excellent kind.' and then enters the page footer without footnotes, lower navigation, repeated citation, or END OF CONTEXT AREA. Only the source-visible text was converted."
+        },
+        {
+          "sourceFile": "001.html–004.html",
+          "description": "Each specified source contains an empty transcriptImage element with no usable URL, alternative text, caption, or captured local content image. No missing image was inferred, reconstructed, or embedded."
+        }
+      ],
+      "sourceAnomalies": [
+        "The six visible navigation labels comprise five consecutive aggregate sources c.70:1–5 plus child c.70:5:1, whose edited text is embedded in 005.html; every navigation heading is present in Markdown.",
+        "Yale's visible aggregate sermon labels are nonconsecutive: 1171, 1176, 1177, 1178, and 1186.",
+        "003.html explicitly marks the transition from the ANTS portion to a BRBL fragment, and 004.html is a source-closed outline fragment ending 'How pray.' These are source-described manuscript features rather than archive failures.",
+        "The manuscript sources contain no semantic printed page markers; edited NoMS child text in 005.html preserves inline page labels 2–46, while the last manuscript source with leaf notation reaches L. 14v.",
+        "All 86 semantic footnote references have nonempty definitions.",
+        "The image audit classifies all twelve locally saved candidates as omit-noncontent; include=0, omit-scan=0, and uncertain=0.",
+        "005.html lacks END OF CONTEXT AREA; the converter's footer fallback preserves the complete final source sentence through 'most excellent kind.' before the page footer."
       ]
     }
   }
