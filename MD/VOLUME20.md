@@ -5766,13 +5766,11 @@ Samuel's wearing a linen ephod and officiating as a priest—who, though a Levit
 
 [^065-note2]: This reference and the following paragraph in this entry are later additions. Kidder, *Demonstration of the Messias*, Pt. III, ch. 1, considers "Another great pretence of the Jews, and prejudice against Christianity, ariseth from an opinion, which they hold pertinaciously, that the law of Moses is of perpetual obligation" (p. 1). Beginning at p. 3, Kidder distinguishes between the perpetual moral law and "positive institutions," both ceremonial and political. The latter type is not of perpetual obligation because 1) "they are not good in themselves," 2) they were "never intended for the whole world" but only for one people, 3) they ceased with the coming of the Messiah and the calling of the Gentiles, 4) some Jews themselves asserted that the Mosaic law was not indispensable, 5) God forewarned that the institutions of Moses would end in the days of the Messiah, and 6) God never declared that the institutions of Moses were to stand forever.
 
-### 1150.
+### 1150. THE FAITH OF MIRACLES
 
-[^066-note1]
+[^066-note1] 
 
 <!-- p. 520 -->
-
-THE FAITH OF MIRACLES
 
 was not properly a distinct sort of faith from other faith. I can see no reason from the Scripture to imagine so. The particular revelation that was the ground of it was different. Promises or revelations made to different persons may be different. But it does not necessarily follow that the faith by which these different revelations are believed or relied on are therefore different sorts of faith.
 
