@@ -210,10 +210,14 @@ end
 
 def manuscript_divider?(text)
   visible = text.gsub(/\[\^[^\]]+\]/, "").strip
-  visible.match?(/\A(?:[_-]{3,}[[:space:]]*)+\z/)
+  visible.match?(/\A(?:_{2,}|-{3,})(?:[[:space:]]+(?:_{2,}|-{3,}))*\z/)
 end
 
-def join_lineated_lines(previous, line)
+def terminal_hyphen_follows_strike?(node)
+  node.inner_html.match?(%r{<span\b[^>]*style=["'][^"']*strike[^"']*["'][^>]*>.*?</span>\s*-\s*(?:<span\b[^>]*class=["'][^"']*fnote[^"']*["'][^>]*>.*?</span>)?\s*\z}im)
+end
+
+def join_lineated_lines(previous, line, join_hyphenation: true)
   return line if previous.empty?
 
   previous = previous.rstrip
@@ -227,7 +231,7 @@ def join_lineated_lines(previous, line)
   footnotes = previous[/((?:\[\^[^\]]+\])*)\z/, 1].to_s
   stem = footnotes.empty? ? previous : previous[0...-footnotes.length]
   continuation = line.match(/\A([[:alpha:]]+)(.*)\z/)
-  if stem.match?(/(?<!-)-\z/) && continuation
+  if join_hyphenation && stem.match?(/(?<!-)-\z/) && continuation
     return "#{stem[0...-1]}#{continuation[1]}#{footnotes}#{continuation[2]}"
   end
 
@@ -243,9 +247,11 @@ end
 
 def render_lineated_paragraphs(paragraphs, output, heading_count)
   paragraph = +""
+  allow_previous_hyphenation = true
   flush = lambda do
     append_paragraph(output, paragraph)
     paragraph = +""
+    allow_previous_hyphenation = true
   end
 
   paragraphs.each do |node|
@@ -265,7 +271,16 @@ def render_lineated_paragraphs(paragraphs, output, heading_count)
       flush.call
       append_paragraph(output, line)
     else
-      paragraph = join_lineated_lines(paragraph, line)
+      paragraph = join_lineated_lines(
+        paragraph,
+        line,
+        join_hyphenation: allow_previous_hyphenation
+      )
+      allow_previous_hyphenation = !terminal_hyphen_follows_strike?(node)
+      # A line containing only a note marker is a genuine source boundary,
+      # usually between columns or outline entries. Attach the marker to the
+      # preceding text, then start the following line as a new paragraph.
+      flush.call if line.match?(/\A(?:\[\^[^\]]+\])+\z/)
     end
   end
 

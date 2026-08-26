@@ -2,165 +2,55 @@
 
 ### 1171.Prov. 8.17b (8_56) trans
 
-Jonathan Edwardschil English children at a
+Jonathan Edwards
 
-Catechizing. Aug. 1756
-
-_______________________________________
-
-Prov. 8. 17.
-
-I love them that
-
-Love me & those that
-
-seek me early shall find
-
-me/ 1 a Priviledge
-
-2. How to obtain it
+chil English children at a Catechizing. Aug. 1756
 
 _______________________________________
 
-doc. I: They are happy
+Prov. 8. 17. I love them that Love me & those that seek me early shall find me/ 1 a Priviledge 2. How to obtain it
 
-that Love J X in as
+_______________________________________
 
-much as all such
-
-are those that he
-
-Loves
+doc. I: They are happy that Love J X in as much as all such are those that he Loves
 
 ____
 
-I. what it is truly to
-
-Love. the L. J. X
+I. what it is truly to Love. the L. J. X
 
 _________
 
-1 They that see him to be
-
-more excelent than all
+1 They that see him to be more excelent than all
 
 _________
 
-2. are brought in their
-
-Hearts to Chuse him
-
-above all
+2. are brought in their Hearts to Chuse him above all
 
 ____
 
-3. To place their greatest
-
-delight in him.
+3. To place their greatest delight in him.
 
 __________
 
-4. To be willing to give
-
-thems. wholly to
-
-Him.
+4. To be willing to give thems. wholly to Him.
 
 _____
 
-5. To follow & serve
+5. To follow & serve him as long as they live [^001-note1]
 
-him as long as they
-
-live
-
-[^001-note1]
-
-II. all such Persons
-
-may certainly depend
-
-upon it that X
-
-loves them
-
-is reconciled .
-
-That he died for
-
-them.
-
-He is reconciled to
-
-them & become their
-
-Friend i
-
-Highly prizes them
-
-Delights in them
-
-- will surely seek
-
-their Good.
+II. all such Persons may certainly depend upon it that X loves them is reconciled . That he died for them. He is reconciled to them & become their Friend i Highly prizes them Delights in them - will surely seek their Good.
 
 ___________________________________
 
-III. why X loves such
-
-as Love Him.
-
-not that they deserve
-
-his Love
-
-and them for it
-
-free Grace
-
-gave their Love to
-
-Him.
-
-delights in that Beauty
-
-that He Hims.
-
-has put upon them.
+III. why X loves such as Love Him. not that they deserve his Love and them for it free Grace gave their Love to Him. delights in that Beauty that He Hims. has put upon them.
 
 ____________________________________
 
-now I have shewd
-
-you what Great
-
-Priviledge
-
-now to shew you
-
-how to obtain it
-
-under the said
-
-P
+now I have shewd you what Great Priviledge now to shew you how to obtain it under the said P
 
 ____________________________________
 
-DOC II There
-
-is great Encouragemt
-
-that if Persons will
-
-earnestly seek after
-
-X while young they
-
-th y that they will
-
-find Him.
-
-seek him earnestly[^001-note2]
+DOC II There is great Encouragemt that if Persons will earnestly seek after X while young they th y that they will find Him. seek him earnestly[^001-note2]
 
 ________
 
@@ -172,79 +62,31 @@ They have great advantages
 
 __
 
-1 what Evidence
-
-of this
+1 what Evidence of this
 
 __________________________________
 
-2. Reason.
-
-Applica.[^001-note3]
-
-1 Infinite Im-
-
-portance -- some
-
-time or other
+2. Reason. Applica.[^001-note3] 1 Infinite Importance -- some time or other
 
 ________
 
-2. never have
-
-this opportunity
-
-but once
-
-[rest of column and parts of surrounding
-
-columns comprised of the address on a letter
-
-to JE]
-
-3. How uncertainly[^001-note4]
-
-whether you will
-
-have any other opp
+2. never have this opportunity but once [rest of column and parts of surrounding columns comprised of the address on a letter to JE] 3. How uncertainly[^001-note4] whether you will have any other opp
 
 _________________________________
 
-4. uncertain wheth
-
-how little of this
+4. uncertain wheth how little of this
 
 ____________
 
-5. such an opportunity
-
-is thrown away
-
-for nothing.
+5. such an opportunity is thrown away for nothing.
 
 __________________
 
-6. The dreadful
-
-disadvantages of
-
-L delay.
-
-manna
-
-was got Early
+6. The dreadful disadvantages of L delay. manna was got Early
 
 __________________
 
-7. How much sorrow
-
-will be prevented
-
-How you will La-[^001-note5]
-
-probably Lament it
-
-hereafter.
+7. How much sorrow will be prevented How you will La-[^001-note5] probably Lament it hereafter.
 
 ___
 
@@ -256,9 +98,7 @@ I have heard
 
 _______________
 
-on a death bed
-
-I have heard
+on a death bed I have heard
 
 ___________
 
@@ -270,15 +110,7 @@ forever
 
 ___________________________________
 
-8. what an occasion
-
-will it be of y rejo
-
-How much rejoycing
-
-it will be an occa
-
-sion of.
+8. what an occasion will it be of y rejo How much rejoycing it will be an occa sion of.
 
 ________
 
@@ -294,21 +126,11 @@ J. X
 
 ______
 
-G.
-
-you your self
-
-Rejoyce in ----[^001-note6]
-
--- at the day
-
-of your conversion
+G. you your self Rejoyce in ----[^001-note6] -- at the day of your conversion
 
 __________
 
-rejoyce all your
-
-Life
+rejoyce all your Life
 
 ____
 
@@ -316,11 +138,7 @@ when you come to die
 
 ____
 
-when you meet
-
-sai X & the saints
-
-in Heaven
+when you meet sai X & the saints in Heaven
 
 _______
 
@@ -328,15 +146,7 @@ meet angels
 
 ______
 
-meet all the
-
-saints & angels
-
-to gether at d.
-
-of J.
-
-no End of the Joy.
+meet all the saints & angels to gether at d. of J. no End of the Joy.
 
 [^001-note1]: [col. 2]
 
@@ -354,1083 +164,171 @@ no End of the Joy.
 
 ### 1176.Ps. 89'15b (10_56) trans
 
-Jonathan EdwardsDec.at Hadley Oct. 1756.
+Jonathan Edwards
 
-56.
+Dec.at Hadley Oct. 1756. 56.
 
 _____________________________________
 
-Ps. 98. 15. Blessed is the
-
-People that know the
-
-Joyf. sound. They shall
-
-walk O L. in the Light of thy C.
+Ps. 98. 15. Blessed is the People that know the Joyf. sound. They shall walk O L. in the Light of thy C.
 
 ___________________
 
-In what is here said of
-
-the joyf. sound there
-
-is an Evident Allusion
-
-to the sound of the sil-
-
-ver Trumpets made by
-
-Gods direction to moses
-
-Given by delivered to
-
-moses which were to
-
-be sounded at their so-
-
-lemn in Israel.
-
-The word translated
-
-joyf. sound is the same
-
-in the original that is
-
-commonly used to signify
-
-the sound of a Trumpet
-
-The sound of the silver
-
-Trumpets in Israel was[^002-note1]
-
-call a Joyf. it being
-
-sound it being wh a
-
-sound that was made
-
-on those Festivals that
-
-were their days of rejoycing
-
-as on their new moons
-
-& other Feasts & in
-
-th Num. [-] 10. G. gives
-
-direction that they should
-
-blow with their Trumpets
-
-on the day of their
-
-Gladness .
-
-And the sound of these
-
-Trumpets was especially
-
-direct a j--------
-
-particularly to be sounded
-
-at the Beginning of the
-
-year of Jubilee which
-
-was the most Joyful time
-
-which liberty was pro-
-
-claimed throughout all
-
-the Land to the Israelites
-
-that were in Bondage
-
-servitude & a Release to
-
-them that were in debt[^002-note2]
-
-Levit. 25. 10. And ye shall
-
-hallow the 50 year & proclaim
-
-Liberty throughout all the
-
-Land unto all the Inha-
-
-bitants thereof it shall
-
-be a Jubilee unto you & ye
-
-shall return every man unto
-
-his Possession &c -
-
-The thing rep undoubtedly
-
-represented by that Joyf
-
-sound sound of the sacred
-
-Trumpets at the Jubilee
-
-& other joyf. Feasts in Is-
-
-rael would undoubtedy
-
-the sound of the Gosp. by
-
-which that great Feast
-
-is proclaimed that G. has
-
-provided for the souls of
-
-men & by which G.
-
-Proclaims Liberty to Cap-
-
-tives & the opening of the
-
-Prison to them that are
-
-bound & proclaims[^002-note3]
-
-that sp. Jubilee that
-
-the Prophet Isai Chap.
-
-61. at the Beginning calls
-
-the Aceptable year of
-
-the L.
-
-the preaching of the glo.
-
-Gosp. of X is expressly pro
-
-phecied of under the
-
-Representation of of a
-
-blowing a Trumpet Isai
-
-27. 13. and it shall come
-
-to pass in that day that the
-
-great Trumpet shall be
-
-& they shall come which
-
-were ready to perish in
-
-the Land of Assyria & the
-
-outcasts in the Land of
-
-Egypt & shall worship the
-
-L. in the Holy mt at
-
-Jerusalem.
-
-The That the Gospel
-
-should be called a Joyf.
-
-sound is agreable to
-
-innumerable SS. represen-[^002-note4]
-
-tations of the Gospel which
-
-the word Gospel signifies
-
-Glad tidings & it is spo-
-
-ken of as Glad Tidings
-
-of Great Joy. Luke 2.
-
-10.
-
-And that this is what is
-
-meant in my Text is
-
-manifest up may be
-
-argued because this P
-
-many of the Contents of
-
-this Psalm make it
-
-manifest that it has a
-
-Principal Regard to the
-
-Gospel day It chiefly
-
-insists on the Covenant
-
-that G. had made with
-
-david & the Glorious
-
-things that shall be
-
-brought to pass to both
-
-Jews & Gentiles & all
-
-nations in Fulfilmt
-
-[^002-note5]
+In what is here said of the joyf. sound there is an Evident Allusion to the sound of the silver Trumpets made by Gods direction to moses Given by delivered to moses which were to be sounded at their solemn in Israel. The word translated joyf. sound is the same in the original that is commonly used to signify the sound of a Trumpet The sound of the silver Trumpets in Israel was[^002-note1] call a Joyf. it being sound it being wh a sound that was made on those Festivals that were their days of rejoycing as on their new moons & other Feasts & in th Num. [-] 10. G. gives direction that they should blow with their Trumpets on the day of their Gladness . And the sound of these Trumpets was especially direct a j-------- particularly to be sounded at the Beginning of the year of Jubilee which was the most Joyful time which liberty was proclaimed throughout all the Land to the Israelites that were in Bondage servitude & a Release to them that were in debt[^002-note2] Levit. 25. 10. And ye shall hallow the 50 year & proclaim Liberty throughout all the Land unto all the Inhabitants thereof it shall be a Jubilee unto you & ye shall return every man unto his Possession &c The thing rep undoubtedly represented by that Joyf sound sound of the sacred Trumpets at the Jubilee & other joyf. Feasts in Israel would undoubtedy the sound of the Gosp. by which that great Feast is proclaimed that G. has provided for the souls of men & by which G. Proclaims Liberty to Captives & the opening of the Prison to them that are bound & proclaims[^002-note3] that sp. Jubilee that the Prophet Isai Chap. 61. at the Beginning calls the Aceptable year of the L. the preaching of the glo. Gosp. of X is expressly pro phecied of under the Representation of of a blowing a Trumpet Isai 27. 13. and it shall come to pass in that day that the great Trumpet shall be & they shall come which were ready to perish in the Land of Assyria & the outcasts in the Land of Egypt & shall worship the L. in the Holy mt at Jerusalem. The That the Gospel should be called a Joyf. sound is agreable to innumerable SS. representations[^002-note4] of the Gospel which the word Gospel signifies Glad tidings & it is spoken of as Glad Tidings of Great Joy. Luke 2. 10. And that this is what is meant in my Text is manifest up may be argued because this P many of the Contents of this Psalm make it manifest that it has a Principal Regard to the Gospel day It chiefly insists on the Covenant that G. had made with david & the Glorious things that shall be brought to pass to both Jews & Gentiles & all nations in Fulfilmt [^002-note5]
 
 of that Covenat
 
 _________
 
-but [-] if we allow
-
-the SS. to be its own
-
-best Interpreter the
-
-mercies promised in that
-
-Cov. were Chiefly such
-
-as belonged to the Gosp.
-
-salva. called the sure
-
-mercies of david
-
-therefore taking the
-
-J Gospel to be intended
-
-by the Joyf. sound here
-
-spoken of I shall
-
-discourse from these
-
-the words in the follow-
-
-ing method
+but [-] if we allow the SS. to be its own best Interpreter the mercies promised in that Cov. were Chiefly such as belonged to the Gosp. salva. called the sure mercies of david therefore taking the J Gospel to be intended by the Joyf. sound here spoken of I shall discourse from these the words in the following method
 
 __________________________________
 
-I. How the Gospel is a
-
-Joyf. sound.
-
-II. what is implied in
-
-who are meant by those
-
-that Know this Joyf. s.
+I. How the Gospel is a Joyf. sound. II. what is implied in who are meant by those that Know this Joyf. s.
 
 _____
 
-III. How that they that
+III. How that they that [^002-note6]
 
-[^002-note6]
-
-know this joyf. sound all
-
-constitute one People or
-
-constitute one society.
+know this joyf. sound all constitute one People or constitute one society.
 
 _________________
 
-IV. shew that they are a
-
-blessed or Happy People.
+IV. shew that they are a blessed or Happy People.
 
 __________
 
-V. shew how their Happi-
-
-ness Consists in knowi
-
-may be summed up in
-
-that the walking in the
-
-Light of Gods Countenance
+V. shew how their Happiness Consists in knowi may be summed up in that the walking in the Light of Gods Countenance
 
 ________________________________
 
-I. The Gospel of J. X
-
-is a joyful sound.
-
-It is so both on account
-
-as it is contains Tidings
-
-of deliverance from Evil
-
-and as it exhibits &
-
-declares good things to
-
-the Chil. of men.
+I. The Gospel of J. X is a joyful sound. It is so both on account as it is contains Tidings of deliverance from Evil and as it exhibits & declares good things to the Chil. of men.
 
 _____________
 
-1 The Gospel of X con-
-
-tains joyful tidings
-
-to men of deliverance
-
-from Evil[^002-note7]
-
-The Gospel of Jes. X
-
-It is a proclamation of
-
-deliverance to the Chil
-
-of men from the Ev
-
-Evils that are by far
-
-the greatest that ever
-
-mankind are exposed to
-
-infinitely more
-
-dreadfull such as
-
-the Guilt of sin B
-
-Captivity & Bondage
-
-to satan the wrath
-
-of G. & eternal despair
-
-perfect & everlasting
-
-Ruin [-] & misery
-
-The Tidings is Joyf
-
-not only on Account
-
-of the G Greatness
-
-of the mis. delivered from
-
-but on the account
-
-of the great degree
-
-in which men were ex
-
-we in our natural
-
-state are exposed to it[^002-note8]
-
-being condemned to it
-
-by the sentence of the
-
-immutable Law of G.
+1 The Gospel of X contains joyful tidings to men of deliverance from Evil[^002-note7] The Gospel of Jes. X It is a proclamation of deliverance to the Chil of men from the Ev Evils that are by far the greatest that ever mankind are exposed to infinitely more dreadfull such as the Guilt of sin B Captivity & Bondage to satan the wrath of G. & eternal despair perfect & everlasting Ruin [-] & misery The Tidings is Joyf not only on Account of the G Greatness of the mis. delivered from but on the account of the great degree in which men were ex we in our natural state are exposed to it[^002-note8] being condemned to it by the sentence of the immutable Law of G.
 
 ___
 
-Prisoners of divine
-
-Justice
-
-Having the wrath of G.
-
-abiding
-
-utterly unable to deliv
-
-ourselves --- no
-
-strength -- no price
-
---- as it were bonds
-
-bound in Chains infinite
-
-ly strong. -----
-
-sunk into an infinite
-
-Abyss infinitely deep
-
-far beyond the Reach
-
-of all Creatures
+Prisoners of divine Justice Having the wrath of G. abiding utterly unable to deliv ourselves --- no strength -- no price --- as it were bonds bound in Chains infinite ly strong. ----- sunk into an infinite Abyss infinitely deep far beyond the Reach of all Creatures
 
 _____________
 
-Taken Captive
-
-by satan - were
-
-in the possession of
-
-Enemies much strong[^002-note9]
-
-that were most potent
-
-& of Insatiable cruel
-
-ty & by no means
-
-able to deliver ourselves
+Taken Captive by satan - were in the possession of Enemies much strong[^002-note9] that were most potent & of Insatiable cruel ty & by no means able to deliver ourselves
 
 _______________
 
-who [-] in aimed at
-
-nothing Less than the
-
-gratifying their cruelty
-
-& in our never end
-
-in our perf perpetual
-
-& never Ending misery
-
-extreme & exquisite
-
-Tormts.
+who [-] in aimed at nothing Less than the gratifying their cruelty & in our never end in our perf perpetual & never Ending misery extreme & exquisite Tormts.
 
 __________
 
-actually siezed with
-
-that mortal disease
-
-& that is is perfectly
-
-incurable by any other
-
-Hand than that of omni
-
-potence & infinite skill
+actually siezed with that mortal disease & that is is perfectly incurable by any other Hand than that of omni potence & infinite skill
 
 _____
 
-actuall received our
-
-mortal wound ---
-
-bitten by the & wholly
-
-infected with the Poison
-
-of the old serpent
-
-Ruin inevitable[^002-note10]
-
-Ruin Inevitable
-
-case utterly desperate
+actuall received our mortal wound --- bitten by the & wholly infected with the Poison of the old serpent Ruin inevitable[^002-note10] Ruin Inevitable case utterly desperate
 
 ________
 
-when we were in such
-
-Circumstances the Gospel
-
-proclaims deliverance
-
-when our Case was
-
-wholly desperate
+when we were in such Circumstances the Gospel proclaims deliverance when our Case was wholly desperate
 
 __________________________________
 
-The Tidings is the
-
-more Joyful on accoun
-
-of the Compleatness of
-
-the deliv. that is proclaimed
-
-consisting in perfect Freedom
-
-perfect deliverance from
-
-from the misery we were
-
-in Danger of & all
-
-the Causes of it
-
-the Guilt of sin in full
-
-P & everlasting Pardon & per
-
-ing Peace with G. Perfect
-
-from sin it self
-
-[^002-note11]
+The Tidings is the more Joyful on accoun of the Compleatness of the deliv. that is proclaimed consisting in perfect Freedom perfect deliverance from from the misery we were in Danger of & all the Causes of it the Guilt of sin in full P & everlasting Pardon & per ing Peace with G. Perfect from sin it self [^002-note11]
 
 ________________________________
 
-The news of this deli-
-
-verance which we have
-
-in the Gosp is also the
-
-more Joyf. on the
-
-Account of the certainty
-
-of it --- not an a
-
-uncertain Report
-
-word
-
-oath of G. Heb. 6. & clear
-
-deli delivered to us
-
-with every Circum-
-
-stance tending to give
-
-sati satisfaction
-
-to Our minds
-
-The deliverance being not only
-
-declared but the means &
-
-The manner of it
-
-explaind. we being plain-
-
-ly clearly informed
-
-How the Great Guilt
-
-of sin is Removed
-
-Justice satisfied[^002-note12]
-
-satan Cons Conquered
+The news of this deliverance which we have in the Gosp is also the more Joyf. on the Account of the certainty of it --- not an a uncertain Report word oath of G. Heb. 6. & clear deli delivered to us with every Circumstance tending to give sati satisfaction to Our minds The deliverance being not only declared but the means & The manner of it explaind. we being plainly clearly informed How the Great Guilt of sin is Removed Justice satisfied[^002-note12] satan Cons Conquered
 
 ________
 
-a saviour infinitely suffici
-
-ent There being the
+a saviour infinitely suffici ent There being the
 
 _____
 
-The Greatest Evidence
-
-of Gods mercies
-
-the Riches & Fulness of Gods mer-
-
-cy in what the Gospel informs
-
-us is already done
+The Greatest Evidence of Gods mercies the Riches & Fulness of Gods mercy in what the Gospel informs us is already done
 
 __________________________________
 
-now If we compare
-
-these things with
-
-things that are infi
-
-nitely less in degree
-
-it may serve to give
-
-us some Idea of the
-
-joyfulness of this Tidings
-
-we may conceive some thing of the Joy
-
-that wo Long lost
-
-that would arise in
-
-in a wilderness the Heart of
-
-one that had wandered deep into
+now If we compare these things with things that are infi nitely less in degree it may serve to give us some Idea of the joyfulness of this Tidings we may conceive some thing of the Joy that wo Long lost that would arise in in a wilderness the Heart of one that had wandered deep into
 
 ____________________________________
 
-If a man had long
-
-been sick of a Consumption
-
-a desolate wilderness ----------[^002-note13]
-
-& should hear the voice of
-
-a dear Friend com coming to
-
-seek him that is come to seek
-
-Him Calling to him
+If a man had long been sick of a Consumption a desolate wilderness ----------[^002-note13] & should hear the voice of a dear Friend com coming to seek him that is come to seek Him Calling to him
 
 ___
 
-If a man a company
-
-were shipwrecked in
-
-the midst of the wide
-
-Ocean
-
-If a malefactor was
-
-Condemned
-
-If one had been taken
-
-Captive by & was
-
-in the Hands of most
-
-cruel savages at
-
-a great distance from
-
-all his friends &
-
-saw Hims. devoted
-
-by them as a sacrifice
-
-to their cruelty
-
-& then a valiant C &
-
-victorious deliverer should ap-[^002-note14]
-
-pear for his Rescue
-
-But the deliverance which
-
-which we have by X is in-
-
-finitely greater
+If a man a company were shipwrecked in the midst of the wide Ocean If a malefactor was Condemned If one had been taken Captive by & was in the Hands of most cruel savages at a great distance from all his friends & saw Hims. devoted by them as a sacrifice to their cruelty & then a valiant C & victorious deliverer should appear[^002-note14] for his Rescue But the deliverance which which we have by X is infinitely greater
 
 ____________________________________
 
 ____________________________________
 
-2 But the Gospel of X is not
-
-only a joyf. sound on
-
-acco as it contains
-
-Tidings of delive-
-
-rance of from Evil
-
-But on as it declares
-
-good things to the Chil.
-
-of men Here are to be considered
+2 But the Gospel of X is not only a joyf. sound on acco as it contains Tidings of deliverance of from Evil But on as it declares good things to the Chil. of men Here are to be considered
 
 ____________
 
-1 The Excellency & infinite
-
-value of those good things
-
-not only deliverance
-
-that it reveals For therein is offered [^002-note15]
-
-from the Guilt of
-
-sin & the wrath of
-
-G. ----- But favour
-
--- Love
-
-not only --- deliverance
-
-from a Lost state in
-
-a desolate wilderness[^002-note16]
-
------ But a Part in
-
-the Glorious City of G. the
-
-Heavenly Zion
-
-an H a mansion
-
-in the House of G.
+1 The Excellency & infinite value of those good things not only deliverance that it reveals For therein is offered [^002-note15] from the Guilt of sin & the wrath of G. ----- But favour -- Love not only --- deliverance from a Lost state in a desolate wilderness[^002-note16] ----- But a Part in the Glorious City of G. the Heavenly Zion an H a mansion in the House of G.
 
 __________________________________
 
-not only deliv. from
-
-Prison doors that [^002-note17]
-
-henceforth enjoy Perfect Liberty but
-
-But -- a mansi
-
-in the House of G.
-
-Palace
+not only deliv. from Prison doors that [^002-note17] henceforth enjoy Perfect Liberty but But -- a mansi in the House of G. Palace
 
 __________________________________
 
-not only -- from
-
-slavery -- Captivity
-
-but -- dear Chil.
-
-of G.
+not only -- from slavery -- Captivity but -- dear Chil. of G.
 
 _________________________________
 
-not only -- from eter-
-
-nal Burnings
-
-But -- Pardi Para-
-
-dise -- Pleasures
-
---- not
-
-not only a bottomless [^002-note18]
-
-Abyss ----
-
--- ineffable Heights
-
-of Glory in the Hea-
-
-ven of Heavens
+not only -- from eternal Burnings But -- Pardi Paradise -- Pleasures --- not not only a bottomless [^002-note18] Abyss ---- -- ineffable Heights of Glory in the Heaven of Heavens
 
 __________________________________
 
-Joyf. sound -- as it
-
-contains news of a
-
-great Estate fallen
-
-bequeathed us --
-
--- news of a Kingd.
-
-appointed for us
+Joyf. sound -- as it contains news of a great Estate fallen bequeathed us -- -- news of a Kingd. appointed for us
 
 ______
 
-The poor that sit
-
-in the dust are in
-
-called to & the Begg-
-
-ar on the dunghill is
-
-invited to arise &
-
-sit on a Throne
-
-& inherit a glorious & et. Kingdom
+The poor that sit in the dust are in called to & the Beggar on the dunghill is invited to arise & sit on a Throne & inherit a glorious & et. Kingdom
 
 __________
 
 _____
 
-The most forlorn
-
-& abject outcast[^002-note19]
-
-& vagabond is called[^002-note20]
-
-to put off his Lo
-
-filthy Garmts & loath-
-
--som Rags & to pu
-
-be clothed with
-
-Change of Raimt
+The most forlorn & abject outcast[^002-note19] & vagabond is called[^002-note20] to put off his Lo filthy Garmts & loath- -som Rags & to pu be clothed with Change of Raimt
 
 ____
 
-to shine forth in
-
-the image of the divine Glory
+to shine forth in the image of the divine Glory
 
 ___________________________
 
-The poor famishing mis
-
-erable is invited
-
-to go a glorious
-
-& eternal Feast
-
-at the Table of the King
-
-eternal imm blessed & only
-
-Potentate
+The poor famishing mis erable is invited to go a glorious & eternal Feast at the Table of the King eternal imm blessed & only Potentate
 
 ______
 
-she that was deso
-
-Friendless des forsaken
-
-& desolate & is ---
-
-sure with infinite
-
-Love & Endearmt
-
-called to an e eter-
-
-nal [-] Espousals with
-
-the son of G. the
-
-King of Kings[^002-note21]
+she that was deso Friendless des forsaken & desolate & is --- sure with infinite Love & Endearmt called to an e eternal [-] Espousals with the son of G. the King of Kings[^002-note21]
 
 _________________________________
 
-2.These Tidings & Invi-
-
-tations come suffici-
-
-ently vouched &
-
-Confirmed
+2.These Tidings & Invitations come sufficiently vouched & Confirmed
 
 _____________________
 
-The greatest Assurance given
-
-of the Tis the Truth of them
-
-That which declares
-
-these things is not the
-
-word of men but the
-
-word of G.
-
-promise
-
-oath
-
-That which ascertains them.
-
-Cov. ordered in all
-
-things & sure
-
-Confirmed by many
-
-seals
-
-sealed with Xs Bl[^002-note22]
-
-the Blood of the son
-
-of G.
-
-These Glori
-
-& if all this were
-
-not enough
-
-our Redeemer actually
-
-put in Possession
-
-He is appointed
-
-the Judge
-
-The whole affair
-
-particularly explained
-
-Earnest is given
-
-soul is united to G
-
-spirit of adoption[^002-note23]
+The greatest Assurance given of the Tis the Truth of them That which declares these things is not the word of men but the word of G. promise oath That which ascertains them. Cov. ordered in all things & sure Confirmed by many seals sealed with Xs Bl[^002-note22] the Blood of the son of G. These Glori & if all this were not enough our Redeemer actually put in Possession He is appointed the Judge The whole affair particularly explained Earnest is given soul is united to G spirit of adoption[^002-note23]
 
 __________________________________
 
-as a confirmation
-
-spirit
-
-and espousal to X
-
-soul actually betrothed un-
-
-to X And even now
-
-the Love of G. shed abroad
-
-& Joy in G. is shed abroad
-
-in the Heart as a Preli-
-
-bation of the promised
-
-exalted & eternal Blessed
-
-ness
-
-& this brings me to observe
+as a confirmation spirit and espousal to X soul actually betrothed unto X And even now the Love of G. shed abroad & Joy in G. is shed abroad in the Heart as a Prelibation of the promised exalted & eternal Blessed ness & this brings me to observe
 
 _________________________________
 
-3. And not only in the
-
-Gosp. a joyf. sound
-
-sound by Reason of
-
-the Good things it
-
-declares not only
-
-as it brings th
-
-as it contains news
-
-of Good Happiness
-
-procured for us & offered[^002-note24]
-
-to us but also as
-
-therein these Glorious
-
-things are exhibited
-
-to view in the Con-
-
-templation of which
-
-our Highest Happiness
-
-Consists By which
-
-means this the Gospel
+3. And not only in the Gosp. a joyf. sound sound by Reason of the Good things it declares not only as it brings th as it contains news of Good Happiness procured for us & offered[^002-note24] to us but also as therein these Glorious things are exhibited to view in the Contemplation of which our Highest Happiness Consists By which means this the Gospel
 
 ____________
 
-not only tells us of
+not only tells us of Happiness ready for us & hereafter to be enjoyed but brings Happiness to us conveys joy unspeakable & full of Glory into our Hearts administring actually communicating & administring that divine Food to us our souls which is wherein thour Happiness [^002-note25]
 
-Happiness ready for us
-
-& hereafter to be enjoyed
-
-but brings Happiness
-
-to us conveys joy
-
-unspeakable & full
-
-of Glory into our
-
-Hearts administring
-
-actually communicating
-
-& administring that
-
-divine Food to us
-
-our souls which is
-
-wherein thour Happiness
-
-[^002-note25]
-
-Happiness & which is
-
-th its most Refreshing
-
-& satisfying & exquisite-
-
-ly delightfull Enter-
-
-tainmt
-
-This the Gospel does
-
-as it above all other
-
-things whatsoever
-
-exhibits to our view
-
-Gods Glorious Beauty
-
-& Love in the Co[^002-note26]
-
-of which our Happiness consists
-
-Tis in the view of
-
-those two things that
-
-the Eternal Happiness
-
-of the so most
-
-perfect Happiness
-
-of the soul Consists
+Happiness & which is th its most Refreshing & satisfying & exquisitely delightfull Entertainmt This the Gospel does as it above all other things whatsoever exhibits to our view Gods Glorious Beauty & Love in the Co[^002-note26] of which our Happiness consists Tis in the view of those two things that the Eternal Happiness of the so most perfect Happiness of the soul Consists
 
 _______
 
@@ -1438,13 +336,7 @@ _____
 
 [^002-note27]
 
-The The Gospel we
-
-have by far the brightest
-
-& most excellent
-
-Glory the fullest discovery
+The The Gospel we have by far the brightest & most excellent Glory the fullest discovery
 
 ____________
 
@@ -1452,283 +344,39 @@ all the Perfections of G.
 
 _______________
 
-& all discovered with the Greatest Adv.
-
-especially on account of the
-
-union of diverse Excellen.
-
-which appear in this display
-
-appear with greatest advantage
+& all discovered with the Greatest Adv. especially on account of the union of diverse Excellen. which appear in this display appear with greatest advantage
 
 _________________________________
 
-also by the Gosp
-
------- Gods Love to
-
-us has its greatest manifestation
-
-that is perfectly unparalleled
+also by the Gosp ------ Gods Love to us has its greatest manifestation that is perfectly unparalleled
 
 _____
 
-[-] such manifestations of
-
-Love could not have been
-
-conceived of whether we Consid.
+[-] such manifestations of Love could not have been conceived of whether we Consid.
 
 _________
 
-Benefits Granted & means
-
-of procuring them
+Benefits Granted & means of procuring them
 
 ___________________
 
-The And that [^002-note28]
-
-which makes the mani
-
-festation of the Glo &
-
-Love of G. that is made
-
-by the Gospel peculiarly
-
-Joyf. is the remarka
-
-ble union of these
-
-both those things which
-
-that discovery of G. that[^002-note29]
-
-is made in the Gospel is
-
-attended.
-
-Gods glory in a work
-
-of Love to us, & a [^002-note30]
-
-work of most transcendent
-
-Love
-
-& Gods Love in such a
-
-manner as to be
-
-consistent with the
-
-Glory of all his Perfec-
-
-tions & not only so
-
-but so as exceedingly
-
-to manifest the Glory
-
-of God every Perfection
-
-These such an union
-
-does unspeakably
-
-heighten the Jo sweet-
-
-ness & Joy of the mani[^002-note31]
-
-festation
+The And that [^002-note28] which makes the mani festation of the Glo & Love of G. that is made by the Gospel peculiarly Joyf. is the remarka ble union of these both those things which that discovery of G. that[^002-note29] is made in the Gospel is attended. Gods glory in a work of Love to us, & a [^002-note30] work of most transcendent Love & Gods Love in such a manner as to be consistent with the Glory of all his Perfections & not only so but so as exceedingly to manifest the Glory of God every Perfection These such an union does unspeakably heighten the Jo sweetness & Joy of the mani[^002-note31] festation
 
 ________________________________
 
-And besides the Things
-
-which have been al
-
-ready mentioned the
-
-Gosp. is a joyf. sound
-
-to them that truly be
-
-lieve it receive it &
-
-have the Benefit
-
-By Reason of the Cir-
-
-cumstances that they
-
-are commonly in when
-
-it first spiritually &
-
-savingly made Known
-
-to em viz --
-
-see their sinfull mis
-
-under very sensible
-
-apprehensions of their
-
-own sinful & miserable
-
-Condition. --[^002-note32]
-
-utter Helplessness
-
-Light out of darkness
-
-[^002-note33]
+And besides the Things which have been al ready mentioned the Gosp. is a joyf. sound to them that truly be lieve it receive it & have the Benefit By Reason of the Circumstances that they are commonly in when it first spiritually & savingly made Known to em viz -- see their sinfull mis under very sensible apprehensions of their own sinful & miserable Condition. --[^002-note32] utter Helplessness Light out of darkness [^002-note33]
 
 X the morning star.
 
 ____________________________________
 
-II - what it is in a
-
-SS. sense to know the
-
-Joyf. sound two
-
-things
-
-1 To have an under
-
-standing of those things
-
-belonging to it which
-
-make it a Joyf. sound
-
-To know or understand[^002-note34]
-
-the Gosp. [-] in the
-
-Language of SS. is to
-
-have a spiritual &
-
-saving understanding of
-
-the Great things which
-
-it exhibits & reveals
-
-Thus X said concerning
-
-these things Matt.
-
-11. 25
-
-I thank thee O F.
-
-Th And the apostle
-
-says 1. Cor. 2. 14
-
-The natural man
-
-receiveth not --
-
----- But he that
-
-is sp.
-
-And of this sort of Kn[^002-note35]
-
-Knowl the apostle
-
-speaks of Eph. 1.
-
-18 the Eyes of
-
-your Understanding
-
-being Enlightened
-
-This spiritual &
-
-saving Knowl. of the
-
-Gosp consists in Know-
-
-ing those concerning it
-
-which make render
-
-it a joyf. sound
-
-to him that hears it
-
-many hear it that
-
-to whom it is not
-
-a Joyf. sound
-
-this must be from
-
-their Ignorance
-
-it surely is not from[^002-note36]
-
-th any defect in the
-
-Gosp.
-
-They therefore that know
-
-the Joyf. sound . Know
-
-first Know their
-
-necessity of the things
+II - what it is in a SS. sense to know the Joyf. sound two things 1 To have an under standing of those things belonging to it which make it a Joyf. sound To know or understand[^002-note34] the Gosp. [-] in the Language of SS. is to have a spiritual & saving understanding of the Great things which it exhibits & reveals Thus X said concerning these things Matt. 11. 25 I thank thee O F. Th And the apostle says 1. Cor. 2. 14 The natural man receiveth not -- ---- But he that is sp. And of this sort of Kn[^002-note35] Knowl the apostle speaks of Eph. 1. 18 the Eyes of your Understanding being Enlightened This spiritual & saving Knowl. of the Gosp consists in Knowing those concerning it which make render it a joyf. sound to him that hears it many hear it that to whom it is not a Joyf. sound this must be from their Ignorance it surely is not from[^002-note36] th any defect in the Gosp. They therefore that know the Joyf. sound . Know first Know their necessity of the things
 
 ___________
 
 ______
 
-They see understand
-
-& see the Excellency
-
-[-] see the Truth & cer-
-
-tainty of the Report
-
-see and are satisfied in the
-
-Evidences that are exhibited
-
-of the undoubted verity of
-
-the Tidings that is brought
-
-2. Another thing[^002-note37]
-
-implied in Knowing
-
-the Go joyf sound
-
-in SS. Language is
-
-cordially receiving & it
-
-acknowledging it complying with it
-
-for it and applying
-
-it to thems. for their
-
-own Benefit
+They see understand & see the Excellency [-] see the Truth & certainty of the Report see and are satisfied in the Evidences that are exhibited of the undoubted verity of the Tidings that is brought 2. Another thing[^002-note37] implied in Knowing the Go joyf sound in SS. Language is cordially receiving & it acknowledging it complying with it for it and applying it to thems. for their own Benefit
 
 _____
 
@@ -1736,359 +384,63 @@ as in Israel --- complied with the signal
 
 ____
 
-a Person is often said
-
-to know a Person or
-
-thing in SS. when they
-
-acknowled receive
-
-[-] with affection
-
-as appropriating it to
-
-themselves.
-
-Thus
-
-They therefore that know the
-
-joyf. S. --- acknowled
-
-acknowledge the signal
-
-III. They that thus[^002-note38]
-
-Know the joyful sound
-
-are all one People
-
-As of old They that
-
-for whose sakes the
-
-sacred Trumpets were
-
-sounded in the solemn
-
-Feasts & who under-
-
-stood and acknowledged
-
-the s & complied with
-
-the signal were one
-
-Particular Peo Nation
-
-greatly distinguished
-
-from the rest of the O
-
-so it is with respect
-
-to the joyf. sound of
-
-the Gosp. Those that
-
-truly Understand ---
-
----- are represented
-
-in SS. as all one socie-
-
-ty one or people
-
-strictly united one
-
-to another but vastly[^002-note39]
-
-greatly distinguished
-
-from the all the O
-
-1. Pet. 2. 9.
-
-a Chosen Generation
-
-a peculiar People ----
+a Person is often said to know a Person or thing in SS. when they acknowled receive [-] with affection as appropriating it to themselves. Thus They therefore that know the joyf. S. --- acknowled acknowledge the signal III. They that thus[^002-note38] Know the joyful sound are all one People As of old They that for whose sakes the sacred Trumpets were sounded in the solemn Feasts & who understood and acknowledged the s & complied with the signal were one Particular Peo Nation greatly distinguished from the rest of the O so it is with respect to the joyf. sound of the Gosp. Those that truly Understand --- ---- are represented in SS. as all one society one or people strictly united one to another but vastly[^002-note39] greatly distinguished from the all the O 1. Pet. 2. 9. a Chosen Generation a peculiar People ----
 
 _________ _____
 
-distinguished in the
-
-the Kings whom they are
-
-the willing subjects of
-
-Laws ----- their
-
-descent --- Their
-
-In nature & temper
-
--- their Interests -
-
---- their Countrey
+distinguished in the the Kings whom they are the willing subjects of Laws ----- their descent --- Their In nature & temper -- their Interests - --- their Countrey
 
 _______
 
-none only one nation[^002-note40]
-
-but of one city
+none only one nation[^002-note40] but of one city
 
 ______________________________
 
-The joyful sound of the Gospel
-
-is the fellow citizens with
-
-means of gathering them -----
+The joyful sound of the Gospel is the fellow citizens with means of gathering them -----
 
 ______________________________
 
-Heb. 12. 22. ye are
-
-come to mt sion
-
-on yea all one Family[^002-note41]
-
-Eph. 2. 19.
-
-fellow citizens with
-
-the saints & of the
-
-Houshold of G.
-
-Chap. 3. 15
+Heb. 12. 22. ye are come to mt sion on yea all one Family[^002-note41] Eph. 2. 19. fellow citizens with the saints & of the Houshold of G. Chap. 3. 15
 
 ______
 
-The Joyful sound of the Gospel is
-
-the means of gathering them -
-
-Heb. 12. 22. ye are come
+The Joyful sound of the Gospel is the means of gathering them Heb. 12. 22. ye are come
 
 __________________________________
 
-IV. This People that know
-
-the joyf. sound are a hap-
-
-py People
+IV. This People that know the joyf. sound are a happy People
 
 ______
 
-often declared blessed.
-
-on two Accounts
-
-1. on account of the Joy
-
-occasioned by that sound
-
-The greatness of the
-
-Joy
-
-The Qualities of it
-
-it
-
-2. On account of the[^002-note42]
-
-things rejoy ---
-
-Grounds of that joy or
-
-the things exhibited
-
-by that joyf. sound in
-
-which They rejoyce
+often declared blessed. on two Accounts 1. on account of the Joy occasioned by that sound The greatness of the Joy The Qualities of it it 2. On account of the[^002-note42] things rejoy --- Grounds of that joy or the things exhibited by that joyf. sound in which They rejoyce
 
 ___________________________________
 
-are happy in that they
-
-this that are blessed in this
-
-that they are they that shall
-
-walk in the Light of Gods
-
-Countenance
-
-V. The great & peculiar[^002-note43]
-
-blessed of that blessed
-
-People may be summed
-
-up in their walking in
-
-the Light of Gods Counte
-
-nance
-
-This implies that s
-
-they are happy in seeing
-
-1 seeing
-
-& enjoying the Light of God
-
-Countenance
-
-The L
-
-two things 1 the Light
-
-of Gods Glory
-
-Glory of G. represented
-
-as the li in SS. by
-
-the L Brightness or
-
-Light of his Face
-
-This appears especially in [^002-note44]
-
-called the angel of Gods Face
+are happy in that they this that are blessed in this that they are they that shall walk in the Light of Gods Countenance V. The great & peculiar[^002-note43] blessed of that blessed People may be summed up in their walking in the Light of Gods Counte nance This implies that s they are happy in seeing 1 seeing & enjoying the Light of God Countenance The L two things 1 the Light of Gods Glory Glory of G. represented as the li in SS. by the L Brightness or Light of his Face This appears especially in [^002-note44] called the angel of Gods Face
 
 __
 
-Light of the Gl. of H. in
-
-the Face of J. X
+Light of the Gl. of H. in the Face of J. X
 
 ______
 
-In this does [-] most fund-
-
-amentally consist the Happi
-
-ness of the saints in
-
-this O & that which
-
-is to Come
-
-in this O
-
-O to come
-
-Matt. 5. 8
-
-blessed are the Pure
-
-in Heart for they shall
-
-see G.
-
-2. The manifestation of[^002-note45]
-
-Gods Favour & Love
+In this does [-] most fundamentally consist the Happi ness of the saints in this O & that which is to Come in this O O to come Matt. 5. 8 blessed are the Pure in Heart for they shall see G. 2. The manifestation of[^002-note45] Gods Favour & Love
 
 ____
 
-called the Light of his Coun-
-
-tenance Ps. 4. 6. There
-
-in these be many that say
-
-Ps. 80. 3. Turn us again
-
--- Cause thy Face to shine
-
-In these two things consists
-
-the Enjoymt of G.
-
-The Happiness of the
-
-saints consists in these
-
-this th in the Enjoy-
-
-mt of G. consisting in
-
-these two things the
-
-manifestation of Gods
-
-Glory is & Love is
-
-what the Gospel is
-
-a mea the principal
-
-means of
-
-glory[^002-note46]
-
-Love
-
-means of the s this Happi
-
-ness on Earth
-
-in Heaven
+called the Light of his Countenance Ps. 4. 6. There in these be many that say Ps. 80. 3. Turn us again -- Cause thy Face to shine In these two things consists the Enjoymt of G. The Happiness of the saints consists in these this th in the Enjoymt of G. consisting in these two things the manifestation of Gods Glory is & Love is what the Gospel is a mea the principal means of glory[^002-note46] Love means of the s this Happi ness on Earth in Heaven
 
 __________________________________
 
-2. The Phrase of walking
-
---- implies an abiding in
-
-the enjoymt.
+2. The Phrase of walking --- implies an abiding in the enjoymt.
 
 ___________________________________
 
-But here I would ob-
-
-serve that something
-
-further is doubtless im-
-
-plied in the Phrase
-
-Expr Phrase of walking
-
-of in the Light of Gods
-
-Countenance besides
-
-meerly seeing the Light.[^002-note47]
-
-[-] it signifies a
-
-[--] Constant & perpe
-
-tual dwelling in it
+But here I would observe that something further is doubtless implied in the Phrase Expr Phrase of walking of in the Light of Gods Countenance besides meerly seeing the Light.[^002-note47] [-] it signifies a [--] Constant & perpe tual dwelling in it
 
 _________________________________
 
-3& not onl & this Expression
-
-implies not only an
-
-enjoying & dwelling
-
-in . ----
-
-But living & acting
-
-under the Influences
-
-of it
+3& not onl & this Expression implies not only an enjoying & dwelling in . ---- But living & acting under the Influences of it
 
 _________
 
@@ -2100,365 +452,67 @@ templation & Action.
 
 ________
 
-Light of Life -- animating
-
-quickening Light
+Light of Life -- animating quickening Light
 
 ____________
 
-we read of Xtians
-
-walking as Children of
-
-Light Eph. 5. 8
-
-and but the is doubtless[^002-note48]
-
-one thing another implied
-
-as walking as Chil. of
-
-Light is not only
-
-acting and so walking
-
-so as in the Im Re-
-
-ception & Prom of
-
-& Impression of this
-
-but so as it were
-
-to shine with the
-
-Reflection of it
-
-Matt. 5. 16.
-
-& in these things[^002-note49]
-
-consists the sum of
-
-that Happiness the
-
-of that Blessed Peo-
-
-ple that know
-
-the joyf. sound.
-
-Application[^002-note50]
-
-in two Uses of E
-
-of Trial whether
-
-you are some of that
-
-People that know
+we read of Xtians walking as Children of Light Eph. 5. 8 and but the is doubtless[^002-note48] one thing another implied as walking as Chil. of Light is not only acting and so walking so as in the Im Reception & Prom of & Impression of this but so as it were to shine with the Reflection of it Matt. 5. 16. & in these things[^002-note49] consists the sum of that Happiness the of that Blessed People that know the joyf. sound. Application[^002-note50] in two Uses of E of Trial whether you are some of that People that know
 
 _____
 
-& of Exhortation to
-
-Endeavour to make
-
-sure of the Priviledges
-
-& happiness of that Peo-
-
-ple.
+& of Exhortation to Endeavour to make sure of the Priviledges & happiness of that People.
 
 ____________________________
 
-I. of self-Examination
-
-whether
+I. of self-Examination whether
 
 _______
 
-1 whether you know
+1 whether you know the joyful sound do you understand [^002-note51]
 
-the joyful sound
+have you truly received & embraced it do you habitually embrace it Is it truly such a joyf. sound to you Joyf. to you as to the shepherds To the Heavenly Hosts. [^002-note52]
 
-do you understand
-
-[^002-note51]
-
-have you truly received &
-
-embraced it
-
-do you habitually embrace
-
-it
-
-Is it truly such a joyf.
-
-sound to you
-
-Joyf. to you as to the shep-
-
-herds
-
-To the Heavenly Hosts.
-
-[^002-note52]
-
-[-]
-
-2. Are you truly united to
-
-that People
-
-related to em by birth
-
-cleave to the Head of
-
-that society
-
-submit to the Laws
-
-your Heart united to them
-
-1 Cor. 12. 25, 26. ---
+[-] 2. Are you truly united to that People related to em by birth cleave to the Head of that society submit to the Laws your Heart united to them 1 Cor. 12. 25, 26. ---
 
 ________
 
-Eph. 4. 15
+Eph. 4. 15 Love the good cement[^002-note53] Eph. 4. 15. 16. submit to the Laws of the society unite with them in[^002-note54] their Employment willing to have a part with them in their Labours & sufferings chose their Countrey Is that which has been spoken of as the sum of their Blessedness your Chosen Happiness [^002-note55]
 
-Love the good cement[^002-note53]
-
-Eph. 4. 15. 16.
-
-submit to the Laws
-
-of the society
-
-unite with them in[^002-note54]
-
-their Employment
-
-willing to have a part
-
-with them in their La-
-
-bours & sufferings
-
-chose their Countrey
-
-Is that which has been
-
-spoken of as the sum
-
-of their Blessedness
-
-your Chosen Happiness
-
-[^002-note55]
-
-II. Exh. To endeavour[^002-note56]
-
-to make sure of the Pri-
-
-viledges & Happiness of
-
-that People that know
-
-the joyf sound
-
-Consider on the one Hand
-
-How terrible the Con
-
-The miseries that attend
-
-& are to be expected by
-
-them that are not of
-
-that People
-
-Have Reason alwaies to
-
-have a dreadful sound in
-
-their Ears
-
-The voice of an accusing
-
-& condeming Consc [^002-note57]
-
-w& the -----------
-
-voice of the awf. threat-
-
-nings of th Gods Holy
-
-Law. may well be a dreadful
-
-scream[^002-note58]
+II. Exh. To endeavour[^002-note56] to make sure of the Priviledges & Happiness of that People that know the joyf sound Consider on the one Hand How terrible the Con The miseries that attend & are to be expected by them that are not of that People Have Reason alwaies to have a dreadful sound in their Ears The voice of an accusing & condeming Consc [^002-note57] w& the ----------- voice of the awf. threatnings of th Gods Holy Law. may well be a dreadful scream[^002-note58]
 
 _________
 
-[-] The sorrowf. Tidings that
-
-we hear concerning our publick
-
-affairs may well be
-
-& a
-
-dreadful sound[^002-note59]
-
-& what a dreadful sound
-
-will the news of approaching
-
-death probably be
-
-The last Trumpet
-
-The last sentence
+[-] The sorrowf. Tidings that we hear concerning our publick affairs may well be & a dreadful sound[^002-note59] & what a dreadful sound will the news of approaching death probably be The last Trumpet The last sentence
 
 ________________________________
 
-on the other Hand consi
-
-der the Hap many hap
-
-py contrary Happy Cir
-
-cumstan Consequences
-
-way to have nothing
-
-hurtfull & nothing
-
-terrible to you
-
-noth if G. b[^002-note60]
-
-G. will be for you
-
-If you are one that Knows
-
-this joyf. Tidings
-
-no need to fear evil
-
-Tidings Ps. 112. 7
+on the other Hand consi der the Hap many hap py contrary Happy Cir cumstan Consequences way to have nothing hurtfull & nothing terrible to you noth if G. b[^002-note60] G. will be for you If you are one that Knows this joyf. Tidings no need to fear evil Tidings Ps. 112. 7
 
 _____
 
-voice of the oppressour
-
-[-] If we shouldh
-
-should tidings of [^002-note61]
-
-further advantages
-
-gained by our Enemies
-
-over our Land & na
-
-tion .
-
-destruction on destruc
+voice of the oppressour [-] If we shouldh should tidings of [^002-note61] further advantages gained by our Enemies over our Land & na tion . destruction on destruc
 
 ___
 
-Ps. 46.
-
-Job 6. 19. &c--
-
-League with the
-
-stones of the field
-
-Ps. 91.[^002-note62]
-
-dwell in the secret
-
-Place of the most
-
-high.
-
-yea those things which
-
-will be most terrible
-
-might well be joyf. to
-
-you
-
-news of approaching death
-
-If you Know the sound of the Gospel
-
-Last Trumpet [^002-note63]
-
-that will so terrify men & devils
-
-may well be Joyful
-
-And n
-
-what a joyful sound[^002-note64]
-
-will you hear in the
-
-Conclusion of all
-
-things when the
-
-sent final sentence
-
-is passed
+Ps. 46. Job 6. 19. &c-- League with the stones of the field Ps. 91.[^002-note62] dwell in the secret Place of the most high. yea those things which will be most terrible might well be joyf. to you news of approaching death If you Know the sound of the Gospel Last Trumpet [^002-note63] that will so terrify men & devils may well be Joyful And n what a joyful sound[^002-note64] will you hear in the Conclusion of all things when the sent final sentence is passed
 
 _________________________________
 
-direction
-
-1 For you must as it
-
-were forsake your native[^002-note65]
-
-Hence to go to Zion & to X
-
-that dwells there
+direction 1 For you must as it were forsake your native[^002-note65] Hence to go to Zion & to X that dwells there
 
 __________________
 
-2. ask the way to Zion
+2. ask the way to Zion with your Face still [^002-note66]
 
-with your Face still
-
-[^002-note66]
-
-be setting be asking the
-
-way to Zion with your
-
-Face thitherward
+be setting be asking the way to Zion with your Face thitherward
 
 ______________
 
-[----] from strength to
-
-strength [-] Till you shall appear
-
-before G. in Zion *
+[----] from strength to strength [-] Till you shall appear before G. in Zion *
 
 _________________________
 
-3. [-] Engage Thorough
-
-ly in that sp. warfare
-
-you are called to
+3. [-] Engage Thorough ly in that sp. warfare you are called to
 
 ______
 
@@ -2478,67 +532,7 @@ ____
 
 ___________
 
-after the Example of the
-
-Apostle spoken of in the
-
-3 Chap. of Philip 12 &
-
-following verses Behave not
-
-as tho you had already at-
-
-tained or were already per-
-
-fect But follow after if
-
-that you may apprehend
-
-that for which ----
-
----- Count not your self
-
-to have apprehended But do
-
-this one forgetting
-
-Conclude with a [ ][^002-note67]
-
-by exhorting all to
-
-hearken to the Joyful
-
-sound of the Gosp
-
-& as exhibited in
-
-the sweet Invitations
-
-of the Gosp.
-
-I shall at this time
-
-[ ] among the many
-
-blessed Invitations of
-
-the Gosp. which we
-
-have in the SS. I shall
-
-shall select one to
-
-only p to par more
-
-particularly to insist
-
-on at this time
-
-& that is which is
-
-that in Isai 51. 1
-
-[^002-note68]
+after the Example of the Apostle spoken of in the 3 Chap. of Philip 12 & following verses Behave not as tho you had already attained or were already perfect But follow after if that you may apprehend that for which ---- ---- Count not your self to have apprehended But do this one forgetting Conclude with a [ ][^002-note67] by exhorting all to hearken to the Joyful sound of the Gosp & as exhibited in the sweet Invitations of the Gosp. I shall at this time [ ] among the many blessed Invitations of the Gosp. which we have in the SS. I shall shall select one to only p to par more particularly to insist on at this time & that is which is that in Isai 51. 1 [^002-note68]
 
 [^002-note1]: **marginal.** [col. 2]
 
@@ -2680,29 +674,13 @@ that in Isai 51. 1
 
 ### 1177.Heb. 13'7-8 (1_58) trans
 
-Jonathan EdwardsFarewell serm. to the Indians
+Jonathan Edwards
 
-in St---ge . decem Jan 8. 58
+Farewell serm. to the Indians in St---ge . decem Jan 8. 58
 
 __________________
 
-Heb. 13. 7, 8. Remember them
-
-that have the Rule over you who
-
-have spoken to you the word of G.
-
-&c --------------------
-
-1 a People that have lived under the
-
-Gosp should remember them that
-
-have been their ministers who have
-
-spoken to em the word of G.
-
-remember How many.
+Heb. 13. 7, 8. Remember them that have the Rule over you who have spoken to you the word of G. &c -------------------- 1 a People that have lived under the Gosp should remember them that have been their ministers who have spoken to em the word of G. remember How many.
 
 ___
 
@@ -2718,57 +696,19 @@ The Prayers they have made
 
 ___
 
-whatever Good Examples they have
-
-set
+whatever Good Examples they have set
 
 ___
 
-all the Advantages they have had
-
-Reason
-
-They have been Gods messengers
-
-It is Gods work they have been em-
-
-ployed in
-
-It is Gods word that they have spoken
-
-to Reveal Gods mind.
-
-[Draft of letter from eccles. council to
-
-Trustees of Nassau Hall]
-
-for Gods Commands[^003-note1]
-
-for Gods Glory
-
-In Remembering them they Remember
-
-G.
-
-in forgetting him them they forget God
+all the Advantages they have had Reason They have been Gods messengers It is Gods work they have been employed in It is Gods word that they have spoken to Reveal Gods mind. [Draft of letter from eccles. council to Trustees of Nassau Hall] for Gods Commands[^003-note1] for Gods Glory In Remembering them they Remember G. in forgetting him them they forget God
 
 _________
 
-2. Because ministers the ministers that
-
-have spoken to them the word of G.
-
-have Laboured for their Greatest Good
-
-The word of G. which they have spoken
-
-has been for their Good[^003-note2]
+2. Because ministers the ministers that have spoken to them the word of G. have Laboured for their Greatest Good The word of G. which they have spoken has been for their Good[^003-note2]
 
 __
 
-God gave his word for the sake of men
-
-for their Happiness
+God gave his word for the sake of men for their Happiness
 
 ___
 
@@ -2792,105 +732,29 @@ shewn em the way
 
 ___
 
-Therefore in Remembering the ministers
-
---- they will remember themselves
+Therefore in Remembering the ministers --- they will remember themselves
 
 ___ ______
 
-[-] It - forget thems.
-
-it greatly Concerns them to Remember
-
-The things which they have spoken.
-
-They should
+[-] It - forget thems. it greatly Concerns them to Remember The things which they have spoken. They should
 
 ______________
 
-Reason 3. G. will remember &
-
-call em to an account
-
-if they hant injured
-
-Remember that they may do
-
-that they may report that they
-
-have made no better improvemt
-
-The next minister[^003-note3]
+Reason 3. G. will remember & call em to an account if they hant injured Remember that they may do that they may report that they have made no better improvemt The next minister[^003-note3]
 
 _____ _____
 
-come more to meeting.
+come more to meeting. if ever it should be so that any talk against him & tell you he is good for nothing dont mind them whether we shall ever see each other in this Θ is uncertain but remember we must meet again at the last day. [^003-note4]
 
-if ever it should be so that any
-
-talk against him & tell you he is
-
-good for nothing dont mind them
-
-whether we shall ever see each other
-
-in this Θ is uncertain but remember
-
-we must meet again at the last
-
-day.
-
-[^003-note4]
-
-should[^003-note5]
-
-II. Ministers if they are faithful will
-
-come to an happy End at last so will
-
-they also that Profit by Follow their
-
-Instructions
-
-[^003-note6]
+should[^003-note5] II. Ministers if they are faithful will come to an happy End at last so will they also that Profit by Follow their Instructions [^003-note6]
 
 [^003-note7]
 
-III. Tho ministers that preach the
+III. Tho ministers that preach the Gospel will may be taken away yet X al yet X J. X. is al the Great Head of the Chh. is alwaies the same [^003-note8]
 
-Gospel will may be taken away
+Remember How it has been with you[^003-note9] How long much has been done for you Remember how the things I have told you [^003-note10]
 
-yet X al
-
-yet X J. X. is al the Great Head
-
-of the Chh. is alwaies the same
-
-[^003-note8]
-
-Remember How it has been with you[^003-note9]
-
-How long much has been done for
-
-you
-
-Remember how the things I have told you
-
-[^003-note10]
-
-you that have gone on in drinking[^003-note11]
-
-you that seldom are Professours
-
-of Relig.
-
-you that formerly been of the Chh
-
-young People
-
-you that h have made it your Care
-
-to live agreeable to the Gospel
+you that have gone on in drinking[^003-note11] you that seldom are Professours of Relig. you that formerly been of the Chh young People you that h have made it your Care to live agreeable to the Gospel
 
 [^003-note1]: **marginal.** [2]
 
@@ -2918,67 +782,37 @@ to live agreeable to the Gospel
 
 ### 1178.Luke 21'36 (1_58) trans
 
-Jonathan EdwardsJan. 15 1758
+Jonathan Edwards
+
+Jan. 15 1758
 
 ____________________
 
-Luke 21. 36. Watch ye and pray al-
-
-ways.
+Luke 21. 36. Watch ye and pray always.
 
 __________________________________________
 
-I. many dreadful things are coming
-
-upon this wicked O.
+I. many dreadful things are coming upon this wicked O.
 
 _____________________________________________
 
-II. The Righ. & they only [--] shall be thought
-
-fit to escape those things that shall come
+II. The Righ. & they only [--] shall be thought fit to escape those things that shall come
 
 ____________________________________________________
 
-III. all at last must be called to appear
-
-before X
-
-X will come
-
-all must see him.
-
-all must brought before him.
+III. all at last must be called to appear before X X will come all must see him. all must brought before him.
 
 ___________________________________________________
 
-IV. The all must appear before you
-
-The righ. shall be thought worthy to
-
-stand before this X & no other.
-
-1 The righ. worthy.
-
-2. wicked not worthy
-
-V. we should watch & pray always that [^004-note1]
-
-we may be thought worthy - ---
+IV. The all must appear before you The righ. shall be thought worthy to stand before this X & no other. 1 The righ. worthy. 2. wicked not worthy V. we should watch & pray always that [^004-note1] we may be thought worthy - ---
 
 _________
 
-1. watch.
-
-2. Pray.
-
-3. [--] alwaies.
+1. watch. 2. Pray. 3. [--] alwaies.
 
 ________________
 
-what must watch against
-
-How watch
+what must watch against How watch
 
 __________
 
@@ -2990,9 +824,7 @@ why do always.
 
 ________________
 
-Prayer
-
-what pray for.
+Prayer what pray for.
 
 ________
 

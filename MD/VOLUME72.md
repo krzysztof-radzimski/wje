@@ -56,7 +56,11 @@ __________________________
 
 ______________________
 
-4 5 what they were to have an Eye to in a special manner to influence & direct them in this great work. My design from these[^001-note8] words is to consider a Xs Expending his own Blood for the salvation and happiness of the souls of men [^001-note9] in the view of an [^001-note10] Inducement & direction to ministers to exert themselves for the same End.
+4 5 what they were to have an Eye to in a special manner to influence & direct them in this great work. My design from these[^001-note8] words is to consider a Xs Expending his own Blood for the salvation and happiness of the souls of men [^001-note9]
+
+in the view of an [^001-note10]
+
+Inducement & direction to ministers to exert themselves for the same End.
 
 _______________________
 
@@ -130,7 +134,9 @@ rising early & sending them - But there was not But yet in these there was truly
 
 ____ ___ ___
 
-But when X became incarnate he immediately began a Life labour difficulty & sorrow. He be He went through a course of great Labour hard Labours for the salvation & happiness of the souls of men when he went about doing Good preaching Labouring in Prayer in [^001-note17] the everlasting Gospel. every where to & to all sorts of Persons not only on sabbath days but from day to day. L he & healing the sick casting out devils
+But when X became incarnate he immediately began a Life labour difficulty & sorrow. He be He went through a course of great Labour hard Labours for the salvation & happiness of the souls of men when he went about doing Good preaching Labouring in Prayer in [^001-note17]
+
+the everlasting Gospel. every where to & to all sorts of Persons not only on sabbath days but from day to day. L he & healing the sick casting out devils
 
 _________ _____
 
@@ -142,7 +148,11 @@ His Life was a Life of some Conflict with the Enemies of the souls of men which 
 
 ________ _________
 
-then he paid a great Price indeed for the salvation of and happiness of the souls of men He ex Laboured extreme were the Labours he then underwent terrible was the Conflict [^001-note20] he then with the his strong & cruel Ene mies & with the wa & Great was the expence when he expended that which is of all things dearest to human Nature even his Blood his Life and his soul when he pourd out his soul unto death. & yea gave hims. in both body & soul and offering for sin[^001-note21] & as the price of the Et. Happiness of the souls of Men in the as it were in a furnace & that the most terrible the furnace of the holy wrath & vengeance of G. for the sins of men[^001-note22] He did not a natural d but a violent death and that not a violent d accidental death but he by was executed as a male factour. He & suffered that Kind of Execution that of all that was then in use in the O was the most painfull & the most Ignominious wherein he suffered the --- most extreme degree of the Contempt & cruelty of men & of of the vilest & worst of men & of all Ranks & sorts of men & of devils & which was more than He suffered the terrible Effects of the holy wrath of G. [^001-note23] II. Another thing worthy to be considered to induce min excite induce ministers to exert thems. for the good of souls is the Person that shed his Thus shed his Blood for them. It should be considered not not only the nature of what was done in shedd & suffered in shedding Blood for the salva souls of men should be Considered but also whose blood it was that was[^001-note24] shed & we are told in the Text that it was the blood of G. feed the Chh of G. which he hath purchased with his own Blood. because the Person that shed his blood was not only man but G a divine Person not being not only man but G. And it being so that that Blood was the Blood of G. the follow ing are here worthy to be remarked.
+then he paid a great Price indeed for the salvation of and happiness of the souls of men He ex Laboured extreme were the Labours he then underwent terrible was the Conflict [^001-note20]
+
+he then with the his strong & cruel Ene mies & with the wa & Great was the expence when he expended that which is of all things dearest to human Nature even his Blood his Life and his soul when he pourd out his soul unto death. & yea gave hims. in both body & soul and offering for sin[^001-note21] & as the price of the Et. Happiness of the souls of Men in the as it were in a furnace & that the most terrible the furnace of the holy wrath & vengeance of G. for the sins of men[^001-note22] He did not a natural d but a violent death and that not a violent d accidental death but he by was executed as a male factour. He & suffered that Kind of Execution that of all that was then in use in the O was the most painfull & the most Ignominious wherein he suffered the --- most extreme degree of the Contempt & cruelty of men & of of the vilest & worst of men & of all Ranks & sorts of men & of devils & which was more than He suffered the terrible Effects of the holy wrath of G. [^001-note23]
+
+II. Another thing worthy to be considered to induce min excite induce ministers to exert thems. for the good of souls is the Person that shed his Thus shed his Blood for them. It should be considered not not only the nature of what was done in shedd & suffered in shedding Blood for the salva souls of men should be Considered but also whose blood it was that was[^001-note24] shed & we are told in the Text that it was the blood of G. feed the Chh of G. which he hath purchased with his own Blood. because the Person that shed his blood was not only man but G a divine Person not being not only man but G. And it being so that that Blood was the Blood of G. the follow ing are here worthy to be remarked.
 
 ______________________
 
@@ -166,7 +176,9 @@ It is to be Considered that the Happiness that X had before the O was man in the
 
 ________
 
-[^001-note32] 3. In that it was Gods own Blood it was the Blood of one that was infinitely above any need of us. X as he was G. was self-se infinitely above any need of any extra G. is self-sufficient his Happiness is in hims as his being is necessary & underived so is his Happiness & Glory tis underived as
+[^001-note32]
+
+3. In that it was Gods own Blood it was the Blood of one that was infinitely above any need of us. X as he was G. was self-se infinitely above any need of any extra G. is self-sufficient his Happiness is in hims as his being is necessary & underived so is his Happiness & Glory tis underived as
 
 _________
 
@@ -224,7 +236,9 @@ never could to se do any thing towards making a Requital
 
 _____ ____
 
-4 5. In that the Blood[^001-note43] that was shed for the souls of men was the Blood of G. it was the Blood of one to whom those that it was shed for are Enemies. sinners are Enemies to G. the very nature of sin is Enmity against G. The very Notion of sin is opposition or Contrariety to God. opposition to his will as expressed in his Law 1 Joh. 3. 4 Sin is the Transgression of the Law [^001-note44] as it opposition to the will of G Law of G. so it as & Rebellion against the Lawgiver so it is op a Contrariet an opposing the Aut & Cont the Authority of G. & a Contempt of his infinite majesty.
+4 5. In that the Blood[^001-note43] that was shed for the souls of men was the Blood of G. it was the Blood of one to whom those that it was shed for are Enemies. sinners are Enemies to G. the very nature of sin is Enmity against G. The very Notion of sin is opposition or Contrariety to God. opposition to his will as expressed in his Law 1 Joh. 3. 4 Sin is the Transgression of the Law [^001-note44]
+
+as it opposition to the will of G Law of G. so it as & Rebellion against the Lawgiver so it is op a Contrariet an opposing the Aut & Cont the Authority of G. & a Contempt of his infinite majesty.
 
 _________
 
@@ -276,7 +290,7 @@ use
 
 __________________________
 
-2 Another thing implied in their X purchasing the souls of men is implied in his purchasi doing it to purchase them is the salvation that he they are me the subjects of through that special Relation & union to X Him purchasing is a Phrase[^001-note61] that implies as much as Redeeming in SS. but Redemption implies salvation. therefore ministers should consider the greatness of that salva. that X shed his Blood to procure for the souls of men to excite them to endeavours Labours for their Good 1. The greatness of the misery that he died to save them from [^001-note62]
+2 Another thing im- plied in their X purchasing the souls of men is implied in his purchasi doing it to purchase them is the salvation that he they are me the subjects of through that special Relation & union to X Him purchasing is a Phrase[^001-note61] that implies as much as Redeeming in SS. but Redemption implies salvation. therefore ministers should consider the greatness of that salva. that X shed his Blood to procure for the souls of men to excite them to endeavours Labours for their Good 1. The greatness of the misery that he died to save them from [^001-note62]
 
 __________________________
 
@@ -324,7 +338,9 @@ One who g had all their t sinfull & all the infinite deformity of it in his comp
 
 ______
 
-this In how clear & striking a manner does what X has done & suffered. demonstrated the worth of the souls of men. [^001-note78] If X thought the worth of souls to be so great as to answer such Labours --- such --- shall ministers begrutch
+this In how clear & striking a manner does what X has done & suffered. demonstrated the worth of the souls of men. [^001-note78]
+
+If X thought the worth of souls to be so great as to answer such Labours --- such --- shall ministers begrutch
 
 ___ ___ _____
 
@@ -360,7 +376,9 @@ we may see in what Respect X means that they should --- ---- by what follows in 
 
 __________
 
-[^001-note83] an Invitation of X in Laying down his Life for the Good of souls is in in SS. in a peculiar manner recommended to ministers matt. 20. 26, 27, 28 whoyour minister for Chief for such & He that will be Chief among you Let him be your servant. --------
+[^001-note83]
+
+an Invitation of X in Laying down his Life for the Good of souls is in in SS. in a peculiar manner recommended to ministers matt. 20. 26, 27, 28 whoyour minister for Chief for such & He that will be Chief among you Let him be your servant. --------
 
 _______________
 
@@ -414,7 +432,9 @@ speak of it as the duty of Xtians in General But especially is it the duty of mi
 
 ______________
 
-[^001-note89] & should be ready to be conformed to X who & as X Gave hims for loved the Chh & gave Hims for it that he might sanctify -- by the word so ministers should be ready to spend gave thems to spend give what they have & give thems. to spend & be spent 2 Cor 12. 15. And I will very gladly spend & be spent spend & be spent [^001-note90]
+[^001-note89]
+
+& should be ready to be conformed to X who & as X Gave hims for loved the Chh & gave Hims for it that he might sanctify -- by the word so ministers should be ready to spend gave thems to spend give what they have & give thems. to spend & be spent 2 Cor 12. 15. And I will very gladly spend & be spent spend & be spent [^001-note90]
 
 __________________________
 
@@ -488,7 +508,11 @@ ____________
 
 _______________________
 
-I Come now to the (III) Thing which was at first proposed To Observe some special Reasons why X shedding his Blood for the salvation & Happiness of the souls of men should be regarded by ministers[^001-note106] thus to induce & direct them. in exerting thems. for the same End There is much in[^001-note107] wh X behaviour in what X did in laying down his Life for sinners & in his Conduct under his Last sufferings for the direction of all Xtiansa in their Conduct in this O & much to induce all greatly to exert thems. & to deny themselves & Cheerfully to undergo sufferings for the good of others & especially the go their sp. & eternal Good but above for the Inducement & direction of ministers. for the following Rea son . 1 Ministers above others[^001-note108] have great Occasion to have th what X has have J. X & what he has done & suffered for soul much in their view. The Business of their Lives is to Contemplate those Thing & to exhibit to & enforce em upon others . Great Part of their Business lies in study ing the Gospel of J that exhibits X & him Crucified & [^001-note109] so must of necessity [^001-note110] be that they must the Person of X & his sufferings with the Great Ends & Circumstances of it & the Things manifested by it daily[^001-note111] continually as it were before their Eyes.
+I Come now to the (III) Thing which was at first proposed To Observe some special Reasons why X shedding his Blood for the salvation & Happiness of the souls of men should be regarded by ministers[^001-note106] thus to induce & direct them. in exerting thems. for the same End There is much in[^001-note107] wh X behaviour in what X did in laying down his Life for sinners & in his Conduct under his Last sufferings for the direction of all Xtiansa in their Conduct in this O & much to induce all greatly to exert thems. & to deny themselves & Cheerfully to undergo sufferings for the good of others & especially the go their sp. & eternal Good but above for the Inducement & direction of ministers. for the following Rea son . 1 Ministers above others[^001-note108] have great Occasion to have th what X has have J. X & what he has done & suffered for soul much in their view. The Business of their Lives is to Contemplate those Thing & to exhibit to & enforce em upon others . Great Part of their Business lies in study ing the Gospel of J that exhibits X & him Crucified & [^001-note109]
+
+so must of necessity [^001-note110]
+
+be that they must the Person of X & his sufferings with the Great Ends & Circumstances of it & the Things manifested by it daily[^001-note111] continually as it were before their Eyes.
 
 _____________
 
@@ -506,7 +530,11 @@ James .5. 20 -- convert a soul ---- save a soul from death Called saviours Obad.
 
 _________
 
-X was a minister of the Gospel. He came out He was sent forth as the Fathers minister as as the Elders of the Chh are Xs minister Joh 20. 21 as the F. hath sent me so send I you [^001-note116] 3. ministers are not only appointed to carry on X work of saving souls. but as as standing in Xs stead in many Respects Ambassadours 2. Cor. 5 . 20 --- we pray you in Xs stead speak in his name so in administring the sacramts [^001-note117] 3 4. The Relation of ministers to the Chh. of G. is in many Respects an Image of X that which X stands in X i ministers are X is the Great shepherd X is the Bp. of souls X is Gods Great Prophet & Teacher & the Light of the O ministers are Represented as Light[^001-note118] X is the Chhs Head & Ruler. Ministers a under X are Rulers of the Chhs. Heb. 13. 17. Obey them that have the Rule over You. X -- Intercessours X is the spiritual husb.
+X was a minister of the Gospel. He came out He was sent forth as the Fathers minister as as the Elders of the Chh are Xs minister Joh 20. 21 as the F. hath sent me so send I you [^001-note116]
+
+3. ministers are not only appointed to carry on X work of saving souls. but as as standing in Xs stead in many Respects Ambassadours 2. Cor. 5 . 20 --- we pray you in Xs stead speak in his name so in administring the sacramts [^001-note117]
+
+3 4. The Relation of ministers to the Chh. of G. is in many Respects an Image of X that which X stands in X i ministers are X is the Great shepherd X is the Bp. of souls X is Gods Great Prophet & Teacher & the Light of the O ministers are Represented as Light[^001-note118] X is the Chhs Head & Ruler. Ministers a under X are Rulers of the Chhs. Heb. 13. 17. Obey them that have the Rule over You. X -- Intercessours X is the spiritual husb.
 
 Isai 62. 5. so shall thy sons marry thee Christ -- Angel[^001-note119] X is the Great Example ministers are set to be ensamples 1. Peter 5. 3 1, 2, 3. ------
 
@@ -542,7 +570,11 @@ _____________________
 
 _____________________
 
-Tw[^001-note127] X will Reign Tis promised with Rest X is as it were he that that sown the seed in the Field . __ ministers are are sent forth as Reapers to gather in the Fruits of his Labours . but i and if they are faithful tis promised that in the End they shall rejoyce with X Joh 4. 36. And he that reapeth receiveth wages that he that soweth & he -------
+Tw[^001-note127] X will Reign Tis promised with Rest X is as it were he that that sown the seed in the Field .
+
+__
+
+ministers are are sent forth as Reapers to gather in the Fruits of his Labours . but i and if they are faithful tis promised that in the End they shall rejoyce with X Joh 4. 36. And he that reapeth receiveth wages that he that soweth & he -------
 
 ______
 
@@ -906,15 +938,23 @@ ______
 
 _____
 
-The wisd. of men Goes but a little ways It becomes us to be sensible of our Ignorance Great mens strength often proves insufficient their wisd. [^003-note3] biggest armies their Forts. strongest nations Greatest Cities. strongest Kingdoms [^003-note4] G. brings em to nothing . [^003-note5] all depends on the Life of men & on what is mans Life
+The wisd. of men Goes but a little ways It becomes us to be sensible of our Ignorance Great mens strength often proves insufficient their wisd. [^003-note3] biggest armies their Forts. strongest nations Greatest Cities. strongest Kingdoms [^003-note4]
+
+G. brings em to nothing . [^003-note5]
+
+all depends on the Life of men & on what is mans Life
 
 _____________________
 
-It is shews Pride G. abhors the Proud. delights to confound them & bring em low [^003-note6] * last Col. but two[^003-note7]
+It is shews Pride G. abhors the Proud. delights to confound them & bring em low [^003-note6]
+
+* last Col. but two[^003-note7]
 
 ___________
 
-such men make G. angry as they dont give him an the Honour that belongs to him [^003-note8] III. To go to war[^003-note9] in God fight against our Enemies in Gods name is the way to overcome our Enemies.
+such men make G. angry as they dont give him an the Honour that belongs to him [^003-note8]
+
+III. To go to war[^003-note9] in God fight against our Enemies in Gods name is the way to overcome our Enemies.
 
 ____
 
@@ -930,7 +970,11 @@ This is the way
 
 ___
 
-for then they follow Choose him for their Captain King __ Then they follow this Captain
+for then they follow Choose him for their Captain King
+
+__
+
+Then they follow this Captain
 
 ___
 
@@ -942,7 +986,19 @@ such as may He looks on their armies as his armies This is the way because G. is
 
 ________
 
-He is a merciful G. [^003-note12] [^003-note13] Applica. 1. To forsake sin. sin [^003-note14] 2. To pra Trust[^003-note15] in G. & & pray to G. not to trust in ourselves. not trust in men Cursed is he that trusts in men like the dry tree. Happy is he that trusts in the L. Like a Tree that Grows by a River. [^003-note16] we have Great encouragemt to Trust in G. in this war we are now engaged in with our Enemies. [^003-note17] 1 Tis not we that begin[^003-note18] the war. our Cause is Good. Just. Contrary to their agreemt [^003-note19] 2. Our Enemies[^003-note20] seem to Trust in thems. their strength They trust make g they have been making great Preparations in Time of Peace
+He is a merciful G. [^003-note12]
+
+[^003-note13]
+
+Applica. 1. To forsake sin. sin [^003-note14]
+
+2. To pra Trust[^003-note15] in G. & & pray to G. not to trust in ourselves. not trust in men Cursed is he that trusts in men like the dry tree. Happy is he that trusts in the L. Like a Tree that Grows by a River. [^003-note16]
+
+we have Great encouragemt to Trust in G. in this war we are now engaged in with our Enemies. [^003-note17]
+
+1 Tis not we that begin[^003-note18] the war. our Cause is Good. Just. Contrary to their agreemt [^003-note19]
+
+2. Our Enemies[^003-note20] seem to Trust in thems. their strength They trust make g they have been making great Preparations in Time of Peace
 
 ___
 
@@ -962,11 +1018,25 @@ _________________________
 
 ____
 
-wont let the People The Pope Pray to Images Pray to virgin mary. Pray to dead men Pope.[^003-note22] __ Contrived to Get mon for the People to[^003-note23] get away the money from the People Pardon sin . pretend to that is a Place in This in another Θ there is a Fire that is on this side Hell . where their People lie a great while wont let the People have the Bible. 4. we should consider[^003-note24] what X has done for us conquerd the d devil. armies of Hell like david.
+wont let the People The Pope Pray to Images Pray to virgin mary. Pray to dead men Pope.[^003-note22]
+
+__
+
+Contrived to Get mon for the People to[^003-note23] get away the money from the People Pardon sin . pretend to that is a Place in This in another Θ there is a Fire that is on this side Hell . where their People lie a great while wont let the People have the Bible. 4. we should consider[^003-note24] what X has done for us conquerd the d devil. armies of Hell like david.
 
 __________________________
 
-5 How Happy they are Exh. to be much in Prayer to G. for h that He would help us How miserable if we should be if we shall be overcome by the French. [^003-note25] [^003-note26] ___________________ Exh. put away all sin How happy they are that have G. if on their side He sees all that the Enemy are doing. He is strong. [^003-note27] G. can easily. [^003-note28] [^003-note29] [^003-note30]
+5 How Happy they are Exh. to be much in Prayer to G. for h that He would help us How miserable if we should be if we shall be overcome by the French. [^003-note25]
+
+[^003-note26]
+
+___________________ Exh. put away all sin How happy they are that have G. if on their side He sees all that the Enemy are doing. He is strong. [^003-note27]
+
+G. can easily. [^003-note28]
+
+[^003-note29]
+
+[^003-note30]
 
 [^003-note1]: **marginal.** [col. 2]
 
