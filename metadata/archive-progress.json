@@ -44,10 +44,13 @@
     53,
     54,
     55,
-    56
+    56,
+    57,
+    58,
+    59
   ],
-  "firstIncompleteVolume": 57,
-  "updatedAt": "2026-08-26T16:12:12.000Z",
+  "firstIncompleteVolume": 60,
+  "updatedAt": "2026-08-26T16:26:00.000Z",
   "volumes": {
     "17": {
       "status": "complete",
@@ -1079,6 +1082,92 @@
         "All 661 semantic footnote references have definitions.",
         "The image audit classifies all 44 locally saved candidates as omit-noncontent; include=0, omit-scan=0, and uncertain=0.",
         "021.html lacks END OF CONTEXT AREA; the converter's footer fallback reaches the complete final sentence ending discouraged by the Length of the way. before the site footer."
+      ]
+    },
+    "57": {
+      "status": "complete-with-documented-source-gap",
+      "sourceUrl": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9zZWxlY3QucGw/d2plby41NQ==",
+      "archiveManifest": "HTML/VOLUME57/.archive-manifest.json",
+      "markdown": "MD/VOLUME57.md",
+      "imageSelections": "metadata/image-selections/VOLUME57.json",
+      "contentGaps": [
+        {
+          "sourceFile": "000.html and 001.html",
+          "description": "The Previous section link in 001.html exposes Yale identifier c.55:0.wjeo, but that preceding section is absent from the visible 000.html navigation, archive manifest, and local files. Its unavailable content was not reconstructed."
+        },
+        {
+          "sourceFile": "001.html, 003.html, and 007.html",
+          "description": "Sources 001.html and 003.html explicitly mark manuscript damage, while 007.html preserves [missing word] and abbreviated [miss. word] annotations. The absent wording was not inferred or reconstructed."
+        },
+        {
+          "sourceFile": "001.html–009.html",
+          "description": "Every source contains an empty transcriptImage element with no usable URL, alternative text, caption, or captured local content image. No missing image was inferred, reconstructed, or embedded."
+        }
+      ],
+      "sourceAnomalies": [
+        "All nine visible navigation entries c.55:1–9 are archived consecutively as 001.html–009.html and all headings are present in Markdown; Yale's sermon labels run nonconsecutively from 587 through 620.",
+        "Sources 003.html, 006.html, 007.html, and 008.html explicitly annotate blank pages, leaves, columns, or lines; these are source-described blanks rather than archive failures.",
+        "The manuscripts contain no semantic printed page markers; the last source reaches leaf annotation L. 11v.",
+        "All 524 semantic footnote references have definitions.",
+        "The image audit classifies all 20 locally saved candidates as omit-noncontent; include=0, omit-scan=0, and uncertain=0.",
+        "009.html lacks END OF CONTEXT AREA; the converter's footer fallback reaches the complete final sentence ending Causing his Great trumpet to be blown. before the site footer."
+      ]
+    },
+    "58": {
+      "status": "complete-with-documented-source-gap",
+      "sourceUrl": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9zZWxlY3QucGw/d2plby41Ng==",
+      "archiveManifest": "HTML/VOLUME58/.archive-manifest.json",
+      "markdown": "MD/VOLUME58.md",
+      "imageSelections": "metadata/image-selections/VOLUME58.json",
+      "contentGaps": [
+        {
+          "sourceFile": "000.html and 001.html",
+          "description": "The Previous section link in 001.html exposes Yale identifier c.56:0.wjeo, but that preceding section is absent from the visible 000.html navigation, archive manifest, and local files. Its unavailable content was not reconstructed."
+        },
+        {
+          "sourceFile": "004.html",
+          "description": "The source explicitly preserves a [ms damage] annotation. The absent wording was not inferred or reconstructed."
+        },
+        {
+          "sourceFile": "001.html–004.html",
+          "description": "Every source contains an empty transcriptImage element with no usable URL, alternative text, caption, or captured local content image. No missing image was inferred, reconstructed, or embedded."
+        }
+      ],
+      "sourceAnomalies": [
+        "All four visible navigation entries c.56:1–4 are archived consecutively as 001.html–004.html and all headings are present in Markdown; Yale's sermon labels are 626, 627, 636, and 646.",
+        "The manuscripts contain no semantic printed page markers; the last source reaches leaf annotation L. 22v.",
+        "All 50 semantic footnote references have definitions.",
+        "The image audit classifies all 10 locally saved candidates as omit-noncontent; include=0, omit-scan=0, and uncertain=0.",
+        "004.html lacks expanded footnotes, lower navigation, the repeated citation, and END OF CONTEXT AREA; the converter's footer fallback nevertheless reaches the complete final sentence ending you are all Enemies especially foolish sinners. before the site footer."
+      ]
+    },
+    "59": {
+      "status": "complete-with-documented-source-gap",
+      "sourceUrl": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9zZWxlY3QucGw/d2plby41Nw==",
+      "archiveManifest": "HTML/VOLUME59/.archive-manifest.json",
+      "markdown": "MD/VOLUME59.md",
+      "imageSelections": "metadata/image-selections/VOLUME59.json",
+      "contentGaps": [
+        {
+          "sourceFile": "000.html and 001.html",
+          "description": "The Previous section link in 001.html exposes Yale identifier c.57:0.wjeo, but that preceding section is absent from the visible 000.html navigation, archive manifest, and local files. Its unavailable content was not reconstructed."
+        },
+        {
+          "sourceFile": "002.html",
+          "description": "The source explicitly preserves a [missing word] annotation. The absent wording was not inferred or reconstructed."
+        },
+        {
+          "sourceFile": "001.html and 002.html",
+          "description": "Both sources contain empty transcriptImage elements with no usable URL, alternative text, caption, or captured local content image. No missing image was inferred, reconstructed, or embedded."
+        }
+      ],
+      "sourceAnomalies": [
+        "Both visible navigation entries c.57:1–2 are archived consecutively as 001.html–002.html and all headings are present in Markdown; Yale's sermon labels are 656 and 668.",
+        "001.html explicitly annotates blank columns, lines, and a page, while 002.html marks numerous blank lines and leaf portions; these are source-described blanks rather than archive failures.",
+        "The manuscripts contain no semantic printed page markers; the last source reaches leaf annotation L. 6v.",
+        "All 39 semantic footnote references have definitions.",
+        "The image audit classifies all six locally saved candidates as omit-noncontent; include=0, omit-scan=0, and uncertain=0.",
+        "002.html lacks lower navigation, the repeated citation, a footnote section, and END OF CONTEXT AREA; the converter's footer fallback nevertheless reaches the complete final sentence ending will carry the soul above all sorrow. before the site footer."
       ]
     }
   }
