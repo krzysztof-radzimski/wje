@@ -188,6 +188,119 @@ def append_paragraph(output, text)
   output << text << "\n\n"
 end
 
+# WJE Online sometimes records a manuscript transcription one physical line at
+# a time, with every line wrapped in its own <p>.  Rendering those elements as
+# separate Markdown paragraphs makes the text look like unprocessed OCR.
+# Reflow only a strong lineation signature (many very short direct paragraphs)
+# so ordinary prose pages retain their authored paragraph structure.
+def lineated_manuscript_container?(node)
+  return false unless node.name == "div"
+
+  paragraphs = node.element_children.select { |child| child.name == "p" }
+  return false if paragraphs.length < 20
+
+  lines = paragraphs.map { |paragraph| inline(paragraph).gsub(/[\t\r\n ]+/, " ").strip }
+                    .reject(&:empty?)
+  return false if lines.length < 16
+
+  average_length = lines.sum(&:length).fdiv(lines.length)
+  short_lines = lines.count { |line| line.length <= 80 }
+  average_length <= 65 && short_lines.fdiv(lines.length) >= 0.9
+end
+
+def manuscript_divider?(text)
+  visible = text.gsub(/\[\^[^\]]+\]/, "").strip
+  visible.match?(/\A(?:[_-]{3,}[[:space:]]*)+\z/)
+end
+
+def join_lineated_lines(previous, line)
+  return line if previous.empty?
+
+  previous = previous.rstrip
+  line = line.strip
+  return previous if line.empty?
+
+  # A terminal hyphen in a physical manuscript line normally marks a word
+  # split by the original line boundary.  Footnote references may occur
+  # between the two parts; put them after the rejoined word rather than in its
+  # middle (for example, "Enlarg-[^n]" + "ing" -> "Enlarging[^n]").
+  footnotes = previous[/((?:\[\^[^\]]+\])*)\z/, 1].to_s
+  stem = footnotes.empty? ? previous : previous[0...-footnotes.length]
+  continuation = line.match(/\A([[:alpha:]]+)(.*)\z/)
+  if stem.match?(/(?<!-)-\z/) && continuation
+    return "#{stem[0...-1]}#{continuation[1]}#{footnotes}#{continuation[2]}"
+  end
+
+  separator = line.match?(/\A[,:;.!?%\)\]\}]/) || previous.end_with?("(", "[", "{", "/") ? "" : " "
+  "#{previous}#{separator}#{line}"
+end
+
+def paragraph_contains_heading?(node)
+  node.element_children.any? do |child|
+    child.name == "span" && child["class"].to_s.split.include?("head")
+  end
+end
+
+def render_lineated_paragraphs(paragraphs, output, heading_count)
+  paragraph = +""
+  flush = lambda do
+    append_paragraph(output, paragraph)
+    paragraph = +""
+  end
+
+  paragraphs.each do |node|
+    if paragraph_contains_heading?(node)
+      flush.call
+      heading_count = render(node, output, heading_count)
+      next
+    end
+
+    line = inline(node).gsub(/[\t\r\n ]+/, " ").strip
+    if line.empty?
+      flush.call
+    elsif line.match?(/\A--\s*(?:[ivxlcdm]+|\d+)\s*--\z/i) && (marker = page_marker(line))
+      flush.call
+      output << "\n\n#{marker}\n\n"
+    elsif manuscript_divider?(line)
+      flush.call
+      append_paragraph(output, line)
+    else
+      paragraph = join_lineated_lines(paragraph, line)
+    end
+  end
+
+  flush.call
+  heading_count
+end
+
+def render_lineated_container(node, output, heading_count)
+  children = node.children
+  index = 0
+  while index < children.length
+    child = children[index]
+    unless child.element? && child.name == "p"
+      heading_count = render(child, output, heading_count)
+      index += 1
+      next
+    end
+
+    paragraphs = []
+    while index < children.length
+      candidate = children[index]
+      if candidate.element? && candidate.name == "p"
+        paragraphs << candidate
+        index += 1
+      elsif candidate.text? && candidate.text.strip.empty?
+        index += 1
+      else
+        break
+      end
+    end
+    heading_count = render_lineated_paragraphs(paragraphs, output, heading_count)
+  end
+  heading_count
+end
+
 def page_marker(text)
   match = text.strip.match(/\A--\s*(.+?)\s*--\z/)
   match && "<!-- p. #{match[1]} -->"
@@ -245,6 +358,13 @@ def render(node, output, heading_count)
     return heading_count
   end
   if node.name == "span" && classes.include?("fnote")
+    append_paragraph(output, inline(node))
+    return heading_count
+  end
+  if node.name == "span" && classes.include?("docauthor")
+    # Author labels are block metadata in the source.  Without an explicit
+    # paragraph boundary they can become glued to the first reflowed line of
+    # a manuscript transcription.
     append_paragraph(output, inline(node))
     return heading_count
   end
@@ -428,6 +548,10 @@ def render(node, output, heading_count)
     text = inline(node).strip
     append_paragraph(output, text) unless text.empty?
     return heading_count
+  end
+
+  if lineated_manuscript_container?(node)
+    return render_lineated_container(node, output, heading_count)
   end
 
   node.children.each { |child| heading_count = render(child, output, heading_count) }
