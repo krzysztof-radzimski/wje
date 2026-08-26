@@ -170,8 +170,18 @@ def render_heading_descendants(node, output, heading_count)
   heading_count
 end
 
+def rejoin_hyphenated_footnote_words(text)
+  # Yale can place a note anchor at the exact point where a word is divided by
+  # a manuscript line or column break: "shame- [^n]ful".  In flowing
+  # Markdown, move the anchor after the rejoined word while retaining it.
+  text.gsub(/([[:alpha:]]+)-\s*((?:\[\^[^\]]+\]\s*)+)([[:lower:]]+)/) do
+    "#{Regexp.last_match(1)}#{Regexp.last_match(3)}#{Regexp.last_match(2).gsub(/\s+/, "")}"
+  end
+end
+
 def append_paragraph(output, text)
   text = text.gsub(/[\t\r\n ]+/, " ").strip
+  text = rejoin_hyphenated_footnote_words(text)
   return if text.empty?
 
   # A manuscript can use a vertical stroke as prose or a deletion mark. If a

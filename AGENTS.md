@@ -183,7 +183,8 @@ Generator domyślnie:
   pliku źródłowego, ponieważ numery drukowane mogą się powtarzać.
 - rozpoznaje długie sekwencje krótkich elementów `<p>` odpowiadających fizycznym
   wierszom rękopisu i scala je w akapity: usuwa wyłącznie dzielenie wyrazu na
-  końcu wiersza, zachowuje przypisy, separatory rękopisu i numery stron.
+  końcu wiersza, przenosi kotwicę przypisu z wnętrza takiego wyrazu za jego
+  scalaną postać oraz zachowuje przypisy, separatory rękopisu i numery stron.
 
 Nie zamieniaj znaczników stron na nagłówki i nie kasuj przypisów. Jeżeli definicja
 przypisu w zapisanym HTML jest pusta, zachowaj ją z jawną adnotacją o braku

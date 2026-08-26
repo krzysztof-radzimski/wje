@@ -1,6 +1,8 @@
 ## On Leaves and Flowers (Fragment) Frag. on Leaves & Flowers edited
 
-JEFrag. on Leaves & Flowers. ANTS. See "Notes on Natural Science," no. 48, in WJE 6:242-46, esp. p. 245, n. 6, for parallel passage, which JE deleted in the original.
+JE
+
+Frag. on Leaves & Flowers. ANTS. See "Notes on Natural Science," no. 48, in WJE 6:242-46, esp. p. 245, n. 6, for parallel passage, which JE deleted in the original.
 
 Remember this
 
@@ -18,7 +20,9 @@ have seen a Green twig swoln Just like an apple Only by the space of [ ]
 
 ## On Marital Duties (Fragment) Marital Duties (frag.)
 
-Jonathan EdwardsOn Marital Duties. Fragment. BRBL, in Sermon on Ps. 116:162, Nov. 1749, LL. 1v.-2r. Possibly a response to a question posed in a meeting of the Hampshire Ministerial Association, or at an ecclesiastical council. Hand and ink appear to be late 1730s or early 1740s. Shorn at top, and incomplete at end.
+Jonathan Edwards
+
+On Marital Duties. Fragment. BRBL, in Sermon on Ps. 116:162, Nov. 1749, LL. 1v.-2r. Possibly a response to a question posed in a meeting of the Hampshire Ministerial Association, or at an ecclesiastical council. Hand and ink appear to be late 1730s or early 1740s. Shorn at top, and incomplete at end.
 
 whereby the [. . .] pose that by putting away [ ] [ ] [. . .] motion in him a bodily action in him [lately][^002-note1] here & putting her forth & shutting [doors] against her or the like . If he will not suffer her to so live with him if it appears & is evidently if it evident if it be manifest whether by words that he speaks or by Long experience of his practice that he will not suffer her to live with him or which is the same thing by his voluntary behaviour renders it intolerable & useless for her to live with him he in effect puts her away & she in departing from him is to Looked upon no other wise than passive in the affair . If he in words should threaten her & declare that if she did live with him that he would Kill either by poisoning or starving her or any other way . that she was not passive & she should dep on this should depart from would i should we not say that he had put her away & that was Justifiable in departi not passive in departing. And whether the danger that he will thus destroy her appears by what he says in words or what is from rationally Judged from Long experience of his practice voluntary practice how does that alter the Case . it is supposed in the Question that this is what she is indeed threaten'd with or what is Likely to come upon her. : He that is said by experience to have Cast off the fundamental duties of marrige towards his wife may Justly be Looked upon as having put away his wife . such Fundamental duties of marrige I suppose they will be allowed to be that are not only necessary to the speciall more special designs & purposes of marriage but also to the higher purposes of Life & subsistence in the Θ which the Pur to which the more special Purposes of marriage must be supposed Inferiour & subordinate on which all other purposes of this Life of ma whether of marriage or any thing else depend de depend as the so far as they concern that person do depend. If such duties are cast off by an husband the wife is not only not scandalous for departing but tis her duty to depart the Great Law of self Preservation obliges her to it. Tis not Gods manner to Establish one Command on the
 
@@ -34,7 +38,9 @@ whereby the [. . .]pose that by [. . .] motion, a bodily action in him [lately][
 
 ## Account Book Account Book
 
-Jonathan EdwardsJuly 1733 Lent to mr Billing of sunderland the Church History of Geneva
+Jonathan Edwards
+
+July 1733 Lent to mr Billing of sunderland the Church History of Geneva
 
 Aug 1733 Lent to mr Allis the second vol of Millars History of the Propagation of Xtianity
 
@@ -980,7 +986,9 @@ A. D. 1747. April 2. The little white flowers a considerable number of them were
 
 ## Account Book Leaf (1753) Account Bk. leaf (Huntington)
 
-Jonathan EdwardsAccount Book leaf, Feb.-Oct. 1753, Huntington Library, San Marino, Cal. Tipped into copy of J.E. Woodbridge, *The Memorial Volume of the Edwards Family Meeting at Stockbridge, Mass.* (Boston, 1871). Pp. 69-70 of Account Book (BRBL). Some letters are obscured in the gutter.
+Jonathan Edwards
+
+Account Book leaf, Feb.-Oct. 1753, Huntington Library, San Marino, Cal. Tipped into copy of J.E. Woodbridge, *The Memorial Volume of the Edwards Family Meeting at Stockbridge, Mass.* (Boston, 1871). Pp. 69-70 of Account Book (BRBL). Some letters are obscured in the gutter.
 
 sent to Mr. Bellamy by some southbridg[?] [^004-note1] men Frazer on Faith Feb. 19. 53.
 
@@ -1028,87 +1036,13 @@ Lent to Mr. Hopkins Taylor on Original sin & Key to the Apostolick Writing Octob
 
 ## Account Book Leaf, 1745 Account Book leaf (HSF)
 
-Jonathan EdwardsLeaf from account book, torn along top and side, Hartford Seminary Foundation, A.C. Thompson Papers, Box 216, f. 3155, no. 85173. Possibly a fugitive leaf from JE's Account Book in BRBL.
+Jonathan Edwards
 
-[^005-note1]
+Leaf from account book, torn along top and side, Hartford Seminary Foundation, A.C. Thompson Papers, Box 216, f. 3155, no. 85173. Possibly a fugitive leaf from JE's Account Book in BRBL. [^005-note1]
 
-is tter
+is tter reci of Abner Ly[^005-note2] my daughter Esther 5ll May 22. 1744. Recieved of Benjn Alvord[^005-note3] 10£ of my salary May Committed to Jonathan of Road Island for wool. 1744. 9£ - 6s - 7d. The Goods brought in Moses G Trunk weighed 52 Pound. Recieved of Abner Luly 4. the Compleated 147 - 13 - 8 - of Reciev'd of Benjn Alvord at of June that which compl of my salary payed by him Had received before of Major John Arms's note [-] to Eli 32 - 0 - 0 of my salary up with the Paymts The 310 - 9 - 2 due 39 - 10 [^005-note4]
 
-reci of Abner Ly[^005-note2] my daughter Esther 5ll May 22. 1744.
-
-Recieved of Benjn Alvord[^005-note3] 10£ of my salary May
-
-Committed to Jonathan of Road Island for wool. 1744. 9£ - 6s - 7d.
-
-The Goods brought in Moses G Trunk weighed 52 Pound.
-
-Recieved of Abner Luly 4. the Compleated 147 - 13 - 8 - of
-
-Reciev'd of Benjn Alvord at
-
-of June that which compl
-
-of my salary payed by him
-
-Had received before of Major
-
-John Arms's note [-] to Eli
-
-32 - 0 - 0 of my salary
-
-up with the Paymts The
-
-310 - 9 - 2
-
-due 39 - 10
-
-[^005-note4]
-
-rcromby[^005-note5] aug. 1744.
-
-Greek Lexicon.
-
-eah Mr stoddards Cases of
-
-Respecting the Countrey.[^005-note6]
-
-4. maried Richard Wool-
-
-[-] of deerfield & Naomi Wright[^005-note7]
-
-Borrowed of my Father
-
-Tenour. which was paid
-
-April. 1745.
-
-1. 1744. maried Elnathan
-
-& Mary Hannam.[^005-note8]
-
-8. 1744. married Ebenezer Bart
-
-Rachel King.[^005-note9]
-
-1744. Lent to Mr Judd Acts &
-
-uments of the Chh.[^005-note10]
-
-29. 1744. married Ebenezer Wait
-
-l Jeans[^005-note11]
-
-Hopkins of Housatunnuck
-
-Body of divinity.[^005-note12] November
-
-Lent to Mr Munson My Answer
-
-on what is the Power of Ecclesias-
-
-ncils.[^005-note13]
-
-Noah Clark Jun &[^005-note14]
+rcromby[^005-note5] aug. 1744. Greek Lexicon. eah Mr stoddards Cases of Respecting the Countrey.[^005-note6] 4. maried Richard Wool- [-] of deerfield & Naomi Wright[^005-note7] Borrowed of my Father Tenour. which was paid April. 1745. 1. 1744. maried Elnathan & Mary Hannam.[^005-note8] 8. 1744. married Ebenezer Bart Rachel King.[^005-note9] 1744. Lent to Mr Judd Acts & uments of the Chh.[^005-note10] 29. 1744. married Ebenezer Wait l Jeans[^005-note11] Hopkins of Housatunnuck Body of divinity.[^005-note12] November Lent to Mr Munson My Answer on what is the Power of Ecclesiasncils.[^005-note13] Noah Clark Jun &[^005-note14]
 
 [^005-note1]: **marginal.** [r.]
 
@@ -1140,7 +1074,9 @@ Noah Clark Jun &[^005-note14]
 
 ## Leaf of Accounts, 1733-75 Account Frag. (Forbes)
 
-Jonathan EdwardsLeaf of account book, numbered by JE pp. 20-21. Forbes Library, Northampton.
+Jonathan Edwards
+
+Leaf of account book, numbered by JE pp. 20-21. Forbes Library, Northampton.
 
 G is Cr [^006-note1]
 
@@ -1250,53 +1186,19 @@ sent out to Cornelius van schaak to c by deac. Brown to carry to Mr Hazzard[^006
 
 ## Leaf of Accounts, 1727 Account Frag. 1727 (BRBL)
 
-Jonathan EdwardsBill of goods, Jan. 26, 1727, in BRBL, Sermon Fragments (f. 1190).
+Jonathan Edwards
 
-Revd Sr
-
-Boston Januy 26: 1726/7
-
-These weights on you with a acct of What I have sente you {viz}
-
-To 3 1/2 yds of broadcloth at 40/7.0.0
-
-To 9. yds of Shalloon at 3/61.11.6
-
-To 7. yds of black Calimanco at 7/2.9.0
-
-To puffs0.2.0
-
-To 1 1/2 oz of Mohaireat 2/60.3.3.
-
-To 1. oz. of Silkat 0.6.0
-
-To 5. Dozn of buttonsat 2/0.10.0
-
-To 3 1/2 Dozn of Ditt Jakeetat 8d 0.8.4
-
-To 1 pr of White glovesat 4/60.9.0
-
-To 1 pr of Silver bucklesat0.16.6
-
-To 1. pr of Nee bands & bucklesat0.4.6
-
-To 2 yds of Lute stringat 2/61.5.0
-
-To 4 yds of Garlittat 3/40.13.4
-
-To 1/2 ps of tapeat0.1.3
+Bill of goods, Jan. 26, 1727, in BRBL, Sermon Fragments (f. 1190). Revd Sr Boston Januy 26: 1726/7 These weights on you with a acct of What I have sente you {viz} To 3 1/2 yds of broadcloth at 40/7.0.0 To 9. yds of Shalloon at 3/61.11.6 To 7. yds of black Calimanco at 7/2.9.0 To puffs0.2.0 To 1 1/2 oz of Mohaireat 2/60.3.3. To 1. oz. of Silkat 0.6.0 To 5. Dozn of buttonsat 2/0.10.0 To 3 1/2 Dozn of Ditt Jakeetat 8d 0.8.4 To 1 pr of White glovesat 4/60.9.0 To 1 pr of Silver bucklesat0.16.6 To 1. pr of Nee bands & bucklesat0.4.6 To 2 yds of Lute stringat 2/61.5.0 To 4 yds of Garlittat 3/40.13.4 To 1/2 ps of tapeat0.1.3
 
 _____________
 
-L15.13.8
-
-I have Sent a larger pair of Stocking. I hope Every thing will Sute. it was my Indevour. Sr If at any time you have occation for any thing
-
-[. . .]
+L15.13.8 I have Sent a larger pair of Stocking. I hope Every thing will Sute. it was my Indevour. Sr If at any time you have occation for any thing [. . .]
 
 ## Leaf of Accounts, 1740-53 Account Leaf (BRBL)
 
-Jonathan EdwardsLeaf of Accounts, 1748-56. BRBL.
+Jonathan Edwards
+
+Leaf of Accounts, 1748-56. BRBL.
 
 out in Boston
 
@@ -1404,7 +1306,9 @@ see the other side
 
 ## Medical Recipe, [c. 1745] Medical Recipe (c. 1745)
 
-Jonathan EdwardsFragment of medical recipe in JE's hand. BRBL, Sermon on II Cor. 6:16 (May 1745), f. 755. Shorn on right side.
+Jonathan Edwards
+
+Fragment of medical recipe in JE's hand. BRBL, Sermon on II Cor. 6:16 (May 1745), f. 755. Shorn on right side.
 
 Take Fresh Green Roots of Elicompt[?][. . .]
 
@@ -1416,13 +1320,9 @@ Butter and Ginger & anoint the [. . .]
 
 ## Notes in Downame's "Logic" Notes in Downame's Logic edited
 
-Jonathan EdwardsJE, Notes in MS copy of George Downame, *Expositionis Georgii Dounami*. N.d. [c. 1718-22]. BRBL, Gen. MSS vol. 159. Sixth leaf from end.
+Jonathan Edwards
 
-4 sorts of Goodness 1 to Answer the End of
-
-a tree . 2 perfection and hi nobleness of
-
-powers 3 moral Goodness 4 sweetness
+JE, Notes in MS copy of George Downame, *Expositionis Georgii Dounami*. N.d. [c. 1718-22]. BRBL, Gen. MSS vol. 159. Sixth leaf from end. 4 sorts of Goodness 1 to Answer the End of a tree . 2 perfection and hi nobleness of powers 3 moral Goodness 4 sweetness
 
 _____________
 
@@ -1430,47 +1330,27 @@ oneness 1 simplicity . 2 Compound 3 Collect
 
 _________
 
-variety 1 truly of its kind . 2 truly agreable
-
-to its idea 3 truly agreable to the name
+variety 1 truly of its kind . 2 truly agreable to its idea 3 truly agreable to the name
 
 ___________________________________________
 
-what is a Genus & species.
-
-a Creature of the mind
-
-Arbitrary
+what is a Genus & species. a Creature of the mind Arbitrary
 
 ___________
 
-Genus & species not different but in their different Rela-
-
-tion
+Genus & species not different but in their different Relation
 
 ________
 
-one highest Genus
-
-Lowest species
+one highest Genus Lowest species
 
 _____
 
-what difference
-
-difference the essense or Essential wherin it essentially
-
-differs
+what difference difference the essense or Essential wherin it essentially differs
 
 _________
 
-the more General the more simple and abstracted the
-
-idea. altho the more Comprehensive. thus for instance till
-
-we Come to being.
-
-the more special the more Compounded
+the more General the more simple and abstracted the idea. altho the more Comprehensive. thus for instance till we Come to being. the more special the more Compounded
 
 ______
 
@@ -1478,9 +1358,7 @@ difference the idea that is added to the Genus
 
 _____
 
-sometimes the difference Consists not in the attributes that
-
-in the Conjunction of several attributes
+sometimes the difference Consists not in the attributes that in the Conjunction of several attributes
 
 ______
 
@@ -1488,21 +1366,15 @@ the difference need not be Positive
 
 ____________________________________________________________
 
-what a totum. so I am used alwaies to think of all
-
-the Particulars of the table together &c-
+what a totum. so I am used alwaies to think of all the Particulars of the table together &c-
 
 ___
 
-many totums the determination of which is Arbitrary an
-
-acre a yard
+many totums the determination of which is Arbitrary an acre a yard
 
 _______
 
-foundation for a totum is either the Coexistence likeness
-
-or dependence
+foundation for a totum is either the Coexistence likeness or dependence
 
 _____
 
@@ -1514,9 +1386,7 @@ intellectual Constituted of Essential Parts
 
 ____________
 
-some totums Contain an infinite number of Parts
-
-murder an essential totum
+some totums Contain an infinite number of Parts murder an essential totum
 
 _____
 
@@ -1524,29 +1394,15 @@ what a Cause . how we Get the notion of it
 
 __________________________________________________________
 
-army in taking a town
-
-in most natural things partial Causes
-
-tis the proper effect of Rain to be useful to be advan-
-
-tage , the hurt by[-] wetting accidental to it
-
-tis the proper effect of virtue to Get a Good name [v.]
-
-accidental that it Gets a bad one
+army in taking a town in most natural things partial Causes tis the proper effect of Rain to be useful to be advantage , the hurt by[-] wetting accidental to it tis the proper effect of virtue to Get a Good name [v.] accidental that it Gets a bad one
 
 _________
 
-Proper effect of Gods word to make a man better
-
-an accidental to make him worse
+Proper effect of Gods word to make a man better an accidental to make him worse
 
 _____________
 
-tis the Proper effect of fire to make more hard Acciden-
-
-tal that it softens
+tis the Proper effect of fire to make more hard Accidental that it softens
 
 _______
 
@@ -1554,29 +1410,7 @@ of water to Cool accidental that it heats
 
 _________________________________________
 
-the Rays of the sun the near Cause of Corns Growing
-
-the Remote the plowing the Ground
-
-the string in is the next cause Cause of the flying of
-
-the arrow, and powder of the bullet Remote
-
-mans hand. the motion of what spring of a
-
-watch. a walt trap
-
-Light in the sun is the universal Cause of light in
-
-the looking Glass . knowledge in the teacher is
-
-the universal Cause of light in knowledge in the
-
-scholar. holiness in God of holiness in man
-
-the heat of the sun is the universal Cause of
-
-Plants Growing
+the Rays of the sun the near Cause of Corns Growing the Remote the plowing the Ground the string in is the next cause Cause of the flying of the arrow, and powder of the bullet Remote mans hand. the motion of what spring of a watch. a walt trap Light in the sun is the universal Cause of light in the looking Glass . knowledge in the teacher is the universal Cause of light in knowledge in the scholar. holiness in God of holiness in man the heat of the sun is the universal Cause of Plants Growing
 
 ## Deposition on Warham Mather Warham Mather Case
 
@@ -1616,7 +1450,9 @@ I the subscriber do testify that I was at New- [^011-note4]
 
 ## John Sargeant Valedictory, 1729 (Excerpt) Sargeant Valedictory 1729
 
-John Sargenat*A Valedictorian Oration by John Sergeant, Delivered at Yale College in the Year 1729* (New York: Henry W. Turner, 1882), excerpted. The original ms. is at Williams College, Williamstown, Mass.
+John Sargenat
+
+*A Valedictorian Oration by John Sergeant, Delivered at Yale College in the Year 1729* (New York: Henry W. Turner, 1882), excerpted. The original ms. is at Williams College, Williamstown, Mass.
 
 [After opening remarks and compliments to Rector Williams and Tutors Noyes and Rout, Sargeant turns to JE:]
 
@@ -1636,7 +1472,9 @@ John Sargenat*A Valedictorian Oration by John Sergeant, Delivered at Yale Colleg
 
 ## Receipt for Slave Named Venus Receipt for Venus
 
-AnonymousReceipt for Slave "Venus," 6/7/31. BRBL, in three parts: 1) Box 14, f. 1156; 2) sermon on Ez. 44:9, 1749 (between pp. 8 & 10) and 3) sermon on Is. 30:20 f., Mar. 1750 (pp. 2-3)
+Anonymous
+
+Receipt for Slave "Venus," 6/7/31. BRBL, in three parts: 1) Box 14, f. 1156; 2) sermon on Ez. 44:9, 1749 (between pp. 8 & 10) and 3) sermon on Is. 30:20 f., Mar. 1750 (pp. 2-3)
 
 KNOW ALL MEN by these presents That I Richard Perkins of Newport in the County of Newport & Colony of Rhode Island &c Marriner For & in Consideration of the Sum of Eighty pounds of lawful Current money of said Colony To me in hand well & truly paid at & before the ensealing & delivery hereof by Jonathan Edwards of Northampton in the County of Hampshire & Province of the Massachusetts Bay in New England Clerk The receipt whereof I do hereby acknowledge and thereof & of every part & parcel thereof do exonerate aquit & discharge the said Jonathan Edwards his heirs Execrs Admrs & Assigns by these presents HAVE bargained sold & delivered And I the said Richard Perkins do hereby bargain sell & deliver unto the said Jonathan Edwards a Negro Girle named Venus aged Fourteen years or thereabout TO HAVE & TO HOLD the said Negro girl named Venus unto the said Jonathan Edwards his heirs Execrs & Assigns and to his & their own proper Use & behoof for Ever AND I the said Richard Perkins do hereby for my Self my heirs Execrs & Admrs covenant promise & agree to & with the said Jonathan Edwards his heirs Execrs Admrs & Assigns by these presents That I the said Richard Perkins at the ensealing & delivery hereof have in my own Name good Right, full Power & lawfull Authority to bargain sell & deliver the said Negro Girl named Venus unto the said Jonathan Edwards in manner & form aforesaid And shall & will warrant & defend the said Negro Girle named Venus unto the said Jonathan Edwards his heirs Execrs Admrs & Assigns against the lawfull Challenge & Demand of all manner of Persons whatsoever Claiming or to claim by from or under me or otherwise howsoever IN WITNESS whereof I the said Richard Perkins have hereunto set my hand & Seal the Seventh day of June in the Fourth Year of the Reign of our Soveraign Lord George the Second by the grace of God of Great Britain France & Ireland King Defender of the Faith &c
 
@@ -1652,7 +1490,9 @@ Jas Martin
 
 ## Bernard Bartlett, Libel (1735) 1735 Libel
 
-Jonathan ClappLibel Case, 1735
+Jonathan Clapp
+
+Libel Case, 1735
 
 Preserved Clapp, jury foreman, Jan. 1735/36, General Sessions of the Peace, Hampshire County. CT State Library, Mss. Coll., copy from original records.
 
@@ -1670,7 +1510,9 @@ Ebenr Ferry
 
 ## Valedictory Oration Valedictory Oration
 
-Jonathan EdwardsValedictory Oration (introduced and translated by George Levesque)
+Jonathan Edwards
+
+Valedictory Oration (introduced and translated by George Levesque)
 
 Although Jonathan Edwards is undoubtedly one of Yale's most distinguished graduates, the fledgling "Collegiate School" that welcomed him in the fall of 1716 was itself hardly distinguished. The college, founded in 1701, was scarcely older than the thirteen-year-old, and given its fragile condition it was not clear whether it would survive long enough to graduate him. The Class of 1716 numbered only three students, and despite constant efforts from the trustees, the college still had no building, no fixed location, and no full-time rector.[^015-note1] The rector *pro tempore* was one of the trustees, Samuel Andrew, but he was a busy minister who continued his pastoral duties in Milford, while the students and tutors met in various homes in Saybrook, some forty miles east along the shoreline. This arrangement had lasted for almost ten years, since the death of the first rector, Abraham Pierson, but students and parents complained often about the inconsistent instruction and minimal oversight, and they talked more than once about withdrawing from the school. Complaints about the tutors had grown so loud, in fact, that the trustees had to "quiet the Schollars" by temporarily allowing them to "repair to such instructors as they might be satisfied in."[^015-note2] Some students went to their homes, while a group of about ten gathered in Wethersfield, just south of Hartford, under the direction of independent tutors.
 
@@ -2014,157 +1856,9 @@ Delivered before a Gathering.
 
 ## Epitaph Epitaph
 
-AnonymousM.S.
+Anonymous
 
-Reverendi admodum Viri,
-
-JONATHAN EDWARDS, A.M.
-
-Collegii Novæ Cæsariæ Præsidis.
-
-Natus apud Windsor Connecticutensium V Octobris,
-
-A.D. MDCCIII. S.V.
-
-Patre Reverendo Timotheo Edwards oriundus,
-
-Collegio Yalensi educatus;
-
-Apud Northampton Sacris initiatus, XV Februarii
-
-MDCCXXVI-VII.
-
-Illinc dimissus XXII Junii MDCCL,
-
-Et Munus Barbaros instituendi accepit.
-
-Præses Aulæ Nassovicæ creatus XVI Februarii
-
-MDCCLVIII.
-
-Defunctus in hoc Vico XXII Martii sequentis, S.N.
-
-Ætatis LV, heu nimis brevis!
-
-Hic jacet mortalis Pars.
-
-Qualis Persona quæris, Viator?
-
-Vir corpore procero, sed gracili,
-
-Studiis intentissimis, Abstinentia, et Sedulitate,
-
-Attenuato.
-
-Ingenii Acumine, Judicio acri, et Prudentiá,
-
-Secundus Nemini Mortalium.
-
-Artium liberalium et Scientiarum Peritia insignis,
-
-Criticorum sacrorum optimus, Theologus eximius,
-
-Ut vix alter æqualis: Disputator candidus;
-
-Fidei Christianæ Propugnator validus et invictus;
-
-Concionator gravis, serius, discriminans;
-
-Et, Deo favente, Successu
-
-Felicissimus.
-
-Pietate præclarus, Moribus suis severus,
-
-Ast aliis æquus et benignus.
-
-Vixit dilectus, veneratus-
-
-Sed, ah! lugendus
-
-Moriebatur,
-
-Quantos Gemitus discedens ciebat!
-
-Heu Sapientia tanta! heu Doctrina et Religio!
-
-Amissum plorat Collegium, plorat Ecclesia:
-
-At, eo recepto, gaudet
-
-Cœlum.
-
-Abi Viator, et pia sequere Vestigia.
-
-Translation of Latin epitaph on JE's grave, Princeton cemetery:
-
-Sacred to the memory
-
-of a most venerable man JONATHAN EDWARDS, A. M.
-
-President of the College of New Jersey.
-
-He was born at Windsor in Conn., on the 5th of October,
-
-A.D. 1703, O.S.
-
-His father was the Rev. Timothy Edwards.
-
-He was educated at Yale College, and commenced his min-
-
-istry at Northampton 15th of Feb. 1726-7
-
-He was dismissed from that place, on the 22nd of June 1750,
-
-and undertook the office of teaching the Savages.
-
-He was made President of Nassau Hall the 16th of Feb.
-
-1758.
-
-Died in this village the 22d of March following, N.S., in
-
-the 55th year of his age.
-
-In person he was tall and slender, thin with intense study,
-
-abstinence and application.
-
-In the piercing subtlety of his genius, in judgment and Pru-
-
-dence he was second to none.
-
-He was distinguished by skill in the liberal Arts
-
-and Sciences; the best of sacred critics;
-
-An eminent Theologian, with scarcely an equal.
-
-A candid disputant:
-
-A strong and invincible defender of the Christian faith;
-
-a Preacher impressive, serious, discriminating,
-
-and by the blessing of God, most successful.
-
-Eminent for piety, severe in his morals,
-
-but, just and considerate towards others.
-
-He lived beloved, revered.
-
-but oh! he is to be mourned, dead;
-
-What lamentations, did his departure call forth!
-
-Alas for so much wisdom, learning and religion!
-
-The college bewails his loss,
-
-The church bewails him.
-
-Go, Stranger and follow his pious steps.[^016-note1]
+M.S. Reverendi admodum Viri, JONATHAN EDWARDS, A.M. Collegii Novæ Cæsariæ Præsidis. Natus apud Windsor Connecticutensium V Octobris, A.D. MDCCIII. S.V. Patre Reverendo Timotheo Edwards oriundus, Collegio Yalensi educatus; Apud Northampton Sacris initiatus, XV Februarii MDCCXXVI-VII. Illinc dimissus XXII Junii MDCCL, Et Munus Barbaros instituendi accepit. Præses Aulæ Nassovicæ creatus XVI Februarii MDCCLVIII. Defunctus in hoc Vico XXII Martii sequentis, S.N. Ætatis LV, heu nimis brevis! Hic jacet mortalis Pars. Qualis Persona quæris, Viator? Vir corpore procero, sed gracili, Studiis intentissimis, Abstinentia, et Sedulitate, Attenuato. Ingenii Acumine, Judicio acri, et Prudentiá, Secundus Nemini Mortalium. Artium liberalium et Scientiarum Peritia insignis, Criticorum sacrorum optimus, Theologus eximius, Ut vix alter æqualis: Disputator candidus; Fidei Christianæ Propugnator validus et invictus; Concionator gravis, serius, discriminans; Et, Deo favente, Successu Felicissimus. Pietate præclarus, Moribus suis severus, Ast aliis æquus et benignus. Vixit dilectus, veneratusSed, ah! lugendus Moriebatur, Quantos Gemitus discedens ciebat! Heu Sapientia tanta! heu Doctrina et Religio! Amissum plorat Collegium, plorat Ecclesia: At, eo recepto, gaudet Cœlum. Abi Viator, et pia sequere Vestigia. Translation of Latin epitaph on JE's grave, Princeton cemetery: Sacred to the memory of a most venerable man JONATHAN EDWARDS, A. M. President of the College of New Jersey. He was born at Windsor in Conn., on the 5th of October, A.D. 1703, O.S. His father was the Rev. Timothy Edwards. He was educated at Yale College, and commenced his ministry at Northampton 15th of Feb. 1726-7 He was dismissed from that place, on the 22nd of June 1750, and undertook the office of teaching the Savages. He was made President of Nassau Hall the 16th of Feb. 1758. Died in this village the 22d of March following, N.S., in the 55th year of his age. In person he was tall and slender, thin with intense study, abstinence and application. In the piercing subtlety of his genius, in judgment and Prudence he was second to none. He was distinguished by skill in the liberal Arts and Sciences; the best of sacred critics; An eminent Theologian, with scarcely an equal. A candid disputant: A strong and invincible defender of the Christian faith; a Preacher impressive, serious, discriminating, and by the blessing of God, most successful. Eminent for piety, severe in his morals, but, just and considerate towards others. He lived beloved, revered. but oh! he is to be mourned, dead; What lamentations, did his departure call forth! Alas for so much wisdom, learning and religion! The college bewails his loss, The church bewails him. Go, Stranger and follow his pious steps.[^016-note1]
 
 ____________________________
 
@@ -2172,1217 +1866,23 @@ In Memory of Sarah, Wife of the Revd. JONATHAN EDWARDS. Who was born Jan. 9. 170
 
 _____________________________
 
-[Translation by Junius Johnson, YDS, 2008:]
-
-Sacred to the memory
-
-of the very reverend man
-
-Jonathan Edwards, A.M.
-
-President of the college of New Jersey.
-
-Born in Windsor, CT on October 5th, 1703 A.D.
-
-Born from his father the reverend Timothy Edwards,
-
-Educated at Yale College;
-
-Admitted to the ministry at Northampton on February 15th 1726-7.
-
-Dismissed from there on June 22nd, 1750,
-
-He received the charge of educating the savages.
-
-He was made president of Nassau Hall on February 16th, 1758.
-
-He died in this village on the 22nd of the following March
-
-at 55 years of age, O too short a span!
-
-Here lies the mortal part.
-
-What sort of person do you seek, O pilgrim?
-
-He was a man tall in body, but slender,
-
-Feeble from most intense studies, abstinence, and constant effort.
-
-In mental acumen, piercing judgment and prudence
-
-Second to no mortal.
-
-Distinguished through experience of the liberal arts and sciences,
-
-Best of all sacred critics and an extraordinary theologian
-
-such that hardly any other was his equal.
-
-A candid disputant, a strong and unconquerable defendant of the Christian faith;
-
-A weighty, earnest and discerning preacher,
-
-and, if it please God, most happy in issue.
-
-Remarkable in devotion, strict in his morals,
-
-yet fair and kind to others.
-
-He lived beloved , revered-
-
-But Oh! he died, and must be mourned:
-
-How many sighs he incites as he departs!
-
-Alas, such great wisdom! Alas, such great teaching and devotion!
-
-The college bewails his loss, the Church also:
-
-But heaven, having received him, rejoices.
-
-Go pilgrim, and follow his holy footsteps.
+[Translation by Junius Johnson, YDS, 2008:] Sacred to the memory of the very reverend man Jonathan Edwards, A.M. President of the college of New Jersey. Born in Windsor, CT on October 5th, 1703 A.D. Born from his father the reverend Timothy Edwards, Educated at Yale College; Admitted to the ministry at Northampton on February 15th 1726-7. Dismissed from there on June 22nd, 1750, He received the charge of educating the savages. He was made president of Nassau Hall on February 16th, 1758. He died in this village on the 22nd of the following March at 55 years of age, O too short a span! Here lies the mortal part. What sort of person do you seek, O pilgrim? He was a man tall in body, but slender, Feeble from most intense studies, abstinence, and constant effort. In mental acumen, piercing judgment and prudence Second to no mortal. Distinguished through experience of the liberal arts and sciences, Best of all sacred critics and an extraordinary theologian such that hardly any other was his equal. A candid disputant, a strong and unconquerable defendant of the Christian faith; A weighty, earnest and discerning preacher, and, if it please God, most happy in issue. Remarkable in devotion, strict in his morals, yet fair and kind to others. He lived beloved , reveredBut Oh! he died, and must be mourned: How many sighs he incites as he departs! Alas, such great wisdom! Alas, such great teaching and devotion! The college bewails his loss, the Church also: But heaven, having received him, rejoices. Go pilgrim, and follow his holy footsteps.
 
 [^016-note1]: **i.** Translation of Latin transcription of Edwards's tombstone is presumably by William A. Dod. See William A. Dod.*History of the College of New Jersey* (Princeton: J. T. Robinson, 1844), 15, reprinted in Stephen Crocco, "JE at Princeton," *Princeton Seminary Bulletin*, 2003. Jonathan and Sarah are buried together in the President's Plot at the Princeton Cemetery. Sarah's tombstone is affixed to the head of the stone box on which Jonathan's tombstone rests. The inscription on her tomb is in English.
 
 ## M.A. Quaestio M.A. Quaestio
 
-Jonathan EdwardsThe M.A. Quaestio
+Jonathan Edwards
 
-Contents:
+The M.A. Quaestio Contents: Draft (ANTS) Fair copy and Syllogistic notes (BRBL) English translation of fair copy English transation of Syllogisms M.A. Quaestio Edwards prepared his M.A. Quaestio during the summer of 1723, as reflected in Diary entries for the period, when he was concerned about performing to "public acceptance." The draft is heavily revised, and there are significant differences between it and the fair copy, if not in argument then in phrasing. It is possible, too, that the draft is incomplete at the end, since there is another page'#x0092;s worth of text in the fair copy. The fair copy is the text delivered at commencement in September 1723 in New Haven, and has at the end some syllogistic notes in Latin that apparently were written in haste during the oral examination. ***** The manuscript of the draft (ANTS f. 1720-29A.5) is written on two long duodecimo sheets. The fair copy (BRBL, f. 1243) is in a long duodecimo booklet with covers containing five sheets. The text fills the first four, and syllogistic notes the final leaf and the inside of the back cover. The fair copy, translated and introduced by George L. Levesque, and the notes, translated by Rowan Greer, were first published in WJE 14:47-66. [^017-note1]
 
-Draft (ANTS)
+Peccator Non Justificatur Coram Deo nisi Per Justitiam Christi fide Apprehensam Opus nobis maxime quidem arduum minime quamvis Difficile Contigit Protestantismien scili cet Protestantibus. et Christianitatem pro ex [...] et veritatem Xtianitatis Christianæ probit. ie: Nec tenuem Gloriam habemus, id quod vero est . et semper primis Xtianis & Reformat`a Religionem Profitantibus Concorditer existimatum est scripturarum deliciæ summa Gloria, Evangelis , et Cordum Christianorum maxima Gau maximum Gaudium, Concorditer existimatum est hanc scilicet doctrinam Justificationis. fides P per Justitiam Xtia fide acceptum. Et ni forte nihil sub Prætextu theorematis theologiæ sit subjectum Præsentis Disputationis, sub Prætextu theorematis theologiæ, distincti designemus Limites idearum his verbis nobis adhibitarum designemus. Ac primo . Justificatione, non solum intendimus re mi peccatorem peccata Remissionem. hæc enim sola tan tum oblationem omotionem iracundiæ do dei sup penit Reling[ ] Autem destitutm [ ] au tem destitutum divini deis favoris vel amicitiâ Perind`e ac, bestiæ Rup faxa sun Arbores; Lapi de Enim nam ipsi Capicles, sunt obsque Rea tu peccati, ac ina & Dei iracundiæ, et Omnimoditam Justi quam die Cpnspicu Quam talis Justifi catio[-] hominem Reddit. sed Justificatio, est positivi actus favoris, & hominis approbation ut Justi approbatio, hoc [ ], Justificatione inte volumnes scil. actus divina divinum favori actum, erga peccatorem, peccatum Remittent et Eam quà Justum approbantem per Justitiam int et ac intendimuntur, et activæ et passivæ, et Obedientiæ, et satisfactionis: Na Nam Omni Respectu Eadem est Ratio, quare Justitia Positiva a nobis nunc Regu a deo Nunc Requiratur ut ad ab Vitam Recipiamur Qua suit Quare ab Requiatur ab Adamo et Cui non non, fixatur felici immutabili felicite primo Creationis momento, sine aliqua Omnino probatione Figeretur. Pr fidem Thesi volumus, totius Receptio Christi suorumq. beneficiorum. non solum Reception intellectus in Assensu , nec solum Receptio voluntatis eum eligendo , nec tantum Acceptio affectuum, Receptio, in Amore, nec solum facultatum execu tivarum, obedientia, sed totius . horum horum Omnium, implicantis, hac vohemus fide Justificanti, hac hic totius anim hac animæ totius merito erga Christum scripturæ quae scriptura varie varie Representatur, variendo, Credendo, Confidendo, Recipiendo, &C si Obsequendo &c-- Proinde Quando asseritur, hac fide solum, peccatorem Justificari, hoc intenditur, scil Quod. deus peccatorum in favoremtu tuum Recipit, huis Dumtaxat, Quod ita. Xtum anima tota Recipit. Quod Justitia et vita Eterna prorsus Gratuitò [^017-note2] offertur, et solum Receiption præb`etur. solem re ceptioni huic scil Nempe huic totius Recep tioni totius Animæ. non Enim Nec quidem disputamur A Quasi[ ] es annon Justificamur Evangelica Obe Justificamur Evangelica Obedientia. sed an Justificamur Obedientia Evangelica propter istius bonitatem ; [--] modo Quippe, Obedientia Evangelica Christus Receptus est; omnis eni pars omnis Enim. Obedientiae Evangelicæ et implicita Christi Receptio, Qua fidelis [--] Christo Unitus est. hac asque Unum fiunt in foro dei, Qua Unione Justitia Xti suum fidel facto et querinda ac si idem esset idem. et hac et hac est de Quo nunc Queritur * Nunc Quamis Questionis ipse patus et explication Cum primis Comunibus et notionibus, primi et universutite Receptis. Christi mediationis. nostram tuerin, disputatationis sp superiorem Reddit, tamen veritas, Col argumentis Adaucendis Colla stretionem Copiat Priende asserimus, Peccatorem Justificari coram deo neque in totum nec Partim, propter bonitatem suorum Ac Actionum Actorum Coram deo Justificari, sed solum propter, id Quod fecit et Passus est Christus, fide Receptum Coram Deo Justificari; fit Enim fit Partim propter bonitatem alirali cudjus a Nobis par action Christum nec Esse salvator Completum sal[ ] partis tantum salutis nostræ salutis [-] Æter næ author`e est: Part Qandem Gl Gloriæ Christo tribuendam asi. part autem Nobimet ippis: Christus partem pratis Xto[ ] Nessimet. Re Part Autem Reliquam ipso Peccatore [ ]tur his Respectibus Peccator sui ipsius esse Mediator et Redemptorem Mediatorem Equi ac dei filius M[ ] Xti fa quidem faci a quod ergo solute nostram totutem, bonita sed bonitas Nostrum Oper[^017-note3] [-] supplit defecta ilius mortis. et Quali [---] in consistens, per hoc[-] Evangelitem E[ ] Dicitur ab hanc Doctrinam Opponentibus peccatorem Justificari Propter Ricipiscentiam. et Refor mationem id est . Quod Deus suis offens peccatis offensus et iratus. sinceram Resipiscentiam et [ ] peccatoris adspiciens placatus est. Ai [---] [---] Quore hoc non fiat. Wuore deu non [--] deus peccata Remittat et Remittatur et tra [ ] dei Remittantus . et iracunda dei. placetur. solum Res Resipiscentiam ansque sive abo sacrificio. sit infinita immenso est dei misericordia. Asserimus Autem. et absolute Demonstrabile tenemus, inconsistens esse Dei Attributis pecca tum. solum Resipiscentiæ Remitere et Remittaatur et primum hoc Ponimus quod quodq. [-------] Omnibus Concessum erit nempe quod in consistens est Attributis Divinis, ut condonetur, et [ ] Gratiam Recipietur. Peccator absque vel [^017-note4] omninò Res Recipiscentia non Obstante immensi tate Dei misericordia, ut peccator Justificetur et in Gratiam Recipiatur sine aliqua Omnino Resipiscentia . primo Enim aspectu patet. quod Dei sanctitas et infinita Dei puritas . in Eternum ne necessario in Eternum obstabit ut Peccator Odiosus du Obstinatus et Pertinax est et absque minima . Resipiscentia in Amicitiam Dei Reci sit Receptus . Et si necess Repugnat Dei repugnat [^017-note5] perfectio inconsistent est Dei attributis Justificare sine Recipiscentia. tum necessario, et eadem Completo Ratione. Conseguetur. ut etiam sit Divinis Perfectionibus . sit divinis Perfectionibus Repugnens. Peccatorem Justificare propter Eam Recipiscentiam, qua tam exigua ut nullam [ ] penitus omnino proportionem tane delicto taneat sed [-] vero sed [-] [------] sit infini te inadequata[--], et et Proinde[-] sit instan nulli us, si delicto Comparetur. Nam Eadem idem es Omniforiam idem Peccatorem Justificare sine all aliqo Recipisientia et Justificare propter Recipiscentiam, quæ nullam penitus, proportionem delicto tenet, Uncle hoc sequitur. Quod est Repugnans divinis attributis . Justificare peccato rem Justificare. propter eam Recipisientiam, quæ nullam Omnine Proportionem delicto tenet hoc Autem assumima. Quod maxima et sincerissima, Recipiscentiæ peccatoris [-------] perfecto nullam propt dei Injuriam null profecto nl lam proportionem, delicto tenet, ea [ ] quod et inconsistens divinis attributis. Peccatorem Justificare propter Recipiscentiam sine satisfactione Quod Certissimum verum est si injuria Dei est quodammodo propter objectum . aut aliquand aliæm aggravationem infinitæ delictum infinitæ pravitaltis quod indubio veritas Cujus, indubio stricto demonstrationis indubio capax est Nam Certum est Injuria dei, est Cœteris Paribus majoris Pravitatis quam injuria Co ali[ ]us antis finitæ parro atque Certum est quod injuria [-] entis finitæ, potest esse alivel alicefus Grodus finitæ, pravito tio tis . in quatatum Quod defict malitiæ pravii tati injuriæ aliis Respectibus, suppleri Popest die mitate Personæ offensæ. Unde Certo [-] sequitur injuria Dei esse [--] majoris quam Cujus vis finitæ pravi tate nec minus Ce et Certum est eam pravita tam quæ quod ea pravitas quæ major est ali quavis possibili pravi finitæ pravitatis finitæ, est infinita et igitus injuriæ dei injuriam dei esse infinitæ pravitatis. et inde quod maxima Resipiscentia nullam propter ei tene proportion em tenet. ergo et ut jam demonstratum est inde inconsistens esse div P divinis perfectionibus esse Repugnans, propter Eam peccatorem Justificatis Quod Erat demonstrandum. et idem dici Queat de Omnibus bonis operibus scilicet infinita infinite inadequate inadequat as esse peccatis . et Proinde attributis dei divinis [^017-note6] [-] Repugnans . ut peccator, aliqua modo aut Respectu, in operati ad minimum Justificari propter since ram Resipiscentiam aut Obediantiam bona Opera ergo solum Justitia per Justitiam Xti fide apprehen sam. deinde si supponimus ponitur . sinceram Obedientiam esse esse Conditionem . Justificationis, necessario supponitur multo majorem dignitas, in im imperfec to o in imperfecta Obedientiæ, sub Evangelio, quam fuerit in perfecta Obedientia Adami. Nam primum fœdus, neamplius bonitatis in perfecta Obedientia penit supposuit quam sufficiens Reddare eam Con gruam Conditionem vitæ eam Reddere ; sed hoc supponit imper tantam bonitatem, et dignitatem in imperfecta Obedientia. ut ea non solum Reddetur Congrua Conditio vitæ promisse primo fœdere pro missæ, sed etiam Remissionis Omnium peccatorum, et liberatio ab Eterna miseria, ab iis merita, et Collationis ad multo majoria Gloriæ, quam unqua ecquando, a s fœdere Primo promissa est. [----] harum Unum ergo certissime [ ] im erg Unum Ergo harum duorum necessarium est ut teneamus, Aut infinite in vest majore majus bonitatis et dignitatis esse in imperfecta obedientia sub Evangelio quam fuerit in perfecta Obedientia ad sub fœdere primo aut Justificamus solum Justitia Xtia fide Apprehensam Aiunt autem neonomiani Christum mortuum esse ad tam fœdus pocurand nobis Procurandum ut sinceritas sit Conditio Justificationis vice Obedientiæ perfectæ . et [-] Quod nova dignitas Confertur [--] a morte Christi, in Obedientiam sinceram Confertur ita ut id quod non fuit Congrua Conditio Justificationis Ante, Congrua Conditio Redditur Con no Congruam Redditur. pro collatione nova dignitatis per Christi merita. Quod Christus pr[ ] dignitatatem Obedientiæ sincere sed Plane Contradictio est dicere [--------] Quod Quamvis mer Xti mesinceræ rita nullo modo not ipsam naturam obedientiæ mutave[-] nec in in se meliorem fecere tamen Xti meritæ Xti Reddent E`adem Obedientiam Congruam digna Justificationis Ea Condi indigna aut Congruam quæ antea non ei Congruæ fuit quam nullo modo melior, qua in se quam antea fuit plan`e enim Constat, aut esse quo[---] dignitatisam vel bonita tis [----] [--] sincera Obedientia in se absque Xti quo Red Congrua Justificationi Redditur aut toto dignitatis est in Xto [-] et nulla, in sincera obedientia, secundum quid sincera Obedientia [-------------] volet ad Justificationem volet habet. Cum Xto Quam sine Xto. Name Aut sincera Obedientiæ aliquod in se habet Quo Condigna si dei [ ] aut nihil. in se habet dignitatis so aliquod in se habet dignitatis tum ea dignitas non est a Xti meritas si nihil in se habet, tum totum dignitatis est in Xti meritis et nihil in sincer Obedientia sincera quod est quod volumus propter Quod Contendimus cui hoc tempore Contendimus [^017-note7]
 
-Fair copy and Syllogistic notes (BRBL)
+Peccator Non Justificatur Coram deo Nisi Per Justitiam Christi fide Apprehensam Opus maxime quidem orduum minime quamvis Difficile nobis hedie Contigit reformatæm scilicet Religionism Protestostantibus, et Christianæ Christianis veritatem vindicare. Nec tenuem esse Gloriam habemus, id quod Profecto est, et semper Christianis Primis, et universis recentioribus Reformatam Ejus Puritatem profitentibus Evangelii summam Gloriam, scripturarumq; delicias, Concorditer Existimatum Est, hunc scilicet doctrinam. Justificationis per Justitiam Christi fide Apprehensam. Et ni forte Nihil, sub theologicæ theorematis Prætextu, sit subjectum Præsentis disputationis distincte limites idearum his verbis nobis ad exhibitarum designemus. Ac primo Justificationem intendimus. divinæ Actum favoris. Erga Peccatorem, peccata Remittentem et illum quà Justum Approbantem. Non solum volumus peccatorum remissionem, hæc enim sola, non aliter Justum Conspectu dei hominem Reddit, ac ipsas arbores aut Rupes; Nam lapides sunt eque [------] reatu peccati, et iracundiâ dei immunes, ac, quilibet homo ita Justificatus. sed Proculdubio est quidam actus positivi favoris, & hominis ut non solum ut peccato immunis, sed ut Revera Justi Approbatio Per Justitiam Christi et activam et passivam et Obedientiæ et satisfactionis intelligitur. Nam Omnimodo Eadem est ratio quare Justitia Positiva, a nobis [-] deo nunc Exigatur ut ad vitam Eternam Recipiamur, quæ fuit ut requiratur ab adamo, et quare ille non immutabili fælicitate, primo Creationis momento sine aliqua Omnino probatione, immediatè[^017-note8] figeretur. Per fidem hac thesi volumus totius Animæ Receptionem Christi suorumq; beneficiorum: non solum Receptionem intellectus in assensu, Nec solum Receptionem voluntatis eum eligendo, nec tantum affectuum Receptionem in Amore, nec solum facultatum Executivarum in Obedientia, sed totius Animæ horum omnium implicantis, illam animæ to ius erga Christum motionem. quæ scrip tura varie veniendo, Credendo, Confidendo. Recipiendo, Obsequendo &c-- Exprimitur. Proinde quando asseritur hac fide solum peccatorem Justificari, hoc VOLUMUS Nempe quod Deus Peccatorem, in Gratiam et amicitiam suam Recipit, propter hoc dumtaxat, Quod ita Christum, anima sua tota Recipit. Quod Justitia et vita Eterna prorsus Gratuito Offeruntur, et solum Receptionem præbentur. Nec quidem quærimus annon Justificamur Evangelica Obedientia. sed An Justificamur hac Obedientia Evangelicâ, propter ejus intrinsicam bonitatem, vel solum quippe Per Obedientiam Evangelicam Christus Receptus est. Omnis Enim Pars Evangelicæ obedien tiæ, est implicita Christi Receptio et actus fi dei Justificantis. Nos igitur Asserimus peccatorem neque in totum neque partim, propter talis Obedientiæ aut aliquorum Operum bonitatem. sed solum propter id quod fecit et Passus est Christus fide Receptum Coram deo Justificari. Christum esse salvatorem Com pletum, et non partim tantum nostræ salutis Eternæ esse Authorem Contendimus; pec -catorem his Respectibus. sibimet ipse Redemptorum, et Mediatorem esse Negamus dicitur ab hanc doctrinam Opponentibus, [^017-note9] propter Ricipiscentiam & Reformationem peccatorem Justificari, id est Quod deus suis Peccatis iratus et Offensus, Adspiciens illius Recipiscentiam sinceram, eâ satisfactus et Placatus est. Asserimus autem, & stricte demonstrabile, non solum scripturis, vi Autem quoque nudæ Rationis tenemus. inconsistens esse dei Attributis ut ille peccato offensus vel[^017-note10] totaliter vel Partim satisfiet Recipiscentiâ quantumlibet sincera. Et primum hoc poni -mus, quodq; Proculdubio Omnibus erit Concessum, quod non attributis divinis Consistit, nec Obstante immensitate, miserecordiæ dei, Ut Peccator Justificetur, et in Dei Gratiam Recipiatur sine aliqua Recipiscentia: Primo Enim Aspectu Pater. quod [^017-note11] sanctitas et infinita Puritas, in Eternum necessario Obstabit ut Peccator Odiosus, Obstinatus, et absque minima Recipiscentia Pertinax in amicitiam dei sit Receptus hoc ne mo negabit, deinde secundò hoc ponimus, quod et hinc necessario, et eadem Completa Ratione Consequetur: Neque Perfectioni bus divini stare, propter eam Recipiscentiam Justificare quæ est tam Exigua. Ut nullam Prorsus Proportionem delicto teneat sed ut Culpæ Reverà sit infinite inadquata. Et Proinde sit Penitus instar nullius P Omnino Recipiscentiæ. si Peccato Comparetur, Nam Omnifariam Idem est Peccatorem Justificare sine ulla Recipiscentia. ac peccatorem Justificare Propter Resipiscentiam quæ nullam Omnino prorsus proportionem Crimini tenet, et ita profectò nulla Resipiscentia est. Comparatione delicto; hujus igitur non dubitare Possumus. ne divinis nempe attributis Repugnare pro toli Resipiscentia peccatorem Justificare. [^017-note12] hoc Autem Assumimus, quod maxima et sincerissima Resipiscentia cujus Capax est natura humana, profecto nullam proportionem tenet minimæ injuriæ deo factæ Ad maximam Cujus Certitudinem exhibendam. Non Opus est ut disputemus annon injuria dei sua natura est[-] infinita si hoc mittemus tamen si injuria deo habet infinitam pravitatem. Resputu Objecti, aut alio quocumque Respectu, veritas hujus Positionis Certissima in Eternum sta bit. si Peccatum tantum Unam quodammodo aggravationem infinitam habet tantidem Refert, eque ac si Omnibus alies modis malum infinitum esset. sed injuria dei Unam aggravationem infinitam habet, Nam Certum est injuria dei Cæ teris Paribus esse majoris Pravitatis, quam injuria cujuscumque entis finitæ. porro atque Certum est quod injuria entis finitæ potest esse quantivis Gradûs finitæ pravitatis, in quantum quod deficit pra- -vitate injuriæ alies Respectibus, suppleri Queat. dignitate Personæ Offensæ. Un- -de Certo sequitur injuriam dei esse majore[-] quam quavis finita pravitate, et Certum est quod Ea pravitas quæ major est qualibet possibile finitâ est infinita; acque inde injuriam dei esse uno Respectu infinitæ pravitatis, et ita quod maxima Resipiscentia finita nullam omnino ei proportianem tenet; et ut Jam demonstratum est pugnare divinis attributis[^017-note13] propter Eam peccatorem Justificare quod Erat demonstrandum Et idem dici potest de Omnibus bonis Operibus, scilicet infinite inadequata esse peccato et proinde attributis divinis esse Repugnans ut peccator quodammodo ad minimum Justificari propter sinceram Resipiscentiam aut Obedientiam ergo solum per Justitiam Christi fide Apprehensam. deinde si ponitur sinceram Obedientiam esse Conditionem Justificationis, necessario supponitur immense major dignitas in imperfecta Obedientia sub evangelio, qua fuerit in perfecta Obedientia Adami. nam primum fœdus ne amplius bonitatis in Perfecta Obedientia supposuit, quam [-----]Satis Congruam esse Conditionem vitæ Reddere: sed hoc supponit tantam bonitatem et dignitatem in imperfecta Obedientia ut ea non solum Congrua, Conditio P vitæ primo fœdere Promissæ, sed etiam Remissionis Omnium Pecatorum et liberationis ab Eterna miseria iis merita, et Collationis Gloriæ multo præstantioris, quam ecquando a primo fœdere promissa est. Unum Ergo horum duorum necessarium est ut teneamus. aut infinite majus bonitatis et dignitatis esse in im perfecta Obedientia sub Evangelio, quam fuerit in Obedientia perfecta sub fœdere primo. aut peccatorum Justificari solum Ju Per Justitiam Christi fide Apprehensam Aiunt autem Neonomiani Christum mor [^017-note14] tuum esse ad hujusmodi fœdus nobis Procurandum. Ut sinceritas sit Conditio Justificationis vice Obedientiæ perfectæ. et quod nova dignitas a morte Christi in Obedientiam sinceram Confertur ita ut ut id quod antea non fuit Congrua Conditio Justificationis. nunc Congrua Redditur Collatione nova dignitatis per Christi merita sed Plane Contradictio est dicere quod quam vis merita Christi nullo modo mutant ipsam naturam Obedientiæ sinceræ mutaverunt, nec in si metiorem fecere, tamen eandam Obedientiam Justificationi Reddere quæ antea ei non Congrua fuit. indubitanter Enim Constat aut esse quoddam Dignitatis vel bonitatis sincera obedientiâ in se & a Christo abstracte Considerata qua Congrua Justificationi Redditur. aut nihil in se talis dignitatis habet; si aliquod in se habet dignitatis tum Ea dignitas non Est a meritis Christi, si Nihil in se habet tum totu dignitatis est in Xti meritis et nihil in Obedientia sincera; quod est idem cui hoc tempore Contendimus Porro Atque sibi[-] aliter asserentes peccatorem Obedientia imperfecta Justificari hoc modo Contradicunt, nam si Justi ficamur Obedientia imperfecta, necessario sit ut Justificatio etiam sit imperfecta. Justificatio Enim sine dubio est Justitiæ qua Justificamur Proportionata Constat hoc ipsa natura Justificationis [^017-note15] quæ est Receptio hominis qua Justi; et Certe si a deo qua Justi Recepti sumus propter imperfectam Justitiam. Recipimur qua imperfecte Justis sed Receptio qua imperfecte Justi est imperfecta Justificatio, imo nulla omninò Justificatio, sed profectò Condemnatio. nam Recipi qua imperfecte Justus est Recipi qua indigensem legi dei Comformitate, sed Recipi quâ indigensem Conformitate Legi dei est Recipi qua Peccatorem quod idem est ac Retineri qua obnoxius[^017-note16] Legis damnationi quod est Condemnatio Quamobrem. Justificatio Neonomianorum in Condemnationem vertitur Ac Preterea nobis hanc doctrinam [-]exhibet [----] Universus sacrarum scripturarum tenr: potissimumq; novi testamenti, quo Eandem habemus declaratam, Omnibus Clarissimis et maxime Positivis [--]Dictionisbus qua pos sibile est excogitari id quod Asserimus exprimendum qua propter nunc impavide asseramus, quod quam Certa est veritas Reformatæ Religionis, quam Certum primum fundamentum evangelii, quam Certum ut attributa dei sibi mutuo Consistunt, quam Certum [--] quod falsum non [-----] [--] strictæ et demon strationis Absolutæ quam Certum quod utraque pars Contradictionis non potest esse vera tam Certum est act Quod &c ---------------- [^017-note17]
 
-English translation of fair copy
+Si Gubernatores Potestatem [^017-note18] si Gubernatores Ecclesiæ potestatem habent Leges [--] ferendi tum &c -- min, prob. si preceptum est in scriptura ut Ecclesiæ Gubernatoribus Obediamus C.v. si impossible est Obedire iis qui non possunt dari Leges Obediendas si Deus multa in sua adoratione Reliquit ad humanam determinationem. Min, p si deus nihil Reliquit ad humanam determinationem tum Requisitum est ut sit ut non Requisitum est ut sit Universa Uniformitas Per totum mundu in sua adora tione iis non Requisitum est c.v. si difformitas in adoratione dei Oriri po test solum ab humana determinatione Oriri Potest si Gubernatores Ecclesiæ potestatem habent [^017-note19] Leges Conscientiam obligatores ferendi 2 Min, v. si primum Consilium Gubernatorum ecclesiæ Legem tulerunt, tum Gubernatores Ecclesiæ potestatem habent &c -- 3 M Leges tulerum scil Legem. abstinentiæ a san guine & suffocatis probare quod hoc non solum fuit exhortatio. sed Lex si hæc determinationem illius Consili fueritent Conscientiæ Obligatoria tum fuit[-] Lex. si Conscientiæ non fuit Obligatoria tum Obedientiæ non fuit necessari at At huic determinatione si de Res determinatæ vacantur necessariæ, decimo Quinto Capita Actorum, vigessimo [-] Octavo verso C 2 sill valet, si non suenut sub directio in spir hæc instatuerunt sub inspiratione spiritus sancti M. v. si hæc instatuerunt per inspiratione spiritus sancti. tum Omnino necesse fuit ut Consi lio Convenerint M. v. si spiritus inspiratio Eque valida fuisset sine Concilio C 1 sill valet Cu. Qui habent si ii qui potestem habent Leges eccle siasticas ferendi, elia necessario potestatem habent, ferendi Leges de adoratione dei M. v. si Leges ecclesiastiæ, et Logos de adoratione dei, sunt E [^017-note20]
 
-English transation of Syllogisms
-
-M.A. Quaestio
-
-Edwards prepared his M.A. Quaestio during the summer of 1723, as reflected in Diary entries for the period, when he was concerned about performing to "public acceptance." The draft is heavily revised, and there are significant differences between it and the fair copy, if not in argument then in phrasing. It is possible, too, that the draft is incomplete at the end, since there is another page'#x0092;s worth of text in the fair copy. The fair copy is the text delivered at commencement in September 1723 in New Haven, and has at the end some syllogistic notes in Latin that apparently were written in haste during the oral examination.
-
-*****
-
-The manuscript of the draft (ANTS f. 1720-29A.5) is written on two long duodecimo sheets. The fair copy (BRBL, f. 1243) is in a long duodecimo booklet with covers containing five sheets. The text fills the first four, and syllogistic notes the final leaf and the inside of the back cover. The fair copy, translated and introduced by George L. Levesque, and the notes, translated by Rowan Greer, were first published in WJE 14:47-66.
-
-[^017-note1]
-
-Peccator Non Justificatur Coram Deo nisi
-
-Per Justitiam Christi fide Apprehensam
-
-Opus nobis maxime quidem arduum minime
-
-quamvis Difficile Contigit Protestantismien scili
-
-cet Protestantibus. et Christianitatem pro
-
-ex [...] et veritatem Xtianitatis Christianæ probit.
-
-ie: Nec tenuem Gloriam habemus, id quod
-
-vero est . et semper primis Xtianis & Reformat`a Re-
-
-ligionem Profitantibus Concorditer existimatum
-
-est scripturarum deliciæ summa Gloria, Evan-
-
-gelis , et Cordum Christianorum maxima Gau
-
-maximum Gaudium, Concorditer existimatum est
-
-hanc scilicet doctrinam Justificationis. fides P per
-
-Justitiam Xtia fide acceptum. Et ni forte nihil
-
-sub Prætextu theorematis theologiæ sit subjectum
-
-Præsentis Disputationis, sub Prætextu theorematis
-
-theologiæ, distincti designemus Limites idea-
-
-rum his verbis nobis adhibitarum designemus.
-
-Ac primo . Justificatione, non solum intendimus re
-
-mi peccatorem peccata Remissionem. hæc enim sola tan
-
-tum oblationem omotionem iracundiæ do dei sup
-
-penit Reling[ ] Autem destitutm [ ] au
-
-tem destitutum divini deis favoris vel amicitiâ
-
-Perind`e ac, bestiæ Rup faxa sun Arbores; Lapi
-
-de Enim nam ipsi Capicles, sunt obsque Rea
-
-tu peccati, ac ina & Dei iracundiæ, et Omnimodi-
-
-tam Justi quam die Cpnspicu Quam talis Justifi
-
-catio[-] hominem Reddit. sed Justificatio, est
-
-positivi actus favoris, & hominis approbation ut
-
-Justi approbatio, hoc [ ], Justificatione
-
-inte volumnes scil. actus divina divinum
-
-favori actum, erga peccatorem, peccatum Remit-
-
-tent et Eam quà Justum approbantem
-
-per Justitiam int et ac intendimuntur, et activæ
-
-et passivæ, et Obedientiæ, et satisfactionis:
-
-Na Nam Omni Respectu Eadem est Ratio,
-
-quare Justitia Positiva a nobis nunc Regu a deo
-
-Nunc Requiratur ut ad ab Vitam Recipiamur
-
-Qua suit Quare ab Requiatur ab Adamo et
-
-Cui non non, fixatur felici immutabili felicite
-
-primo Creationis momento, sine aliqua Omnino
-
-probatione Figeretur.
-
-Pr fidem Thesi volumus, totius Receptio Christi suo-
-
-rumq. beneficiorum. non solum Reception intellec-
-
-tus in Assensu , nec solum Receptio voluntatis
-
-eum eligendo , nec tantum Acceptio affectuum,
-
-Receptio, in Amore, nec solum facultatum execu
-
-tivarum, obedientia, sed totius . horum horum
-
-Omnium, implicantis, hac vohemus fide Justi-
-
-ficanti, hac hic totius anim hac animæ toti-
-
-us merito erga Christum scripturæ quae scriptura varie
-
-varie Representatur, variendo, Credendo, Confidendo,
-
-Recipiendo, &C si Obsequendo &c--
-
-Proinde Quando asseritur, hac fide solum, peccato-
-
-rem Justificari, hoc intenditur, scil Quod. deus
-
-peccatorum in favoremtu tuum Recipit, huis Dum-
-
-taxat, Quod ita. Xtum anima tota Recipit.
-
-Quod Justitia et vita Eterna prorsus Gratuitò [^017-note2]
-
-offertur, et solum Receiption præb`etur. solem re
-
-ceptioni huic scil Nempe huic totius Recep
-
-tioni totius Animæ. non Enim Nec quidem
-
-disputamur A Quasi[ ] es annon Justificamur
-
-Evangelica Obe Justificamur Evangelica Obedien-
-
-tia. sed an Justificamur Obedientia Evangelica
-
-propter istius bonitatem ; [--] modo Quippe, Obe-
-
-dientia Evangelica Christus Receptus est; om-
-
-nis eni pars omnis Enim. Obedientiae Evangelicæ
-
-et implicita Christi Receptio, Qua fidelis [--]
-
-Christo Unitus est. hac asque Unum fiunt in
-
-foro dei, Qua Unione Justitia Xti suum fidel
-
-facto et querinda ac si idem esset idem. et hac
-
-et hac est de Quo nunc Queritur *
-
-Nunc Quamis Questionis ipse patus et explication
-
-Cum primis Comunibus et notionibus, primi
-
-et universutite Receptis. Christi mediationis. nostram
-
-tuerin, disputatationis sp superiorem Reddit, tamen
-
-veritas, Col argumentis Adaucendis Colla stretionem
-
-Copiat
-
-Priende asserimus, Peccatorem Justificari coram deo
-
-neque in totum nec Partim, propter bonitatem
-
-suorum Ac Actionum Actorum Coram deo
-
-Justificari, sed solum propter, id Quod fecit
-
-et Passus est Christus, fide Receptum Coram
-
-Deo Justificari; fit Enim fit Partim propter
-
-bonitatem alirali cudjus a Nobis par action
-
-Christum nec Esse salvator Completum sal[ ]
-
-partis tantum salutis nostræ salutis [-] Æter
-
-næ author`e est: Part Qandem Gl Gloriæ
-
-Christo tribuendam asi. part autem Nobimet ip-
-
-pis: Christus partem pratis Xto[ ] Nessimet. Re
-
-Part Autem Reliquam ipso Peccatore [ ]tur
-
-his Respectibus
-
-Peccator sui ipsius esse Mediator et Redemptorem
-
-Mediatorem Equi ac dei filius M[ ] Xti
-
-fa quidem faci a quod ergo solute nostram
-
-totutem, bonita sed bonitas Nostrum Oper[^017-note3]
-
-[-] supplit defecta ilius mortis. et Quali [---]
-
-in consistens, per hoc[-] Evangelitem E[ ]
-
-Dicitur ab hanc Doctrinam Opponentibus peccato-
-
-rem Justificari Propter Ricipiscentiam. et Refor
-
-mationem id est . Quod Deus suis offens pecca-
-
-tis offensus et iratus. sinceram Resipiscentiam
-
-et [ ] peccatoris adspiciens placatus est. Ai
-
-[---] [---] Quore hoc non fiat. Wuore deu non
-
-[--] deus peccata Remittat et Remittatur
-
-et tra [ ] dei Remittantus . et iracunda
-
-dei. placetur. solum Res Resipiscentiam ansque
-
-sive
-
-abo sacrificio. sit infinita immenso est dei
-
-misericordia.
-
-Asserimus Autem. et absolute Demonstrabile
-
-tenemus, inconsistens esse Dei Attributis pecca
-
-tum. solum Resipiscentiæ Remitere et Remit-
-
-taatur et primum hoc Ponimus quod quodq.
-
-[-------] Omnibus Concessum erit nempe quod in
-
-consistens est Attributis Divinis, ut condonetur,
-
-et [ ] Gratiam Recipietur. Peccator absque vel [^017-note4]
-
-omninò Res Recipiscentia non Obstante immensi
-
-tate Dei misericordia, ut peccator Justificetur
-
-et in Gratiam Recipiatur sine aliqua Omnino
-
-Resipiscentia . primo Enim aspectu patet. quod
-
-Dei sanctitas et infinita Dei puritas . in Eternum ne
-
-necessario in Eternum obstabit ut Peccator Odio-
-
-sus du Obstinatus et Pertinax est et absque
-
-minima . Resipiscentia in Amicitiam Dei Reci
-
-sit Receptus . Et si necess Repugnat Dei
-
-repugnat [^017-note5]
-
-perfectio inconsistent est Dei attributis Justifi-
-
-care sine Recipiscentia. tum necessario, et ea-
-
-dem Completo Ratione. Conseguetur. ut etiam
-
-sit Divinis Perfectionibus . sit divinis Perfectio-
-
-nibus Repugnens. Peccatorem Justificare prop-
-
-ter Eam Recipiscentiam, qua tam exigua ut
-
-nullam [ ] penitus omnino proportionem tane
-
-delicto taneat sed [-] vero sed [-] [------] sit infini
-
-te inadequata[--], et et Proinde[-] sit instan nulli
-
-us, si delicto Comparetur. Nam Eadem idem
-
-es Omniforiam idem Peccatorem Justificare sine
-
-all aliqo Recipisientia et Justificare propter Re-
-
-cipiscentiam, quæ nullam penitus, proportionem
-
-delicto tenet, Uncle hoc sequitur. Quod est
-
-Repugnans divinis attributis . Justificare peccato
-
-rem Justificare. propter eam Recipisientiam, quæ
-
-nullam Omnine Proportionem delicto tenet
-
-hoc Autem assumima. Quod maxima et sin-
-
-cerissima, Recipiscentiæ peccatoris [-------] perfecto
-
-nullam propt dei Injuriam null profecto nl
-
-lam proportionem, delicto tenet, ea [ ] quod et
-
-inconsistens divinis attributis. Peccatorem Justificare
-
-propter Recipiscentiam sine satisfactione Quod
-
-Certissimum verum est si injuria Dei est quodam-
-
-modo propter objectum . aut aliquand aliæm
-
-aggravationem infinitæ delictum infinitæ pravi-
-
-taltis quod indubio veritas Cujus, indubio stricto
-
-demonstrationis indubio capax est Nam Certum
-
-est Injuria dei, est Cœteris Paribus majoris Pravitatis
-
-quam injuria Co ali[ ]us antis finitæ parro
-
-atque Certum est quod injuria [-] entis finitæ,
-
-potest esse alivel alicefus Grodus finitæ, pravito
-
-tio tis . in quatatum Quod defict malitiæ pravii
-
-tati injuriæ aliis Respectibus, suppleri Popest die
-
-mitate Personæ offensæ. Unde Certo [-] sequitur injuria
-
-Dei esse [--] majoris quam Cujus vis finitæ pravi
-
-tate nec minus Ce et Certum est eam pravita
-
-tam quæ quod ea pravitas quæ major est ali
-
-quavis possibili pravi finitæ pravitatis finitæ, est
-
-infinita et igitus injuriæ dei injuriam dei
-
-esse infinitæ pravitatis. et inde quod maxima
-
-Resipiscentia nullam propter ei tene proportion
-
-em tenet. ergo et ut jam demonstratum est
-
-inde inconsistens esse div P divinis perfectionibus
-
-esse Repugnans, propter Eam peccatorem Justificatis
-
-Quod Erat demonstrandum.
-
-et idem dici Queat de Omnibus bonis operibus
-
-scilicet infinita infinite inadequate inadequat
-
-as esse peccatis . et Proinde attributis dei divinis [^017-note6]
-
-[-] Repugnans . ut peccator, aliqua modo aut Respec-
-
-tu, in operati ad minimum Justificari propter since
-
-ram Resipiscentiam aut Obediantiam bona Opera
-
-ergo solum Justitia per Justitiam Xti fide apprehen
-
-sam.
-
-deinde si supponimus ponitur . sinceram Obedien-
-
-tiam esse esse Conditionem . Justificationis, necessar-
-
-io supponitur multo majorem dignitas, in im imperfec
-
-to o in imperfecta Obedientiæ, sub Evangelio, quam
-
-fuerit in perfecta Obedientia Adami. Nam primum
-
-fœdus, neamplius bonitatis in perfecta Obedientia
-
-penit supposuit quam sufficiens Reddare eam Con
-
-gruam Conditionem vitæ eam Reddere ; sed hoc suppo-
-
-nit imper tantam bonitatem, et dignitatem in
-
-imperfecta Obedientia. ut ea non solum Reddetur
-
-Congrua Conditio vitæ promisse primo fœdere pro
-
-missæ, sed etiam Remissionis Omnium peccatorum,
-
-et liberatio ab Eterna miseria, ab iis merita, et
-
-Collationis ad multo majoria Gloriæ, quam unqua
-
-ecquando, a s fœdere Primo promissa est. [----]
-
-harum Unum ergo certissime [ ] im erg Unum Ergo
-
-harum duorum necessarium est ut teneamus, Aut
-
-infinite in vest majore majus bonitatis et digni-
-
-tatis esse in imperfecta obedientia sub Evangelio
-
-quam fuerit in perfecta Obedientia ad sub fœdere
-
-primo aut Justificamus solum Justitia Xtia fide
-
-Apprehensam
-
-Aiunt autem neonomiani Christum mortuum esse
-
-ad tam fœdus pocurand nobis Procurandum ut
-
-sinceritas sit Conditio Justificationis vice Obedientiæ
-
-perfectæ . et [-] Quod nova dignitas Confertur
-
-[--] a morte Christi, in Obedientiam sinceram Confertur
-
-ita ut id quod non fuit Congrua Conditio Justifica-
-
-tionis Ante, Congrua Conditio Redditur Con no
-
-Congruam Redditur. pro collatione nova dignitatis
-
-per Christi merita. Quod Christus pr[ ] dignita-
-
-tatem Obedientiæ sincere sed Plane Contradictio
-
-est dicere [--------] Quod Quamvis mer Xti me-
-
-sinceræ
-
-rita nullo modo not ipsam naturam obedientiæ
-
-mutave[-] nec in in se meliorem fecere tamen Xti
-
-meritæ Xti Reddent E`adem Obedientiam Congruam digna
-
-Justificationis Ea Condi indigna aut Congruam
-
-quæ antea non ei Congruæ fuit quam nullo modo
-
-melior, qua in se quam antea fuit plan`e enim
-
-Constat, aut esse quo[---] dignitatisam vel bonita
-
-tis [----] [--] sincera Obedientia in se absque Xti
-
-quo Red Congrua Justificationi Redditur aut
-
-toto dignitatis est in Xto [-] et nulla, in sincera
-
-obedientia, secundum quid sincera Obedientia
-
-[-------------] volet ad Justificationem volet habet. Cum Xto
-
-Quam sine Xto. Name Aut sincera Obedientiæ
-
-aliquod in se habet Quo Condigna si dei [ ]
-
-aut nihil. in se habet dignitatis so aliquod in se ha-
-
-bet dignitatis tum ea dignitas non est a Xti meritas
-
-si nihil in se habet, tum totum dignitatis est in
-
-Xti meritis et nihil in sincer Obedientia sincera
-
-quod est quod volumus propter Quod Contendimus
-
-cui hoc tempore Contendimus
-
-[^017-note7]
-
-Peccator Non Justificatur Coram deo
-
-Nisi Per Justitiam Christi fide Apprehen-
-
-sam
-
-Opus maxime quidem orduum minime
-
-quamvis Difficile nobis hedie Contigit re-
-
-formatæm scilicet Religionism Protestostan-
-
-tibus, et Christianæ Christianis veritatem
-
-vindicare. Nec tenuem esse Gloriam ha-
-
-bemus, id quod Profecto est, et semper
-
-Christianis Primis, et universis recentioribus
-
-Reformatam Ejus Puritatem profitentibus
-
-Evangelii summam Gloriam, scripturarumq;
-
-delicias, Concorditer Existimatum Est, hunc
-
-scilicet doctrinam. Justificationis per Jus-
-
-titiam Christi fide Apprehensam. Et ni
-
-forte Nihil, sub theologicæ theorematis Præ-
-
-textu, sit subjectum Præsentis disputationis
-
-distincte limites idearum his verbis nobis ad
-
-exhibitarum designemus.
-
-Ac primo Justificationem intendimus. divinæ
-
-Actum favoris. Erga Peccatorem, peccata
-
-Remittentem et illum quà Justum Appro-
-
-bantem. Non solum volumus peccatorum re-
-
-missionem, hæc enim sola, non aliter Justum
-
-Conspectu dei hominem Reddit, ac ipsas ar-
-
-bores aut Rupes; Nam lapides sunt eque
-
-[------] reatu peccati, et iracundiâ dei im-
-
-munes, ac, quilibet homo ita Justificatus.
-
-sed Proculdubio est quidam actus positivi
-
-favoris, & hominis ut non solum ut peccato
-
-immunis, sed ut Revera Justi Approbatio
-
-Per Justitiam Christi et activam et passivam
-
-et Obedientiæ et satisfactionis intelligitur.
-
-Nam Omnimodo Eadem est ratio quare Jus-
-
-titia Positiva, a nobis [-] deo nunc Exigatur
-
-ut ad vitam Eternam Recipiamur, quæ fuit
-
-ut requiratur ab adamo, et quare ille non
-
-immutabili fælicitate, primo Creationis mo-
-
-mento sine aliqua Omnino probatione, im- [^017-note8]
-
-mediatè figeretur.
-
-Per fidem hac thesi volumus totius Animæ
-
-Receptionem Christi suorumq; beneficiorum:
-
-non solum Receptionem intellectus in assensu,
-
-Nec solum Receptionem voluntatis eum eli-
-
-gendo, nec tantum affectuum Receptionem
-
-in Amore, nec solum facultatum Executiva-
-
-rum in Obedientia, sed totius Animæ ho-
-
-rum omnium implicantis, illam animæ to
-
-ius erga Christum motionem. quæ scrip
-
-tura varie veniendo, Credendo, Confidendo.
-
-Recipiendo, Obsequendo &c-- Exprimitur.
-
-Proinde quando asseritur hac fide solum pec-
-
-catorem Justificari, hoc VOLUMUS Nempe
-
-quod Deus Peccatorem, in Gratiam et ami-
-
-citiam suam Recipit, propter hoc dumtaxat,
-
-Quod ita Christum, anima sua tota Recipit.
-
-Quod Justitia et vita Eterna prorsus Gratui-
-
-to Offeruntur, et solum Receptionem præben-
-
-tur. Nec quidem quærimus annon Justifica-
-
-mur Evangelica Obedientia. sed An Justifi-
-
-camur hac Obedientia Evangelicâ, propter
-
-ejus intrinsicam bonitatem, vel solum quippe
-
-Per Obedientiam Evangelicam Christus Recep-
-
-tus est. Omnis Enim Pars Evangelicæ obedien
-
-tiæ, est implicita Christi Receptio et actus fi
-
-dei Justificantis. Nos igitur Asserimus pec-
-
-catorem neque in totum neque partim, propter
-
-talis Obedientiæ aut aliquorum Operum
-
-bonitatem. sed solum propter id quod fecit
-
-et Passus est Christus fide Receptum Coram
-
-deo Justificari. Christum esse salvatorem Com
-
-pletum, et non partim tantum nostræ salutis
-
-Eternæ esse Authorem Contendimus; pec
-
--catorem his Respectibus. sibimet ipse Redemp-
-
-torum, et Mediatorem esse Negamus
-
-dicitur ab hanc doctrinam Opponentibus, [^017-note9]
-
-propter Ricipiscentiam & Reformationem pecca-
-
-torem Justificari, id est Quod deus suis Pecca-
-
-tis iratus et Offensus, Adspiciens illius Re-
-
-cipiscentiam sinceram, eâ satisfactus et Pla-
-
-catus est. Asserimus autem, & stricte demon-
-
-strabile, non solum scripturis, vi Autem quo-
-
-que nudæ Rationis tenemus. inconsistens esse
-
-dei Attributis ut ille peccato offensus vel[^017-note10]
-
-totaliter vel Partim satisfiet Recipiscentiâ
-
-quantumlibet sincera. Et primum hoc poni
-
--mus, quodq; Proculdubio Omnibus erit Con-
-
-cessum, quod non attributis divinis Consistit,
-
-nec Obstante immensitate, miserecordiæ
-
-dei, Ut Peccator Justificetur, et in Dei Gra-
-
-tiam Recipiatur sine aliqua Recipiscentia:
-
-Primo Enim Aspectu Pater. quod [^017-note11] sancti-
-
-tas et infinita Puritas, in Eternum neces-
-
-sario Obstabit ut Peccator Odiosus, Obstina-
-
-tus, et absque minima Recipiscentia Perti-
-
-nax in amicitiam dei sit Receptus hoc ne
-
-mo negabit, deinde secundò hoc ponimus,
-
-quod et hinc necessario, et eadem Comple-
-
-ta Ratione Consequetur: Neque Perfectioni
-
-bus divini stare, propter eam Recipiscenti-
-
-am Justificare quæ est tam Exigua. Ut nul-
-
-lam Prorsus Proportionem delicto teneat
-
-sed ut Culpæ Reverà sit infinite inadqua-
-
-ta. Et Proinde sit Penitus instar nullius
-
-P Omnino Recipiscentiæ. si Peccato Compa-
-
-retur, Nam Omnifariam Idem est Peccato-
-
-rem Justificare sine ulla Recipiscentia. ac
-
-peccatorem Justificare Propter Resipiscentiam
-
-quæ nullam Omnino prorsus proportionem
-
-Crimini tenet, et ita profectò nulla Resipis-
-
-centia est. Comparatione delicto; hujus
-
-igitur non dubitare Possumus. ne divinis
-
-nempe attributis Repugnare pro toli Resipiscentia
-
-peccatorem Justificare. [^017-note12]
-
-hoc Autem Assumimus, quod maxima et
-
-sincerissima Resipiscentia cujus Capax est
-
-natura humana, profecto nullam propor-
-
-tionem tenet minimæ injuriæ deo factæ
-
-Ad maximam Cujus Certitudinem exhi-
-
-bendam. Non Opus est ut disputemus
-
-annon injuria dei sua natura est[-] infinita
-
-si hoc mittemus tamen si injuria deo ha-
-
-bet infinitam pravitatem. Resputu Objec-
-
-ti, aut alio quocumque Respectu, veritas
-
-hujus Positionis Certissima in Eternum sta
-
-bit. si Peccatum tantum Unam quodam-
-
-modo aggravationem infinitam habet
-
-tantidem Refert, eque ac si Omnibus alies
-
-modis malum infinitum esset. sed inju-
-
-ria dei Unam aggravationem infinitam
-
-habet, Nam Certum est injuria dei Cæ
-
-teris Paribus esse majoris Pravitatis, quam
-
-injuria cujuscumque entis finitæ. porro
-
-atque Certum est quod injuria entis fi-
-
-nitæ potest esse quantivis Gradûs finitæ
-
-pravitatis, in quantum quod deficit pra-
-
--vitate injuriæ alies Respectibus, suppleri
-
-Queat. dignitate Personæ Offensæ. Un-
-
--de Certo sequitur injuriam dei esse ma-
-
-jore[-] quam quavis finita pravitate, et Cer-
-
-tum est quod Ea pravitas quæ major est
-
-qualibet possibile finitâ est infinita;
-
-acque inde injuriam dei esse uno Re-
-
-spectu infinitæ pravitatis, et ita quod
-
-maxima Resipiscentia finita nullam om-
-
-nino ei proportianem tenet; et ut Jam
-
-demonstratum est pugnare divinis attribu- [^017-note13]
-
-tis propter Eam peccatorem Justificare
-
-quod Erat demonstrandum
-
-Et idem dici potest de Omnibus bonis
-
-Operibus, scilicet infinite inadequata
-
-esse peccato et proinde attributis divinis esse
-
-Repugnans ut peccator quodammodo ad
-
-minimum Justificari propter sinceram Resi-
-
-piscentiam aut Obedientiam ergo solum
-
-per Justitiam Christi fide Apprehensam.
-
-deinde si ponitur sinceram Obedientiam
-
-esse Conditionem Justificationis, necessario
-
-supponitur immense major dignitas in
-
-imperfecta Obedientia sub evangelio, qua
-
-fuerit in perfecta Obedientia Adami.
-
-nam primum fœdus ne amplius bonitatis
-
-in Perfecta Obedientia supposuit, quam
-
-[-----]Satis Congruam esse Conditionem vi-
-
-tæ Reddere: sed hoc supponit tantam bo-
-
-nitatem et dignitatem in imperfecta Obe-
-
-dientia ut ea non solum Congrua, Con-
-
-ditio P vitæ primo fœdere Promissæ, sed
-
-etiam Remissionis Omnium Pecatorum
-
-et liberationis ab Eterna miseria iis me-
-
-rita, et Collationis Gloriæ multo præstan-
-
-tioris, quam ecquando a primo fœdere
-
-promissa est. Unum Ergo horum duorum
-
-necessarium est ut teneamus. aut infinite
-
-majus bonitatis et dignitatis esse in im
-
-perfecta Obedientia sub Evangelio, quam
-
-fuerit in Obedientia perfecta sub fœdere
-
-primo. aut peccatorum Justificari solum
-
-Ju Per Justitiam Christi fide Apprehensam
-
-Aiunt autem Neonomiani Christum mor [^017-note14]
-
-tuum esse ad hujusmodi fœdus nobis
-
-Procurandum. Ut sinceritas sit Condi-
-
-tio Justificationis vice Obedientiæ per-
-
-fectæ. et quod nova dignitas a morte Chris-
-
-ti in Obedientiam sinceram Confertur ita ut
-
-ut id quod antea non fuit Congrua Conditio
-
-Justificationis. nunc Congrua Redditur Col-
-
-latione nova dignitatis per Christi merita
-
-sed Plane Contradictio est dicere quod quam
-
-vis merita Christi nullo modo mutant ip-
-
-sam naturam Obedientiæ sinceræ mutave-
-
-runt, nec in si metiorem fecere, tamen ean-
-
-dam Obedientiam Justificationi Reddere
-
-quæ antea ei non Congrua fuit. indubi-
-
-tanter Enim Constat aut esse quoddam
-
-Dignitatis vel bonitatis sincera obedientiâ
-
-in se & a Christo abstracte Considerata
-
-qua Congrua Justificationi Redditur.
-
-aut nihil in se talis dignitatis habet; si
-
-aliquod in se habet dignitatis tum Ea dig-
-
-nitas non Est a meritis Christi, si Nihil in
-
-se habet tum totu dignitatis est in Xti me-
-
-ritis et nihil in Obedientia sincera; quod
-
-est idem cui hoc tempore Contendimus
-
-Porro Atque sibi[-] aliter asserentes pecca-
-
-torem Obedientia imperfecta Justificari
-
-hoc modo Contradicunt, nam si Justi
-
-ficamur Obedientia imperfecta, necessa-
-
-rio sit ut Justificatio etiam sit imper-
-
-fecta. Justificatio Enim sine dubio est
-
-Justitiæ qua Justificamur Proportionata
-
-Constat hoc ipsa natura Justificationis [^017-note15]
-
-quæ est Receptio hominis qua Justi; et Certe
-
-si a deo qua Justi Recepti sumus propter
-
-imperfectam Justitiam. Recipimur qua im-
-
-perfecte Justis sed Receptio qua imperfecte
-
-Justi est imperfecta Justificatio, imo nulla
-
-omninò Justificatio, sed profectò Condem-
-
-natio. nam Recipi qua imperfecte Justus
-
-est Recipi qua indigensem legi dei Comfor-
-
-mitate, sed Recipi quâ indigensem Confor-
-
-mitate Legi dei est Recipi qua Peccatorem
-
-quod idem est ac Retineri qua obnoxius[^017-note16]
-
-Legis damnationi quod est Condemnatio
-
-Quamobrem. Justificatio Neonomianorum
-
-in Condemnationem vertitur
-
-Ac Preterea nobis hanc doctrinam [-]exhibet
-
-[----] Universus sacrarum scripturarum tenr:
-
-potissimumq; novi testamenti, quo Eandem
-
-habemus declaratam, Omnibus Clarissimis
-
-et maxime Positivis [--]Dictionisbus qua pos
-
-sibile est excogitari id quod Asserimus
-
-exprimendum
-
-qua propter nunc impavide asseramus, quod
-
-quam Certa est veritas Reformatæ Religio-
-
-nis, quam Certum primum fundamentum
-
-evangelii, quam Certum ut attributa dei
-
-sibi mutuo Consistunt, quam Certum [--]
-
-quod falsum non [-----] [--] strictæ et demon
-
-strationis Absolutæ quam Certum quod utra-
-
-que pars Contradictionis non potest esse vera
-
-tam Certum est act Quod &c ----------------
-
-[^017-note17]
-
-Si Gubernatores Potestatem [^017-note18]
-
-si Gubernatores Ecclesiæ potestatem ha-
-
-bent Leges [--] ferendi tum &c --
-
-min, prob. si preceptum est in scriptura
-
-ut Ecclesiæ Gubernatoribus Obediamus
-
-C.v. si impossible est Obedire iis qui non
-
-possunt dari Leges Obediendas
-
-si Deus multa in sua adoratione Reliquit ad
-
-humanam determinationem.
-
-Min, p si deus nihil Reliquit ad humanam
-
-determinationem tum Requisitum est ut sit
-
-ut non Requisitum est ut sit Universa
-
-Uniformitas Per totum mundu in sua adora
-
-tione
-
-iis non Requisitum est
-
-c.v. si difformitas in adoratione dei Oriri po
-
-test solum ab humana determinatione Oriri
-
-Potest
-
-si Gubernatores Ecclesiæ potestatem habent [^017-note19]
-
-Leges Conscientiam obligatores ferendi
-
-2 Min, v. si primum Consilium Gubernatorum
-
-ecclesiæ Legem tulerunt, tum Gubernatores
-
-Ecclesiæ potestatem habent &c --
-
-3 M Leges tulerum scil Legem. abstinentiæ a san
-
-guine & suffocatis
-
-probare quod hoc non solum fuit exhortatio. sed Lex
-
-si hæc determinationem illius Consili fueritent
-
-Conscientiæ Obligatoria tum fuit[-] Lex.
-
-si Conscientiæ non fuit Obligatoria tum Obedientiæ
-
-non fuit necessari at
-
-At huic determinatione
-
-si de Res determinatæ vacantur necessariæ, decimo
-
-Quinto Capita Actorum, vigessimo [-] Octavo verso
-
-C 2 sill valet, si non suenut sub directio in spir
-
-hæc instatuerunt sub inspiratione spiritus
-
-sancti
-
-M. v. si hæc instatuerunt per inspiratione
-
-spiritus sancti. tum Omnino necesse fuit ut Consi
-
-lio Convenerint
-
-M. v. si spiritus inspiratio Eque valida fuisset
-
-sine Concilio
-
-C 1 sill valet
-
-Cu. Qui habent si ii qui potestem habent Leges eccle
-
-siasticas ferendi, elia necessario potestatem habent, ferendi
-
-Leges de adoratione dei
-
-M. v. si Leges ecclesiastiæ, et Logos de adoratione
-
-dei, sunt E
-
-[^017-note20]
-
-A SINNER IS NOT JUSTIFIED IN THE SIGHT OF GOD EXCEPT
-
-THROUGH THE RIGHTEOUSNESS OF CHRIST OBTAINED BY FAITH
-
-THE task which concerns us today is of the very highest importance, although of the least difficulty, that is, to defend the truth of the Reformed religion to Protestants and of the Christian religion to Christians. Nor do we consider it to be a slight glory to guard that which is assuredly central, both always for the first Christians and for those more recent who everywhere profess the purity of Reformed Christianity, all of whom agree that the highest glory of the gospel and the delight of the Scriptures is this very doctrine of justification through the righteousness of Christ obtained by faith. And lest anything under the pretext of theological inquiry inadvertently be the subject of the present dissertation, let us clearly outline the boundaries of the ideas revealed to us by these words.
-
-And first, by justification we mean an act of divine favor towards the sinner which forgives sins and approves him as righteous. For we desire not merely the forgiveness of sins, since that by itself renders a man righteous in the sight of God no differently than it does the very trees and rocks. Indeed, stones are equally subject to the accusation of sin and may be free from the wrath of God just as anyone who has been justified on these terms. But there can be no doubt that justification is a certain act of *positive* favor that not only frees a person from sin but is also understood in fact as the approval of him as righteous through the righteousness of Christ, both active and passive in both obedience and satisfaction. For in all respects the reason why positive righteousness is now required from us by God so that we may be received into eternal life is the same reason such righteousness was required of Adam and why he was not immediately secured into immutable happiness at the first moment of creation without any testing at all.
-
-In this thesis we wish to argue that receiving Christ and his benefits takes place by the faith of the entire soul; it is not merely the intellect'#x0092;s reception by assent, not merely the will'#x0092;s reception by choosing him, not only the affections'#x0092; reception in love, nor merely the capacities we have for action receiving him in obedience. Rather, it is a reception of the entire soul, which includes all of these. It is that motion of the entire soul towards Christ that is described in various ways in Scripture as coming, believing, trusting, receiving, submitting, etc.
-
-Accordingly, when it is asserted that a sinner is justified by this faith alone, we mean, of course, that God receives the sinner into his grace and friendship for this reason alone, that his entire soul receives Christ in such a way that righteousness and eternal life are offered in an absolutely gratuitous fashion and are provided only because of his reception of Christ. We are not even asking whether or not we are justified by this evangelical obedience, but whether we are justified by this evangelical obedience because of its intrinsic goodness, or merely because it is only by evangelical obedience that Christ is received. For every part of evangelical obedience is an implicit reception of Christ and an act of justifying faith. We assert, therefore, that a sinner is justified in the sight of God neither totally nor in part because of the goodness of such obedience, or of any works at all, but only on account of what Christ did and suffered, received by faith. We maintain that Christ is the complete Savior and not merely the partial author of our eternal salvation. Because of these considerations we deny that a sinner is his own redeemer and mediator.
-
-Those who oppose this doctrine say that the sinner is justified by repentance and reformation, that is, that God, angered and offended by his sins, is satisfied and appeased by beholding the sinner'#x0092;s sincere repentance. But we assert and hold it to be strictly demonstrable, not only by the Scriptures, but also by the force of bare reason, that it is inconsistent with God'#x0092;s attributes that he, offended by sin, should be either totally or partially satisfied by repentance, however sincere. And first, we assume what everyone will doubtless admit that it is not consistent with the divine attributes, notwithstanding the immensity of God'#x0092;s mercy, that a sinner should be justified and received into God'#x0092;s grace without any repentance, for this is plain at first glance. No one will deny that God'#x0092;s holiness and infinite purity for eternity necessarily prevents a sinner who is hateful, stubborn, and recalcitrant, and without the slightest repentance, from being received into God'#x0092;s friendship. Next, our second assumption, which follows necessarily from this and will command agreement by the same complete argument, is that it is not consistent with the perfections of the divine to justify on account of this repentance, which is so slight that it bears absolutely no proportion to the offense but is in reality infinitely inadequate to the fault, and hence is a repentence utterly worthless if it is compared to the sin. For it is in every respect the same to justify a sinner without any repentance as it is to justify a sinner because of a repentance that bears absolutely no proportion to the crime, and so it is actually no repentance in comparison with his offense. Therefore, we cannot doubt that it is surely repugnant to the divine attributes to justify a sinner in return for such repentance.
-
-Moreover, we make the assumption that the greatest and most sincere repentance of which human nature is capable undoubtedly bears no proportion to the slightest injury done to God. Demonstrating the greatest certainty of this does not require us to dispute whether the injury done to God is in its own nature infinite. Even if we set this aside, if the injury done to God has an infinite wickedness with respect to its object or in whatever other respect, the truth of this position will nevertheless remain eternally certain. If a sin has only in some way a single infinite aggravation, it has as much weight as if in all other ways it were an infinite evil. But an injury done to God has a single infinite aggravation, for, all other things being equal, it is certain that an injury done to God is of greater wickedness than an injury done to any finite being whatsoever. Moreover, it is also certain that an injury to a finite being can be of whatever degree of finite wickedness you wish, insofar as what is lacking because of the wickedness of the harm can in other respects still be recompensed unto the dignity of the person offended. It certainly follows from this consideration that an injury done to God is greater than one of any finite wickedness, and therefore that an injury to God is in one respect of infinite wickedness; and accordingly, that the greatest finite repentance bears no proportion at all to it. And it has now been demonstrated that it is contradictory to the divine attributes to justify a sinner because of even the greatest finite repentance. This is what was to be demonstrated.
-
-And the same thing can be said of all good works, namely that they are infinitely inadequate for sin and, accordingly, that it is contradictory of the divine attributes that a sinner should somehow in the least degree be justified because of sincere repentance or obedience. Therefore, justification is only through the righteousness of Christ obtained by faith. Now, if it is posited that sincere obedience is the condition of justification, it is necessarily presupposed that there is an immensely greater worthiness in imperfect obedience under the gospel than there was in the perfect obedience of Adam. For the first covenant presupposed no more goodness in perfect obedience than was sufficient to fulfill the covenant as a condition congruent with life. But this [new] position presupposes so great a goodness and worthiness in imperfect obedience that it is a condition congruent not only with the life promised in the first covenant, but also with the remission of all sins and deliverance from the eternal woe merited by them, and with the bestowal of a glory much more excellent by far than was ever promised by the first covenant. Therefore, it is necessary that we hold one of these two positions: either there is infinitely more goodness and worthiness in imperfect obedience under the Gospel than there was in the perfect obedience under the first covenant, or that the sinner is justified only through the righteousness of Christ obtained by faith.
-
-However, the neonomians say that Christ died in order to procure for us this kind of covenant such that sincerity should be the condition of justification instead of perfect obedience, and a new dignity is conferred upon sincere obedience by the death of Christ in such a way that what previously had not been a congruous condition of justification is now rendered congruous by a new bestowal of dignity through the merits of Christ. But it is plainly a contradiction to say that although the merits of Christ have in no way changed the very nature of sincere obedience nor made it better in itself, nevertheless they have rendered the same obedience congruent to justification which before was not congruent to it. For undoubtedly it is established that either there is something of worthiness or goodness in sincere obedience considered in itself and apart from Christ which renders it congruent to justification, or that it has nothing in itself of such worthiness. If it has something of worthiness in itself, then that worthiness is not from the merits of Christ; if it has nothing in itself, then the whole of its worthiness is in the merits of Christ and none in sincere obedience, which is the same contention we are now making.
-
-Furthermore, those who assert otherwise that a sinner is justified by imperfect obedience, they contradict themselves in this way: for if we are in fact justified by imperfect obedience, it would necessarily still be an imperfect justification. For justification is without doubt proportionate to the righteousness by which we are justified. The very nature of justification, which is the acceptance of a person as righteous, is consistent with this. And certainly, if we are accepted by God as righteous because of an imperfect righteousness, we are accepted as imperfectly righteous, yet acceptance as imperfectly righteous is an imperfect justification, and is indeed altogether no justification at all, but is assuredly condemnation. For to be accepted as imperfectly righteous is to be accepted as lacking conformity to God'#x0092;s law. What is more, to be accepted as lacking conformity to God'#x0092;s law is to be accepted as a sinner, and this is the same thing as to be held liable to the adverse judgment of the law, which is condemnation. For this reason, the justification of the neonomians is turned into condemnation.
-
-And, moreover, the entire tenor of the sacred Scriptures, especially of the New Testament in which we have the doctrine made explicit, displays this doctrine to us by all the clearest and most positive expressions that can be devised, stating expressly what we assert.
-
-Therefore, we now fearlessly assert that as the truth of the Reformed religion is certain, as the first foundation of the gospel is certain, as the mutual consistency of God'#x0092;s attributes is certain, as the incapacity of what is false to be strictly and absolutely demonstrated is certain, and as it is certain that both parts of a contradiction cannot be true, so it is certain that {a sinner is not justified in the sight of God except through the righteousness of Christ obtained by faith}.
-
-[Translation of syllogististic notes (by Prof. Rowan Greer, Yale Divinity School]
-
-If God has left many things in his worship to human determination.
-
-*min. prob.* If God has left nothing to human determination, then it is required that there be universal uniformity through the whole world in his worship.
-
-But it is not a requisite.
-
-*c.v.* If variety in the worship of God can arise solely from human determination.
-
-If the governors of the church have power to make ecclesiastical laws which are binding on the conscience,
-
-*2 min. v.* If the first council of the church'#x0092;s rulers made a law, then the rulers of the church have power, etc.
-
-*3 m.* They did make a law, that is, the law of abstaining from blood and things strangled.
-
-To prove that this was not merely an exhortation but a law.
-
-If this determination of that council was binding on the conscience, then it was a law.
-
-If it was not binding on the conscience, then obedience was not necessary. But as to this determination . . .
-
-If the things determined are called necessary in the fifteenth chapter of Acts, the twenty-eighth verse.
-
-*c 2* *sill valet*. If they did not establish these things by the inspiration of the Holy Spirit,
-
-*m.v.* If they did not establish these things through the inspiration of the Holy Spirit, then it was altogether in vain that they came together in council.
-
-*m.v.* If the inspiration of the Spirit would have been equally effective without a council.
-
-*c 1 sill valet.*
-
-*c.v.* If those who have the power to make ecclesiastical laws necessarily have the power to make laws concerning the worship of God,
-
-*m.v.* If all ecclesiastical laws are [laws] concerning the worship of God.
+A SINNER IS NOT JUSTIFIED IN THE SIGHT OF GOD EXCEPT THROUGH THE RIGHTEOUSNESS OF CHRIST OBTAINED BY FAITH THE task which concerns us today is of the very highest importance, although of the least difficulty, that is, to defend the truth of the Reformed religion to Protestants and of the Christian religion to Christians. Nor do we consider it to be a slight glory to guard that which is assuredly central, both always for the first Christians and for those more recent who everywhere profess the purity of Reformed Christianity, all of whom agree that the highest glory of the gospel and the delight of the Scriptures is this very doctrine of justification through the righteousness of Christ obtained by faith. And lest anything under the pretext of theological inquiry inadvertently be the subject of the present dissertation, let us clearly outline the boundaries of the ideas revealed to us by these words. And first, by justification we mean an act of divine favor towards the sinner which forgives sins and approves him as righteous. For we desire not merely the forgiveness of sins, since that by itself renders a man righteous in the sight of God no differently than it does the very trees and rocks. Indeed, stones are equally subject to the accusation of sin and may be free from the wrath of God just as anyone who has been justified on these terms. But there can be no doubt that justification is a certain act of *positive* favor that not only frees a person from sin but is also understood in fact as the approval of him as righteous through the righteousness of Christ, both active and passive in both obedience and satisfaction. For in all respects the reason why positive righteousness is now required from us by God so that we may be received into eternal life is the same reason such righteousness was required of Adam and why he was not immediately secured into immutable happiness at the first moment of creation without any testing at all. In this thesis we wish to argue that receiving Christ and his benefits takes place by the faith of the entire soul; it is not merely the intellect'#x0092;s reception by assent, not merely the will'#x0092;s reception by choosing him, not only the affections'#x0092; reception in love, nor merely the capacities we have for action receiving him in obedience. Rather, it is a reception of the entire soul, which includes all of these. It is that motion of the entire soul towards Christ that is described in various ways in Scripture as coming, believing, trusting, receiving, submitting, etc. Accordingly, when it is asserted that a sinner is justified by this faith alone, we mean, of course, that God receives the sinner into his grace and friendship for this reason alone, that his entire soul receives Christ in such a way that righteousness and eternal life are offered in an absolutely gratuitous fashion and are provided only because of his reception of Christ. We are not even asking whether or not we are justified by this evangelical obedience, but whether we are justified by this evangelical obedience because of its intrinsic goodness, or merely because it is only by evangelical obedience that Christ is received. For every part of evangelical obedience is an implicit reception of Christ and an act of justifying faith. We assert, therefore, that a sinner is justified in the sight of God neither totally nor in part because of the goodness of such obedience, or of any works at all, but only on account of what Christ did and suffered, received by faith. We maintain that Christ is the complete Savior and not merely the partial author of our eternal salvation. Because of these considerations we deny that a sinner is his own redeemer and mediator. Those who oppose this doctrine say that the sinner is justified by repentance and reformation, that is, that God, angered and offended by his sins, is satisfied and appeased by beholding the sinner'#x0092;s sincere repentance. But we assert and hold it to be strictly demonstrable, not only by the Scriptures, but also by the force of bare reason, that it is inconsistent with God'#x0092;s attributes that he, offended by sin, should be either totally or partially satisfied by repentance, however sincere. And first, we assume what everyone will doubtless admit that it is not consistent with the divine attributes, notwithstanding the immensity of God'#x0092;s mercy, that a sinner should be justified and received into God'#x0092;s grace without any repentance, for this is plain at first glance. No one will deny that God'#x0092;s holiness and infinite purity for eternity necessarily prevents a sinner who is hateful, stubborn, and recalcitrant, and without the slightest repentance, from being received into God'#x0092;s friendship. Next, our second assumption, which follows necessarily from this and will command agreement by the same complete argument, is that it is not consistent with the perfections of the divine to justify on account of this repentance, which is so slight that it bears absolutely no proportion to the offense but is in reality infinitely inadequate to the fault, and hence is a repentence utterly worthless if it is compared to the sin. For it is in every respect the same to justify a sinner without any repentance as it is to justify a sinner because of a repentance that bears absolutely no proportion to the crime, and so it is actually no repentance in comparison with his offense. Therefore, we cannot doubt that it is surely repugnant to the divine attributes to justify a sinner in return for such repentance. Moreover, we make the assumption that the greatest and most sincere repentance of which human nature is capable undoubtedly bears no proportion to the slightest injury done to God. Demonstrating the greatest certainty of this does not require us to dispute whether the injury done to God is in its own nature infinite. Even if we set this aside, if the injury done to God has an infinite wickedness with respect to its object or in whatever other respect, the truth of this position will nevertheless remain eternally certain. If a sin has only in some way a single infinite aggravation, it has as much weight as if in all other ways it were an infinite evil. But an injury done to God has a single infinite aggravation, for, all other things being equal, it is certain that an injury done to God is of greater wickedness than an injury done to any finite being whatsoever. Moreover, it is also certain that an injury to a finite being can be of whatever degree of finite wickedness you wish, insofar as what is lacking because of the wickedness of the harm can in other respects still be recompensed unto the dignity of the person offended. It certainly follows from this consideration that an injury done to God is greater than one of any finite wickedness, and therefore that an injury to God is in one respect of infinite wickedness; and accordingly, that the greatest finite repentance bears no proportion at all to it. And it has now been demonstrated that it is contradictory to the divine attributes to justify a sinner because of even the greatest finite repentance. This is what was to be demonstrated. And the same thing can be said of all good works, namely that they are infinitely inadequate for sin and, accordingly, that it is contradictory of the divine attributes that a sinner should somehow in the least degree be justified because of sincere repentance or obedience. Therefore, justification is only through the righteousness of Christ obtained by faith. Now, if it is posited that sincere obedience is the condition of justification, it is necessarily presupposed that there is an immensely greater worthiness in imperfect obedience under the gospel than there was in the perfect obedience of Adam. For the first covenant presupposed no more goodness in perfect obedience than was sufficient to fulfill the covenant as a condition congruent with life. But this [new] position presupposes so great a goodness and worthiness in imperfect obedience that it is a condition congruent not only with the life promised in the first covenant, but also with the remission of all sins and deliverance from the eternal woe merited by them, and with the bestowal of a glory much more excellent by far than was ever promised by the first covenant. Therefore, it is necessary that we hold one of these two positions: either there is infinitely more goodness and worthiness in imperfect obedience under the Gospel than there was in the perfect obedience under the first covenant, or that the sinner is justified only through the righteousness of Christ obtained by faith. However, the neonomians say that Christ died in order to procure for us this kind of covenant such that sincerity should be the condition of justification instead of perfect obedience, and a new dignity is conferred upon sincere obedience by the death of Christ in such a way that what previously had not been a congruous condition of justification is now rendered congruous by a new bestowal of dignity through the merits of Christ. But it is plainly a contradiction to say that although the merits of Christ have in no way changed the very nature of sincere obedience nor made it better in itself, nevertheless they have rendered the same obedience congruent to justification which before was not congruent to it. For undoubtedly it is established that either there is something of worthiness or goodness in sincere obedience considered in itself and apart from Christ which renders it congruent to justification, or that it has nothing in itself of such worthiness. If it has something of worthiness in itself, then that worthiness is not from the merits of Christ; if it has nothing in itself, then the whole of its worthiness is in the merits of Christ and none in sincere obedience, which is the same contention we are now making. Furthermore, those who assert otherwise that a sinner is justified by imperfect obedience, they contradict themselves in this way: for if we are in fact justified by imperfect obedience, it would necessarily still be an imperfect justification. For justification is without doubt proportionate to the righteousness by which we are justified. The very nature of justification, which is the acceptance of a person as righteous, is consistent with this. And certainly, if we are accepted by God as righteous because of an imperfect righteousness, we are accepted as imperfectly righteous, yet acceptance as imperfectly righteous is an imperfect justification, and is indeed altogether no justification at all, but is assuredly condemnation. For to be accepted as imperfectly righteous is to be accepted as lacking conformity to God'#x0092;s law. What is more, to be accepted as lacking conformity to God'#x0092;s law is to be accepted as a sinner, and this is the same thing as to be held liable to the adverse judgment of the law, which is condemnation. For this reason, the justification of the neonomians is turned into condemnation. And, moreover, the entire tenor of the sacred Scriptures, especially of the New Testament in which we have the doctrine made explicit, displays this doctrine to us by all the clearest and most positive expressions that can be devised, stating expressly what we assert. Therefore, we now fearlessly assert that as the truth of the Reformed religion is certain, as the first foundation of the gospel is certain, as the mutual consistency of God'#x0092;s attributes is certain, as the incapacity of what is false to be strictly and absolutely demonstrated is certain, and as it is certain that both parts of a contradiction cannot be true, so it is certain that {a sinner is not justified in the sight of God except through the righteousness of Christ obtained by faith}. [Translation of syllogististic notes (by Prof. Rowan Greer, Yale Divinity School] If God has left many things in his worship to human determination. *min. prob.* If God has left nothing to human determination, then it is required that there be universal uniformity through the whole world in his worship. But it is not a requisite. *c.v.* If variety in the worship of God can arise solely from human determination. If the governors of the church have power to make ecclesiastical laws which are binding on the conscience, *2 min. v.* If the first council of the church'#x0092;s rulers made a law, then the rulers of the church have power, etc. *3 m.* They did make a law, that is, the law of abstaining from blood and things strangled. To prove that this was not merely an exhortation but a law. If this determination of that council was binding on the conscience, then it was a law. If it was not binding on the conscience, then obedience was not necessary. But as to this determination . . . If the things determined are called necessary in the fifteenth chapter of Acts, the twenty-eighth verse. *c 2* *sill valet*. If they did not establish these things by the inspiration of the Holy Spirit, *m.v.* If they did not establish these things through the inspiration of the Holy Spirit, then it was altogether in vain that they came together in council. *m.v.* If the inspiration of the Spirit would have been equally effective without a council. *c 1 sill valet.* *c.v.* If those who have the power to make ecclesiastical laws necessarily have the power to make laws concerning the worship of God, *m.v.* If all ecclesiastical laws are [laws] concerning the worship of God.
 
 [^017-note1]: **marginal.** [Draft]
 
@@ -3428,7 +1928,9 @@ If the things determined are called necessary in the fifteenth chapter of Acts, 
 
 ### Resolution_Diary Cover
 
-Jonathan EdwardsRESOLUTIONS & PRIVATE DIARY [^018-note1]
+Jonathan Edwards
+
+RESOLUTIONS & PRIVATE DIARY [^018-note1]
 
 There Are many in the world that is from whom these things are as far as the East is from the west [—] as far from [^018-note2] their, their words, their actions and every modium of action as it is from one end of the heavens Unto the Other to whom they are as Contrary as light is to Darkness . as bitter is to th sweet or any thing that Can Possibly be thought of. it seems as if they were a sort of beings that were No more Capable Of them than stones and sticks, as If they were Quite another sort of being, how many Persons Can we think of w of whom it seems exceeding as Remote as earth is from heaven that Ever they to Live a holy humble and Godly life. that ever they should Come to trust in Christ Jesus with all their hearts and souls, ever to Come to Love Religion. [——] and Christianity above all the world . that Ever they should Come to a spirituall heavenly and holy Conversa- tion. to Despise every thing in Comparison of Christ [—]. and I If they themselves ever thought of there is no doubt but it would seem a thing Exceeding Remote to them and perhaps they would meerly scorn the very thoughts of it. but however Contrary to them and Distant from them it may seem they Must Come to it at Last or else surely be Cast into hell and there burn to all Eternity. there is no other way but so it must be and so it cer- tainly will be though Perhaps they never think of it . or Concern themselves about it
 
@@ -3516,7 +2018,9 @@ Anger because of these things I count fool[ish] and silly & Childish infirmities
 
 ## Apostrophe to Sarah Pierpont Apostrophe to Sarah Pierpont
 
-Jonathan EdwardsApostrophe to Sarah Pierpont
+Jonathan Edwards
+
+Apostrophe to Sarah Pierpont
 
 First published by Sereno Dwight in the 1829 *Works of President Edwards,* 1:114-15, his transcript (ANTS) is the only one we have. In his draft of his memoir of JE, Dwight states that JE wrote the text on "a blank leaf, as early as 1723 . . . It appears to be a part of a letter." In *Windsor Farmes: A Glimpse of an Old Parish* (Hartford, 1883), John Stoughton states that JE wrote it "upon a blank leaf of a book, which is still preserved." Wilson Kimnach (*WJE 10*:8-9, 276-81) presents a literary analysis and lists the printed variations, and suggests that the sermon, *True Love to God* (c. 1722-23), has overtones of the Apostrophe (ibid., pp. 632-43).
 
@@ -3566,7 +2070,9 @@ They say there is a young lady in [New Haven][^019-note9] who is beloved of that
 
 ### Diary (Hopkins_Dwight)
 
-Jonathan Edwards"Diary"
+Jonathan Edwards
+
+"Diary"
 
 [1. Hopkins, *Life and Character*, pp. 10-21.] Extracts from his Private Diary.
 
@@ -4492,379 +2998,27 @@ There are a great many exercises, that for the present, seem not to help, but ra
 
 ### Edwards, “Diary,” MS copy by Sereno Dwight, fragment, n.d., pp. 25-[32]. Consists of portions of entries from Jan. 12-Feb. 5, 1723. ANTS. Corresponding passages are in Hopkins, Life , 12-13; Dwight ed., 1:79-82.
 
-any action ought to be any otherwise in any res- [25]
-
-**pect than if nothing** [^021-note1] **else but Religion had**
-
-**the least influence on my mind – Answer No.** [^021-note2] ****
-
-Wherefore I make the 44th Resolution.
-
-Query. **Whether any delight or satisfaction ought**
-
-to be allowed because any other end is obtained
-
-beside a religious one. In the afternoon I
-
-answer Yes because if should never suffer our-
-
-selves to rejoice but because we have obtain-
-
-ed a religious end we should never rejoice
-
-at the sight of friends we should not allow
-
-ourselves any pleasure in our food whereby
-
-the animal spirits would be withdrawn &
-
-good digestion hindered But the query is
-
-to be answered thus . We never ought to al
-
-low any joy or sorrow but what helps Re
-
-ligion . Wherefore I make the 45th Resolution.
-
-The reason why I so soon grow lifeless
-
-& unfit for the business I am about I have
-
-found out is only because I have been used
-
-to suffer myself to leave off, for the
-
-**sake of ease & so I have got** [^021-note3] **a habit of ex**
-
-pecting ease & therefore when I think I have
-
-**exercised myself a good** [^021-note4] **while I cannot**
-
-keep myself to it any longer because I
-
-expect to be released as my due & right. And [26]
-
-then I am deceived as if I were really
+any action ought to be any otherwise in any res- [25] **pect than if nothing** [^021-note1] **else but Religion had** **the least influence on my mind – Answer No.** [^021-note2] **** Wherefore I make the 44th Resolution. Query. **Whether any delight or satisfaction ought** to be allowed because any other end is obtained beside a religious one. In the afternoon I answer Yes because if should never suffer ourselves to rejoice but because we have obtained a religious end we should never rejoice at the sight of friends we should not allow ourselves any pleasure in our food whereby the animal spirits would be withdrawn & good digestion hindered But the query is to be answered thus . We never ought to al low any joy or sorrow but what helps Re ligion . Wherefore I make the 45th Resolution. The reason why I so soon grow lifeless & unfit for the business I am about I have found out is only because I have been used to suffer myself to leave off, for the **sake of ease & so I have got** [^021-note3] **a habit of ex** pecting ease & therefore when I think I have **exercised myself a good** [^021-note4] **while I cannot** keep myself to it any longer because I expect to be released as my due & right. And [26] then I am deceived as if I were really
 
 <!-- p.   -->
 
-tired & weary . Whereas if I did not expect
-
-**ease & was resolved to occupy** [^021-note5] **myself by bus-**
-
-iness, as much as I could, I should contin
-
-the same
-
-**ue with** as much **vigour to** [^021-note6] **my business**
-
-without vacation time to rest . Thus I have
-
-found it in reading the Scriptures; & thus I
-
-have found it in prayer; & thus I believe
-
-it to be in getting sermons by heart
-
-**&** [^021-note7] **other things.**
-
-At night. **This week the weekly account**
-
-rose higher than ordinary . It is sugges-
-
-ted to me that too constant a mortification
-
-& too vigorous application to religion
-
-may be prejudicial to health. But never-
-
-theless I will plainly feel it & experience
-
-it before I cease on this account . It is no
-
-matter how much tired & weary I am if
-
-my health is not impaired
-
-Jan. 13. Sabbath-day. **I plainly feel that if I**
-
-should continue to go on as from the be-
-
-ginning of the last week hitherto I should
-
-continually grow & increase in grace
-
-After the afternoon meeting made an ad
-
-dition to the 45th Resolution . At noon I re- [27]
-
-member I thought that I loved to be a member of
-
-**Christ nor** [^021-note8] **any thing distinct but only a part**
-
-so as to have no separate interest or pleasure
-
-of my own - At night resolved to endeavour
-
-fully to understand I Cor VII. 29-32 & to act
-
-according to it
-
-Monday Jan. 14. **About 10 oclock in the morning**
+tired & weary . Whereas if I did not expect **ease & was resolved to occupy** [^021-note5] **myself by bus-** iness, as much as I could, I should contin the same **ue with** as much **vigour to** [^021-note6] **my business** without vacation time to rest . Thus I have found it in reading the Scriptures; & thus I have found it in prayer; & thus I believe it to be in getting sermons by heart **&** [^021-note7] **other things.** At night. **This week the weekly account** rose higher than ordinary . It is suggested to me that too constant a mortification & too vigorous application to religion may be prejudicial to health. But nevertheless I will plainly feel it & experience it before I cease on this account . It is no matter how much tired & weary I am if my health is not impaired Jan. 13. Sabbath-day. **I plainly feel that if I** should continue to go on as from the beginning of the last week hitherto I should continually grow & increase in grace After the afternoon meeting made an ad dition to the 45th Resolution . At noon I re- [27] member I thought that I loved to be a member of **Christ nor** [^021-note8] **any thing distinct but only a part** so as to have no separate interest or pleasure of my own - At night resolved to endeavour fully to understand I Cor VII. 29-32 & to act according to it Monday Jan. 14. **About 10 oclock in the morning**
 
 <!-- p.   -->
 
-made this book & put these papers in it.
-
-The dedication which I made of myself to my God
-
-**on Saturday last has been exceeding** [^021-note9] **useful**
-
-to me I thought I had a more spiritual
-
-**insight into the Scriptures when** [^021-note10] **reading**
-
-the 8th of Romans than ever before . - At
-
-night . Great instances of mortification
-
-are deep wounds given to the body of sin
-
-hard blows that make him stagger & reel
-
-We thereby get great ground & footing against
-
-him & he is the weaker ever after. And
-
-we have easier work with him the next
-
-time . He grows cowardly, & we can easi
-
-ly cause him to give way, until at length
-
-we find it easy work with him & can
-
-kill him at pleasure. While we live
-
-without great instances of mortification &
-
-**self-denial the old man keeps about wherabouts** [^021-note11] **[28]**
-
-he was for he is sturdy & obstinate & will
-
-**not stir for small blows . And** [^021-note12] **this without**
-
-doubt is one great reason why many Chris
-
-tians do not sensibly increase in grace. After
-
-the greatest mortifications I always find the
-
-**greatest comfort -- Wrote the 63** d **Resolution**
-
-Such little things as Christians commonly
-
-**do will not shew increase of grace much** [^021-note13] ****
-
-We must do great things for God. -- It
-
-will be best when I find that I have lost any
-
-former antient good motions or actions
-
-to take notice of it if I can remember them.
-
-Jan. 15. Tues. about two or three of clock. **I**
+made this book & put these papers in it. The dedication which I made of myself to my God **on Saturday last has been exceeding** [^021-note9] **useful** to me I thought I had a more spiritual **insight into the Scriptures when** [^021-note10] **reading** the 8th of Romans than ever before . - At night . Great instances of mortification are deep wounds given to the body of sin hard blows that make him stagger & reel We thereby get great ground & footing against him & he is the weaker ever after. And we have easier work with him the next time . He grows cowardly, & we can easi ly cause him to give way, until at length we find it easy work with him & can kill him at pleasure. While we live without great instances of mortification & **self-denial the old man keeps about wherabouts** [^021-note11] **[28]** he was for he is sturdy & obstinate & will **not stir for small blows . And** [^021-note12] **this without** doubt is one great reason why many Chris tians do not sensibly increase in grace. After the greatest mortifications I always find the **greatest comfort -- Wrote the 63** d **Resolution** Such little things as Christians commonly **do will not shew increase of grace much** [^021-note13] **** We must do great things for God. -- It will be best when I find that I have lost any former antient good motions or actions to take notice of it if I can remember them. Jan. 15. Tues. about two or three of clock. **I**
 
 <!-- p.   -->
 
-have been all this time decaying. It seemed
-
-yesterday the day before & Saturday that
-
-I should always retain the same resolu-
-
-**tion** [^021-note14] **to the same height . But alas! how**
-
-soon do I decay . O how weak how in-
-
-firm how unable to do any thing of my-
-
-self . What a poor inconsistent being! What
-
-a miserable wretch without the assistance [29]
-
-**of God’s Spirit** [^021-note15] **. While I stand I am ready to**
-
-think I stand by my own strength, & upon
-
-my own legs And I am ready to triumph
-
-**over my (spiritual)** [^021-note16] **enemies as if it were**
-
-I myself that caused them to flee . When alas
-
-I am but a poor infant upheld by Jesus
-
-Christ who holds me up & gives me liber-
-
-ty to smile to see my enemies flee when He
-
-**drives them before me & so I laugh as if** [^021-note17] **I**
-
-myself did it when it is only Jesus
-
-Christ leads me along & fights himself
-
-against my enemies . And now the Lord
-
-has a little left me how weak do I
-
-find myself . O let it teach me to de-
-
-pend less on myself to be more humble
-
-& to give more of the praise of my abili
-
-ty to Jesus Christ . The heart of man is
-
-deceitful above all things & desperately
-
-**wicked who can know it** [^021-note18] **. The occasion**
-
-of my decaying is a little melancholy. My
-
-**spirits are down & I am concerned because** [^021-note19] **[30]**
-
-**I fear I** [^021-note20] **lost some friendship the last night**
+have been all this time decaying. It seemed yesterday the day before & Saturday that I should always retain the same resolu- **tion** [^021-note14] **to the same height . But alas! how** soon do I decay . O how weak how infirm how unable to do any thing of myself . What a poor inconsistent being! What a miserable wretch without the assistance [29] **of God’s Spirit** [^021-note15] **. While I stand I am ready to** think I stand by my own strength, & upon my own legs And I am ready to triumph **over my (spiritual)** [^021-note16] **enemies as if it were** I myself that caused them to flee . When alas I am but a poor infant upheld by Jesus Christ who holds me up & gives me liberty to smile to see my enemies flee when He **drives them before me & so I laugh as if** [^021-note17] **I** myself did it when it is only Jesus Christ leads me along & fights himself against my enemies . And now the Lord has a little left me how weak do I find myself . O let it teach me to depend less on myself to be more humble & to give more of the praise of my abili ty to Jesus Christ . The heart of man is deceitful above all things & desperately **wicked who can know it** [^021-note18] **. The occasion** of my decaying is a little melancholy. My **spirits are down & I am concerned because** [^021-note19] **[30]** **I fear I** [^021-note20] **lost some friendship the last night**
 
 <!-- p.   -->
 
-**And my spirits being low** [^021-note21] **my resolutions**
-
-have lost their strength . I differ to-day
-
-from yesterday in these things . I do not resolve
-
-any thing to-day half so strongly . I am not so
-
-**perpetually thinking on &** [^021-note22] **renewing my resolu**
-
-tions as I was then . I am not half so vigo-
-
-rous as I was then nor am I half so care-
-
-ful to do every thing with vigour . Then
-
-I kept continually acting but now I do
-
-things slowly & satisfy myself by thinking
-
-of religion in the mean time . I am not so
-
-careful to go from one business to another
-
-I felt humiliation about sunset. What shall
-
-**I do frequently** [^021-note23] **with a good grace to** [^021-note24] **fall**
-
-**into Christian discourse & conference.** [^021-note25] **The** [^021-note26] ****
-
-next time I am in such a lifeless frame
-
-**I will force myself to go quick** [^021-note27] **from one**
-
-**thing to another & do** [^021-note28] **those things with**
-
-vigour in which vigour would ever
-
-be useful . The things, which take off my [31]
-
-mind when bent on Religion are commonly
-
-**some remarkable change &** [^021-note29] **alteration, journeys,**
-
-change of place, change of business change of stud-
-
-ies & change of other circumstances, or something
-
-that makes me melancholy or some sin.
-
-Jan 17. Thursday. **** **About 3 o clock overwhelm**
-
-ed with melancholy
-
-Jan 18. Friday. **At night** **** **beginning to** recover ****
-
-endeavour to recover out of the death I have
-
-been in for these several days
-
-Jan 20. Sabbath Day at night. **The last**
+**And my spirits being low** [^021-note21] **my resolutions** have lost their strength . I differ to-day from yesterday in these things . I do not resolve any thing to-day half so strongly . I am not so **perpetually thinking on &** [^021-note22] **renewing my resolu** tions as I was then . I am not half so vigorous as I was then nor am I half so careful to do every thing with vigour . Then I kept continually acting but now I do things slowly & satisfy myself by thinking of religion in the mean time . I am not so careful to go from one business to another I felt humiliation about sunset. What shall **I do frequently** [^021-note23] **with a good grace to** [^021-note24] **fall** **into Christian discourse & conference.** [^021-note25] **The** [^021-note26] **** next time I am in such a lifeless frame **I will force myself to go quick** [^021-note27] **from one** **thing to another & do** [^021-note28] **those things with** vigour in which vigour would ever be useful . The things, which take off my [31] mind when bent on Religion are commonly **some remarkable change &** [^021-note29] **alteration, journeys,** change of place, change of business change of studies & change of other circumstances, or something that makes me melancholy or some sin. Jan 17. Thursday. **** **About 3 o clock overwhelm** ed with melancholy Jan 18. Friday. **At night** **** **beginning to** recover **** endeavour to recover out of the death I have been in for these several days Jan 20. Sabbath Day at night. **The last**
 
 <!-- p.   -->
 
-week I was sunk so low that I fear it will
-
-**be a long time ere** [^021-note30] **I shall be** [^021-note31] **recovered**
-
-I feel exceedingly low in the weekly account
-
-I find my heart so deceitful that I am al-
-
-most discouraged from making any more
-
-Resolutions -- Wherein have I been negligent
-
-in the week past & how could I have
-
-done better to help the dreadful low es-
-
-tate in which I am sunk?
-
-M **** Jan 21. Mond. **Before sunrise, answered [32]**
-
-**(the preceding questions)** [^021-note32] **I** [^021-note33] **ought to have spent**
-
-the time in bewailing my sins & in singing
-
-**Psalms especially Psalms or hymns of repentance** [^021-note34]
-
-these duties being most suited to the frame I was
-
-in . I do not spend time enough in endeavour
-
-ing to affect myself with the glories of
-
-Christianity --- Fell short in the monthly
-
-account . It seems to me that I am fallen
-
-**from my former & antient** [^021-note35] **sense of the pleas**
-
-antness of religion
-
-Feb. 5. Tuesday. At night. **I have thought that this**
-
-being so exceedingly careful & so particularly anx
-
-ious to force myself to think of Religion at all
-
-**leisure moments** [^021-note36] **has exceedingly distracted my**
-
-mind & made me altogether unfit for that &
-
-every thing else . I have thought that this caused
-
-the dreadful low condition I was in on the
-
-15th of January . I think that I stretched myself
-
-**farther than I could bear & so broke . -- For** [^021-note37] ****
-
-now it seems to me tho I know not why
-
-that I do not do enough to prepare for anoth
+week I was sunk so low that I fear it will **be a long time ere** [^021-note30] **I shall be** [^021-note31] **recovered** I feel exceedingly low in the weekly account I find my heart so deceitful that I am almost discouraged from making any more Resolutions -- Wherein have I been negligent in the week past & how could I have done better to help the dreadful low estate in which I am sunk? M **** Jan 21. Mond. **Before sunrise, answered [32]** **(the preceding questions)** [^021-note32] **I** [^021-note33] **ought to have spent** the time in bewailing my sins & in singing **Psalms especially Psalms or hymns of repentance** [^021-note34] these duties being most suited to the frame I was in . I do not spend time enough in endeavour ing to affect myself with the glories of Christianity --- Fell short in the monthly account . It seems to me that I am fallen **from my former & antient** [^021-note35] **sense of the pleas** antness of religion Feb. 5. Tuesday. At night. **I have thought that this** being so exceedingly careful & so particularly anx ious to force myself to think of Religion at all **leisure moments** [^021-note36] **has exceedingly distracted my** mind & made me altogether unfit for that & every thing else . I have thought that this caused the dreadful low condition I was in on the 15th of January . I think that I stretched myself **farther than I could bear & so broke . -- For** [^021-note37] **** now it seems to me tho I know not why that I do not do enough to prepare for anoth
 
 <!-- p.   -->
 
@@ -4946,7 +3100,9 @@ er world . I do not seem to press forward
 
 ## "Resolutions" Resolutions (Hopkins-Dwight)
 
-Jonathan Edwards"Resolutions"
+Jonathan Edwards
+
+"Resolutions"
 
 [1. Hopkins, *Life and Character*, pp. 6-9.]
 
