@@ -146,6 +146,8 @@ class ImageSelectionsTest < Minitest::Test
     markdown = File.read(markdown_file, encoding: "UTF-8")
     assert_equal ["assets/VOLUME99/001-diagram.svg"], markdown.scan(/!\[[^\]]*\]\(([^)]+)\)/).flatten
     assert_equal ["001-diagram.svg"], Dir.children(File.join(@temporary_root, "MD", "assets", "VOLUME99")).sort
+    assert_includes markdown, "52. \\|"
+    assert_includes markdown, "\n\\|\n"
     assert_gfm_tables(markdown)
 
     verify_stdout, verify_stderr, verify_status = ruby_command(

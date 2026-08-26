@@ -174,6 +174,12 @@ def append_paragraph(output, text)
   text = text.gsub(/[\t\r\n ]+/, " ").strip
   return if text.empty?
 
+  # A manuscript can use a vertical stroke as prose or a deletion mark. If a
+  # paragraph consists only of that stroke, leaving it as a literal leading
+  # pipe makes Markdown parsers (and the volume validator) treat it as a
+  # malformed GFM table row. Tables are rendered separately below, so escape
+  # prose pipes here while retaining their visible source character.
+  text = text.gsub(/(?<!\\)\|/, "\\\\|")
   output << text << "\n\n"
 end
 
