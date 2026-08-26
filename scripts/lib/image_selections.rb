@@ -13,7 +13,8 @@ module ImageSelections
   CONTENT_END = "<!-- END OF CONTEXT AREA, WE HOPE-->"
   SCHEMA_VERSION = 1
   LEGACY_RULES_VERSION = "wje-image-selection-v1"
-  RULES_VERSION = "wje-image-selection-v2"
+  PREVIOUS_RULES_VERSION = "wje-image-selection-v2"
+  RULES_VERSION = "wje-image-selection-v3"
   DECISIONS = %w[include omit-scan omit-noncontent uncertain].freeze
 
   INTERFACE_MARKERS = [
@@ -26,6 +27,7 @@ module ImageSelections
     "facsimile", "folio", "full page", "handwritten", "handwriting",
     "manuscript", "recto", "scan", "scanned", "verso"
   ].freeze
+  EXPLICIT_PAGE_SCAN_MARKERS = ["first page"].freeze
   INCLUDE_MARKERS = [
     "chart", "diagram", "fig.", "figure", "graph", "illustration", "map",
     "plan", "plate", "schematic"
@@ -37,6 +39,12 @@ module ImageSelections
     "minimumPixels" => 800_000,
     "minimumPageAspectRatio" => 1.15,
     "maximumPageAspectRatio" => 1.80
+  }.freeze
+  EXPLICIT_PAGE_SCAN_THRESHOLDS = {
+    "minimumFileBytes" => 4096,
+    "minimumShortSide" => 600,
+    "minimumLongSide" => 800,
+    "minimumPixels" => 800_000
   }.freeze
   LEGACY_SCAN_THRESHOLDS = {
     "minimumFileBytes" => 4096,
@@ -50,15 +58,17 @@ module ImageSelections
   module_function
 
   def rule_definition(version = RULES_VERSION)
-    precedence, thresholds = case version
+    precedence, thresholds, explicit_page_scan_markers = case version
                              when RULES_VERSION
-                               [["omit-scan", "omit-noncontent", "include", "uncertain"], SCAN_THRESHOLDS]
+                               [["omit-scan", "omit-noncontent", "include", "uncertain"], SCAN_THRESHOLDS, EXPLICIT_PAGE_SCAN_MARKERS]
+                             when PREVIOUS_RULES_VERSION
+                               [["omit-scan", "omit-noncontent", "include", "uncertain"], SCAN_THRESHOLDS, nil]
                              when LEGACY_RULES_VERSION
-                               [["omit-noncontent", "omit-scan", "include", "uncertain"], LEGACY_SCAN_THRESHOLDS]
+                               [["omit-noncontent", "omit-scan", "include", "uncertain"], LEGACY_SCAN_THRESHOLDS, nil]
                              else
                                return nil
                              end
-    {
+    definition = {
       "version" => version,
       "precedence" => precedence,
       "interfaceMarkers" => INTERFACE_MARKERS,
@@ -66,6 +76,11 @@ module ImageSelections
       "includeMarkers" => INCLUDE_MARKERS,
       "scanThresholds" => thresholds
     }
+    if explicit_page_scan_markers
+      definition["explicitPageScanMarkers"] = explicit_page_scan_markers
+      definition["explicitPageScanThresholds"] = EXPLICIT_PAGE_SCAN_THRESHOLDS
+    end
+    definition
   end
 
   def normalized_text(value)
@@ -278,19 +293,25 @@ module ImageSelections
     candidates.values.sort_by { |candidate| candidate["id"] }
   end
 
-  def scan_shape?(info)
+  def scan_size?(info, thresholds = SCAN_THRESHOLDS)
     width = info["width"]
     height = info["height"]
     bytes = info["fileBytes"]
     return false unless width && height && bytes && width.positive? && height.positive?
 
     short_side, long_side = [width, height].minmax
+    bytes >= thresholds["minimumFileBytes"] &&
+      short_side >= thresholds["minimumShortSide"] &&
+      long_side >= thresholds["minimumLongSide"] &&
+      width * height >= thresholds["minimumPixels"]
+  end
+
+  def scan_shape?(info)
+    return false unless scan_size?(info)
+
+    short_side, long_side = [info["width"], info["height"]].minmax
     page_aspect_ratio = long_side.to_f / short_side
-    bytes >= SCAN_THRESHOLDS["minimumFileBytes"] &&
-      short_side >= SCAN_THRESHOLDS["minimumShortSide"] &&
-      long_side >= SCAN_THRESHOLDS["minimumLongSide"] &&
-      width * height >= SCAN_THRESHOLDS["minimumPixels"] &&
-      page_aspect_ratio >= SCAN_THRESHOLDS["minimumPageAspectRatio"] &&
+    page_aspect_ratio >= SCAN_THRESHOLDS["minimumPageAspectRatio"] &&
       page_aspect_ratio <= SCAN_THRESHOLDS["maximumPageAspectRatio"]
   end
 
@@ -309,6 +330,7 @@ module ImageSelections
     info = image_info(candidate.delete("localPath"))
     interface = marker_matches(marker_text, INTERFACE_MARKERS)
     scan = marker_matches(marker_text, SCAN_MARKERS)
+    explicit_page_scan = marker_matches(marker_text, EXPLICIT_PAGE_SCAN_MARKERS)
     include_markers = marker_matches(marker_text, INCLUDE_MARKERS)
     ratio = info["width"] && info["height"] && info["width"].positive? ? (info["height"].to_f / info["width"]).round(4) : nil
 
@@ -316,8 +338,11 @@ module ImageSelections
                          ["omit-noncontent", "Typ MIME nie jest rozpoznawalnym obrazem odczytanym z zawartości pliku."]
                        elsif content_occurrence.nil?
                          ["omit-noncontent", "Obraz występuje wyłącznie poza obszarem treści."]
-                       elsif scan.any? && scan_shape?(info)
-                         ["omit-scan", "Marker skanu (#{scan.join(', ')}) oraz wszystkie progi rozmiaru, wymiarów i proporcji strony w orientacji pionowej lub poziomej są spełnione."]
+                       elsif (scan.any? && scan_shape?(info)) ||
+                             (explicit_page_scan.any? && scan_size?(info, EXPLICIT_PAGE_SCAN_THRESHOLDS))
+                         marker = explicit_page_scan.any? ? explicit_page_scan : scan
+                         detail = explicit_page_scan.any? ? "jawny marker strony i alternatywne progi rozmiaru" : "progi rozmiaru, wymiarów i proporcji strony"
+                         ["omit-scan", "Marker skanu (#{marker.join(', ')}) oraz #{detail} są spełnione."]
                        elsif interface.any?
                          ["omit-noncontent", "Marker interfejsu: #{interface.join(', ')}."]
                        elsif scan.any?
@@ -340,7 +365,12 @@ module ImageSelections
       "title" => primary["title"],
       "caption" => primary["caption"],
       "context" => primary["context"],
-      "matchedMarkers" => { "interface" => interface, "scan" => scan, "include" => include_markers },
+      "matchedMarkers" => {
+        "interface" => interface,
+        "scan" => scan,
+        "explicitPageScan" => explicit_page_scan,
+        "include" => include_markers
+      },
       "decision" => decision,
       "reason" => reason
     )

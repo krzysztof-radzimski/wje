@@ -131,6 +131,35 @@ test("stabilizuje bardzo długą, rosnącą stronę w limicie 500 próbek", asyn
   assert.ok(maxJump < viewportHeight);
 });
 
+test("stabilizuje stronę wymagającą ponad 500 bezpiecznych kroków", async () => {
+  const viewportHeight = 720;
+  const height = 311_331;
+  let scrollY = 0;
+  const page = {
+    async evaluate(_callback, scrollFraction) {
+      const bottom = Math.ceil(scrollY + viewportHeight) >= height;
+      if (!bottom) {
+        const step = Math.max(180, Math.floor(viewportHeight * scrollFraction));
+        scrollY = Math.min(scrollY + step, height - viewportHeight);
+      }
+      return {
+        height,
+        scrollY,
+        viewportHeight,
+        bottom,
+      };
+    },
+  };
+
+  const result = await stabilizeDocument(page, { sampleDelayMs: 0 });
+
+  assert.equal(result.reachedBottom, true);
+  assert.equal(result.stabilized, true);
+  assert.equal(result.stabilizedHeight, height);
+  assert.ok(result.measurementCount > 500);
+  assert.ok(result.measurementCount < 700);
+});
+
 test("odkryta liczba sekcji odpowiada ręcznym zrzutom tomów 01–16", async () => {
   for (let number = 1; number <= 16; number += 1) {
     const directory = `HTML/VOLUME${String(number).padStart(2, "0")}`;

@@ -68,10 +68,62 @@ class ImageSelectionsTest < Minitest::Test
 
   def test_validator_accepts_traceable_previous_rules_version
     manifest = ImageSelections.build_manifest(@volume_directory)
-    manifest["rulesVersion"] = ImageSelections::LEGACY_RULES_VERSION
-    manifest["rules"] = ImageSelections.rule_definition(ImageSelections::LEGACY_RULES_VERSION)
+    [ImageSelections::LEGACY_RULES_VERSION, ImageSelections::PREVIOUS_RULES_VERSION].each do |version|
+      manifest["rulesVersion"] = version
+      manifest["rules"] = ImageSelections.rule_definition(version)
 
-    assert_equal manifest.fetch("entries"), ImageSelections.validate_manifest!(manifest, @volume_directory)
+      assert_equal manifest.fetch("entries"), ImageSelections.validate_manifest!(manifest, @volume_directory)
+    end
+  end
+
+  def test_explicit_first_page_scan_can_be_near_square
+    path = File.join(@volume_directory, "001_files", "near-square-scan.svg")
+    File.write(path, svg(914, 958, "First page", padding: "x" * 5000), encoding: "UTF-8")
+    candidate = {
+      "id" => "001:near-square-scan.svg",
+      "sourcePage" => "001",
+      "savedFile" => "near-square-scan.svg",
+      "sourcePath" => "001_files/near-square-scan.svg",
+      "localPath" => path,
+      "occurrences" => [{
+        "position" => "content",
+        "alt" => "",
+        "title" => "",
+        "caption" => "",
+        "context" => "The first page of Edwards' Farewell Sermon. Courtesy Beinecke Manuscript Library, Yale University."
+      }]
+    }
+
+    entry = ImageSelections.classify(candidate)
+
+    assert_equal "omit-scan", entry.fetch("decision")
+    assert_includes entry.dig("matchedMarkers", "explicitPageScan"), "first page"
+    assert_includes entry.dig("matchedMarkers", "interface"), "yale university"
+  end
+
+  def test_near_square_yale_credit_without_first_page_remains_noncontent
+    path = File.join(@volume_directory, "001_files", "near-square-credit.svg")
+    File.write(path, svg(914, 958, "Credit", padding: "x" * 5000), encoding: "UTF-8")
+    candidate = {
+      "id" => "001:near-square-credit.svg",
+      "sourcePage" => "001",
+      "savedFile" => "near-square-credit.svg",
+      "sourcePath" => "001_files/near-square-credit.svg",
+      "localPath" => path,
+      "occurrences" => [{
+        "position" => "content",
+        "alt" => "",
+        "title" => "",
+        "caption" => "",
+        "context" => "Courtesy Beinecke Manuscript Library, Yale University."
+      }]
+    }
+
+    entry = ImageSelections.classify(candidate)
+
+    assert_equal "omit-noncontent", entry.fetch("decision")
+    assert_empty entry.dig("matchedMarkers", "explicitPageScan")
+    assert_includes entry.dig("matchedMarkers", "interface"), "yale university"
   end
 
   def test_orchestrator_copies_only_include_and_selective_verifier_passes
@@ -104,6 +156,50 @@ class ImageSelectionsTest < Minitest::Test
     )
     assert verify_status.success?, "verifier failed:\n#{verify_stdout}\n#{verify_stderr}"
     assert_includes verify_stdout, "1 obrazów include z manifestu"
+  end
+
+  def test_orchestrator_preserves_selected_image_before_intro_contents
+    File.write(
+      File.join(@volume_directory, "001.html"),
+      <<~HTML,
+        <!doctype html>
+        <html><body>
+        <!-- START OF CONTENT AREA -->
+        <div type="intro">
+          <center>-- ii --</center>
+          <figure>
+            <img src="001_files/diagram.svg" alt="Figure 1 diagram">
+            <figcaption>Figure 1. Diagram before the contents.</figcaption>
+          </figure>
+          <center>-- iii --</center>
+          <div type="subsection"><span class="head">CONTENTS</span><span class="item">Fixture Volume 1</span></div>
+          <div type="subsection"><span class="head">Fixture Volume</span><p>Body text.</p></div>
+        </div>
+        <!-- END OF CONTEXT AREA, WE HOPE-->
+        </body></html>
+      HTML
+      encoding: "UTF-8"
+    )
+    markdown_file = File.join(@temporary_root, "MD", "VOLUME99.md")
+    manifest_path = File.join(@temporary_root, "metadata", "image-selections", "VOLUME99.json")
+    FileUtils.mkdir_p(File.dirname(markdown_file))
+
+    stdout, stderr, status = ruby_command(
+      "scripts/archive_and_convert_volume.rb",
+      "--manifest=#{manifest_path}",
+      @volume_directory,
+      markdown_file
+    )
+    assert status.success?, "orchestrator failed:\n#{stdout}\n#{stderr}"
+
+    markdown = File.read(markdown_file, encoding: "UTF-8")
+    image_position = markdown.index("![Figure 1 diagram](assets/VOLUME99/001-diagram.svg)")
+    contents_position = markdown.index("### CONTENTS")
+    refute_nil image_position
+    refute_nil contents_position
+    assert_operator image_position, :<, contents_position
+    assert_includes markdown, "Figure 1. Diagram before the contents."
+    assert_equal 2, markdown.scan(/<!-- p\. /).length
   end
 
   def test_selective_verifier_fails_when_detected_candidate_is_absent_from_manifest

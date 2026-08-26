@@ -88,12 +88,13 @@ export function parseArguments(argv) {
 
 const pause = (milliseconds) => new Promise((resolve) => setTimeout(resolve, milliseconds));
 const SCROLL_VIEWPORT_FRACTION = 0.75;
+const MAX_SCROLL_SAMPLES = 2_000;
 
 export async function stabilizeDocument(page, { sampleDelayMs = 120 } = {}) {
   const measurements = [];
   let stableAtBottom = 0;
   let reachedBottom = false;
-  for (let step = 0; step < 500; step += 1) {
+  for (let step = 0; step < MAX_SCROLL_SAMPLES; step += 1) {
     const measurement = await page.evaluate((scrollFraction) => {
       const root = document.documentElement;
       const body = document.body;

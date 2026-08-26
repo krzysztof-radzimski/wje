@@ -33,7 +33,7 @@ def image_markdown(node)
   source_path = File.expand_path(source, File.dirname(@source_path))
   return "" unless File.file?(source_path)
 
-  selector = "#{@source_page}:#{File.basename(source_path)}"
+  selector = image_selector(source_path)
   selected_asset = @included_images[selector]
   return "" unless @include_images || @included_images.key?(selector)
 
@@ -55,6 +55,43 @@ def image_markdown(node)
   alt = node["alt"].to_s.strip
   alt = "Illustration from source page #{@source_page}" if alt.empty?
   "![#{alt.gsub("]", "\\\\]")}](#{relative_path})"
+end
+
+def image_selector(source_path)
+  "#{@source_page}:#{File.basename(source_path)}"
+end
+
+def selected_image?(node)
+  source = node["src"].to_s
+  return false if source.empty? || source.match?(%r{\Ahttps?://}i)
+
+  source_path = File.expand_path(source, File.dirname(@source_path))
+  File.file?(source_path) && (@include_images || @included_images.key?(image_selector(source_path)))
+end
+
+# A few front-matter pages place an illustration before an embedded Contents
+# subsection. The Contents text is replaced with the navigation-derived
+# outline, but selected illustrations and printed page markers that precede it
+# are still source content and must retain their original order.
+def render_intro_prefix(node, output, heading_count)
+  return heading_count if node.text?
+
+  if node.name == "center"
+    marker = page_marker(inline(node).strip)
+    output << "\n\n#{marker}\n\n" if marker
+    return heading_count
+  end
+  if node.name == "figure"
+    return heading_count unless node.css("img").any? { |image| selected_image?(image) }
+
+    return render(node, output, heading_count)
+  end
+  if node.name == "img"
+    return selected_image?(node) ? render(node, output, heading_count) : heading_count
+  end
+
+  node.children.each { |child| heading_count = render_intro_prefix(child, output, heading_count) }
+  heading_count
 end
 
 def footnote_id(node)
@@ -209,10 +246,7 @@ def render(node, output, heading_count)
       serialized = node.to_html
       start = serialized.index(body_section.to_html)
       prefix = Nokogiri::HTML::DocumentFragment.parse(serialized[0...start])
-      prefix.css("center").each do |center|
-        marker = page_marker(inline(center).strip)
-        output << "\n\n#{marker}\n\n" if marker
-      end
+      heading_count = render_intro_prefix(prefix, output, heading_count)
       output << "\n\n### CONTENTS\n\n"
       fragment = Nokogiri::HTML::DocumentFragment.parse(serialized[start..])
       fragment.children.each { |child| heading_count = render(child, output, heading_count) }

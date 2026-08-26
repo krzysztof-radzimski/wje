@@ -1,0 +1,3 @@
+# Yale archival captures are immutable source artifacts. Preserve their exact
+# rendered bytes and do not flag source-owned whitespace during diff checks.
+HTML/** -whitespace

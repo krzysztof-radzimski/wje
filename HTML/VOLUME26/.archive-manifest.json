@@ -1,0 +1,3250 @@
+{
+  "schemaVersion": 1,
+  "volume": "VOLUME26",
+  "sourceUrl": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9zZWxlY3QucGw/d2plby4yNQ==",
+  "createdAt": "2026-08-26T08:44:00.524Z",
+  "updatedAt": "2026-08-26T08:46:22.044Z",
+  "entries": [
+    {
+      "localFile": "000.html",
+      "title": "Volume navigation",
+      "requestedUrl": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9zZWxlY3QucGw/d2plby4yNQ==",
+      "finalUrl": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9zZWxlY3QucGw/d2plby4yNQ==",
+      "archivedAt": "2026-08-26T08:44:05.451Z",
+      "scroll": {
+        "reachedBottom": true,
+        "stabilized": true,
+        "stabilizedHeight": 4160,
+        "stableSamples": 4,
+        "measurementCount": 11,
+        "measurements": [
+          {
+            "height": 4133,
+            "scrollY": 540,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:44:03.162Z"
+          },
+          {
+            "height": 4160,
+            "scrollY": 1107,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:44:03.286Z"
+          },
+          {
+            "height": 4160,
+            "scrollY": 1647,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:44:03.408Z"
+          },
+          {
+            "height": 4160,
+            "scrollY": 2187,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:44:03.532Z"
+          },
+          {
+            "height": 4160,
+            "scrollY": 2727,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:44:03.655Z"
+          },
+          {
+            "height": 4160,
+            "scrollY": 3267,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:44:03.778Z"
+          },
+          {
+            "height": 4160,
+            "scrollY": 3440,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:44:03.901Z"
+          },
+          {
+            "height": 4160,
+            "scrollY": 3440,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T08:44:04.024Z"
+          },
+          {
+            "height": 4160,
+            "scrollY": 3440,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T08:44:04.147Z"
+          },
+          {
+            "height": 4160,
+            "scrollY": 3440,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T08:44:04.270Z"
+          },
+          {
+            "height": 4160,
+            "scrollY": 3440,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T08:44:04.393Z"
+          }
+        ]
+      },
+      "files": {
+        "htmlExists": true,
+        "assetsDirectoryExists": true,
+        "htmlBytes": 68141,
+        "assetsBytes": 434726,
+        "assetCount": 18
+      },
+      "evidence": ".archive-evidence/000.png",
+      "attempts": 1,
+      "archiveMethod": "playwright-rendered-dom-and-responses",
+      "status": "complete",
+      "error": null
+    },
+    {
+      "localFile": "001.html",
+      "title": "editor’s introduction",
+      "requestedUrl": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw%2FYy4yNToxLndqZW8%3D",
+      "finalUrl": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw%2FYy4yNToxLndqZW8%3D",
+      "archivedAt": "2026-08-26T08:44:54.620Z",
+      "scroll": {
+        "reachedBottom": true,
+        "stabilized": true,
+        "stabilizedHeight": 34952,
+        "stableSamples": 4,
+        "measurementCount": 68,
+        "measurements": [
+          {
+            "height": 34952,
+            "scrollY": 540,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:44:45.203Z"
+          },
+          {
+            "height": 34952,
+            "scrollY": 1080,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:44:45.327Z"
+          },
+          {
+            "height": 34952,
+            "scrollY": 1620,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:44:45.450Z"
+          },
+          {
+            "height": 34952,
+            "scrollY": 2160,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:44:45.573Z"
+          },
+          {
+            "height": 34952,
+            "scrollY": 2700,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:44:45.696Z"
+          },
+          {
+            "height": 34952,
+            "scrollY": 3240,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:44:45.819Z"
+          },
+          {
+            "height": 34952,
+            "scrollY": 3780,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:44:45.941Z"
+          },
+          {
+            "height": 34952,
+            "scrollY": 4320,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:44:46.064Z"
+          },
+          {
+            "height": 34952,
+            "scrollY": 4860,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:44:46.187Z"
+          },
+          {
+            "height": 34952,
+            "scrollY": 5400,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:44:46.337Z"
+          },
+          {
+            "height": 34952,
+            "scrollY": 5940,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:44:46.459Z"
+          },
+          {
+            "height": 34952,
+            "scrollY": 6480,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:44:46.582Z"
+          },
+          {
+            "height": 34952,
+            "scrollY": 7020,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:44:46.705Z"
+          },
+          {
+            "height": 34952,
+            "scrollY": 7560,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:44:46.829Z"
+          },
+          {
+            "height": 34952,
+            "scrollY": 8100,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:44:46.952Z"
+          },
+          {
+            "height": 34952,
+            "scrollY": 8640,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:44:47.075Z"
+          },
+          {
+            "height": 34952,
+            "scrollY": 9180,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:44:47.198Z"
+          },
+          {
+            "height": 34952,
+            "scrollY": 9720,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:44:47.322Z"
+          },
+          {
+            "height": 34952,
+            "scrollY": 10260,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:44:47.445Z"
+          },
+          {
+            "height": 34952,
+            "scrollY": 10800,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:44:47.568Z"
+          },
+          {
+            "height": 34952,
+            "scrollY": 11340,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:44:47.697Z"
+          },
+          {
+            "height": 34952,
+            "scrollY": 11880,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:44:47.822Z"
+          },
+          {
+            "height": 34952,
+            "scrollY": 12420,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:44:47.945Z"
+          },
+          {
+            "height": 34952,
+            "scrollY": 12960,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:44:48.068Z"
+          },
+          {
+            "height": 34952,
+            "scrollY": 13500,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:44:48.191Z"
+          },
+          {
+            "height": 34952,
+            "scrollY": 14040,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:44:48.312Z"
+          },
+          {
+            "height": 34952,
+            "scrollY": 14580,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:44:48.435Z"
+          },
+          {
+            "height": 34952,
+            "scrollY": 15120,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:44:48.558Z"
+          },
+          {
+            "height": 34952,
+            "scrollY": 15660,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:44:48.681Z"
+          },
+          {
+            "height": 34952,
+            "scrollY": 16200,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:44:48.804Z"
+          },
+          {
+            "height": 34952,
+            "scrollY": 16740,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:44:48.927Z"
+          },
+          {
+            "height": 34952,
+            "scrollY": 17280,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:44:49.051Z"
+          },
+          {
+            "height": 34952,
+            "scrollY": 17820,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:44:49.173Z"
+          },
+          {
+            "height": 34952,
+            "scrollY": 18360,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:44:49.296Z"
+          },
+          {
+            "height": 34952,
+            "scrollY": 18900,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:44:49.419Z"
+          },
+          {
+            "height": 34952,
+            "scrollY": 19440,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:44:49.542Z"
+          },
+          {
+            "height": 34952,
+            "scrollY": 19980,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:44:49.666Z"
+          },
+          {
+            "height": 34952,
+            "scrollY": 20520,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:44:49.788Z"
+          },
+          {
+            "height": 34952,
+            "scrollY": 21060,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:44:49.912Z"
+          },
+          {
+            "height": 34952,
+            "scrollY": 21600,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:44:50.033Z"
+          },
+          {
+            "height": 34952,
+            "scrollY": 22140,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:44:50.156Z"
+          },
+          {
+            "height": 34952,
+            "scrollY": 22680,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:44:50.279Z"
+          },
+          {
+            "height": 34952,
+            "scrollY": 23220,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:44:50.402Z"
+          },
+          {
+            "height": 34952,
+            "scrollY": 23760,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:44:50.525Z"
+          },
+          {
+            "height": 34952,
+            "scrollY": 24300,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:44:50.651Z"
+          },
+          {
+            "height": 34952,
+            "scrollY": 24840,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:44:50.777Z"
+          },
+          {
+            "height": 34952,
+            "scrollY": 25380,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:44:50.901Z"
+          },
+          {
+            "height": 34952,
+            "scrollY": 25920,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:44:51.024Z"
+          },
+          {
+            "height": 34952,
+            "scrollY": 26460,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:44:51.147Z"
+          },
+          {
+            "height": 34952,
+            "scrollY": 27000,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:44:51.270Z"
+          },
+          {
+            "height": 34952,
+            "scrollY": 27540,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:44:51.393Z"
+          },
+          {
+            "height": 34952,
+            "scrollY": 28080,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:44:51.517Z"
+          },
+          {
+            "height": 34952,
+            "scrollY": 28620,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:44:51.640Z"
+          },
+          {
+            "height": 34952,
+            "scrollY": 29160,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:44:51.762Z"
+          },
+          {
+            "height": 34952,
+            "scrollY": 29700,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:44:51.885Z"
+          },
+          {
+            "height": 34952,
+            "scrollY": 30240,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:44:52.008Z"
+          },
+          {
+            "height": 34952,
+            "scrollY": 30780,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:44:52.130Z"
+          },
+          {
+            "height": 34952,
+            "scrollY": 31320,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:44:52.253Z"
+          },
+          {
+            "height": 34952,
+            "scrollY": 31860,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:44:52.376Z"
+          },
+          {
+            "height": 34952,
+            "scrollY": 32400,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:44:52.500Z"
+          },
+          {
+            "height": 34952,
+            "scrollY": 32940,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:44:52.622Z"
+          },
+          {
+            "height": 34952,
+            "scrollY": 33480,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:44:52.744Z"
+          },
+          {
+            "height": 34952,
+            "scrollY": 34020,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:44:52.866Z"
+          },
+          {
+            "height": 34952,
+            "scrollY": 34232,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:44:52.990Z"
+          },
+          {
+            "height": 34952,
+            "scrollY": 34232,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T08:44:53.113Z"
+          },
+          {
+            "height": 34952,
+            "scrollY": 34232,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T08:44:53.235Z"
+          },
+          {
+            "height": 34952,
+            "scrollY": 34232,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T08:44:53.358Z"
+          },
+          {
+            "height": 34952,
+            "scrollY": 34232,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T08:44:53.480Z"
+          }
+        ]
+      },
+      "files": {
+        "htmlExists": true,
+        "assetsDirectoryExists": true,
+        "htmlBytes": 2238414,
+        "assetsBytes": 455706,
+        "assetCount": 19
+      },
+      "evidence": ".archive-evidence/001.png",
+      "attempts": 1,
+      "archiveMethod": "playwright-rendered-dom-and-responses",
+      "status": "complete",
+      "error": null
+    },
+    {
+      "localFile": "002.html",
+      "title": "[NA]",
+      "requestedUrl": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw%2FYy4yNToyLndqZW8%3D",
+      "finalUrl": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw%2FYy4yNToyLndqZW8%3D",
+      "archivedAt": "2026-08-26T08:44:59.893Z",
+      "scroll": {
+        "reachedBottom": true,
+        "stabilized": true,
+        "stabilizedHeight": 1140,
+        "stableSamples": 4,
+        "measurementCount": 5,
+        "measurements": [
+          {
+            "height": 1140,
+            "scrollY": 420,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:44:58.061Z"
+          },
+          {
+            "height": 1140,
+            "scrollY": 420,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T08:44:58.185Z"
+          },
+          {
+            "height": 1140,
+            "scrollY": 420,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T08:44:58.308Z"
+          },
+          {
+            "height": 1140,
+            "scrollY": 420,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T08:44:58.430Z"
+          },
+          {
+            "height": 1140,
+            "scrollY": 420,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T08:44:58.552Z"
+          }
+        ]
+      },
+      "files": {
+        "htmlExists": true,
+        "assetsDirectoryExists": true,
+        "htmlBytes": 34521,
+        "assetsBytes": 434726,
+        "assetCount": 18
+      },
+      "evidence": ".archive-evidence/002.png",
+      "attempts": 1,
+      "archiveMethod": "playwright-rendered-dom-and-responses",
+      "status": "complete",
+      "error": null
+    },
+    {
+      "localFile": "003.html",
+      "title": "[1]",
+      "requestedUrl": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw%2FYy4yNTozLndqZW8%3D",
+      "finalUrl": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw%2FYy4yNTozLndqZW8%3D",
+      "archivedAt": "2026-08-26T08:45:35.318Z",
+      "scroll": {
+        "reachedBottom": true,
+        "stabilized": true,
+        "stabilizedHeight": 84159,
+        "stableSamples": 4,
+        "measurementCount": 159,
+        "measurements": [
+          {
+            "height": 84159,
+            "scrollY": 540,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:14.678Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 1080,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:14.805Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 1620,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:14.927Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 2160,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:15.050Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 2700,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:15.172Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 3240,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:15.294Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 3780,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:15.417Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 4320,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:15.540Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 4860,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:15.665Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 5400,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:15.806Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 5940,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:15.929Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 6480,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:16.052Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 7020,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:16.175Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 7560,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:16.298Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 8100,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:16.422Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 8640,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:16.545Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 9180,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:16.668Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 9720,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:16.791Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 10260,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:16.914Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 10800,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:17.037Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 11340,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:17.160Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 11880,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:17.283Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 12420,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:17.405Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 12960,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:17.527Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 13500,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:17.651Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 14040,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:17.775Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 14580,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:17.898Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 15120,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:18.021Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 15660,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:18.144Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 16200,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:18.266Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 16740,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:18.387Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 17280,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:18.509Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 17820,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:18.632Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 18360,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:18.755Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 18900,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:18.877Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 19440,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:19.000Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 19980,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:19.122Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 20520,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:19.245Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 21060,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:19.368Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 21600,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:19.491Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 22140,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:19.614Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 22680,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:19.736Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 23220,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:19.859Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 23760,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:19.982Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 24300,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:20.105Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 24840,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:20.229Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 25380,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:20.352Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 25920,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:20.475Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 26460,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:20.598Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 27000,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:20.722Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 27540,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:20.845Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 28080,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:20.968Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 28620,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:21.092Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 29160,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:21.214Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 29700,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:21.337Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 30240,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:21.460Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 30780,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:21.583Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 31320,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:21.706Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 31860,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:21.830Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 32400,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:21.951Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 32940,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:22.074Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 33480,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:22.197Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 34020,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:22.320Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 34560,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:22.443Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 35100,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:22.566Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 35640,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:22.688Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 36180,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:22.812Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 36720,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:22.935Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 37260,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:23.056Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 37800,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:23.180Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 38340,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:23.303Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 38880,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:23.425Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 39420,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:23.546Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 39960,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:23.676Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 40500,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:23.803Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 41040,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:23.926Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 41580,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:24.049Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 42120,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:24.172Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 42660,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:24.295Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 43200,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:24.418Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 43740,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:24.541Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 44280,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:24.664Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 44820,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:24.787Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 45360,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:24.910Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 45900,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:25.034Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 46440,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:25.155Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 46980,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:25.278Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 47520,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:25.402Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 48060,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:25.525Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 48600,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:25.653Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 49140,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:25.777Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 49680,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:25.899Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 50220,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:26.023Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 50760,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:26.146Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 51300,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:26.268Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 51840,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:26.391Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 52380,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:26.514Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 52920,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:26.636Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 53460,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:26.758Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 54000,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:26.881Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 54540,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:27.004Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 55080,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:27.126Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 55620,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:27.249Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 56160,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:27.372Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 56700,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:27.494Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 57240,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:27.616Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 57780,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:27.738Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 58320,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:27.862Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 58860,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:27.984Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 59400,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:28.107Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 59940,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:28.230Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 60480,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:28.353Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 61020,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:28.476Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 61560,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:28.599Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 62100,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:28.722Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 62640,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:28.845Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 63180,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:28.968Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 63720,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:29.091Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 64260,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:29.214Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 64800,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:29.337Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 65340,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:29.460Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 65880,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:29.583Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 66420,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:29.706Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 66960,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:29.829Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 67500,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:29.952Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 68040,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:30.075Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 68580,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:30.198Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 69120,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:30.322Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 69660,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:30.444Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 70200,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:30.567Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 70740,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:30.690Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 71280,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:30.813Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 71820,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:30.936Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 72360,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:31.059Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 72900,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:31.182Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 73440,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:31.305Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 73980,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:31.428Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 74520,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:31.551Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 75060,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:31.674Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 75600,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:31.797Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 76140,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:31.920Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 76680,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:32.042Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 77220,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:32.165Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 77760,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:32.289Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 78300,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:32.412Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 78840,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:32.535Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 79380,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:32.663Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 79920,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:32.787Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 80460,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:32.909Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 81000,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:33.032Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 81540,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:33.155Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 82080,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:33.278Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 82620,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:33.400Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 83160,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:33.523Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 83439,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:33.645Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 83439,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T08:45:33.768Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 83439,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T08:45:33.892Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 83439,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T08:45:34.015Z"
+          },
+          {
+            "height": 84159,
+            "scrollY": 83439,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T08:45:34.138Z"
+          }
+        ]
+      },
+      "files": {
+        "htmlExists": true,
+        "assetsDirectoryExists": true,
+        "htmlBytes": 2868782,
+        "assetsBytes": 455706,
+        "assetCount": 19
+      },
+      "evidence": ".archive-evidence/003.png",
+      "attempts": 1,
+      "archiveMethod": "playwright-rendered-dom-and-responses",
+      "status": "complete",
+      "error": null
+    },
+    {
+      "localFile": "004.html",
+      "title": "appendix b. register of persons to whom edwards lent books",
+      "requestedUrl": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw%2FYy4yNTo0LndqZW8%3D",
+      "finalUrl": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw%2FYy4yNTo0LndqZW8%3D",
+      "archivedAt": "2026-08-26T08:45:41.580Z",
+      "scroll": {
+        "reachedBottom": true,
+        "stabilized": true,
+        "stabilizedHeight": 5753,
+        "stableSamples": 4,
+        "measurementCount": 14,
+        "measurements": [
+          {
+            "height": 5753,
+            "scrollY": 540,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:38.928Z"
+          },
+          {
+            "height": 5753,
+            "scrollY": 1080,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:39.052Z"
+          },
+          {
+            "height": 5753,
+            "scrollY": 1620,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:39.174Z"
+          },
+          {
+            "height": 5753,
+            "scrollY": 2160,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:39.297Z"
+          },
+          {
+            "height": 5753,
+            "scrollY": 2700,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:39.420Z"
+          },
+          {
+            "height": 5753,
+            "scrollY": 3240,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:39.542Z"
+          },
+          {
+            "height": 5753,
+            "scrollY": 3780,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:39.666Z"
+          },
+          {
+            "height": 5753,
+            "scrollY": 4320,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:39.790Z"
+          },
+          {
+            "height": 5753,
+            "scrollY": 4860,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:39.913Z"
+          },
+          {
+            "height": 5753,
+            "scrollY": 5033,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:40.037Z"
+          },
+          {
+            "height": 5753,
+            "scrollY": 5033,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T08:45:40.160Z"
+          },
+          {
+            "height": 5753,
+            "scrollY": 5033,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T08:45:40.283Z"
+          },
+          {
+            "height": 5753,
+            "scrollY": 5033,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T08:45:40.403Z"
+          },
+          {
+            "height": 5753,
+            "scrollY": 5033,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T08:45:40.526Z"
+          }
+        ]
+      },
+      "files": {
+        "htmlExists": true,
+        "assetsDirectoryExists": true,
+        "htmlBytes": 58641,
+        "assetsBytes": 434726,
+        "assetCount": 18
+      },
+      "evidence": ".archive-evidence/004.png",
+      "attempts": 1,
+      "archiveMethod": "playwright-rendered-dom-and-responses",
+      "status": "complete",
+      "error": null
+    },
+    {
+      "localFile": "005.html",
+      "title": "appendix c. books with edwards’ autograph or handwritten notes",
+      "requestedUrl": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw%2FYy4yNTo1LndqZW8%3D",
+      "finalUrl": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw%2FYy4yNTo1LndqZW8%3D",
+      "archivedAt": "2026-08-26T08:45:47.212Z",
+      "scroll": {
+        "reachedBottom": true,
+        "stabilized": true,
+        "stabilizedHeight": 3667,
+        "stableSamples": 4,
+        "measurementCount": 10,
+        "measurements": [
+          {
+            "height": 3667,
+            "scrollY": 540,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:45.057Z"
+          },
+          {
+            "height": 3667,
+            "scrollY": 1080,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:45.179Z"
+          },
+          {
+            "height": 3667,
+            "scrollY": 1620,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:45.303Z"
+          },
+          {
+            "height": 3667,
+            "scrollY": 2160,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:45.426Z"
+          },
+          {
+            "height": 3667,
+            "scrollY": 2700,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:45.550Z"
+          },
+          {
+            "height": 3667,
+            "scrollY": 2947,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:45.673Z"
+          },
+          {
+            "height": 3667,
+            "scrollY": 2947,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T08:45:45.797Z"
+          },
+          {
+            "height": 3667,
+            "scrollY": 2947,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T08:45:45.920Z"
+          },
+          {
+            "height": 3667,
+            "scrollY": 2947,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T08:45:46.043Z"
+          },
+          {
+            "height": 3667,
+            "scrollY": 2947,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T08:45:46.167Z"
+          }
+        ]
+      },
+      "files": {
+        "htmlExists": true,
+        "assetsDirectoryExists": true,
+        "htmlBytes": 49361,
+        "assetsBytes": 434726,
+        "assetCount": 18
+      },
+      "evidence": ".archive-evidence/005.png",
+      "attempts": 1,
+      "archiveMethod": "playwright-rendered-dom-and-responses",
+      "status": "complete",
+      "error": null
+    },
+    {
+      "localFile": "006.html",
+      "title": "appendix d. edwards’ references to printed works in his manuscripts and the yale edition",
+      "requestedUrl": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw%2FYy4yNTo2LndqZW8%3D",
+      "finalUrl": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw%2FYy4yNTo2LndqZW8%3D",
+      "archivedAt": "2026-08-26T08:46:00.935Z",
+      "scroll": {
+        "reachedBottom": true,
+        "stabilized": true,
+        "stabilizedHeight": 35798,
+        "stableSamples": 4,
+        "measurementCount": 69,
+        "measurements": [
+          {
+            "height": 35798,
+            "scrollY": 540,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:51.523Z"
+          },
+          {
+            "height": 35798,
+            "scrollY": 1080,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:51.647Z"
+          },
+          {
+            "height": 35798,
+            "scrollY": 1620,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:51.769Z"
+          },
+          {
+            "height": 35798,
+            "scrollY": 2160,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:51.892Z"
+          },
+          {
+            "height": 35798,
+            "scrollY": 2700,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:52.014Z"
+          },
+          {
+            "height": 35798,
+            "scrollY": 3240,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:52.136Z"
+          },
+          {
+            "height": 35798,
+            "scrollY": 3780,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:52.258Z"
+          },
+          {
+            "height": 35798,
+            "scrollY": 4320,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:52.382Z"
+          },
+          {
+            "height": 35798,
+            "scrollY": 4860,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:52.505Z"
+          },
+          {
+            "height": 35798,
+            "scrollY": 5400,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:52.628Z"
+          },
+          {
+            "height": 35798,
+            "scrollY": 5940,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:52.751Z"
+          },
+          {
+            "height": 35798,
+            "scrollY": 6480,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:52.875Z"
+          },
+          {
+            "height": 35798,
+            "scrollY": 7020,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:52.997Z"
+          },
+          {
+            "height": 35798,
+            "scrollY": 7560,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:53.120Z"
+          },
+          {
+            "height": 35798,
+            "scrollY": 8100,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:53.244Z"
+          },
+          {
+            "height": 35798,
+            "scrollY": 8640,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:53.367Z"
+          },
+          {
+            "height": 35798,
+            "scrollY": 9180,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:53.491Z"
+          },
+          {
+            "height": 35798,
+            "scrollY": 9720,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:53.614Z"
+          },
+          {
+            "height": 35798,
+            "scrollY": 10260,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:53.738Z"
+          },
+          {
+            "height": 35798,
+            "scrollY": 10800,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:53.862Z"
+          },
+          {
+            "height": 35798,
+            "scrollY": 11340,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:53.983Z"
+          },
+          {
+            "height": 35798,
+            "scrollY": 11880,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:54.106Z"
+          },
+          {
+            "height": 35798,
+            "scrollY": 12420,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:54.227Z"
+          },
+          {
+            "height": 35798,
+            "scrollY": 12960,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:54.350Z"
+          },
+          {
+            "height": 35798,
+            "scrollY": 13500,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:54.472Z"
+          },
+          {
+            "height": 35798,
+            "scrollY": 14040,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:54.595Z"
+          },
+          {
+            "height": 35798,
+            "scrollY": 14580,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:54.719Z"
+          },
+          {
+            "height": 35798,
+            "scrollY": 15120,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:54.841Z"
+          },
+          {
+            "height": 35798,
+            "scrollY": 15660,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:54.964Z"
+          },
+          {
+            "height": 35798,
+            "scrollY": 16200,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:55.086Z"
+          },
+          {
+            "height": 35798,
+            "scrollY": 16740,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:55.209Z"
+          },
+          {
+            "height": 35798,
+            "scrollY": 17280,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:55.332Z"
+          },
+          {
+            "height": 35798,
+            "scrollY": 17820,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:55.455Z"
+          },
+          {
+            "height": 35798,
+            "scrollY": 18360,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:55.578Z"
+          },
+          {
+            "height": 35798,
+            "scrollY": 18900,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:55.700Z"
+          },
+          {
+            "height": 35798,
+            "scrollY": 19440,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:55.823Z"
+          },
+          {
+            "height": 35798,
+            "scrollY": 19980,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:55.947Z"
+          },
+          {
+            "height": 35798,
+            "scrollY": 20520,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:56.070Z"
+          },
+          {
+            "height": 35798,
+            "scrollY": 21060,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:56.193Z"
+          },
+          {
+            "height": 35798,
+            "scrollY": 21600,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:56.316Z"
+          },
+          {
+            "height": 35798,
+            "scrollY": 22140,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:56.439Z"
+          },
+          {
+            "height": 35798,
+            "scrollY": 22680,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:56.562Z"
+          },
+          {
+            "height": 35798,
+            "scrollY": 23220,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:56.688Z"
+          },
+          {
+            "height": 35798,
+            "scrollY": 23760,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:56.811Z"
+          },
+          {
+            "height": 35798,
+            "scrollY": 24300,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:56.933Z"
+          },
+          {
+            "height": 35798,
+            "scrollY": 24840,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:57.055Z"
+          },
+          {
+            "height": 35798,
+            "scrollY": 25380,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:57.179Z"
+          },
+          {
+            "height": 35798,
+            "scrollY": 25920,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:57.302Z"
+          },
+          {
+            "height": 35798,
+            "scrollY": 26460,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:57.423Z"
+          },
+          {
+            "height": 35798,
+            "scrollY": 27000,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:57.546Z"
+          },
+          {
+            "height": 35798,
+            "scrollY": 27540,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:57.669Z"
+          },
+          {
+            "height": 35798,
+            "scrollY": 28080,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:57.792Z"
+          },
+          {
+            "height": 35798,
+            "scrollY": 28620,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:57.914Z"
+          },
+          {
+            "height": 35798,
+            "scrollY": 29160,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:58.037Z"
+          },
+          {
+            "height": 35798,
+            "scrollY": 29700,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:58.159Z"
+          },
+          {
+            "height": 35798,
+            "scrollY": 30240,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:58.282Z"
+          },
+          {
+            "height": 35798,
+            "scrollY": 30780,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:58.404Z"
+          },
+          {
+            "height": 35798,
+            "scrollY": 31320,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:58.527Z"
+          },
+          {
+            "height": 35798,
+            "scrollY": 31860,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:58.649Z"
+          },
+          {
+            "height": 35798,
+            "scrollY": 32400,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:58.773Z"
+          },
+          {
+            "height": 35798,
+            "scrollY": 32940,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:58.896Z"
+          },
+          {
+            "height": 35798,
+            "scrollY": 33480,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:59.019Z"
+          },
+          {
+            "height": 35798,
+            "scrollY": 34020,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:59.142Z"
+          },
+          {
+            "height": 35798,
+            "scrollY": 34560,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:59.266Z"
+          },
+          {
+            "height": 35798,
+            "scrollY": 35078,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:45:59.389Z"
+          },
+          {
+            "height": 35798,
+            "scrollY": 35078,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T08:45:59.512Z"
+          },
+          {
+            "height": 35798,
+            "scrollY": 35078,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T08:45:59.634Z"
+          },
+          {
+            "height": 35798,
+            "scrollY": 35078,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T08:45:59.758Z"
+          },
+          {
+            "height": 35798,
+            "scrollY": 35078,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T08:45:59.881Z"
+          }
+        ]
+      },
+      "files": {
+        "htmlExists": true,
+        "assetsDirectoryExists": true,
+        "htmlBytes": 157477,
+        "assetsBytes": 434726,
+        "assetCount": 18
+      },
+      "evidence": ".archive-evidence/006.png",
+      "attempts": 1,
+      "archiveMethod": "playwright-rendered-dom-and-responses",
+      "status": "complete",
+      "error": null
+    },
+    {
+      "localFile": "007.html",
+      "title": "general index",
+      "requestedUrl": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw%2FYy4yNTo3LndqZW8%3D",
+      "finalUrl": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw%2FYy4yNTo3LndqZW8%3D",
+      "archivedAt": "2026-08-26T08:46:16.144Z",
+      "scroll": {
+        "reachedBottom": true,
+        "stabilized": true,
+        "stabilizedHeight": 40929,
+        "stableSamples": 4,
+        "measurementCount": 79,
+        "measurements": [
+          {
+            "height": 40929,
+            "scrollY": 540,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:46:05.491Z"
+          },
+          {
+            "height": 40929,
+            "scrollY": 1080,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:46:05.613Z"
+          },
+          {
+            "height": 40929,
+            "scrollY": 1620,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:46:05.739Z"
+          },
+          {
+            "height": 40929,
+            "scrollY": 2160,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:46:05.863Z"
+          },
+          {
+            "height": 40929,
+            "scrollY": 2700,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:46:05.986Z"
+          },
+          {
+            "height": 40929,
+            "scrollY": 3240,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:46:06.108Z"
+          },
+          {
+            "height": 40929,
+            "scrollY": 3780,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:46:06.231Z"
+          },
+          {
+            "height": 40929,
+            "scrollY": 4320,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:46:06.354Z"
+          },
+          {
+            "height": 40929,
+            "scrollY": 4860,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:46:06.476Z"
+          },
+          {
+            "height": 40929,
+            "scrollY": 5400,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:46:06.597Z"
+          },
+          {
+            "height": 40929,
+            "scrollY": 5940,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:46:06.720Z"
+          },
+          {
+            "height": 40929,
+            "scrollY": 6480,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:46:06.844Z"
+          },
+          {
+            "height": 40929,
+            "scrollY": 7020,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:46:06.967Z"
+          },
+          {
+            "height": 40929,
+            "scrollY": 7560,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:46:07.089Z"
+          },
+          {
+            "height": 40929,
+            "scrollY": 8100,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:46:07.211Z"
+          },
+          {
+            "height": 40929,
+            "scrollY": 8640,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:46:07.333Z"
+          },
+          {
+            "height": 40929,
+            "scrollY": 9180,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:46:07.455Z"
+          },
+          {
+            "height": 40929,
+            "scrollY": 9720,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:46:07.579Z"
+          },
+          {
+            "height": 40929,
+            "scrollY": 10260,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:46:07.701Z"
+          },
+          {
+            "height": 40929,
+            "scrollY": 10800,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:46:07.823Z"
+          },
+          {
+            "height": 40929,
+            "scrollY": 11340,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:46:07.946Z"
+          },
+          {
+            "height": 40929,
+            "scrollY": 11880,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:46:08.070Z"
+          },
+          {
+            "height": 40929,
+            "scrollY": 12420,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:46:08.193Z"
+          },
+          {
+            "height": 40929,
+            "scrollY": 12960,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:46:08.316Z"
+          },
+          {
+            "height": 40929,
+            "scrollY": 13500,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:46:08.439Z"
+          },
+          {
+            "height": 40929,
+            "scrollY": 14040,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:46:08.562Z"
+          },
+          {
+            "height": 40929,
+            "scrollY": 14580,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:46:08.687Z"
+          },
+          {
+            "height": 40929,
+            "scrollY": 15120,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:46:08.810Z"
+          },
+          {
+            "height": 40929,
+            "scrollY": 15660,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:46:08.933Z"
+          },
+          {
+            "height": 40929,
+            "scrollY": 16200,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:46:09.056Z"
+          },
+          {
+            "height": 40929,
+            "scrollY": 16740,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:46:09.177Z"
+          },
+          {
+            "height": 40929,
+            "scrollY": 17280,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:46:09.300Z"
+          },
+          {
+            "height": 40929,
+            "scrollY": 17820,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:46:09.424Z"
+          },
+          {
+            "height": 40929,
+            "scrollY": 18360,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:46:09.547Z"
+          },
+          {
+            "height": 40929,
+            "scrollY": 18900,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:46:09.670Z"
+          },
+          {
+            "height": 40929,
+            "scrollY": 19440,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:46:09.793Z"
+          },
+          {
+            "height": 40929,
+            "scrollY": 19980,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:46:09.916Z"
+          },
+          {
+            "height": 40929,
+            "scrollY": 20520,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:46:10.040Z"
+          },
+          {
+            "height": 40929,
+            "scrollY": 21060,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:46:10.163Z"
+          },
+          {
+            "height": 40929,
+            "scrollY": 21600,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:46:10.285Z"
+          },
+          {
+            "height": 40929,
+            "scrollY": 22140,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:46:10.408Z"
+          },
+          {
+            "height": 40929,
+            "scrollY": 22680,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:46:10.532Z"
+          },
+          {
+            "height": 40929,
+            "scrollY": 23220,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:46:10.658Z"
+          },
+          {
+            "height": 40929,
+            "scrollY": 23760,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:46:10.780Z"
+          },
+          {
+            "height": 40929,
+            "scrollY": 24300,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:46:10.902Z"
+          },
+          {
+            "height": 40929,
+            "scrollY": 24840,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:46:11.025Z"
+          },
+          {
+            "height": 40929,
+            "scrollY": 25380,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:46:11.148Z"
+          },
+          {
+            "height": 40929,
+            "scrollY": 25920,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:46:11.270Z"
+          },
+          {
+            "height": 40929,
+            "scrollY": 26460,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:46:11.394Z"
+          },
+          {
+            "height": 40929,
+            "scrollY": 27000,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:46:11.518Z"
+          },
+          {
+            "height": 40929,
+            "scrollY": 27540,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:46:11.641Z"
+          },
+          {
+            "height": 40929,
+            "scrollY": 28080,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:46:11.765Z"
+          },
+          {
+            "height": 40929,
+            "scrollY": 28620,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:46:11.888Z"
+          },
+          {
+            "height": 40929,
+            "scrollY": 29160,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:46:12.011Z"
+          },
+          {
+            "height": 40929,
+            "scrollY": 29700,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:46:12.135Z"
+          },
+          {
+            "height": 40929,
+            "scrollY": 30240,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:46:12.258Z"
+          },
+          {
+            "height": 40929,
+            "scrollY": 30780,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:46:12.380Z"
+          },
+          {
+            "height": 40929,
+            "scrollY": 31320,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:46:12.503Z"
+          },
+          {
+            "height": 40929,
+            "scrollY": 31860,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:46:12.624Z"
+          },
+          {
+            "height": 40929,
+            "scrollY": 32400,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:46:12.748Z"
+          },
+          {
+            "height": 40929,
+            "scrollY": 32940,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:46:12.871Z"
+          },
+          {
+            "height": 40929,
+            "scrollY": 33480,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:46:12.992Z"
+          },
+          {
+            "height": 40929,
+            "scrollY": 34020,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:46:13.116Z"
+          },
+          {
+            "height": 40929,
+            "scrollY": 34560,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:46:13.240Z"
+          },
+          {
+            "height": 40929,
+            "scrollY": 35100,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:46:13.363Z"
+          },
+          {
+            "height": 40929,
+            "scrollY": 35640,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:46:13.486Z"
+          },
+          {
+            "height": 40929,
+            "scrollY": 36180,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:46:13.610Z"
+          },
+          {
+            "height": 40929,
+            "scrollY": 36720,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:46:13.732Z"
+          },
+          {
+            "height": 40929,
+            "scrollY": 37260,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:46:13.855Z"
+          },
+          {
+            "height": 40929,
+            "scrollY": 37800,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:46:13.978Z"
+          },
+          {
+            "height": 40929,
+            "scrollY": 38340,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:46:14.099Z"
+          },
+          {
+            "height": 40929,
+            "scrollY": 38880,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:46:14.223Z"
+          },
+          {
+            "height": 40929,
+            "scrollY": 39420,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:46:14.346Z"
+          },
+          {
+            "height": 40929,
+            "scrollY": 39960,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:46:14.469Z"
+          },
+          {
+            "height": 40929,
+            "scrollY": 40209,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:46:14.593Z"
+          },
+          {
+            "height": 40929,
+            "scrollY": 40209,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T08:46:14.720Z"
+          },
+          {
+            "height": 40929,
+            "scrollY": 40209,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T08:46:14.842Z"
+          },
+          {
+            "height": 40929,
+            "scrollY": 40209,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T08:46:14.964Z"
+          },
+          {
+            "height": 40929,
+            "scrollY": 40209,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T08:46:15.086Z"
+          }
+        ]
+      },
+      "files": {
+        "htmlExists": true,
+        "assetsDirectoryExists": true,
+        "htmlBytes": 171104,
+        "assetsBytes": 434726,
+        "assetCount": 18
+      },
+      "evidence": ".archive-evidence/007.png",
+      "attempts": 1,
+      "archiveMethod": "playwright-rendered-dom-and-responses",
+      "status": "complete",
+      "error": null
+    },
+    {
+      "localFile": "008.html",
+      "title": "index of biblical passages",
+      "requestedUrl": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw%2FYy4yNTo4LndqZW8%3D",
+      "finalUrl": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw%2FYy4yNTo4LndqZW8%3D",
+      "archivedAt": "2026-08-26T08:46:22.044Z",
+      "scroll": {
+        "reachedBottom": true,
+        "stabilized": true,
+        "stabilizedHeight": 5028,
+        "stableSamples": 4,
+        "measurementCount": 12,
+        "measurements": [
+          {
+            "height": 5028,
+            "scrollY": 540,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:46:19.645Z"
+          },
+          {
+            "height": 5028,
+            "scrollY": 1080,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:46:19.767Z"
+          },
+          {
+            "height": 5028,
+            "scrollY": 1620,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:46:19.889Z"
+          },
+          {
+            "height": 5028,
+            "scrollY": 2160,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:46:20.012Z"
+          },
+          {
+            "height": 5028,
+            "scrollY": 2700,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:46:20.136Z"
+          },
+          {
+            "height": 5028,
+            "scrollY": 3240,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:46:20.259Z"
+          },
+          {
+            "height": 5028,
+            "scrollY": 3780,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:46:20.382Z"
+          },
+          {
+            "height": 5028,
+            "scrollY": 4308,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T08:46:20.506Z"
+          },
+          {
+            "height": 5028,
+            "scrollY": 4308,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T08:46:20.630Z"
+          },
+          {
+            "height": 5028,
+            "scrollY": 4308,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T08:46:20.753Z"
+          },
+          {
+            "height": 5028,
+            "scrollY": 4308,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T08:46:20.878Z"
+          },
+          {
+            "height": 5028,
+            "scrollY": 4308,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T08:46:21.001Z"
+          }
+        ]
+      },
+      "files": {
+        "htmlExists": true,
+        "assetsDirectoryExists": true,
+        "htmlBytes": 44758,
+        "assetsBytes": 434726,
+        "assetCount": 18
+      },
+      "evidence": ".archive-evidence/008.png",
+      "attempts": 1,
+      "archiveMethod": "playwright-rendered-dom-and-responses",
+      "status": "complete",
+      "error": null
+    }
+  ]
+}
