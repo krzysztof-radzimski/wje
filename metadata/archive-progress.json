@@ -26,10 +26,13 @@
     35,
     36,
     37,
-    38
+    38,
+    39,
+    40,
+    41
   ],
-  "firstIncompleteVolume": 39,
-  "updatedAt": "2026-08-26T12:31:58.000Z",
+  "firstIncompleteVolume": 42,
+  "updatedAt": "2026-08-26T13:02:07.000Z",
   "volumes": {
     "17": {
       "status": "complete",
@@ -521,6 +524,96 @@
         "The image audit classifies all 34 locally saved candidates as omit-noncontent; include=0, omit-scan=0, and uncertain=0.",
         "The validator's one heading notice is caused by Yale's malformed navigation label omitting the italicized words Farewell Sermon; both fragments and the complete source heading are present in Markdown.",
         "016.html lacks END OF CONTEXT AREA; the converter's footer fallback reaches the complete final visible fragment before the footer."
+      ]
+    },
+    "39": {
+      "status": "complete-with-documented-source-gap",
+      "sourceUrl": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9zZWxlY3QucGw/d2plby4zNw==",
+      "archiveManifest": "HTML/VOLUME39/.archive-manifest.json",
+      "markdown": "MD/VOLUME39.md",
+      "imageSelections": "metadata/image-selections/VOLUME39.json",
+      "contentGaps": [
+        {
+          "sourceFile": "000.html and 001.html",
+          "description": "The Previous section link in 001.html exposes Yale identifier c.37:0.wjeo, but that preceding section is absent from the visible 000.html navigation, archive manifest, and local files. Its unavailable content was not reconstructed."
+        },
+        {
+          "sourceFile": "003.html",
+          "description": "The source explicitly marks the manuscript sheet containing question numbers 58–100 as missing. The unavailable questions were not reconstructed."
+        },
+        {
+          "sourceFile": "029.html",
+          "description": "The source explicitly states that an accompanying document intended to precede the council's advice is missing. The unavailable document was not reconstructed."
+        },
+        {
+          "sourceFile": "001.html–008.html, 024.html, and 029.html",
+          "description": "Each specified source contains an empty transcriptImage placeholder with no URL, alternative text, caption, or captured local file. No missing image was inferred, reconstructed, or embedded."
+        }
+      ],
+      "sourceAnomalies": [
+        "The thirty visible navigation labels comprise twenty-nine consecutive aggregate sources c.37:1–29 plus child c.37:1:1, whose complete testimony is already embedded in 001.html and preserved as a substantive child heading.",
+        "The saved manuscript documents contain no standard semantic printed page markers.",
+        "All 289 semantic footnote references have definitions.",
+        "The image audit classifies all 60 locally saved candidates as omit-noncontent; include=0, omit-scan=0, and uncertain=0.",
+        "029.html lacks END OF CONTEXT AREA; the converter's footer fallback reaches the complete final visible advice before the footer."
+      ]
+    },
+    "40": {
+      "status": "complete-with-documented-source-gap",
+      "sourceUrl": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9zZWxlY3QucGw/d2plby4zOA==",
+      "archiveManifest": "HTML/VOLUME40/.archive-manifest.json",
+      "markdown": "MD/VOLUME40.md",
+      "imageSelections": "metadata/image-selections/VOLUME40.json",
+      "contentGaps": [
+        {
+          "sourceFile": "000.html and 001.html",
+          "description": "The Previous section link in 001.html exposes Yale identifier c.38:0.wjeo, but that preceding section is absent from the visible 000.html navigation, archive manifest, and local files. Its unavailable content was not reconstructed."
+        },
+        {
+          "sourceFile": "003.html",
+          "description": "The source explicitly marks manuscript lacunae at pages 9–26, 29–32, 39–46, 49–52, 57–58, and 69–70. The unavailable passages were not reconstructed."
+        },
+        {
+          "sourceFile": "015.html",
+          "description": "The source reports about twelve lines lost in whole or part at the bottoms of manuscript leaves 2 and 3, plus further lines obliterated by a tear. These losses remain represented only by the source's bracketed ellipses."
+        },
+        {
+          "sourceFile": "002.html–007.html, 011.html–020.html, and 022.html",
+          "description": "Each specified source contains an empty transcriptImage placeholder with no URL, alternative text, caption, or captured local file. No missing image was inferred, reconstructed, or embedded."
+        }
+      ],
+      "sourceAnomalies": [
+        "All 22 visible navigation entries c.38:1–22 are archived consecutively as 001.html–022.html.",
+        "A site-wide Yale 504 exhausted two complete invocations before a third --resume succeeded; the final complete 000.html manifest entry preserves nine cumulative attempts.",
+        "All six semantic page markers are blank in the Yale source, so they are preserved as blank comments and no numeric pagination range is asserted.",
+        "All 272 semantic footnote references have definitions.",
+        "The image audit classifies all 46 locally saved candidates as omit-noncontent; include=0, omit-scan=0, and uncertain=0.",
+        "The validator's two heading notices are source-label normalization differences; the complete Diary fragment heading and substantive text are present in Markdown.",
+        "022.html lacks END OF CONTEXT AREA; the converter's footer fallback reaches complete Resolution 70 before the footer."
+      ]
+    },
+    "41": {
+      "status": "complete-with-documented-source-gap",
+      "sourceUrl": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9zZWxlY3QucGw/d2plby4zOQ==",
+      "archiveManifest": "HTML/VOLUME41/.archive-manifest.json",
+      "markdown": "MD/VOLUME41.md",
+      "imageSelections": "metadata/image-selections/VOLUME41.json",
+      "contentGaps": [
+        {
+          "sourceFile": "000.html and 001.html",
+          "description": "The Previous section link in 001.html exposes Yale identifier c.39:0.wjeo, but that preceding section is absent from the visible 000.html navigation, archive manifest, and local files. Its unavailable content was not reconstructed."
+        },
+        {
+          "sourceFile": "001.html, 010.html, 011.html, and 012.html",
+          "description": "The sources explicitly preserve manuscript damage, shorn edges, and missing portions with brackets or literal ellipses. No absent wording was inferred or reconstructed."
+        }
+      ],
+      "sourceAnomalies": [
+        "The thirteen visible navigation labels comprise twelve consecutive aggregate sources c.39:1–12 plus child c.39:10:1, whose complete edited version is embedded in 010.html.",
+        "All nine semantic page markers are blank in the Yale source, so they are preserved as blank comments and no numeric pagination range is asserted.",
+        "All 87 semantic footnote references have definitions. The duplicate unreferenced source definition is preserved explicitly as 001-note31.",
+        "The image audit classifies all 26 locally saved candidates as omit-noncontent; no content-image placeholders are present, and include=0, omit-scan=0, uncertain=0.",
+        "012.html lacks END OF CONTEXT AREA; the converter's footer fallback reaches the source's final [rest of p. blank] notation before the footer."
       ]
     }
   }

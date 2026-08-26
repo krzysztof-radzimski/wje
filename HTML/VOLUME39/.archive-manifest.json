@@ -1,0 +1,3264 @@
+{
+  "schemaVersion": 1,
+  "volume": "VOLUME39",
+  "sourceUrl": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9zZWxlY3QucGw/d2plby4zNw==",
+  "createdAt": "2026-08-26T12:34:54.954Z",
+  "updatedAt": "2026-08-26T12:38:07.052Z",
+  "entries": [
+    {
+      "localFile": "000.html",
+      "title": "Volume navigation",
+      "requestedUrl": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9zZWxlY3QucGw/d2plby4zNw==",
+      "finalUrl": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9zZWxlY3QucGw/d2plby4zNw==",
+      "archivedAt": "2026-08-26T12:34:59.747Z",
+      "scroll": {
+        "reachedBottom": true,
+        "stabilized": true,
+        "stabilizedHeight": 2199,
+        "stableSamples": 4,
+        "measurementCount": 7,
+        "measurements": [
+          {
+            "height": 2172,
+            "scrollY": 540,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:34:57.938Z"
+          },
+          {
+            "height": 2199,
+            "scrollY": 1107,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:34:58.062Z"
+          },
+          {
+            "height": 2199,
+            "scrollY": 1479,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:34:58.184Z"
+          },
+          {
+            "height": 2199,
+            "scrollY": 1479,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:34:58.308Z"
+          },
+          {
+            "height": 2199,
+            "scrollY": 1479,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:34:58.430Z"
+          },
+          {
+            "height": 2199,
+            "scrollY": 1479,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:34:58.553Z"
+          },
+          {
+            "height": 2199,
+            "scrollY": 1479,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:34:58.677Z"
+          }
+        ]
+      },
+      "files": {
+        "htmlExists": true,
+        "assetsDirectoryExists": true,
+        "htmlBytes": 43529,
+        "assetsBytes": 434726,
+        "assetCount": 18
+      },
+      "evidence": ".archive-evidence/000.png",
+      "attempts": 1,
+      "archiveMethod": "playwright-rendered-dom-and-responses",
+      "status": "complete",
+      "error": null
+    },
+    {
+      "localFile": "001.html",
+      "title": "Documents Relating to the \"Bad Book\" Case Bad Book Case",
+      "requestedUrl": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw%2FYy4zNzoxLndqZW8%3D",
+      "finalUrl": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw%2FYy4zNzoxLndqZW8%3D",
+      "archivedAt": "2026-08-26T12:35:08.549Z",
+      "scroll": {
+        "reachedBottom": true,
+        "stabilized": true,
+        "stabilizedHeight": 9335,
+        "stableSamples": 4,
+        "measurementCount": 20,
+        "measurements": [
+          {
+            "height": 9326,
+            "scrollY": 540,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:35:05.158Z"
+          },
+          {
+            "height": 9299,
+            "scrollY": 1053,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:35:05.280Z"
+          },
+          {
+            "height": 9299,
+            "scrollY": 1593,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:35:05.402Z"
+          },
+          {
+            "height": 9335,
+            "scrollY": 2169,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:35:05.524Z"
+          },
+          {
+            "height": 9335,
+            "scrollY": 2709,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:35:05.648Z"
+          },
+          {
+            "height": 9335,
+            "scrollY": 3249,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:35:05.771Z"
+          },
+          {
+            "height": 9335,
+            "scrollY": 3789,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:35:05.894Z"
+          },
+          {
+            "height": 9335,
+            "scrollY": 4329,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:35:06.017Z"
+          },
+          {
+            "height": 9335,
+            "scrollY": 4869,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:35:06.143Z"
+          },
+          {
+            "height": 9335,
+            "scrollY": 5409,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:35:06.267Z"
+          },
+          {
+            "height": 9335,
+            "scrollY": 5949,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:35:06.390Z"
+          },
+          {
+            "height": 9335,
+            "scrollY": 6489,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:35:06.513Z"
+          },
+          {
+            "height": 9335,
+            "scrollY": 7029,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:35:06.636Z"
+          },
+          {
+            "height": 9335,
+            "scrollY": 7569,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:35:06.758Z"
+          },
+          {
+            "height": 9335,
+            "scrollY": 8109,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:35:06.882Z"
+          },
+          {
+            "height": 9335,
+            "scrollY": 8615,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:35:07.005Z"
+          },
+          {
+            "height": 9335,
+            "scrollY": 8615,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:35:07.128Z"
+          },
+          {
+            "height": 9335,
+            "scrollY": 8615,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:35:07.252Z"
+          },
+          {
+            "height": 9335,
+            "scrollY": 8615,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:35:07.375Z"
+          },
+          {
+            "height": 9335,
+            "scrollY": 8615,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:35:07.498Z"
+          }
+        ]
+      },
+      "files": {
+        "htmlExists": true,
+        "assetsDirectoryExists": true,
+        "htmlBytes": 71340,
+        "assetsBytes": 434726,
+        "assetCount": 18
+      },
+      "evidence": ".archive-evidence/001.png",
+      "attempts": 1,
+      "archiveMethod": "playwright-rendered-dom-and-responses",
+      "status": "complete",
+      "error": null
+    },
+    {
+      "localFile": "002.html",
+      "title": "Notes for a Council Meeting on the Case of Elisha Hawley and Martha Root, June 1749 Hawley-Root Case",
+      "requestedUrl": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw%2FYy4zNzoyLndqZW8%3D",
+      "finalUrl": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw%2FYy4zNzoyLndqZW8%3D",
+      "archivedAt": "2026-08-26T12:35:14.034Z",
+      "scroll": {
+        "reachedBottom": true,
+        "stabilized": true,
+        "stabilizedHeight": 1988,
+        "stableSamples": 4,
+        "measurementCount": 7,
+        "measurements": [
+          {
+            "height": 1928,
+            "scrollY": 540,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:35:12.011Z"
+          },
+          {
+            "height": 1953,
+            "scrollY": 1080,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:35:12.136Z"
+          },
+          {
+            "height": 1953,
+            "scrollY": 1233,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:35:12.264Z"
+          },
+          {
+            "height": 1988,
+            "scrollY": 1268,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:35:12.388Z"
+          },
+          {
+            "height": 1988,
+            "scrollY": 1268,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:35:12.511Z"
+          },
+          {
+            "height": 1988,
+            "scrollY": 1268,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:35:12.634Z"
+          },
+          {
+            "height": 1988,
+            "scrollY": 1268,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:35:12.755Z"
+          }
+        ]
+      },
+      "files": {
+        "htmlExists": true,
+        "assetsDirectoryExists": true,
+        "htmlBytes": 38604,
+        "assetsBytes": 434726,
+        "assetCount": 18
+      },
+      "evidence": ".archive-evidence/002.png",
+      "attempts": 1,
+      "archiveMethod": "playwright-rendered-dom-and-responses",
+      "status": "complete",
+      "error": null
+    },
+    {
+      "localFile": "003.html",
+      "title": "Questions for Young People Questions for Young People",
+      "requestedUrl": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw%2FYy4zNzozLndqZW8%3D",
+      "finalUrl": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw%2FYy4zNzozLndqZW8%3D",
+      "archivedAt": "2026-08-26T12:35:23.367Z",
+      "scroll": {
+        "reachedBottom": true,
+        "stabilized": true,
+        "stabilizedHeight": 17012,
+        "stableSamples": 4,
+        "measurementCount": 35,
+        "measurements": [
+          {
+            "height": 13716,
+            "scrollY": 540,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:35:18.119Z"
+          },
+          {
+            "height": 16976,
+            "scrollY": 1053,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:35:18.242Z"
+          },
+          {
+            "height": 16976,
+            "scrollY": 1593,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:35:18.370Z"
+          },
+          {
+            "height": 16976,
+            "scrollY": 2133,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:35:18.493Z"
+          },
+          {
+            "height": 17012,
+            "scrollY": 2709,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:35:18.615Z"
+          },
+          {
+            "height": 17012,
+            "scrollY": 3249,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:35:18.739Z"
+          },
+          {
+            "height": 17012,
+            "scrollY": 3789,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:35:18.862Z"
+          },
+          {
+            "height": 17012,
+            "scrollY": 4329,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:35:18.985Z"
+          },
+          {
+            "height": 17012,
+            "scrollY": 4869,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:35:19.109Z"
+          },
+          {
+            "height": 17012,
+            "scrollY": 5409,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:35:19.231Z"
+          },
+          {
+            "height": 17012,
+            "scrollY": 5949,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:35:19.354Z"
+          },
+          {
+            "height": 17012,
+            "scrollY": 6489,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:35:19.477Z"
+          },
+          {
+            "height": 17012,
+            "scrollY": 7029,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:35:19.600Z"
+          },
+          {
+            "height": 17012,
+            "scrollY": 7569,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:35:19.724Z"
+          },
+          {
+            "height": 17012,
+            "scrollY": 8109,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:35:19.847Z"
+          },
+          {
+            "height": 17012,
+            "scrollY": 8649,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:35:19.969Z"
+          },
+          {
+            "height": 17012,
+            "scrollY": 9189,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:35:20.092Z"
+          },
+          {
+            "height": 17012,
+            "scrollY": 9729,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:35:20.216Z"
+          },
+          {
+            "height": 17012,
+            "scrollY": 10269,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:35:20.339Z"
+          },
+          {
+            "height": 17012,
+            "scrollY": 10809,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:35:20.462Z"
+          },
+          {
+            "height": 17012,
+            "scrollY": 11349,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:35:20.585Z"
+          },
+          {
+            "height": 17012,
+            "scrollY": 11889,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:35:20.709Z"
+          },
+          {
+            "height": 17012,
+            "scrollY": 12429,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:35:20.832Z"
+          },
+          {
+            "height": 17012,
+            "scrollY": 12969,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:35:20.955Z"
+          },
+          {
+            "height": 17012,
+            "scrollY": 13509,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:35:21.079Z"
+          },
+          {
+            "height": 17012,
+            "scrollY": 14049,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:35:21.203Z"
+          },
+          {
+            "height": 17012,
+            "scrollY": 14589,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:35:21.327Z"
+          },
+          {
+            "height": 17012,
+            "scrollY": 15129,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:35:21.450Z"
+          },
+          {
+            "height": 17012,
+            "scrollY": 15669,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:35:21.573Z"
+          },
+          {
+            "height": 17012,
+            "scrollY": 16209,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:35:21.696Z"
+          },
+          {
+            "height": 17012,
+            "scrollY": 16292,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:35:21.819Z"
+          },
+          {
+            "height": 17012,
+            "scrollY": 16292,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:35:21.942Z"
+          },
+          {
+            "height": 17012,
+            "scrollY": 16292,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:35:22.065Z"
+          },
+          {
+            "height": 17012,
+            "scrollY": 16292,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:35:22.189Z"
+          },
+          {
+            "height": 17012,
+            "scrollY": 16292,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:35:22.312Z"
+          }
+        ]
+      },
+      "files": {
+        "htmlExists": true,
+        "assetsDirectoryExists": true,
+        "htmlBytes": 126359,
+        "assetsBytes": 455706,
+        "assetCount": 19
+      },
+      "evidence": ".archive-evidence/003.png",
+      "attempts": 1,
+      "archiveMethod": "playwright-rendered-dom-and-responses",
+      "status": "complete",
+      "error": null
+    },
+    {
+      "localFile": "004.html",
+      "title": "\"The Theological Questions of President Edwards, Senior, and Dr. Edwards, His Son\" 1822 Questions",
+      "requestedUrl": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw%2FYy4zNzo0LndqZW8%3D",
+      "finalUrl": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw%2FYy4zNzo0LndqZW8%3D",
+      "archivedAt": "2026-08-26T12:35:32.365Z",
+      "scroll": {
+        "reachedBottom": true,
+        "stabilized": true,
+        "stabilizedHeight": 16812,
+        "stableSamples": 4,
+        "measurementCount": 34,
+        "measurements": [
+          {
+            "height": 16348,
+            "scrollY": 540,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:35:27.237Z"
+          },
+          {
+            "height": 16776,
+            "scrollY": 1053,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:35:27.360Z"
+          },
+          {
+            "height": 16776,
+            "scrollY": 1593,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:35:27.483Z"
+          },
+          {
+            "height": 16812,
+            "scrollY": 2169,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:35:27.606Z"
+          },
+          {
+            "height": 16812,
+            "scrollY": 2709,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:35:27.730Z"
+          },
+          {
+            "height": 16812,
+            "scrollY": 3249,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:35:27.852Z"
+          },
+          {
+            "height": 16812,
+            "scrollY": 3789,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:35:27.975Z"
+          },
+          {
+            "height": 16812,
+            "scrollY": 4329,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:35:28.103Z"
+          },
+          {
+            "height": 16812,
+            "scrollY": 4869,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:35:28.226Z"
+          },
+          {
+            "height": 16812,
+            "scrollY": 5409,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:35:28.349Z"
+          },
+          {
+            "height": 16812,
+            "scrollY": 5949,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:35:28.472Z"
+          },
+          {
+            "height": 16812,
+            "scrollY": 6489,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:35:28.595Z"
+          },
+          {
+            "height": 16812,
+            "scrollY": 7029,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:35:28.719Z"
+          },
+          {
+            "height": 16812,
+            "scrollY": 7569,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:35:28.843Z"
+          },
+          {
+            "height": 16812,
+            "scrollY": 8109,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:35:28.966Z"
+          },
+          {
+            "height": 16812,
+            "scrollY": 8649,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:35:29.088Z"
+          },
+          {
+            "height": 16812,
+            "scrollY": 9189,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:35:29.210Z"
+          },
+          {
+            "height": 16812,
+            "scrollY": 9729,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:35:29.334Z"
+          },
+          {
+            "height": 16812,
+            "scrollY": 10269,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:35:29.457Z"
+          },
+          {
+            "height": 16812,
+            "scrollY": 10809,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:35:29.580Z"
+          },
+          {
+            "height": 16812,
+            "scrollY": 11349,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:35:29.704Z"
+          },
+          {
+            "height": 16812,
+            "scrollY": 11889,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:35:29.827Z"
+          },
+          {
+            "height": 16812,
+            "scrollY": 12429,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:35:29.950Z"
+          },
+          {
+            "height": 16812,
+            "scrollY": 12969,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:35:30.073Z"
+          },
+          {
+            "height": 16812,
+            "scrollY": 13509,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:35:30.201Z"
+          },
+          {
+            "height": 16812,
+            "scrollY": 14049,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:35:30.323Z"
+          },
+          {
+            "height": 16812,
+            "scrollY": 14589,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:35:30.446Z"
+          },
+          {
+            "height": 16812,
+            "scrollY": 15129,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:35:30.569Z"
+          },
+          {
+            "height": 16812,
+            "scrollY": 15669,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:35:30.693Z"
+          },
+          {
+            "height": 16812,
+            "scrollY": 16092,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:35:30.816Z"
+          },
+          {
+            "height": 16812,
+            "scrollY": 16092,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:35:30.939Z"
+          },
+          {
+            "height": 16812,
+            "scrollY": 16092,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:35:31.062Z"
+          },
+          {
+            "height": 16812,
+            "scrollY": 16092,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:35:31.186Z"
+          },
+          {
+            "height": 16812,
+            "scrollY": 16092,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:35:31.308Z"
+          }
+        ]
+      },
+      "files": {
+        "htmlExists": true,
+        "assetsDirectoryExists": true,
+        "htmlBytes": 76713,
+        "assetsBytes": 434726,
+        "assetCount": 18
+      },
+      "evidence": ".archive-evidence/004.png",
+      "attempts": 1,
+      "archiveMethod": "playwright-rendered-dom-and-responses",
+      "status": "complete",
+      "error": null
+    },
+    {
+      "localFile": "005.html",
+      "title": "Questions on Theological Subjects Questions on Theological Subjects",
+      "requestedUrl": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw%2FYy4zNzo1LndqZW8%3D",
+      "finalUrl": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw%2FYy4zNzo1LndqZW8%3D",
+      "archivedAt": "2026-08-26T12:35:38.771Z",
+      "scroll": {
+        "reachedBottom": true,
+        "stabilized": true,
+        "stabilizedHeight": 3461,
+        "stableSamples": 4,
+        "measurementCount": 10,
+        "measurements": [
+          {
+            "height": 3375,
+            "scrollY": 540,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:35:36.613Z"
+          },
+          {
+            "height": 3425,
+            "scrollY": 1053,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:35:36.735Z"
+          },
+          {
+            "height": 3425,
+            "scrollY": 1593,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:35:36.858Z"
+          },
+          {
+            "height": 3425,
+            "scrollY": 2133,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:35:36.981Z"
+          },
+          {
+            "height": 3425,
+            "scrollY": 2673,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:35:37.105Z"
+          },
+          {
+            "height": 3461,
+            "scrollY": 2741,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:35:37.228Z"
+          },
+          {
+            "height": 3461,
+            "scrollY": 2741,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:35:37.351Z"
+          },
+          {
+            "height": 3461,
+            "scrollY": 2741,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:35:37.474Z"
+          },
+          {
+            "height": 3461,
+            "scrollY": 2741,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:35:37.597Z"
+          },
+          {
+            "height": 3461,
+            "scrollY": 2741,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:35:37.720Z"
+          }
+        ]
+      },
+      "files": {
+        "htmlExists": true,
+        "assetsDirectoryExists": true,
+        "htmlBytes": 43214,
+        "assetsBytes": 434726,
+        "assetCount": 18
+      },
+      "evidence": ".archive-evidence/005.png",
+      "attempts": 1,
+      "archiveMethod": "playwright-rendered-dom-and-responses",
+      "status": "complete",
+      "error": null
+    },
+    {
+      "localFile": "006.html",
+      "title": "Sermon 1003. Speech to Mohawks [c. September 1751] 1003.SpeechtoMohawks (951).doc trans",
+      "requestedUrl": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw%2FYy4zNzo2LndqZW8%3D",
+      "finalUrl": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw%2FYy4zNzo2LndqZW8%3D",
+      "archivedAt": "2026-08-26T12:35:44.256Z",
+      "scroll": {
+        "reachedBottom": true,
+        "stabilized": true,
+        "stabilizedHeight": 3230,
+        "stableSamples": 4,
+        "measurementCount": 9,
+        "measurements": [
+          {
+            "height": 3221,
+            "scrollY": 540,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:35:42.220Z"
+          },
+          {
+            "height": 3194,
+            "scrollY": 1053,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:35:42.343Z"
+          },
+          {
+            "height": 3194,
+            "scrollY": 1593,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:35:42.467Z"
+          },
+          {
+            "height": 3194,
+            "scrollY": 2133,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:35:42.588Z"
+          },
+          {
+            "height": 3230,
+            "scrollY": 2510,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:35:42.712Z"
+          },
+          {
+            "height": 3230,
+            "scrollY": 2510,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:35:42.835Z"
+          },
+          {
+            "height": 3230,
+            "scrollY": 2510,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:35:42.958Z"
+          },
+          {
+            "height": 3230,
+            "scrollY": 2510,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:35:43.081Z"
+          },
+          {
+            "height": 3230,
+            "scrollY": 2510,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:35:43.202Z"
+          }
+        ]
+      },
+      "files": {
+        "htmlExists": true,
+        "assetsDirectoryExists": true,
+        "htmlBytes": 42765,
+        "assetsBytes": 434726,
+        "assetCount": 18
+      },
+      "evidence": ".archive-evidence/006.png",
+      "attempts": 1,
+      "archiveMethod": "playwright-rendered-dom-and-responses",
+      "status": "complete",
+      "error": null
+    },
+    {
+      "localFile": "007.html",
+      "title": "Drafts of Professions of Faith Drafts of Professions",
+      "requestedUrl": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw%2FYy4zNzo3LndqZW8%3D",
+      "finalUrl": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw%2FYy4zNzo3LndqZW8%3D",
+      "archivedAt": "2026-08-26T12:35:50.227Z",
+      "scroll": {
+        "reachedBottom": true,
+        "stabilized": true,
+        "stabilizedHeight": 3993,
+        "stableSamples": 4,
+        "measurementCount": 11,
+        "measurements": [
+          {
+            "height": 3665,
+            "scrollY": 540,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:35:47.936Z"
+          },
+          {
+            "height": 3957,
+            "scrollY": 1053,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:35:48.059Z"
+          },
+          {
+            "height": 3957,
+            "scrollY": 1593,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:35:48.181Z"
+          },
+          {
+            "height": 3993,
+            "scrollY": 2169,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:35:48.310Z"
+          },
+          {
+            "height": 3993,
+            "scrollY": 2709,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:35:48.432Z"
+          },
+          {
+            "height": 3993,
+            "scrollY": 3249,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:35:48.555Z"
+          },
+          {
+            "height": 3993,
+            "scrollY": 3273,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:35:48.677Z"
+          },
+          {
+            "height": 3993,
+            "scrollY": 3273,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:35:48.800Z"
+          },
+          {
+            "height": 3993,
+            "scrollY": 3273,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:35:48.923Z"
+          },
+          {
+            "height": 3993,
+            "scrollY": 3273,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:35:49.046Z"
+          },
+          {
+            "height": 3993,
+            "scrollY": 3273,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:35:49.170Z"
+          }
+        ]
+      },
+      "files": {
+        "htmlExists": true,
+        "assetsDirectoryExists": true,
+        "htmlBytes": 54645,
+        "assetsBytes": 434726,
+        "assetCount": 18
+      },
+      "evidence": ".archive-evidence/007.png",
+      "attempts": 1,
+      "archiveMethod": "playwright-rendered-dom-and-responses",
+      "status": "complete",
+      "error": null
+    },
+    {
+      "localFile": "008.html",
+      "title": "“Account of Capt. Kellogg's Treatment of Mr. Hollis’ Scholars” Acct of Kelloggs Treatmt",
+      "requestedUrl": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw%2FYy4zNzo4LndqZW8%3D",
+      "finalUrl": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw%2FYy4zNzo4LndqZW8%3D",
+      "archivedAt": "2026-08-26T12:35:56.172Z",
+      "scroll": {
+        "reachedBottom": true,
+        "stabilized": true,
+        "stabilizedHeight": 4549,
+        "stableSamples": 4,
+        "measurementCount": 12,
+        "measurements": [
+          {
+            "height": 4159,
+            "scrollY": 540,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:35:53.757Z"
+          },
+          {
+            "height": 4514,
+            "scrollY": 1053,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:35:53.880Z"
+          },
+          {
+            "height": 4514,
+            "scrollY": 1593,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:35:54.002Z"
+          },
+          {
+            "height": 4549,
+            "scrollY": 2169,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:35:54.130Z"
+          },
+          {
+            "height": 4549,
+            "scrollY": 2709,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:35:54.259Z"
+          },
+          {
+            "height": 4549,
+            "scrollY": 3249,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:35:54.382Z"
+          },
+          {
+            "height": 4549,
+            "scrollY": 3789,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:35:54.505Z"
+          },
+          {
+            "height": 4549,
+            "scrollY": 3829,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:35:54.628Z"
+          },
+          {
+            "height": 4549,
+            "scrollY": 3829,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:35:54.751Z"
+          },
+          {
+            "height": 4549,
+            "scrollY": 3829,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:35:54.874Z"
+          },
+          {
+            "height": 4549,
+            "scrollY": 3829,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:35:54.997Z"
+          },
+          {
+            "height": 4549,
+            "scrollY": 3829,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:35:55.121Z"
+          }
+        ]
+      },
+      "files": {
+        "htmlExists": true,
+        "assetsDirectoryExists": true,
+        "htmlBytes": 50739,
+        "assetsBytes": 434726,
+        "assetCount": 18
+      },
+      "evidence": ".archive-evidence/008.png",
+      "attempts": 1,
+      "archiveMethod": "playwright-rendered-dom-and-responses",
+      "status": "complete",
+      "error": null
+    },
+    {
+      "localFile": "009.html",
+      "title": "Account of Stockbridge Female Indian Boarding School Abigail Dwight Indian School Account edited",
+      "requestedUrl": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw%2FYy4zNzo5LndqZW8%3D",
+      "finalUrl": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw%2FYy4zNzo5LndqZW8%3D",
+      "archivedAt": "2026-08-26T12:36:02.030Z",
+      "scroll": {
+        "reachedBottom": true,
+        "stabilized": true,
+        "stabilizedHeight": 4220,
+        "stableSamples": 4,
+        "measurementCount": 11,
+        "measurements": [
+          {
+            "height": 4076,
+            "scrollY": 540,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:35:59.742Z"
+          },
+          {
+            "height": 4220,
+            "scrollY": 1053,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:35:59.865Z"
+          },
+          {
+            "height": 4220,
+            "scrollY": 1593,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:35:59.987Z"
+          },
+          {
+            "height": 4220,
+            "scrollY": 2133,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:36:00.117Z"
+          },
+          {
+            "height": 4220,
+            "scrollY": 2673,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:36:00.240Z"
+          },
+          {
+            "height": 4220,
+            "scrollY": 3213,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:36:00.363Z"
+          },
+          {
+            "height": 4220,
+            "scrollY": 3500,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:36:00.486Z"
+          },
+          {
+            "height": 4220,
+            "scrollY": 3500,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:36:00.608Z"
+          },
+          {
+            "height": 4220,
+            "scrollY": 3500,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:36:00.731Z"
+          },
+          {
+            "height": 4220,
+            "scrollY": 3500,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:36:00.854Z"
+          },
+          {
+            "height": 4220,
+            "scrollY": 3500,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:36:00.977Z"
+          }
+        ]
+      },
+      "files": {
+        "htmlExists": true,
+        "assetsDirectoryExists": true,
+        "htmlBytes": 48709,
+        "assetsBytes": 434726,
+        "assetCount": 18
+      },
+      "evidence": ".archive-evidence/009.png",
+      "attempts": 1,
+      "archiveMethod": "playwright-rendered-dom-and-responses",
+      "status": "complete",
+      "error": null
+    },
+    {
+      "localFile": "010.html",
+      "title": "Meeting of Northampton First Precinct, October 19, 1749 N'ton 1st Precinct 10-19-49",
+      "requestedUrl": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw%2FYy4zNzoxMC53amVv",
+      "finalUrl": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw%2FYy4zNzoxMC53amVv",
+      "archivedAt": "2026-08-26T12:36:07.504Z",
+      "scroll": {
+        "reachedBottom": true,
+        "stabilized": true,
+        "stabilizedHeight": 1913,
+        "stableSamples": 4,
+        "measurementCount": 7,
+        "measurements": [
+          {
+            "height": 1940,
+            "scrollY": 540,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:36:05.469Z"
+          },
+          {
+            "height": 1913,
+            "scrollY": 1053,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:36:05.592Z"
+          },
+          {
+            "height": 1913,
+            "scrollY": 1193,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:36:05.715Z"
+          },
+          {
+            "height": 1913,
+            "scrollY": 1193,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:36:05.836Z"
+          },
+          {
+            "height": 1913,
+            "scrollY": 1193,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:36:05.959Z"
+          },
+          {
+            "height": 1913,
+            "scrollY": 1193,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:36:06.082Z"
+          },
+          {
+            "height": 1913,
+            "scrollY": 1193,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:36:06.206Z"
+          }
+        ]
+      },
+      "files": {
+        "htmlExists": true,
+        "assetsDirectoryExists": true,
+        "htmlBytes": 36571,
+        "assetsBytes": 434726,
+        "assetCount": 18
+      },
+      "evidence": ".archive-evidence/010.png",
+      "attempts": 1,
+      "archiveMethod": "playwright-rendered-dom-and-responses",
+      "status": "complete",
+      "error": null
+    },
+    {
+      "localFile": "011.html",
+      "title": "Meeting of Northampton First Precinct, November 2, 1749 N'ton 1st Precinct 11-2-49",
+      "requestedUrl": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw%2FYy4zNzoxMS53amVv",
+      "finalUrl": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw%2FYy4zNzoxMS53amVv",
+      "archivedAt": "2026-08-26T12:36:12.947Z",
+      "scroll": {
+        "reachedBottom": true,
+        "stabilized": true,
+        "stabilizedHeight": 2863,
+        "stableSamples": 4,
+        "measurementCount": 9,
+        "measurements": [
+          {
+            "height": 2866,
+            "scrollY": 540,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:36:10.912Z"
+          },
+          {
+            "height": 2863,
+            "scrollY": 1053,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:36:11.035Z"
+          },
+          {
+            "height": 2863,
+            "scrollY": 1593,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:36:11.158Z"
+          },
+          {
+            "height": 2863,
+            "scrollY": 2133,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:36:11.281Z"
+          },
+          {
+            "height": 2863,
+            "scrollY": 2143,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:36:11.404Z"
+          },
+          {
+            "height": 2863,
+            "scrollY": 2143,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:36:11.526Z"
+          },
+          {
+            "height": 2863,
+            "scrollY": 2143,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:36:11.650Z"
+          },
+          {
+            "height": 2863,
+            "scrollY": 2143,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:36:11.773Z"
+          },
+          {
+            "height": 2863,
+            "scrollY": 2143,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:36:11.896Z"
+          }
+        ]
+      },
+      "files": {
+        "htmlExists": true,
+        "assetsDirectoryExists": true,
+        "htmlBytes": 39304,
+        "assetsBytes": 434726,
+        "assetCount": 18
+      },
+      "evidence": ".archive-evidence/011.png",
+      "attempts": 1,
+      "archiveMethod": "playwright-rendered-dom-and-responses",
+      "status": "complete",
+      "error": null
+    },
+    {
+      "localFile": "012.html",
+      "title": "Meeting of Northampton First Precinct, November 6, 1749 N'ton 1st Precinct 11-6-49",
+      "requestedUrl": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw%2FYy4zNzoxMi53amVv",
+      "finalUrl": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw%2FYy4zNzoxMi53amVv",
+      "archivedAt": "2026-08-26T12:36:18.402Z",
+      "scroll": {
+        "reachedBottom": true,
+        "stabilized": true,
+        "stabilizedHeight": 2685,
+        "stableSamples": 4,
+        "measurementCount": 8,
+        "measurements": [
+          {
+            "height": 2688,
+            "scrollY": 540,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:36:16.437Z"
+          },
+          {
+            "height": 2685,
+            "scrollY": 1053,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:36:16.560Z"
+          },
+          {
+            "height": 2685,
+            "scrollY": 1593,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:36:16.684Z"
+          },
+          {
+            "height": 2685,
+            "scrollY": 1965,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:36:16.807Z"
+          },
+          {
+            "height": 2685,
+            "scrollY": 1965,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:36:16.930Z"
+          },
+          {
+            "height": 2685,
+            "scrollY": 1965,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:36:17.052Z"
+          },
+          {
+            "height": 2685,
+            "scrollY": 1965,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:36:17.175Z"
+          },
+          {
+            "height": 2685,
+            "scrollY": 1965,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:36:17.298Z"
+          }
+        ]
+      },
+      "files": {
+        "htmlExists": true,
+        "assetsDirectoryExists": true,
+        "htmlBytes": 37879,
+        "assetsBytes": 434726,
+        "assetCount": 18
+      },
+      "evidence": ".archive-evidence/012.png",
+      "attempts": 1,
+      "archiveMethod": "playwright-rendered-dom-and-responses",
+      "status": "complete",
+      "error": null
+    },
+    {
+      "localFile": "013.html",
+      "title": "Meeting of Northampton First Precinct, November 8, 1744 N'ton 1st Precinct 11-8-44",
+      "requestedUrl": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw%2FYy4zNzoxMy53amVv",
+      "finalUrl": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw%2FYy4zNzoxMy53amVv",
+      "archivedAt": "2026-08-26T12:36:26.371Z",
+      "scroll": {
+        "reachedBottom": true,
+        "stabilized": true,
+        "stabilizedHeight": 1806,
+        "stableSamples": 4,
+        "measurementCount": 7,
+        "measurements": [
+          {
+            "height": 1833,
+            "scrollY": 540,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:36:21.903Z"
+          },
+          {
+            "height": 1806,
+            "scrollY": 1053,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:36:22.026Z"
+          },
+          {
+            "height": 1806,
+            "scrollY": 1086,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:36:22.150Z"
+          },
+          {
+            "height": 1806,
+            "scrollY": 1086,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:36:22.273Z"
+          },
+          {
+            "height": 1806,
+            "scrollY": 1086,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:36:22.397Z"
+          },
+          {
+            "height": 1806,
+            "scrollY": 1086,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:36:22.518Z"
+          },
+          {
+            "height": 1806,
+            "scrollY": 1086,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:36:22.641Z"
+          }
+        ]
+      },
+      "files": {
+        "htmlExists": true,
+        "assetsDirectoryExists": true,
+        "htmlBytes": 36714,
+        "assetsBytes": 434726,
+        "assetCount": 18
+      },
+      "evidence": ".archive-evidence/013.png",
+      "attempts": 1,
+      "archiveMethod": "playwright-rendered-dom-and-responses",
+      "status": "complete",
+      "error": null
+    },
+    {
+      "localFile": "014.html",
+      "title": "Meeting of Northampton First Precinct, November 9, 1749 (1) N'ton 1st Precinct 11-9-49(1)",
+      "requestedUrl": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw%2FYy4zNzoxNC53amVv",
+      "finalUrl": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw%2FYy4zNzoxNC53amVv",
+      "archivedAt": "2026-08-26T12:36:31.798Z",
+      "scroll": {
+        "reachedBottom": true,
+        "stabilized": true,
+        "stabilizedHeight": 2483,
+        "stableSamples": 4,
+        "measurementCount": 8,
+        "measurements": [
+          {
+            "height": 2510,
+            "scrollY": 540,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:36:29.771Z"
+          },
+          {
+            "height": 2483,
+            "scrollY": 1053,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:36:29.893Z"
+          },
+          {
+            "height": 2483,
+            "scrollY": 1593,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:36:30.016Z"
+          },
+          {
+            "height": 2483,
+            "scrollY": 1763,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:36:30.141Z"
+          },
+          {
+            "height": 2483,
+            "scrollY": 1763,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:36:30.270Z"
+          },
+          {
+            "height": 2483,
+            "scrollY": 1763,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:36:30.393Z"
+          },
+          {
+            "height": 2483,
+            "scrollY": 1763,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:36:30.517Z"
+          },
+          {
+            "height": 2483,
+            "scrollY": 1763,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:36:30.640Z"
+          }
+        ]
+      },
+      "files": {
+        "htmlExists": true,
+        "assetsDirectoryExists": true,
+        "htmlBytes": 38500,
+        "assetsBytes": 434726,
+        "assetCount": 18
+      },
+      "evidence": ".archive-evidence/014.png",
+      "attempts": 1,
+      "archiveMethod": "playwright-rendered-dom-and-responses",
+      "status": "complete",
+      "error": null
+    },
+    {
+      "localFile": "015.html",
+      "title": "Meeting of the Northampton First Precinct, November 9, 1749(2) N'ton 1st Precinct 11-9-49(2)",
+      "requestedUrl": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw%2FYy4zNzoxNS53amVv",
+      "finalUrl": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw%2FYy4zNzoxNS53amVv",
+      "archivedAt": "2026-08-26T12:36:37.221Z",
+      "scroll": {
+        "reachedBottom": true,
+        "stabilized": true,
+        "stabilizedHeight": 1985,
+        "stableSamples": 4,
+        "measurementCount": 7,
+        "measurements": [
+          {
+            "height": 1782,
+            "scrollY": 540,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:36:35.194Z"
+          },
+          {
+            "height": 1985,
+            "scrollY": 1053,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:36:35.317Z"
+          },
+          {
+            "height": 1985,
+            "scrollY": 1265,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:36:35.440Z"
+          },
+          {
+            "height": 1985,
+            "scrollY": 1265,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:36:35.563Z"
+          },
+          {
+            "height": 1985,
+            "scrollY": 1265,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:36:35.686Z"
+          },
+          {
+            "height": 1985,
+            "scrollY": 1265,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:36:35.810Z"
+          },
+          {
+            "height": 1985,
+            "scrollY": 1265,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:36:35.933Z"
+          }
+        ]
+      },
+      "files": {
+        "htmlExists": true,
+        "assetsDirectoryExists": true,
+        "htmlBytes": 38484,
+        "assetsBytes": 434726,
+        "assetCount": 18
+      },
+      "evidence": ".archive-evidence/015.png",
+      "attempts": 1,
+      "archiveMethod": "playwright-rendered-dom-and-responses",
+      "status": "complete",
+      "error": null
+    },
+    {
+      "localFile": "016.html",
+      "title": "Meeting of the Northampton First Precinct, December 1746 N'ton 1st Precinct 12-46",
+      "requestedUrl": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw%2FYy4zNzoxNi53amVv",
+      "finalUrl": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw%2FYy4zNzoxNi53amVv",
+      "archivedAt": "2026-08-26T12:36:42.658Z",
+      "scroll": {
+        "reachedBottom": true,
+        "stabilized": true,
+        "stabilizedHeight": 3233,
+        "stableSamples": 4,
+        "measurementCount": 9,
+        "measurements": [
+          {
+            "height": 3206,
+            "scrollY": 540,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:36:40.619Z"
+          },
+          {
+            "height": 3233,
+            "scrollY": 1053,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:36:40.742Z"
+          },
+          {
+            "height": 3233,
+            "scrollY": 1593,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:36:40.865Z"
+          },
+          {
+            "height": 3233,
+            "scrollY": 2133,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:36:40.987Z"
+          },
+          {
+            "height": 3233,
+            "scrollY": 2513,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:36:41.110Z"
+          },
+          {
+            "height": 3233,
+            "scrollY": 2513,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:36:41.234Z"
+          },
+          {
+            "height": 3233,
+            "scrollY": 2513,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:36:41.357Z"
+          },
+          {
+            "height": 3233,
+            "scrollY": 2513,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:36:41.480Z"
+          },
+          {
+            "height": 3233,
+            "scrollY": 2513,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:36:41.601Z"
+          }
+        ]
+      },
+      "files": {
+        "htmlExists": true,
+        "assetsDirectoryExists": true,
+        "htmlBytes": 39885,
+        "assetsBytes": 434726,
+        "assetCount": 18
+      },
+      "evidence": ".archive-evidence/016.png",
+      "attempts": 1,
+      "archiveMethod": "playwright-rendered-dom-and-responses",
+      "status": "complete",
+      "error": null
+    },
+    {
+      "localFile": "017.html",
+      "title": "Meeting of Northampton First Precinct, December 1749 N'ton 1st Precinct 12-49",
+      "requestedUrl": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw%2FYy4zNzoxNy53amVv",
+      "finalUrl": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw%2FYy4zNzoxNy53amVv",
+      "archivedAt": "2026-08-26T12:36:48.063Z",
+      "scroll": {
+        "reachedBottom": true,
+        "stabilized": true,
+        "stabilizedHeight": 2218,
+        "stableSamples": 4,
+        "measurementCount": 7,
+        "measurements": [
+          {
+            "height": 2245,
+            "scrollY": 540,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:36:46.095Z"
+          },
+          {
+            "height": 2218,
+            "scrollY": 1053,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:36:46.218Z"
+          },
+          {
+            "height": 2218,
+            "scrollY": 1498,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:36:46.342Z"
+          },
+          {
+            "height": 2218,
+            "scrollY": 1498,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:36:46.465Z"
+          },
+          {
+            "height": 2218,
+            "scrollY": 1498,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:36:46.588Z"
+          },
+          {
+            "height": 2218,
+            "scrollY": 1498,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:36:46.711Z"
+          },
+          {
+            "height": 2218,
+            "scrollY": 1498,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:36:46.834Z"
+          }
+        ]
+      },
+      "files": {
+        "htmlExists": true,
+        "assetsDirectoryExists": true,
+        "htmlBytes": 37650,
+        "assetsBytes": 434726,
+        "assetCount": 18
+      },
+      "evidence": ".archive-evidence/017.png",
+      "attempts": 1,
+      "archiveMethod": "playwright-rendered-dom-and-responses",
+      "status": "complete",
+      "error": null
+    },
+    {
+      "localFile": "018.html",
+      "title": "Meeting of the Northampton First Precinct, December 7, 1749 N'ton 1st Precinct 12-7-49",
+      "requestedUrl": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw%2FYy4zNzoxOC53amVv",
+      "finalUrl": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw%2FYy4zNzoxOC53amVv",
+      "archivedAt": "2026-08-26T12:36:56.495Z",
+      "scroll": {
+        "reachedBottom": true,
+        "stabilized": true,
+        "stabilizedHeight": 2162,
+        "stableSamples": 4,
+        "measurementCount": 7,
+        "measurements": [
+          {
+            "height": 2189,
+            "scrollY": 540,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:36:53.678Z"
+          },
+          {
+            "height": 2162,
+            "scrollY": 1053,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:36:53.802Z"
+          },
+          {
+            "height": 2162,
+            "scrollY": 1442,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:36:53.925Z"
+          },
+          {
+            "height": 2162,
+            "scrollY": 1442,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:36:54.048Z"
+          },
+          {
+            "height": 2162,
+            "scrollY": 1442,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:36:54.171Z"
+          },
+          {
+            "height": 2162,
+            "scrollY": 1442,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:36:54.302Z"
+          },
+          {
+            "height": 2162,
+            "scrollY": 1442,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:36:54.425Z"
+          }
+        ]
+      },
+      "files": {
+        "htmlExists": true,
+        "assetsDirectoryExists": true,
+        "htmlBytes": 38197,
+        "assetsBytes": 434726,
+        "assetCount": 18
+      },
+      "evidence": ".archive-evidence/018.png",
+      "attempts": 1,
+      "archiveMethod": "playwright-rendered-dom-and-responses",
+      "status": "complete",
+      "error": null
+    },
+    {
+      "localFile": "019.html",
+      "title": "Meeting of Northampton First Precinct, February 10, 1742 N'ton 1st Precinct 2-10-42",
+      "requestedUrl": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw%2FYy4zNzoxOS53amVv",
+      "finalUrl": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw%2FYy4zNzoxOS53amVv",
+      "archivedAt": "2026-08-26T12:37:01.930Z",
+      "scroll": {
+        "reachedBottom": true,
+        "stabilized": true,
+        "stabilizedHeight": 2131,
+        "stableSamples": 4,
+        "measurementCount": 7,
+        "measurements": [
+          {
+            "height": 2158,
+            "scrollY": 540,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:36:59.970Z"
+          },
+          {
+            "height": 2131,
+            "scrollY": 1053,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:37:00.093Z"
+          },
+          {
+            "height": 2131,
+            "scrollY": 1411,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:37:00.219Z"
+          },
+          {
+            "height": 2131,
+            "scrollY": 1411,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:37:00.341Z"
+          },
+          {
+            "height": 2131,
+            "scrollY": 1411,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:37:00.465Z"
+          },
+          {
+            "height": 2131,
+            "scrollY": 1411,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:37:00.587Z"
+          },
+          {
+            "height": 2131,
+            "scrollY": 1411,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:37:00.710Z"
+          }
+        ]
+      },
+      "files": {
+        "htmlExists": true,
+        "assetsDirectoryExists": true,
+        "htmlBytes": 37257,
+        "assetsBytes": 434726,
+        "assetCount": 18
+      },
+      "evidence": ".archive-evidence/019.png",
+      "attempts": 1,
+      "archiveMethod": "playwright-rendered-dom-and-responses",
+      "status": "complete",
+      "error": null
+    },
+    {
+      "localFile": "020.html",
+      "title": "Meeting of Northampton First Precinct, March 14, 1748 N'ton 1st Precinct 3-14-48",
+      "requestedUrl": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw%2FYy4zNzoyMC53amVv",
+      "finalUrl": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw%2FYy4zNzoyMC53amVv",
+      "archivedAt": "2026-08-26T12:37:07.311Z",
+      "scroll": {
+        "reachedBottom": true,
+        "stabilized": true,
+        "stabilizedHeight": 2040,
+        "stableSamples": 4,
+        "measurementCount": 7,
+        "measurements": [
+          {
+            "height": 2067,
+            "scrollY": 540,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:37:05.390Z"
+          },
+          {
+            "height": 2040,
+            "scrollY": 1053,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:37:05.513Z"
+          },
+          {
+            "height": 2040,
+            "scrollY": 1320,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:37:05.637Z"
+          },
+          {
+            "height": 2040,
+            "scrollY": 1320,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:37:05.760Z"
+          },
+          {
+            "height": 2040,
+            "scrollY": 1320,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:37:05.884Z"
+          },
+          {
+            "height": 2040,
+            "scrollY": 1320,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:37:06.007Z"
+          },
+          {
+            "height": 2040,
+            "scrollY": 1320,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:37:06.137Z"
+          }
+        ]
+      },
+      "files": {
+        "htmlExists": true,
+        "assetsDirectoryExists": true,
+        "htmlBytes": 37031,
+        "assetsBytes": 434726,
+        "assetCount": 18
+      },
+      "evidence": ".archive-evidence/020.png",
+      "attempts": 1,
+      "archiveMethod": "playwright-rendered-dom-and-responses",
+      "status": "complete",
+      "error": null
+    },
+    {
+      "localFile": "021.html",
+      "title": "Meeting of Northampton First Precinct, March 4, 1745 N'ton 1st Precinct 3-4-45",
+      "requestedUrl": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw%2FYy4zNzoyMS53amVv",
+      "finalUrl": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw%2FYy4zNzoyMS53amVv",
+      "archivedAt": "2026-08-26T12:37:12.762Z",
+      "scroll": {
+        "reachedBottom": true,
+        "stabilized": true,
+        "stabilizedHeight": 2218,
+        "stableSamples": 4,
+        "measurementCount": 7,
+        "measurements": [
+          {
+            "height": 2245,
+            "scrollY": 540,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:37:10.802Z"
+          },
+          {
+            "height": 2218,
+            "scrollY": 1053,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:37:10.925Z"
+          },
+          {
+            "height": 2218,
+            "scrollY": 1498,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:37:11.049Z"
+          },
+          {
+            "height": 2218,
+            "scrollY": 1498,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:37:11.171Z"
+          },
+          {
+            "height": 2218,
+            "scrollY": 1498,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:37:11.294Z"
+          },
+          {
+            "height": 2218,
+            "scrollY": 1498,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:37:11.417Z"
+          },
+          {
+            "height": 2218,
+            "scrollY": 1498,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:37:11.540Z"
+          }
+        ]
+      },
+      "files": {
+        "htmlExists": true,
+        "assetsDirectoryExists": true,
+        "htmlBytes": 37437,
+        "assetsBytes": 434726,
+        "assetCount": 18
+      },
+      "evidence": ".archive-evidence/021.png",
+      "attempts": 1,
+      "archiveMethod": "playwright-rendered-dom-and-responses",
+      "status": "complete",
+      "error": null
+    },
+    {
+      "localFile": "022.html",
+      "title": "Meeting of Northampton First Precinct, May 16, 1757 N'ton 1st Precinct 5-16-57",
+      "requestedUrl": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw%2FYy4zNzoyMi53amVv",
+      "finalUrl": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw%2FYy4zNzoyMi53amVv",
+      "archivedAt": "2026-08-26T12:37:19.338Z",
+      "scroll": {
+        "reachedBottom": true,
+        "stabilized": true,
+        "stabilizedHeight": 2552,
+        "stableSamples": 4,
+        "measurementCount": 8,
+        "measurements": [
+          {
+            "height": 2503,
+            "scrollY": 540,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:37:16.586Z"
+          },
+          {
+            "height": 2552,
+            "scrollY": 1080,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:37:16.709Z"
+          },
+          {
+            "height": 2552,
+            "scrollY": 1620,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:37:16.833Z"
+          },
+          {
+            "height": 2552,
+            "scrollY": 1832,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:37:16.956Z"
+          },
+          {
+            "height": 2552,
+            "scrollY": 1832,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:37:17.080Z"
+          },
+          {
+            "height": 2552,
+            "scrollY": 1832,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:37:17.201Z"
+          },
+          {
+            "height": 2552,
+            "scrollY": 1832,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:37:17.325Z"
+          },
+          {
+            "height": 2552,
+            "scrollY": 1832,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:37:17.448Z"
+          }
+        ]
+      },
+      "files": {
+        "htmlExists": true,
+        "assetsDirectoryExists": true,
+        "htmlBytes": 41574,
+        "assetsBytes": 434726,
+        "assetCount": 18
+      },
+      "evidence": ".archive-evidence/022.png",
+      "attempts": 1,
+      "archiveMethod": "playwright-rendered-dom-and-responses",
+      "status": "complete",
+      "error": null
+    },
+    {
+      "localFile": "023.html",
+      "title": "Meeting of Northampton First Precinct, July 20, 1750 N'ton 1st Precinct 7-20-50",
+      "requestedUrl": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw%2FYy4zNzoyMy53amVv",
+      "finalUrl": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw%2FYy4zNzoyMy53amVv",
+      "archivedAt": "2026-08-26T12:37:24.744Z",
+      "scroll": {
+        "reachedBottom": true,
+        "stabilized": true,
+        "stabilizedHeight": 2020,
+        "stableSamples": 4,
+        "measurementCount": 7,
+        "measurements": [
+          {
+            "height": 2047,
+            "scrollY": 540,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:37:22.726Z"
+          },
+          {
+            "height": 2020,
+            "scrollY": 1053,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:37:22.850Z"
+          },
+          {
+            "height": 2020,
+            "scrollY": 1300,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:37:22.973Z"
+          },
+          {
+            "height": 2020,
+            "scrollY": 1300,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:37:23.094Z"
+          },
+          {
+            "height": 2020,
+            "scrollY": 1300,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:37:23.217Z"
+          },
+          {
+            "height": 2020,
+            "scrollY": 1300,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:37:23.340Z"
+          },
+          {
+            "height": 2020,
+            "scrollY": 1300,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:37:23.463Z"
+          }
+        ]
+      },
+      "files": {
+        "htmlExists": true,
+        "assetsDirectoryExists": true,
+        "htmlBytes": 37385,
+        "assetsBytes": 434726,
+        "assetCount": 18
+      },
+      "evidence": ".archive-evidence/023.png",
+      "attempts": 1,
+      "archiveMethod": "playwright-rendered-dom-and-responses",
+      "status": "complete",
+      "error": null
+    },
+    {
+      "localFile": "024.html",
+      "title": "Northampton Church Committee Report on Minister's Salary [c. 1748] N'ton Salary Comm. Report 1748",
+      "requestedUrl": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw%2FYy4zNzoyNC53amVv",
+      "finalUrl": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw%2FYy4zNzoyNC53amVv",
+      "archivedAt": "2026-08-26T12:37:33.538Z",
+      "scroll": {
+        "reachedBottom": true,
+        "stabilized": true,
+        "stabilizedHeight": 2970,
+        "stableSamples": 4,
+        "measurementCount": 9,
+        "measurements": [
+          {
+            "height": 2937,
+            "scrollY": 540,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:37:30.769Z"
+          },
+          {
+            "height": 2934,
+            "scrollY": 1053,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:37:30.893Z"
+          },
+          {
+            "height": 2934,
+            "scrollY": 1593,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:37:31.016Z"
+          },
+          {
+            "height": 2934,
+            "scrollY": 2133,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:37:31.139Z"
+          },
+          {
+            "height": 2934,
+            "scrollY": 2214,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:37:31.262Z"
+          },
+          {
+            "height": 2970,
+            "scrollY": 2250,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:37:31.384Z"
+          },
+          {
+            "height": 2970,
+            "scrollY": 2250,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:37:31.507Z"
+          },
+          {
+            "height": 2970,
+            "scrollY": 2250,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:37:31.629Z"
+          },
+          {
+            "height": 2970,
+            "scrollY": 2250,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:37:31.752Z"
+          }
+        ]
+      },
+      "files": {
+        "htmlExists": true,
+        "assetsDirectoryExists": true,
+        "htmlBytes": 39817,
+        "assetsBytes": 434726,
+        "assetCount": 18
+      },
+      "evidence": ".archive-evidence/024.png",
+      "attempts": 1,
+      "archiveMethod": "playwright-rendered-dom-and-responses",
+      "status": "complete",
+      "error": null
+    },
+    {
+      "localFile": "025.html",
+      "title": "Meetings of Northampton Parish and Precinct, 1735-48 N'ton Town-Precinct 1735-48",
+      "requestedUrl": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw%2FYy4zNzoyNS53amVv",
+      "finalUrl": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw%2FYy4zNzoyNS53amVv",
+      "archivedAt": "2026-08-26T12:37:39.562Z",
+      "scroll": {
+        "reachedBottom": true,
+        "stabilized": true,
+        "stabilizedHeight": 5089,
+        "stableSamples": 4,
+        "measurementCount": 13,
+        "measurements": [
+          {
+            "height": 4994,
+            "scrollY": 540,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:37:37.038Z"
+          },
+          {
+            "height": 5089,
+            "scrollY": 1053,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:37:37.160Z"
+          },
+          {
+            "height": 5089,
+            "scrollY": 1593,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:37:37.282Z"
+          },
+          {
+            "height": 5089,
+            "scrollY": 2133,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:37:37.404Z"
+          },
+          {
+            "height": 5089,
+            "scrollY": 2673,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:37:37.526Z"
+          },
+          {
+            "height": 5089,
+            "scrollY": 3213,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:37:37.649Z"
+          },
+          {
+            "height": 5089,
+            "scrollY": 3753,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:37:37.772Z"
+          },
+          {
+            "height": 5089,
+            "scrollY": 4293,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:37:37.895Z"
+          },
+          {
+            "height": 5089,
+            "scrollY": 4369,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:37:38.018Z"
+          },
+          {
+            "height": 5089,
+            "scrollY": 4369,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:37:38.141Z"
+          },
+          {
+            "height": 5089,
+            "scrollY": 4369,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:37:38.264Z"
+          },
+          {
+            "height": 5089,
+            "scrollY": 4369,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:37:38.387Z"
+          },
+          {
+            "height": 5089,
+            "scrollY": 4369,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:37:38.510Z"
+          }
+        ]
+      },
+      "files": {
+        "htmlExists": true,
+        "assetsDirectoryExists": true,
+        "htmlBytes": 48756,
+        "assetsBytes": 434726,
+        "assetCount": 18
+      },
+      "evidence": ".archive-evidence/025.png",
+      "attempts": 1,
+      "archiveMethod": "playwright-rendered-dom-and-responses",
+      "status": "complete",
+      "error": null
+    },
+    {
+      "localFile": "026.html",
+      "title": "Notice of Northampton Precinct Meeting, May 11, 1748 Notice of Precinct Mtg. 5-11-48",
+      "requestedUrl": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw%2FYy4zNzoyNi53amVv",
+      "finalUrl": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw%2FYy4zNzoyNi53amVv",
+      "archivedAt": "2026-08-26T12:37:44.904Z",
+      "scroll": {
+        "reachedBottom": true,
+        "stabilized": true,
+        "stabilizedHeight": 2182,
+        "stableSamples": 4,
+        "measurementCount": 7,
+        "measurements": [
+          {
+            "height": 2182,
+            "scrollY": 540,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:37:42.972Z"
+          },
+          {
+            "height": 2182,
+            "scrollY": 1080,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:37:43.095Z"
+          },
+          {
+            "height": 2182,
+            "scrollY": 1462,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:37:43.218Z"
+          },
+          {
+            "height": 2182,
+            "scrollY": 1462,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:37:43.341Z"
+          },
+          {
+            "height": 2182,
+            "scrollY": 1462,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:37:43.464Z"
+          },
+          {
+            "height": 2182,
+            "scrollY": 1462,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:37:43.587Z"
+          },
+          {
+            "height": 2182,
+            "scrollY": 1462,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:37:43.709Z"
+          }
+        ]
+      },
+      "files": {
+        "htmlExists": true,
+        "assetsDirectoryExists": true,
+        "htmlBytes": 37600,
+        "assetsBytes": 434726,
+        "assetCount": 18
+      },
+      "evidence": ".archive-evidence/026.png",
+      "attempts": 1,
+      "archiveMethod": "playwright-rendered-dom-and-responses",
+      "status": "complete",
+      "error": null
+    },
+    {
+      "localFile": "027.html",
+      "title": "A Copy of the Resolves of a Council of Churches, Met at Northampton, May 11. 1742 Resolves of a Council 5-11-42",
+      "requestedUrl": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw%2FYy4zNzoyNy53amVv",
+      "finalUrl": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw%2FYy4zNzoyNy53amVv",
+      "archivedAt": "2026-08-26T12:37:52.070Z",
+      "scroll": {
+        "reachedBottom": true,
+        "stabilized": true,
+        "stabilizedHeight": 9409,
+        "stableSamples": 4,
+        "measurementCount": 21,
+        "measurements": [
+          {
+            "height": 9148,
+            "scrollY": 540,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:37:48.556Z"
+          },
+          {
+            "height": 9409,
+            "scrollY": 1053,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:37:48.679Z"
+          },
+          {
+            "height": 9409,
+            "scrollY": 1593,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:37:48.801Z"
+          },
+          {
+            "height": 9409,
+            "scrollY": 2133,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:37:48.924Z"
+          },
+          {
+            "height": 9409,
+            "scrollY": 2673,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:37:49.047Z"
+          },
+          {
+            "height": 9409,
+            "scrollY": 3213,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:37:49.170Z"
+          },
+          {
+            "height": 9409,
+            "scrollY": 3753,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:37:49.293Z"
+          },
+          {
+            "height": 9409,
+            "scrollY": 4293,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:37:49.415Z"
+          },
+          {
+            "height": 9409,
+            "scrollY": 4833,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:37:49.537Z"
+          },
+          {
+            "height": 9409,
+            "scrollY": 5373,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:37:49.660Z"
+          },
+          {
+            "height": 9409,
+            "scrollY": 5913,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:37:49.783Z"
+          },
+          {
+            "height": 9409,
+            "scrollY": 6453,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:37:49.907Z"
+          },
+          {
+            "height": 9409,
+            "scrollY": 6993,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:37:50.030Z"
+          },
+          {
+            "height": 9409,
+            "scrollY": 7533,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:37:50.151Z"
+          },
+          {
+            "height": 9409,
+            "scrollY": 8073,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:37:50.274Z"
+          },
+          {
+            "height": 9409,
+            "scrollY": 8613,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:37:50.397Z"
+          },
+          {
+            "height": 9409,
+            "scrollY": 8689,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:37:50.520Z"
+          },
+          {
+            "height": 9409,
+            "scrollY": 8689,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:37:50.643Z"
+          },
+          {
+            "height": 9409,
+            "scrollY": 8689,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:37:50.766Z"
+          },
+          {
+            "height": 9409,
+            "scrollY": 8689,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:37:50.889Z"
+          },
+          {
+            "height": 9409,
+            "scrollY": 8689,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:37:51.012Z"
+          }
+        ]
+      },
+      "files": {
+        "htmlExists": true,
+        "assetsDirectoryExists": true,
+        "htmlBytes": 55154,
+        "assetsBytes": 434726,
+        "assetCount": 18
+      },
+      "evidence": ".archive-evidence/027.png",
+      "attempts": 1,
+      "archiveMethod": "playwright-rendered-dom-and-responses",
+      "status": "complete",
+      "error": null
+    },
+    {
+      "localFile": "028.html",
+      "title": "Copy of a Covenant, Entered into and Subscribed, by the People of God at Northampton . . . March 16, 1742 1742Covenant",
+      "requestedUrl": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw%2FYy4zNzoyOC53amVv",
+      "finalUrl": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw%2FYy4zNzoyOC53amVv",
+      "archivedAt": "2026-08-26T12:37:58.565Z",
+      "scroll": {
+        "reachedBottom": true,
+        "stabilized": true,
+        "stabilizedHeight": 6372,
+        "stableSamples": 4,
+        "measurementCount": 15,
+        "measurements": [
+          {
+            "height": 5172,
+            "scrollY": 540,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:37:55.786Z"
+          },
+          {
+            "height": 6372,
+            "scrollY": 1053,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:37:55.909Z"
+          },
+          {
+            "height": 6372,
+            "scrollY": 1593,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:37:56.032Z"
+          },
+          {
+            "height": 6372,
+            "scrollY": 2133,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:37:56.155Z"
+          },
+          {
+            "height": 6372,
+            "scrollY": 2673,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:37:56.276Z"
+          },
+          {
+            "height": 6372,
+            "scrollY": 3213,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:37:56.399Z"
+          },
+          {
+            "height": 6372,
+            "scrollY": 3753,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:37:56.522Z"
+          },
+          {
+            "height": 6372,
+            "scrollY": 4293,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:37:56.645Z"
+          },
+          {
+            "height": 6372,
+            "scrollY": 4833,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:37:56.768Z"
+          },
+          {
+            "height": 6372,
+            "scrollY": 5373,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:37:56.891Z"
+          },
+          {
+            "height": 6372,
+            "scrollY": 5652,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:37:57.014Z"
+          },
+          {
+            "height": 6372,
+            "scrollY": 5652,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:37:57.138Z"
+          },
+          {
+            "height": 6372,
+            "scrollY": 5652,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:37:57.262Z"
+          },
+          {
+            "height": 6372,
+            "scrollY": 5652,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:37:57.385Z"
+          },
+          {
+            "height": 6372,
+            "scrollY": 5652,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:37:57.508Z"
+          }
+        ]
+      },
+      "files": {
+        "htmlExists": true,
+        "assetsDirectoryExists": true,
+        "htmlBytes": 72910,
+        "assetsBytes": 434726,
+        "assetCount": 18
+      },
+      "evidence": ".archive-evidence/028.png",
+      "attempts": 1,
+      "archiveMethod": "playwright-rendered-dom-and-responses",
+      "status": "complete",
+      "error": null
+    },
+    {
+      "localFile": "029.html",
+      "title": "Advice to Mr. and Mrs. Kingsley, February 17, 1743 Kingsley Case (all)",
+      "requestedUrl": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw%2FYy4zNzoyOS53amVv",
+      "finalUrl": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw%2FYy4zNzoyOS53amVv",
+      "archivedAt": "2026-08-26T12:38:07.052Z",
+      "scroll": {
+        "reachedBottom": true,
+        "stabilized": true,
+        "stabilizedHeight": 8585,
+        "stableSamples": 4,
+        "measurementCount": 19,
+        "measurements": [
+          {
+            "height": 8577,
+            "scrollY": 540,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:38:03.772Z"
+          },
+          {
+            "height": 8550,
+            "scrollY": 1053,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:38:03.894Z"
+          },
+          {
+            "height": 8550,
+            "scrollY": 1593,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:38:04.018Z"
+          },
+          {
+            "height": 8550,
+            "scrollY": 2133,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:38:04.141Z"
+          },
+          {
+            "height": 8550,
+            "scrollY": 2673,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:38:04.264Z"
+          },
+          {
+            "height": 8550,
+            "scrollY": 3213,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:38:04.387Z"
+          },
+          {
+            "height": 8550,
+            "scrollY": 3753,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:38:04.509Z"
+          },
+          {
+            "height": 8585,
+            "scrollY": 4328,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:38:04.632Z"
+          },
+          {
+            "height": 8585,
+            "scrollY": 4868,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:38:04.754Z"
+          },
+          {
+            "height": 8585,
+            "scrollY": 5408,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:38:04.876Z"
+          },
+          {
+            "height": 8585,
+            "scrollY": 5948,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:38:04.999Z"
+          },
+          {
+            "height": 8585,
+            "scrollY": 6488,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:38:05.123Z"
+          },
+          {
+            "height": 8585,
+            "scrollY": 7028,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:38:05.246Z"
+          },
+          {
+            "height": 8585,
+            "scrollY": 7568,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:38:05.369Z"
+          },
+          {
+            "height": 8585,
+            "scrollY": 7865,
+            "viewportHeight": 720,
+            "bottom": false,
+            "measuredAt": "2026-08-26T12:38:05.493Z"
+          },
+          {
+            "height": 8585,
+            "scrollY": 7865,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:38:05.616Z"
+          },
+          {
+            "height": 8585,
+            "scrollY": 7865,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:38:05.740Z"
+          },
+          {
+            "height": 8585,
+            "scrollY": 7865,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:38:05.863Z"
+          },
+          {
+            "height": 8585,
+            "scrollY": 7865,
+            "viewportHeight": 720,
+            "bottom": true,
+            "measuredAt": "2026-08-26T12:38:05.985Z"
+          }
+        ]
+      },
+      "files": {
+        "htmlExists": true,
+        "assetsDirectoryExists": true,
+        "htmlBytes": 79317,
+        "assetsBytes": 434726,
+        "assetCount": 18
+      },
+      "evidence": ".archive-evidence/029.png",
+      "attempts": 1,
+      "archiveMethod": "playwright-rendered-dom-and-responses",
+      "status": "complete",
+      "error": null
+    }
+  ]
+}
