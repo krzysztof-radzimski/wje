@@ -11,7 +11,7 @@ args = ["/Applications/code-architect.app/Contents/Resources/backend/dist/mcp/ta
 [mcp_servers.abc-task.env]
 ABC_BACKEND_PORT = "5145"
 ABC_PROJECT_ID = "21"
-ABC_TASK_ID = "2645"
+ABC_TASK_ID = "2643"
 
 [mcp_servers.abc-task-context]
 command = "node"
@@ -20,7 +20,3 @@ args = ["/Applications/code-architect.app/Contents/Resources/backend/dist/mcp/ta
 [mcp_servers.abc-task-context.env]
 ABC_BACKEND_PORT = "5145"
 ABC_PROJECT_ID = "21"
-
-[mcp_servers.abc-browser]
-command = "node"
-args = ["/Applications/code-architect.app/Contents/Resources/backend/node_modules/@playwright/mcp/cli.js", "--browser", "msedge", "--headless", "--isolated", "--output-dir", "/var/folders/hz/f689k2lj6dbcqnlfzw9zlzqw0000gn/T/browser-mcp-output/2645"]
