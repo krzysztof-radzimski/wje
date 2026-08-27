@@ -514,7 +514,7 @@ he had the wor the message given him in heaven that he was to deliver to man as 
 
 ____________________________________________________________________
 
-3. X ob Kept his Fathers Commandments in working those miracles which for the Confirmation of his doc X wrought abundance of miracles but he all the while was only working the works of him thpat sent him. As X said upon occasion of his being about to open the Eyes of him that was blind from his Birth in the beginnng of 9 Chap of Joh. the disciples asked X Concerning the blind man who sin'd either he ---- -- X answers neither hath this man sin'd nor his Parents but that the works of G. should be made manifest & saith he I must work the works of him that sent me while it is day the night Cometh when no man can work .
+3. X ob Kept his Fathers Commandments in working those miracles which for the Confirmation of his doc X wrought abundance of miracles but he all the while was only working the works of him that sent him. As X said upon occasion of his being about to open the Eyes of him that was blind from his Birth in the beginnng of 9 Chap of Joh. the disciples asked X Concerning the blind man who sin'd either he ---- -- X answers neither hath this man sin'd nor his Parents but that the works of G. should be made manifest & saith he I must work the works of him that sent me while it is day the night Cometh when no man can work .
 
 ________________________
 

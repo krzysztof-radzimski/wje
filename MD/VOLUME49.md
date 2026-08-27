@@ -582,7 +582,7 @@ we should be disposed if we have Recieveed Pardon for all our sins & h are Recie
 
 __________________________
 
-if we have much Spiritual Comforts . we & Joys we should ascribe all this to X be sensible that we have not the Least drop of Sp. Comfort but what he Graciously admninisters to us & we shouls Love to own him as the author & fountain of all our Comf.
+if we have much Spiritual Comforts . we & Joys we should ascribe all this to X be sensible that we have not the Least drop of Sp. Comfort but what he Graciously admninisters to us & we should Love to own him as the author & fountain of all our Comf.
 
 _____________________________________
 
@@ -7156,7 +7156,7 @@ _____________
 
 ___________________
 
-& there were some others among them that were altogether for the G. of Isr. & wholly Rejected Baal as G. tells Elijah . that he had yet Left in Is. seven thous. & that had not bowed the Knee to Baal & whouse mouths had not Kissed him
+& there were some others among them that were altogether for the G. of Isr. & wholly Rejected Baal as G. tells Elijah . that he had yet Left in Is. seven thous. & that had not bowed the Knee to Baal & whose mouths had not Kissed him
 
 _________________
 
@@ -7758,7 +7758,7 @@ ________________________________________________________________________
 
 __________________________
 
-But it never shall be wholly forgotten but Care is taken by these Institutions the will be a means of Keeping up the memory of them throgh all ages till X Comes the scond time .
+But it never shall be wholly forgotten but Care is taken by these Institutions the will be a means of Keeping up the memory of them through all ages till X Comes the scond time .
 
 ________________________________________________________________________
 
@@ -15926,7 +15926,7 @@ nor will he do injustice if he brings Great Terrour most harden'd sinners have t
 
 _____________________
 
-some the Greatest Light at at first that Everothers have muuch more Clear Light afterw
+some the Greatest Light at at first that Everothers have much more Clear Light afterw
 
 ____________
 

@@ -9312,7 +9312,7 @@ we Cant serve X in doing our duty to our Neighour without Labour there must be a
 
 _______________________________________________________
 
-2 . By their taking of X Yok Yoke upon them is meant the taking that self denial of a subjection selfdenial of X service upon them . men Cant be subject to X Governmt. withoug a Great deal of sub selfdenial . if men would be subject to X they must deny themselve many strong Inclinations that are & appetites . they must deny all their Lusts they must deny their Covetousness & pride & sensuality they must deny themselves of their Honour & Profit & pleasure However dear those things may be to them they must be Renounced .
+2 . By their taking of X Yok Yoke upon them is meant the taking that self denial of a subjection selfdenial of X service upon them . men Cant be subject to X Governmt. without a Great deal of sub selfdenial . if men would be subject to X they must deny themselve many strong Inclinations that are & appetites . they must deny all their Lusts they must deny their Covetousness & pride & sensuality they must deny themselves of their Honour & Profit & pleasure However dear those things may be to them they must be Renounced .
 
 _____________________________
 
@@ -11384,7 +11384,7 @@ But this Objection is not sufficient against the Perpe weak & insufficient for t
 
 _____________________________________________________________
 
-1st Place if it should be allowed that there was no morality belonged to the Command but that the duty Required is foundd meerly upon arbitrary Institution. that will not it Cant therefore be Certainly Concluded that the Command is not perpetual. we know there may be Commands in force under the Gospel & to the End of the T that are not moral such are the [^038-note23] tw Institutions of the two sacram. & why why may there not be a Command Positive Command in force in all ages of the Church . if Positive In Arbitrary Institutions in force in Gosp times what is there that Concludes that there Can be no Positive Precept before Gospel times that shall Yet Continue . . But
+1st Place if it should be allowed that there was no morality belonged to the Command but that the duty Required is founded meerly upon arbitrary Institution. that will not it Cant therefore be Certainly Concluded that the Command is not perpetual. we know there may be Commands in force under the Gospel & to the End of the T that are not moral such are the [^038-note23] tw Institutions of the two sacram. & why why may there not be a Command Positive Command in force in all ages of the Church . if Positive In Arbitrary Institutions in force in Gosp times what is there that Concludes that there Can be no Positive Precept before Gospel times that shall Yet Continue . . But
 
 _________________________________________________________
 
@@ -12190,7 +12190,7 @@ The heavenly state is that which Gods Infinite wisd. has Contrived for happiness
 
 ___________________
 
-& doubtless that which is a part of the happiness of heaven is Pleasant & delightfull here in this 0 Gods Gr a life of fervent serving of G. is a pleasant life here in this 0 wisd. ways are ways ------------------- [Prov. 2.17] he therefore thta desireth life & would see Good days Let him eschew Evil & ----------------
+& doubtless that which is a part of the happiness of heaven is Pleasant & delightfull here in this 0 Gods Gr a life of fervent serving of G. is a pleasant life here in this 0 wisd. ways are ways ------------------- [Prov. 2.17] he therefore that desireth life & would see Good days Let him eschew Evil & ----------------
 
 ________________
 

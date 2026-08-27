@@ -9254,7 +9254,7 @@ Act. 24. 25. And as He reasoned of Righteousness Temperance and Judgment to come
 
 _______________________
 
-Subject sinners delaying and putting off thte great concern of their souls 'till hereafter a supposed more convenient season
+Subject sinners delaying and putting off the great concern of their souls 'till hereafter a supposed more convenient season
 
 _____
 

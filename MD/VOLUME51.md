@@ -4292,7 +4292,7 @@ The Infinite Happin. of G. the F. Seems to Consist in the delight he has in his 
 
 ___________________________________________
 
-2. X accounted him worthy to be the heir of all things. as he is the only begotten Son of G. So he is the heir of G. Gods heir. an as he is the only begotten Son S he is Gods the heir of all that G. Possesses as Isa Abraham Gave Iss Isaac all that he had who is called Abrahams only Son as in the 2d v. of our Context he hath in these Last days Spoken to us by his Son whom he hath appointed Heir of all Things. as X has built all thngs so the house is G. His Heb. 3. 3. 4. .
+2. X accounted him worthy to be the heir of all things. as he is the only begotten Son of G. So he is the heir of G. Gods heir. an as he is the only begotten Son S he is Gods the heir of all that G. Possesses as Isa Abraham Gave Iss Isaac all that he had who is called Abrahams only Son as in the 2d v. of our Context he hath in these Last days Spoken to us by his Son whom he hath appointed Heir of all Things. as X has built all things so the house is G. His Heb. 3. 3. 4. .
 
 ____________
 
@@ -4720,7 +4720,7 @@ but if you it is not so with you but you find that you have & moved to G. to Hea
 
 ______________________________________________________
 
-2. If you mifht have your true Choice would you LIve alwaies in this Θ without G. are Rather than in Gods times to Love the Θ for the sake of the Enjoyment to be with G. in the full Enjoyment if you might live here in Earthly Preferment to all Et. but [destinct] of [the ony] the Pref. of God & Communion with him & have no spiritual Divine Intercourse between G. & your soul can to Live in G. & G. & you to Live as [ ] as strangers one to another forever to de Love the Θ to Go & dwell in Gods House in Heav. as [] a Child of his & there to Enjoy the Glo. [Pleasures] of Chil. in an Holy & Perfect Love to G. & Enjoym. of G. to all Et. [^013-note19]
+2. If you might have your true Choice would you LIve alwaies in this Θ without G. are Rather than in Gods times to Love the Θ for the sake of the Enjoyment to be with G. in the full Enjoyment if you might live here in Earthly Preferment to all Et. but [destinct] of [the ony] the Pref. of God & Communion with him & have no spiritual Divine Intercourse between G. & your soul can to Live in G. & G. & you to Live as [ ] as strangers one to another forever to de Love the Θ to Go & dwell in Gods House in Heav. as [] a Child of his & there to Enjoy the Glo. [Pleasures] of Chil. in an Holy & Perfect Love to G. & Enjoym. of G. to all Et. [^013-note19]
 
 ________________________________________________________
 
@@ -5332,7 +5332,7 @@ _________________________________
 
 ___________________
 
-3. It the Sp. of G. also tends to it in confirming INstances. of them [ ] that in those that were converted before that such a Remarkable when the Sp. of G. is Poured on on [sic] a People it is not only in the mannerwanted to awaken & convert them but also on the converted to Remain & continue Grace [^015-note14] Grace in them & to Give them Envision the Experience of it. when it is not a [sign] of the Pouring at out of the Sp. of G. on a People People very Commonly tis a Dull & De3ad time with the Godly as well as other & they have that Zeal against sin Dont oppose the Pouring Acts & nor Exert thems. for the Renewal of those things that are amongst many a People as they have a Sp. to do when They they are more [E li senid]. they have one heart to
+3. It the Sp. of G. also tends to it in confirming INstances. of them [ ] that in those that were converted before that such a Remarkable when the Sp. of G. is Poured on on [sic] a People it is not only in the mannerwanted to awaken & convert them but also on the converted to Remain & continue Grace [^015-note14] Grace in them & to Give them Envision the Experience of it. when it is not a [sign] of the Pouring at out of the Sp. of G. on a People People very Commonly tis a Dull & Dead time with the Godly as well as other & they have that Zeal against sin Dont oppose the Pouring Acts & nor Exert thems. for the Renewal of those things that are amongst many a People as they have a Sp. to do when They they are more [E li senid]. they have one heart to
 
 _________________________
 
@@ -5496,7 +5496,7 @@ the SS. warns us at against all these things that appease tend to [Enchidle] Lus
 
 _______________
 
-& if any one says that he is [Pra tices] it often & never tend the it tempts to him yet that want [Justily] the Practice. so that which does Prove for it is so has been so without Doubt in thousands of Instances tho that which no tempt so a person at one time has seen a temptation that has overcome him at another & will you there3f. Ruin the [weakness] till you [overcome] are over come & it [] some Instance it has of Persons that cant never found it a [sins] to them yet if we Look in the [Pride ] in the [G ch] it be a [former] & occasion of a Great Tend to a Great in fact an [accountion] of a Great deal of wicked- [^015-note44] ness it ought to be avoided the by all that have the Interest of virtue at Heart & would Keep Good [Case] before God.
+& if any one says that he is [Pra tices] it often & never tend the it tempts to him yet that want [Justily] the Practice. so that which does Prove for it is so has been so without Doubt in thousands of Instances tho that which no tempt so a person at one time has seen a temptation that has overcome him at another & will you theref. Ruin the [weakness] till you [overcome] are over come & it [] some Instance it has of Persons that cant never found it a [sins] to them yet if we Look in the [Pride ] in the [G ch] it be a [former] & occasion of a Great Tend to a Great in fact an [accountion] of a Great deal of wicked- [^015-note44] ness it ought to be avoided the by all that have the Interest of virtue at Heart & would Keep Good [Case] before God.
 
 ______________
 
@@ -8536,7 +8536,7 @@ ____________________________________________
 
 ________________________________________
 
-3. all meer Creatures are nothing to him. as man is in his fallen state. all things are nothing to him athey Can do without X they Can do him no Good so that man by his fall not only abolished hims. but as to hims he abolished the whole Θ all was annihilated as it were by that one act of sin th the Eating the forbid-- --------------- & theref. when man is Conv. all is Created a new to him. all thing Galat 2 Cor 5. 17. all things are become new :
+3. all meer Creatures are nothing to him. as man is in his fallen state. all things are nothing to him that they Can do without X they Can do him no Good so that man by his fall not only abolished hims. but as to hims he abolished the whole Θ all was annihilated as it were by that one act of sin th the Eating the forbid-- --------------- & theref. when man is Conv. all is Created a new to him. all thing Galat 2 Cor 5. 17. all things are become new :
 
 _________________
 
@@ -10056,7 +10056,7 @@ The understanding is under the Reigning Power of this Enmity against G. when so 
 
 _________________________________________________
 
-3. The Power of the Enmity of a natural man against G. is so Great that tis Insuperable. it has to Great & strong a Possession of the H. to be overcome by any Created Power. no the the natural men Cant overcome their own Enmity. Let em strive never so much with their own Hearts indeed a natrual man nver sincerely strives to Root out his Enmity against G ne his Endeavours are hypocritical . he delights in his Enmity & Chooses it.
+3. The Power of the Enmity of a natural man against G. is so Great that tis Insuperable. it has to Great & strong a Possession of the H. to be overcome by any Created Power. no the the natural men Cant overcome their own Enmity. Let em strive never so much with their own Hearts indeed a natural man never sincerely strives to Root out his Enmity against G ne his Endeavours are hypocritical . he delights in his Enmity & Chooses it.
 
 ____________________________
 
@@ -10212,7 +10212,7 @@ the Exercise of Corruption thene may may & often does Prevent its working in oth
 
 ________________
 
-men are very often apt to think thtings are so as they would have and an so as if they were not they would wish they were. wish to have em be the same Principle disposes you to think G. has no Life which if you Knew he had would dispose you if it were Possible to take it away.
+men are very often apt to think things are so as they would have and an so as if they were not they would wish they were. wish to have em be the same Principle disposes you to think G. has no Life which if you Knew he had would dispose you if it were Possible to take it away.
 
 ____________________________________________________
 
@@ -13706,7 +13706,7 @@ but all these things are works of mercy to his People They are all for their Goo
 
 ____________________
 
-But I would show this in some particularly not Pretending to mention how Gods wonders are without number as the Psalmist says in the 40 Ps at 5. v. so may we say many O L. my G. are thy works wonderf. works which thou hast done & thy thoughts which are to us ward they can not be Reckoned up in order unto thee If I could declare & speek of em they are more than can be numbered.
+But I would show this in some particularly not Pretending to mention how Gods wonders are without number as the Psalmist says in the 40 Ps at 5. v. so may we say many O L. my G. are thy works wonderf. works which thou hast done & thy thoughts which are to us ward they can not be Reckoned up in order unto thee If I could declare & speak of em they are more than can be numbered.
 
 ______________________________________
 
@@ -15040,7 +15040,7 @@ faithfull ministers of the Gosp do will La bour hard for the salvation of souls 
 
 ______________
 
-The success of theiir Labours is the success of those his those his Greater Labours & suffering seeing X has done & undergone so much for the salva & happiness of souls souls doubtless he exceeding ly Rejoices in he seeing the travel of his soul this was the Joy that was set before for which he willingly Endured the Cross & despised ----- -------- this was what G. the F Promised him as his Reward. Isai 53. 10. 11 . when thou shall make his soul an off. f ------------ he shall see his seed ----------- he shall see of his Travail of his soul & be satisfied .
+The success of their Labours is the success of those his those his Greater Labours & suffering seeing X has done & undergone so much for the salva & happiness of souls souls doubtless he exceeding ly Rejoices in he seeing the travel of his soul this was the Joy that was set before for which he willingly Endured the Cross & despised ----- -------- this was what G. the F Promised him as his Reward. Isai 53. 10. 11 . when thou shall make his soul an off. f ------------ he shall see his seed ----------- he shall see of his Travail of his soul & be satisfied .
 
 _____________
 

@@ -154,7 +154,7 @@ THE CHHS LATTER-DAY GLORY . THE FIRST RESURRECTION see note on Rev. 14. 13. SS. 
 
 Concerning the PRESERVATION of[^001-note24] the t TRUE RELIGION thro' the DARKEST TIMES OF POPERY. see History of Popery p. 672 &c- besides other preceding parts of that History
 
-when come to speak[-] of the RESURRECTION & ASCENSION OF OF X observe how much more excellent the new constitution under X is than the old under the first Adam in that Respect that the way of union of men to X by their own act by adherence and dependence &cthan the first way by natural Generation. see Miscell. B. 8. No. 177 1177.
+when come to speak[-] of the RESURRECTION & ASCENSION OF OF X observe how much more excellent the new constitution under X is than the old under the first Adam in that Respect that the way of union of men to X by their own act by adherence and dependence &c. than the first way by natural Generation. see Miscell. B. 8. No. 177 1177.
 
 COROLL. at the End] seeing the Privi-[^001-note25] ledges of X & the Glory h God h that it procured which the Gospel reveals is so exceeding great is so exceeding great is it any wonder that G. in the method of our Redemption & Gospel sconstitution has in every Respect calculated things so as tends to humble & abase man & that Humiliation should be a Qualification & so much Insisted on in order to mens b having an Interest in X Great Privi high Priviledges & very distinguishing Honour tends greatly to lift men up How were the Jews of old lifted up with their Priviledges. & How do some of the Philosophers of the Present day condemn orthodox Xtians and speak with great contempt of the Pride & vanity of orthodox Xtians for so vai entertaining such a conceit of ther own considerableness & Importance in the universe as to tho only the InhabiImagine tants of a single Place & that one of the smallest in the solar system or to Imagine[^001-note26] that so great Person as they suppose X to be a Person equal with God the Father shoud p come into this Θ I in mans nature & suffer such things for him. By this they themselves seem to suppose that there is must be a Connextion such an opinion & pride & vanity in those that think thems. thus favoured & taken notice of by God. or at Least that tis hard very hard for it to be without such an opinion to exist without a Connection with great vanity . and indeed it must be confessed it would have a very great Tendency to it were there not extraordinary care taken to prevent it in that Constitution of Things by which men are brought to so high a Priviledge 'Tis most reasonable therefore to suppose that if G it be the has been the will of G. thus to exalt advance men in Happiness & Glory things should be so calculated as greatly to provide against & so s as should very much tend greatly tend to the great Humiliation of the subjects[^001-note27]
 
@@ -280,7 +280,7 @@ The Enlightening England with the light of the Protestant Relig. or great Britai
 
 concerning the FIRST INSTITUTION OF SACRIFICES in Adams Time & therein the Beginning of Instituted TYPES. in of X. under this Head observe the Benefit of this Institution in the Θ & in how many[^001-note38] Respects it prepared the way for the Coming of X and prep how it lead the saints of old to a Justifying Faith
 
-Concerning the FIRT INTIMATION of a FUTURE STATE probably in the ANTEDILUVIAN Θ as may be argued from the Generality of this opinion among the Hea antient Heathen. what we must suppose must be argued frokm the first Promise of the seed of the woman & Adams sens of it expressed by the name of Eve from the death of Abel. Enochs Translation &c --
+Concerning the FIRT INTIMATION of a FUTURE STATE probably in the ANTEDILUVIAN Θ as may be argued from the Generality of this opinion among the Hea antient Heathen. what we must suppose must be argued from the first Promise of the seed of the woman & Adams sens of it expressed by the name of Eve from the death of Abel. Enochs Translation &c --
 
 of there being so little said of a FUTURE STATE BY MOSES
 
@@ -496,7 +496,7 @@ Columbus discovered America about[^001-note94] 1500 He discovered the Bahama Isl
 
 LAND of CANAAN placed in the midst of those Nations which were most considerable Famous & distinguished Knowing remarkable for Power . Knowledge & Arts. &c-as well as in the middle between the three Great Continents & Portions of the three sons of Noah.
 
-speaking of the DESTRUCTION of Jerusalem sp0eak of the continued DISPERSION of the JEWS . see Taylor Key p. 6.
+speaking of the DESTRUCTION of Jerusalem speak of the continued DISPERSION of the JEWS . see Taylor Key p. 6.
 
 PROPHECIES OF THE MESSIAH. To observe how the angels may be supposed to have been affected by these Prophecies & the gradual increase of Light concerning Xs Redempt coming & the Glory his Exaltation & the time of these Things the Intimations of their approach. how they a were amazed with these Things with Relation to themselves & as they were concerned on them a as then their Trial would be over their Reward given them & they confirmed in Life & Glory &cThe out ingathering by that[^001-note95] outpouring of the Spirit that was on the day of Pentecost was but the first fruits of Xs Harvest. It was the first Fruits of the Jews & also of the Gentiles the Fu coming in of the fulness of both is to be by that last & greatest outpouring of the sp. that is to be in the latter ages of the Θ see Rom. 11. 16. taken with v. 12. & 25, 26. GLO. TIMES not yet ful-[^001-note96] filled. . It appears from that I Cor. 15. 26 25, 26. He must reign till he hath put all Enemies under his feet. that there are yet Great things to be accomplished towards the subduing & destroying Gods Enemies that have never yet been acomplished for the first thing that the before the day of Judgmt. for the first thing that shall be done at the day of Judgmt shall be to destroy death. or at least this shall be as Early as any Change wrought on Earth. & theref here the destruction of all Xs other Enemies here Referred to is not any destruction that shall be at the day of Judgmt for this by no means can be said to be the Last Enemy destroyed then . but th to the destruction that had been before. but at theref a great destruction of Enemies yet Remains before to be before the day of Judgmt for as yet no enemy can be[^001-note97] can proper none of those greatest & Chief Enemies of X & his Chh. that are spoken of in SS. can be proper ly said to be destroyed. such as satan . antix . -Mahomet darkness sin & wickedness in its Reigning Power over the nations. as for Gog & Magog that will be as it were only a short struggle of an Enemy that had been destroyed before. There i There is Reference in this place. I Cor. 15. to that. Ps. 110. sit then on my right Hand till I make thine Enemies thy footstool. Xs Exaltation was to that End to bring this to pass. & He continues Reigning at the Right Hand for that End throughout all the ages of his Reign Preceeding his delivering up the Kingdom . all & theref all was not accomplished within 300 years up so that the End of his Reigning was accomplished & all Enemies destroyed then but only one even death. He dont Reign ever since in a Kingdom that no more[^001-note98] tends to the destruction of his Enemies since Constantines time & is not working towards any further destruction of 'em The far Greater part of his sitting at the Right hand is not aft after the sub subduing of his Enemies to suffer em to Get head & Re again & Reign after a s very short interval of their dominion & so to maintain their dominion over the Θ almost all the Time of that his Reign afterwards t till he delivers up the shall deliv. up the Kingd. this would be very unreasonable
 
@@ -542,7 +542,7 @@ Angels did not understand the Mystery of mens Redemption till it was accomplishe
 
 X will lead the Heavenly Assembly in their Praises see Note on Rev. 19. 5, 6. & sermon on those verses The Redemption out of Egypt[^001-note106] see note on Exod 12. 2. SS. N. 471. B. 3.
 
-That that Great work of Mercy the WORK of Redemption is arried on through successive ages like the gradual creating a great BUILDING seem is intimated in Ps 89. 1 ---4.
+That that Great work of Mercy the WORK of Redemption is carried on through successive ages like the gradual creating a great BUILDING seem is intimated in Ps 89. 1 ---4.
 
 concerning the Glory the Chh. shall be received to at & after the d. of Judgment see serm. on Rom. 2. 10.
 
@@ -1130,11 +1130,11 @@ syricius Bp. of Rome takes upon to send his d Prescribe Laws & s & make Laws for
 
 The Celibacy of the Clergy first began to be Enjoyned by the Council of Elvira (a place that seems to be in spain.) about the year 300 which reached only the spanish Clergy about the year 315 The Council of necasar Neoceasaria Ancyra in the Lesser Asia. deg. decreed that if any deacon did not declare at his ordination that[p. 2] He designed to marry he might not marry afterwards. & in th & soon after the Council
 
-of Neoceasarea in Cappadocia. commanded that such Presbyters as marrie3d after their Ordination should be degraded. In the great Council of Nice anno 325 . It was moved that Clergymen should be debarred from Commerce with their wives whom they married before their ordination but rejected by the Council but they ordained that those who were unmarried when ordain'd should continue so
+of Neoceasarea in Cappadocia. commanded that such Presbyters as married after their Ordination should be degraded. In the great Council of Nice anno 325 . It was moved that Clergymen should be debarred from Commerce with their wives whom they married before their ordination but rejected by the Council but they ordained that those who were unmarried when ordain'd should continue so
 
 In the year 340 . It was decreed that me no man incumbered with a wife should be admitted to holy orders unless he promised with his wife wifes con approbation & Consent to abstain forever from the Conjugal duty. syricius enjoins all P Priests & deacons to observe Celibacy Anno . 385 . & soon after was established in most Provinces of the west in by the synods of each particular nation but not in Britain till the Time of Austin the monk. in the sixth Century. see p. 335 339.
 
-In the year 440 Pope Leo chosen 442 was the first that extended who extended the Law of Celibacy to subdeacons But this Law was observed by very few Chhs In the Time of Pope Gregory the Great it had not yet taken Place in sicily but He in But he introduced it there in the latter End of the 6th[col. 2] Century . but attend with some Liberties in somke Cases .
+In the year 440 Pope Leo chosen 442 was the first that extended who extended the Law of Celibacy to subdeacons But this Law was observed by very few Chhs In the Time of Pope Gregory the Great it had not yet taken Place in sicily but He in But he introduced it there in the latter End of the 6th[col. 2] Century . but attend with some Liberties in some Cases .
 
 see P. 235 ---240.
 
@@ -1150,7 +1150,7 @@ In the year . 416. The same Innocent Claims roundly asserted in a Letter to the 
 
 zozimus the who succeeded[p. 3] Innocent Anno 417. & died 419. was the first that used that Language of Great Authority For so it has pleased the Apostolic see which Expression his successours have all adopted. P. 357.
 
-Celestine in the year. 428. Claimed the author8ty & Jurisdiction of one universal P that was appointed by God appointed by God to watch over the whole Church & declared that his Pastoral vigilance was extend- restrained to no Bounds but that it extended to all Places where Christ is Known and adored.
+Celestine in the year. 428. Claimed the authority & Jurisdiction of one universal P that was appointed by God appointed by God to watch over the whole Church & declared that his Pastoral vigilance was extend- restrained to no Bounds but that it extended to all Places where Christ is Known and adored.
 
 About the year . 434. in the Time of sixtus. III. Bp. of Rome. the r reading of the SS. by the commonPeople began to be discountenanced vol . 2 . p. 4.
 
@@ -1214,7 +1214,7 @@ Hormisdas being applied to about some Point of discipline by John of Tarragon & 
 
 In the Time of Pope Felix III . King Athalaric Go made a law in favour of the Ecclesiasticks obliging Lay men in all suits at Law to bring their Action first before the Bishop yet allowing an Appeal from the Judgmt of the Bp. to[col. 2] that of the secular Court at the same Time Alarick King of the visigoths in Gaul made a Law still more favourable to the Clergy for fo by his Law no Lay-man was to sue an Ecclesiastic in a secular Court nor was an Ecclesiastic to answer any action brought against him there without the Permission of the Bp. . The Priviledge granted by Athalaric to the Roman Clergy only Justinian extended Emperour of the East extended to all Ecclesiastics
 
-That Kind of Idolatry which consists in swearing by Creatures pieces of the Cross Relick st Peters Keys & saints &c seems to have Crept into the Chh. in the Time of the Empe rour Justinian who began to Reign Anno 527 . & died 565.
+That Kind of Idolatry which consists in swearing by Creatures pieces of the Cross Relick st Peters Keys & saints &c seems to have Crept into the Chh. in the Time of the Emperor Justinian who began to Reign Anno 527 . & died 565.
 
 Anno 584. Pope Pelagius II first claimed infallibility from what X said to Peter on This Rock I will build my Chh ---& I have prayed for thee that thy Faith fail not
 

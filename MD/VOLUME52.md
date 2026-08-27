@@ -1710,7 +1710,7 @@ or whether we Consider that favour & aceptance of G. that is Consequnet on their
 
 _____________________________________________
 
-3. Consider a Good E sense of Gods aceptance is that alone that alove that will Give true peace to your ow mind. if others account you Godly & have an high esteem of you that will Give no true peace to your soul. that wont Quiet and awakened Conscience that will never Remove the sense of Guilt that will never Give Peace in a time of affliction & peril
+3. Consider a Good E sense of Gods aceptance is that alone that alone that will Give true peace to your ow mind. if others account you Godly & have an high esteem of you that will Give no true peace to your soul. that wont Quiet and awakened Conscience that will never Remove the sense of Guilt that will never Give Peace in a time of affliction & peril
 
 __________________
 
@@ -5156,7 +5156,7 @@ Application. I use may be of Instruction . 1. Hence we may Learn that there is n
 
 ___________________
 
-it shows that meerly & being af having fears & concerns wont prevent the things they that they terrify them. some that thave Great fears & terrors doyet not withstanding have their fears Coming upon them at Last
+it shows that meerly & being af having fears & concerns wont prevent the things they that they terrify them. some that have Great fears & terrors doyet not withstanding have their fears Coming upon them at Last
 
 _______________________
 

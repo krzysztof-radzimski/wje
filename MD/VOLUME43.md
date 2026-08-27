@@ -5223,7 +5223,7 @@ is full of water there is water Enough to supply the Earth
 
 from Generation to Generation time to time with Rain
 
-Gods has a Ri River is alwaiys flowing and never dry
+Gods has a Ri River is always flowing and never dry
 
 and in the next verse thou waterest the Ridges therof [^017-note7]
 
@@ -15327,7 +15327,7 @@ Yea sometimes X and his disciples were in other
 
 Cities . but in these Cities X was wont more Com-
 
-monly to Converse to Preach & work miracles
+only to Converse to Preach & work miracles
 
 and therefore X denounces a special wo against
 
@@ -17067,7 +17067,7 @@ other objects Powerfully drawing the mind a the
 
 more Carefull one is About
 
-In a person Whose heart aupon worldly Concerns
+In a person Whose heart upon worldly Concerns
 
 they will Crowd themselves into his mind not only
 
@@ -27175,7 +27175,7 @@ that the happiness And Joys of heaven are also
 
 exceeding Great . Thi Our state in this world
 
-is a middle state betweeen these two extremes of
+is a middle state between these two extremes of
 
 blessedness of & misery a state of Probation as
 

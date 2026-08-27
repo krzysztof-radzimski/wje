@@ -918,7 +918,7 @@ Superiours, Exceeding Courteous and affable to her Inferiours, and very free and
 
 bliging to Equals, but yet a plain dealer, and Loved to be plainly dealt with
 
-She was of a very peaceable spirit and had a gret aversion to any quarrelling.
+She was of a very peaceable spirit and had a great aversion to any quarrelling.
 
 She was of a Chearful Serene Temper, and yet much Given to Contemplation from
 

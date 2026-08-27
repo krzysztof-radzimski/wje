@@ -744,7 +744,7 @@ Here is this to Influence you if you Go sit still you die if up you backward. be
 
 ________________________________________________
 
-I hope that those that those have Given atten tion to what has beeen said this day have Con cieved In some measure by this Time Concievd in some measure what it is that is signified by that Expression in the Text of Pressing into the K. of G. . & after what manner they ought to Press into it .
+I hope that those that those have Given atten tion to what has been said this day have Con cieved In some measure by this Time Concievd in some measure what it is that is signified by that Expression in the Text of Pressing into the K. of G. . & after what manner they ought to Press into it .
 
 _________________________________________________
 
@@ -900,7 +900,7 @@ _______________________
 
 __________________ _____________________________
 
-7. If you see should see another such Time It will be udner far Greater disadvanta. than now you are . you will then have harden'd your Heart more . & will be so much older tha & so under Less Probability of Recieving Good then than now . some Persons Can Live thru are so hardend in sin & so Lost of G. that they Can Live through such a Time as this is & not be much moved stir'd by it they Can stand their Ground u under it & not be very much awakened. & it may be so with you or by that Time by another such time if there should be another such Time Amongst us & you should Live to see it . The Case in all Probability will be Greatly altered with you by that time satan will have another Great foothold in you then than he has now. you will be nev vastly further from the K. of G. you will be much deeper Involved in misery & in snares in & misery . & satan will Probably have a vastly Greater Adv. against [^002-note71] you to Tempt & Confound you.
+7. If you see should see another such Time It will be under far Greater disadvanta. than now you are . you will then have harden'd your Heart more . & will be so much older tha & so under Less Probability of Recieving Good then than now . some Persons Can Live thru are so hardend in sin & so Lost of G. that they Can Live through such a Time as this is & not be much moved stir'd by it they Can stand their Ground u under it & not be very much awakened. & it may be so with you or by that Time by another such time if there should be another such Time Amongst us & you should Live to see it . The Case in all Probability will be Greatly altered with you by that time satan will have another Great foothold in you then than he has now. you will be nev vastly further from the K. of G. you will be much deeper Involved in misery & in snares in & misery . & satan will Probably have a vastly Greater Adv. against [^002-note71] you to Tempt & Confound you.
 
 _____________________________________________
 
@@ -948,7 +948,7 @@ __________________________
 
 ________________________________________________
 
-10. & Lastly you dont Know that you shall Live through the Present Time of the Pouring out of Gods sp. yoou may be taken away in the midst of it or you may be taken away in the beginning of it & or G. in his Provid in putting you in mind by the Latef mis Just. of death that there has been in the p Town of a young Person G. of Late has been very awf in this dealings in that Regard. in the Repeated deaths of young Persons amongst.
+10. & Lastly you dont Know that you shall Live through the Present Time of the Pouring out of Gods sp. you may be taken away in the midst of it or you may be taken away in the beginning of it & or G. in his Provid in putting you in mind by the Latef mis Just. of death that there has been in the p Town of a young Person G. of Late has been very awf in this dealings in that Regard. in the Repeated deaths of young Persons amongst.
 
 ________________
 
@@ -2502,7 +2502,7 @@ They that Truly Come to X they do Joyfully Join them to whole X mystical Head & 
 
 ___________________
 
-But when Persons in their minds will Contend & O Quarrel & & Exercise a malicious & Enviouw sp. againsst his People & that to see that s very Reason because they are Godly or because they are so Xs People that Implies a Fefusing & Rejecting of them their they dont Like the Guests & so wont be of the Go in to the feast they wont be of the Company this was one R Chief Reason why the Elder Brother would not Go in viz because the feas th of the Enmity he had against his younger brother he would not Could would not on this occasion Join hims with him as Rejoicing with him & for him he he had too big a sp. for this & too much Enmity against his Brother. so Persons that are angry with others because [^005-note27] they have obtained mercy instead of Coming & Joining thems. to Gods People they disunite & separate thems. from them & they thems. them away & will not have them for their People they wont Embrace em with Love & Charity but Pursue em with hatred & Envy .
+But when Persons in their minds will Contend & O Quarrel & & Exercise a malicious & Enviouw sp. against his People & that to see that s very Reason because they are Godly or because they are so Xs People that Implies a Fefusing & Rejecting of them their they dont Like the Guests & so wont be of the Go in to the feast they wont be of the Company this was one R Chief Reason why the Elder Brother would not Go in viz because the feas th of the Enmity he had against his younger brother he would not Could would not on this occasion Join hims with him as Rejoicing with him & for him he he had too big a sp. for this & too much Enmity against his Brother. so Persons that are angry with others because [^005-note27] they have obtained mercy instead of Coming & Joining thems. to Gods People they disunite & separate thems. from them & they thems. them away & will not have them for their People they wont Embrace em with Love & Charity but Pursue em with hatred & Envy .
 
 _____________________________________________
 
@@ -2720,7 +2720,7 @@ ____________________________________________________
 
 _________________________________________________
 
-Here I would answ. to two or three objec. agsin for the I am sensib. the H. of m. are full of Objec Against such sort of doc Doc.
+Here I would answ. to two or three objec. again for the I am sensib. the H. of m. are full of Objec Against such sort of doc Doc.
 
 _____________________________________________________
 
@@ -2764,7 +2764,7 @@ we Cant mention it as an Excuse thereby
 
 _______________________________________________________
 
-2. You should Enq. whether or no you hant wickedly abused what assistance you have had . you hant been wothout assistance & Influence of Gods sp. yea that is the things that you your self tell of & make the a founda of Complaint that you have Been under Convictions & the strivings of the sp. for so Long a time. so that by your own Testimony you have had a degree of the [^005-note61] assistance & Influence of not only have had something of the Influence of the sp. but have had it for a Long time. Theref before you Go any further In Complaining of Gods not Giving you assistance Consider whether or no what use you have made of that assistance that you have had you say you have had Convictions so long but Can you say that you have thorghly Improved them hant the sp. of G. been striving of you up while you have been hanging back hant you Given way to to those Lusts that have Pulled you tother way.
+2. You should Enq. whether or no you hant wickedly abused what assistance you have had . you hant been without assistance & Influence of Gods sp. yea that is the things that you your self tell of & make the a founda of Complaint that you have Been under Convictions & the strivings of the sp. for so Long a time. so that by your own Testimony you have had a degree of the [^005-note61] assistance & Influence of not only have had something of the Influence of the sp. but have had it for a Long time. Theref before you Go any further In Complaining of Gods not Giving you assistance Consider whether or no what use you have made of that assistance that you have had you say you have had Convictions so long but Can you say that you have thorghly Improved them hant the sp. of G. been striving of you up while you have been hanging back hant you Given way to to those Lusts that have Pulled you tother way.
 
 ___________
 
@@ -2800,7 +2800,7 @@ If it be so as we have heard why is it worth while for any m. to seek salva. to 
 
 ___________________
 
-seening that if Persons are moral & Relig &t take pains G. will have no Respect to it he Cant Purchase salva but G. often times will take vicious Persons hefore them why had not a m. a as soon Live a Careless & vicious Life as to take Pains if a p
+seening that if Persons are moral & Relig &t take pains G. will have no Respect to it he Cant Purchase salva but G. often times will take vicious Persons before them why had not a m. a as soon Live a Careless & vicious Life as to take Pains if a p
 
 __________________
 
@@ -4360,7 +4360,7 @@ what do you think of your self what Ideas have your self that you think G. is ob
 
 _____________________________________
 
-4. you have voluntarily Chosen to be with satan on his service how Justly theref. may you be with him in his Punishm. you did not Chose to be on Gods side but have Chosen to be on the devils sid[^009-note35] been willf. & obstinate in it . Look but back on your Past Life & Consider h how you have Gone on in willfull sin Re disregarding Gods Calls . you would be in with satan in his work how Justly theref. [^009-note36] may G. Give you up to him . you have Given your self up to him to in fight to do his to be subject to his P--- Governmt in opposition to G. work if fighting afainst G. & why it would it be hard on G. to Give you up to him to be tormented by him i if men will be with Gods Enemy on & on hid his side why is G. obliged in mercy to Redeem them out of the h the Hands when they have done their work you have a mind to serve the devil while they Live & & fight against G. while they Live & then they would have G. their Friend & Red deliv. them from the devil when they Come to die.
+4. you have voluntarily Chosen to be with satan on his service how Justly theref. may you be with him in his Punishm. you did not Chose to be on Gods side but have Chosen to be on the devils sid[^009-note35] been willf. & obstinate in it . Look but back on your Past Life & Consider h how you have Gone on in willfull sin Re disregarding Gods Calls . you would be in with satan in his work how Justly theref. [^009-note36] may G. Give you up to him . you have Given your self up to him to in fight to do his to be subject to his P--- Governmt in opposition to G. work if fighting against G. & why it would it be hard on G. to Give you up to him to be tormented by him i if men will be with Gods Enemy on & on hid his side why is G. obliged in mercy to Redeem them out of the h the Hands when they have done their work you have a mind to serve the devil while they Live & & fight against G. while they Live & then they would have G. their Friend & Red deliv. them from the devil when they Come to die.
 
 ______________
 
@@ -5518,7 +5518,7 @@ _______________________________________________________
 
 _____________________
 
-another Inclines Chiefly to sinful Pleasures his mind is swallowed up with them he thingks that that w that seems to him the best happiness he has more of a disposition to that then anything Else
+another Inclines Chiefly to sinful Pleasures his mind is swallowed up with them he thinks that that w that seems to him the best happiness he has more of a disposition to that then anything Else
 
 _________________________
 
@@ -9042,7 +9042,7 @@ such a sample as this in oftentimes arises from a mini misunderstanding of thing
 
 __________________________
 
-I It d It differs fromo spiritual Conviction in two things one is that tis no moe than an opinion tis no Real or thorough Conviction at all as a m. may be of opinion that the word of ss. is the word of G. & that X is the son of G. but he has no Proper Reallizing Con But yet it Remains a thing doubtf. & uncertain with him he & he has no Reallizing Conviction of it it dont seem Real to him
+I It d It differs from spiritual Conviction in two things one is that tis no moe than an opinion tis no Real or thorough Conviction at all as a m. may be of opinion that the word of ss. is the word of G. & that X is the son of G. but he has no Proper Reallizing Con But yet it Remains a thing doubtf. & uncertain with him he & he has no Reallizing Conviction of it it dont seem Real to him
 
 ________________________
 
@@ -10714,7 +10714,7 @@ we Observe that when Persons are Great Friends one to another they delight to be
 
 ____________________
 
-Tis sometimes so that tis sometimes so that G. may with Respect to a people that G. may be said to be their G. deut 10. 21. He is thy Praise he is thy G. that hath done for thee those Great things which thine Eyes have seen & Levit 26. 12. I will be your G. & ye shall be my People. so G. becomes the Covenant G. of a People & when & when he he is their King Isai 33. 22 The L. -- Judg ------ La is our King deut 32. 6 He is thyre Father that hath bought thee .
+Tis sometimes so that tis sometimes so that G. may with Respect to a people that G. may be said to be their G. deut 10. 21. He is thy Praise he is thy G. that hath done for thee those Great things which thine Eyes have seen & Levit 26. 12. I will be your G. & ye shall be my People. so G. becomes the Covenant G. of a People & when & when he he is their King Isai 33. 22 The L. -- Judg ------ La is our King deut 32. 6 He is thy Father that hath bought thee .
 
 ___________________
 
@@ -11826,7 +11826,7 @@ How Just theref would it be that Tribula . & anguish should then Come upon you .
 
 _________________________________________________
 
-5. How Just is it that you should suffer the wr of G. in antoher T &
+5. How Just is it that you should suffer the wr of G. in another T &
 
 _________
 

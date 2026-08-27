@@ -190,7 +190,7 @@ forgive me sir, that I Do not Conceal my name and Communicate this to you by a m
 
 If you think, it Childish And Consider the Rules of decorum with Greatness and Generosity to Look down Pity and Conceal and Goodness look dow overlook it in a Child [-] & Pity & Conceal
 
-Now sir I dont Give this meerly as an hypothesis but as the Certain thruth which my eyes have seen and which Every Ones senses may be may make them as Certain of as any Any Any thing else transgres sed the Rules of Decorum Pardon me for troubling you with so long a letter
+Now sir I dont Give this meerly as an hypothesis but as the Certain truth which my eyes have seen and which Every Ones senses may be may make them as Certain of as any Any Any thing else transgres sed the Rules of Decorum Pardon me for troubling you with so long a letter
 
 silver strings
 
@@ -8126,7 +8126,7 @@ __________________________
 
 The Family I mention as deeply en-
 
-gaged in the late Controversy betweee
+gaged in the late Controversy between
 
 me & my former People of Northamp-
 
@@ -15096,7 +15096,7 @@ Regard to our Affairs ; And are exerting themselves
 
 to their utmost to extricate us out of these difficulties.
 
-& ttis to be hoped God in his Providence will appear for
+& 'tis to be hoped God in his Providence will appear for
 
 us. I desire sir that you would be helping together by
 
@@ -15440,7 +15440,7 @@ mon W. of Lebanon who finished what
 
 he had begun. & pub wherein he
 
-as thte Rest of the Family have ever
+as the Rest of the Family have ever
 
 & published his Book against me [ ]
 
@@ -30362,7 +30362,7 @@ is agreeable to the natural notions tha tmoral Evil with its desert of dislike &
 
 Abhorrence & all its other ill deservings Consists in a certain deformity in the Nature
 
-of the dispositions of thte Heart & acts of the will & not in the deformity of the some-
+of the dispositions of the Heart & acts of the will & not in the deformity of the some-
 
 thing else diverse from the very Thing which deserves Abhorrence supposed to be the
 
@@ -33804,7 +33804,7 @@ John McLaurinB030. John McLaurin to JE, 8/10/43 (extract). *Christian History* 1
 
 *Extract of a Letter from the Rev. Mr.* MCLAURIN *of* Glasgow *to the Rev. Mr.* EDWARDS *of* Northampton, *dated* Aug. 10. 1743.
 
-" -- As to the State of Things with us, I must chiefly refer you to those Parts of Mr. *Robe's* Narrative, I now transmit. Besides the Places mentioned in those Prints there are comfortable Accounts, tho' comparatively speaking perhaps not so considerable, nor so notour concerning some Parts of thte Counties of *Ross* and *Murray* far North, and some Parts toward the South, about the Borders of *England*, and other Parts near the Heart of the Land."
+" -- As to the State of Things with us, I must chiefly refer you to those Parts of Mr. *Robe's* Narrative, I now transmit. Besides the Places mentioned in those Prints there are comfortable Accounts, tho' comparatively speaking perhaps not so considerable, nor so notour concerning some Parts of the Counties of *Ross* and *Murray* far North, and some Parts toward the South, about the Borders of *England*, and other Parts near the Heart of the Land."
 
 (*To be continued.*)
 
@@ -34012,7 +34012,7 @@ Now in order to determine this Question, I shall particularly go over my Words a
 
 I express'd Mr. *W*-*d*’s SCHEME in these Words, [*that he design'd to turn out the Ministers*,-- &c*.*] You express it in these Words ["Mr. *W*- *was in the Opinion and*SCHEME of People's *forsaking unconverted Ministers; that unconverted Ministers ought not to continue in the Ministry*;*that he endeavoured to propagate this Opinion and a Practice agreable to it*; *that he aimed at People's forsaking unconverted Ministers*,*and endeavour'd that there should be a Supply of converted ones as far as in him lay*."]--Here you have expressed Mr. *W*-*d*'s Scheme in much fuller and stronger Terms than I did, especially as to the Way and Method by which it was to be effected; and this is exactly agreable to what I and others always supposed, *viz*. that Mr. *W*- designed to *turn out*the Ministers in this Manner, by laying a SCHEME *that People should forsake them*, by advancing this Opinion, *that unconverted Men ought not to continue in the Ministry*; and *endeavouring to propogate this Opinion*among the People, *and the Practice agreable to it*, i. e. their forsaking them accordingly.
 
-Now since you have here in such full and *strong Terms* expressed and declared Mr. *W*-*d*'s SCHEME, it seems very unaccountable to me, to see you so *flatly deny it,*and I think you msut have in your own Mind some strange Quibble or Equivocation.
+Now since you have here in such full and *strong Terms* expressed and declared Mr. *W*-*d*'s SCHEME, it seems very unaccountable to me, to see you so *flatly deny it,*and I think you must have in your own Mind some strange Quibble or Equivocation.
 
 Perhaps you'l say, that Mr. *W*- did not design *to turn them out himself,* but laid a Scheme how *the People* should do it by forsaking of them. But is not this in effect, the *same Thing*?
 
@@ -38682,7 +38682,7 @@ Twas no Small Disappointment to me y t I miss’d Seeing youo when at Stockbridg
 
 Mrs Sergeant has given her Friends here a good Deal of Pleasure with a Short Visit, as her Departure gives em a good Deal of uneasiness. [^510-note1]
 
-I congratulate on ye Prospect of your Alliance with So excellent a Person So Well qualified to communicate and Share the Days of a refined & virtuous Friendship. - She is high in my Esteem and has long been among the N o of my perticular Friends — I rejoice y t She has made So Wise a Choice and y t therre is Such a Prospect of her being So happy and usefull in the World.
+I congratulate on ye Prospect of your Alliance with So excellent a Person So Well qualified to communicate and Share the Days of a refined & virtuous Friendship. - She is high in my Esteem and has long been among the N o of my perticular Friends — I rejoice y t She has made So Wise a Choice and y t there is Such a Prospect of her being So happy and usefull in the World.
 
 May ye best of Heavens Blessings attend you both. May your Days be Many and be filled up with much Comfort and Usefullness
 
@@ -38992,7 +38992,7 @@ have made some proficiency in reading only there is but little
 
 effected by the large sum Mr Hollis has remitted here from
 
-year to year. The children tha thave been instructed at the boarding
+year to year. The children that have been instructed at the boarding
 
 school, have appear'd to make no progress, in civility & vertue
 
@@ -39052,7 +39052,7 @@ till Something appears to manifest this late to others, as well as to
 
 them. Tis manifest that both these Gentlemen have view'd Mr Hollis's
 
-cause in a suffering condition, and have often expressed teir dissatisfac-
+cause in a suffering condition, and have often expressed their dissatisfac-
 
 tion with the Sd Kelloggs conduct, relating hereto. Indeed Coll
 
@@ -39276,7 +39276,7 @@ it was mere clamour to represent us, the people of this Town as
 
 being any ways instrumental, of confounding the affair of Set
 
-tling the Mohocks in this government. But on the contrary, we
+Settling the Mohocks in this government. But on the contrary, we
 
 have on all occations manifested, a forwardness to promote it, we
 
@@ -39472,7 +39472,7 @@ christian knowledge among us. We don't pretend to any right to
 
 order in the affair that belong to these Gentlemen, much less would
 
-we do any thing tha tshould hiner the good design intended. They
+we do any thing that should hinder the good design intended. They
 
 are accountable to their principals, and we only think we have
 
@@ -40438,7 +40438,7 @@ Sarah Pierpont EdwardsC146. Sarah Pierpont Edwards to Esther Edwards Burr,4/3/58
 
 O my very Dear Child
 
-What Shall I Say. A holy and Good God heas Cover’d with Dark Cloud. O that we may all kiss the rod and Lay our hands on our mouthes. the Lord heas Done it. he heas made me adore his Goodness that we had him So Long. but my god Lives. and he heas my heart. O what A Legacy my Husband and your Father heas Left us. we are given unto God. and their I am and Love to be
+What Shall I Say. A holy and Good God has Cover’d with Dark Cloud. O that we may all kiss the rod and Lay our hands on our mouthes. the Lord heas Done it. he heas made me adore his Goodness that we had him So Long. but my god Lives. and he heas my heart. O what A Legacy my Husband and your Father heas Left us. we are given unto God. and their I am and Love to be
 
 Sarah Edwards
 

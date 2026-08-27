@@ -1848,7 +1848,7 @@ The Chil. of Israel could not take Canaan till achan was slain they went out as 
 
 ______________
 
-Enquire whether or no your pride or your Covet is not some way allowedly indulged or else a Cove a Greedy violently sp. after the Θ or a sp. close sp. or a sp. of ill will againwst your neigh. or a neglect of Rendering to Every one his due . or an some fleshly appetite inordinately indulged.
+Enquire whether or no your pride or your Covet is not some way allowedly indulged or else a Cove a Greedy violently sp. after the Θ or a sp. close sp. or a sp. of ill will against your neigh. or a neglect of Rendering to Every one his due . or an some fleshly appetite inordinately indulged.
 
 _________________________________________________
 

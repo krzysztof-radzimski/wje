@@ -1014,7 +1014,7 @@ He has received Pay till the first sabbath in June 1753 inclusive wanting abou 8
 
 Married John Owen & Joanna Nash July . 12. 1753.
 
-Before that had maried. solomon sinhoo & Toonjee & also Jacob Checksonghun & his Mohawk squaw. June. 27 1753.
+Before that had married. solomon sinhoo & Toonjee & also Jacob Checksonghun & his Mohawk squaw. June. 27 1753.
 
 Mr. Hopkins borrowed m West on the Resurrection. January 25. 1753. And the first Numb. of Glas's Notes July 24. 1753. & also Mr dickinson on Infant
 

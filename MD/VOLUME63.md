@@ -1488,7 +1488,7 @@ X has appointed a discipline to be kept up in his Chh that Chr in the Excercise 
 
 ______
 
-To be in one End as has been ob of this ord. ___ or has been observed is this ____ Representation & Exp cise of & manifesta. of our union with X. Love to him Gratitude. of our Receiving him giving up oour selves to him. But while Persons are scand openly Scanda lous this is a hinderance in the way of these things for to ___ visibly is yo do it truly in The Eye of a Xtian Reasonable Charity.
+To be in one End as has been ob of this ord. ___ or has been observed is this ____ Representation & Exp cise of & manifesta. of our union with X. Love to him Gratitude. of our Receiving him giving up our selves to him. But while Persons are scand openly Scanda lous this is a hinderance in the way of these things for to ___ visibly is yo do it truly in The Eye of a Xtian Reasonable Charity.
 
 ____
 
@@ -1562,7 +1562,7 @@ G. with the Greatest Strictness Required that Leaven should be put away . - pass
 
 ___
 
-no leaven seen in their Houses & in all their Quarters cut off from among his People Exod. 12.19 This is typical we may learn by it that it is of great Importance that malice should be put away - -Lords SupperThe Reason of it may appear what those thingss that have been obs. memorial of the Love of X to us who deserved his Hatred tho his Enemies The most wonderf. Instance of Love. & thus love as we Love to our selves as we hope & on which we depend
+no leaven seen in their Houses & in all their Quarters cut off from among his People Exod. 12.19 This is typical we may learn by it that it is of great Importance that malice should be put away - -Lords SupperThe Reason of it may appear what those things that have been obs. memorial of the Love of X to us who deserved his Hatred tho his Enemies The most wonderf. Instance of Love. & thus love as we Love to our selves as we hope & on which we depend
 
 ______________
 

@@ -4828,7 +4828,7 @@ But X Represents his will before the F as having in himself and by his own merit
 
 ___________________________
 
-The Intercession of X Consists in two things . viz asking & Pleading . 1. X asks of the F those benefits that his peple Need or Represents his will before them in H G. on their behalf . J. X he Prayd to the F for his People here & he Prays for them now he is at the Right hand of the F in Heaven Joh 14. 16 . And I will Pray the F & he shall Give you Another Comforter . X asks & X Prays asks of the F whatever b all the benefits Pertaining
+The Intercession of X Consists in two things . viz asking & Pleading . 1. X asks of the F those benefits that his people Need or Represents his will before them in H G. on their behalf . J. X he Prayd to the F for his People here & he Prays for them now he is at the Right hand of the F in Heaven Joh 14. 16 . And I will Pray the F & he shall Give you Another Comforter . X asks & X Prays asks of the F whatever b all the benefits Pertaining
 
 ________________________________________________________
 
@@ -6542,7 +6542,7 @@ I would observe 2 things in the words. 1 the Evil to be avoided here sp that the
 
 ______________________
 
-& the Apostle to Confirm what he says Goes on in the9Chap . to tell of as Great and Greater Instan ces of self denial than this thathe had actually Complied with for the sake of others souls as his not taking wages for his Labour as he had Power to do But working with his own hands . his Re training from marrying for the sake of the furtherance of the Gospel his becoming as a Jews to the Jews that he might Gain the Jews . to them that [^023-note3] are under the Law as under the Law . that --------
+& the Apostle to Confirm what he says Goes on in the 9 Chap . to tell of as Great and Greater Instan ces of self denial than this thathe had actually Complied with for the sake of others souls as his not taking wages for his Labour as he had Power to do But working with his own hands . his Re training from marrying for the sake of the furtherance of the Gospel his becoming as a Jews to the Jews that he might Gain the Jews . to them that [^023-note3] are under the Law as under the Law . that --------
 
 ____________________________________________________
 
@@ -7570,7 +7570,7 @@ _____________________
 
 ____________________
 
-& have has Given the Most Glorious discovery of him self in that work of Redemption whch his son wrought that Even the work. & Yet some men that have this Revelation of G. that G. has made that have all the scripture in their hands the Revelations which G. made of himself to the T for many Ages together & hear it Preached & Explained & by ministers that yet have not the Knowledge of G. Knowl. of G. is Et. Life
+& have has Given the Most Glorious discovery of him self in that work of Redemption which his son wrought that Even the work. & Yet some men that have this Revelation of G. that G. has made that have all the scripture in their hands the Revelations which G. made of himself to the T for many Ages together & hear it Preached & Explained & by ministers that yet have not the Knowledge of G. Knowl. of G. is Et. Life
 
 _______________________________________________________
 
@@ -11094,7 +11094,7 @@ ___________________________________________________________________
 
 ________________
 
-Awaken . are from the sp . of G. but not discouragemts there is a Great of difference between awakenings & discouragemts th yea they are of ana an Contrary nature and tendency Awakenings as the very word seems to denounc denote . tend to Rouse persons fronm their sloth & negli sleep . from their sloth & negligence & to stir [^033-note16] awa mak no longer to lie still sleeping in but to make them bestir thems. discouragemts are of a Contrary tendency they tend n to make the soul dull & Lifeless to weaken the hands & deaden the heart & m to make persons to neglect to Proper means for their delivery own salvation
+Awaken . are from the sp . of G. but not discouragemts there is a Great of difference between awakenings & discouragemts th yea they are of ana an Contrary nature and tendency Awakenings as the very word seems to denounc denote . tend to Rouse persons from their sloth & negli sleep . from their sloth & negligence & to stir [^033-note16] awa mak no longer to lie still sleeping in but to make them bestir thems. discouragemts are of a Contrary tendency they tend n to make the soul dull & Lifeless to weaken the hands & deaden the heart & m to make persons to neglect to Proper means for their delivery own salvation
 
 ___________________________
 

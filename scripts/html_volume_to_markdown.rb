@@ -6,6 +6,8 @@
 # explicit source-content comments rather than from the surrounding layout.
 
 require "cgi"
+require "base64"
+require "digest"
 require "fileutils"
 require "nokogiri"
 require "pathname"
@@ -21,14 +23,44 @@ LOCAL_WORD_LIST_PATHS = %w[
 
 def image_extension(path)
   signature = File.binread(path, 512)
+  image_extension_from_signature(signature, File.extname(path).delete_prefix(".").downcase)
+end
+
+def image_extension_from_signature(signature, fallback = nil)
   return "jpg" if signature.start_with?("\xFF\xD8\xFF".b)
   return "png" if signature.start_with?("\x89PNG\r\n\x1A\n".b)
   return "gif" if signature.start_with?("GIF87a", "GIF89a")
   return "webp" if signature.start_with?("RIFF") && signature[8, 4] == "WEBP"
   return "svg" if signature.lstrip.start_with?("<svg", "<?xml") && signature.match?(/<svg\b/i)
 
-  fallback = File.extname(path).delete_prefix(".").downcase
   %w[jpg jpeg png gif webp svg].include?(fallback) ? fallback : nil
+end
+
+# A small number of saved WJE pages carry an inline diagram in a TEI-like
+# `<binaryobject>` node rather than an `<img>` element.  Treat that payload as
+# an image, never as prose: otherwise its Base64 representation leaks into the
+# Markdown and then into the DOCX.  The browser archive can label a PNG as
+# `image/jpg`, so the file signature—not the HTML attribute—is authoritative.
+def binary_object_markdown(node)
+  return "" unless @include_images
+
+  encoded = node.text.to_s.gsub(/\s+/, "")
+  return "" if encoded.empty?
+
+  data = Base64.strict_decode64(encoded)
+  extension = image_extension_from_signature(data[0, 512])
+  return "" if extension.nil?
+
+  digest = Digest::SHA256.hexdigest(data)[0, 16]
+  filename = "#{@source_page}-binaryobject-#{digest}.#{extension}"
+  destination = File.join(@asset_directory, filename)
+  FileUtils.mkdir_p(File.dirname(destination))
+  File.binwrite(destination, data) unless File.file?(destination) && File.binread(destination) == data
+
+  relative_path = Pathname.new(destination).relative_path_from(Pathname.new(File.dirname(@output_file))).to_s
+  "![Illustration from source page #{@source_page}](#{relative_path})"
+rescue ArgumentError
+  ""
 end
 
 def image_markdown(node)
@@ -119,6 +151,7 @@ def inline(node)
   return "" if node.text? && node.text.empty?
   return node.text.gsub(/[\t\r\n ]+/, " ") if node.text?
   return image_markdown(node) if node.name == "img"
+  return binary_object_markdown(node) if node.name == "binaryobject"
   return "" if SKIPPED_TAGS.include?(node.name)
 
   classes = node["class"].to_s.split
@@ -439,6 +472,11 @@ def render(node, output, heading_count)
   end
   if node.name == "img"
     image = image_markdown(node)
+    output << "\n\n#{image}\n\n" unless image.empty?
+    return heading_count
+  end
+  if node.name == "binaryobject"
+    image = binary_object_markdown(node)
     output << "\n\n#{image}\n\n" unless image.empty?
     return heading_count
   end

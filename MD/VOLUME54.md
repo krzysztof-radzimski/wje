@@ -110,7 +110,7 @@ He is a w he is a divine Person & so wonderfull all the divine Persons of the Tr
 
 _____________
 
-This is such an union as none wouuld ever here thought of had not G. Renew Reveald & Effected it. how wonderfull was this that he the Re that made the O should be a Creature him a great Child born that he that fills H & Earth & whom the H of H. cannot Count --- should should be a child in bodily clothes hold n sucking the breastes of a woman. as if a truly Human being . There is no other such wonderfu Person as this well might the the sight of such a Person exorte those who behold it to cry out with admiration who is this a worm of the dust & yet the King of Glory.
+This is such an union as none would ever here thought of had not G. Renew Reveald & Effected it. how wonderfull was this that he the Re that made the O should be a Creature him a great Child born that he that fills H & Earth & whom the H of H. cannot Count --- should should be a child in bodily clothes hold n sucking the breastes of a woman. as if a truly Human being . There is no other such wonderfu Person as this well might the the sight of such a Person exorte those who behold it to cry out with admiration who is this a worm of the dust & yet the King of Glory.
 
 ____________
 
@@ -3566,7 +3566,7 @@ a thing that G. d we [--] parents ought to do then but not –
 
 ______
 
-G smiled upen & Greatly blessed then
+G smiled upon & Greatly blessed then
 
 ______
 
@@ -7333,7 +7333,7 @@ ____________________________________________________________
 
 _______________
 
-a little thig over [th???s] all their seeking Relig a littled difficulty or small temptation prevails or [its] [???] their Concern wears out in a little time as it were of itself . \|\| 3 . 3 . another R way that may Come to [^019-note17] is their they are not watch strictly watchfull against the alluring baits that they the Devil Lays in their way . when Per – sons have first set first set out Engaged in the busin. of Relig. The devil is exceeding vigilant. & with double [dig??ce] Lies in wait & Lays his snares tha & baits to wherewith to Catch them & overthrow them
+a little thig over [th???s] all their seeking Relig a little difficulty or small temptation prevails or [its] [???] their Concern wears out in a little time as it were of itself . \|\| 3 . 3 . another R way that may Come to [^019-note17] is their they are not watch strictly watchfull against the alluring baits that they the Devil Lays in their way . when Per – sons have first set first set out Engaged in the busin. of Relig. The devil is exceeding vigilant. & with double [dig??ce] Lies in wait & Lays his snares tha & baits to wherewith to Catch them & overthrow them
 
 _________________
 
@@ -7893,7 +7893,7 @@ _____________________
 
 ___________________________________________________________
 
-2. **** Tis a Great thjing for a Person to Know. **** as tis a Great thing for a person to be indeed Converted so ‘tis a Great thing for a person to Know he is **that** they are **so. tis a Great thing** because it is attended **** wi **as it tends Greatly to the Comfort of that person** that is the happy subject of such Knowledge
+2. **** Tis a Great thing for a Person to Know. **** as tis a Great thing for a person to be indeed Converted so ‘tis a Great thing for a person to Know he is **that** they are **so. tis a Great thing** because it is attended **** wi **as it tends Greatly to the Comfort of that person** that is the happy subject of such Knowledge
 
 _____________
 

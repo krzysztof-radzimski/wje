@@ -208,7 +208,7 @@ ________________________
 
 3. It reck rectifies the Taste & Relish of the mind. [^001-note51]
 
-Luke 12. 57 54 &cwhy do ye not even of your own selves discern what is Right Leading of the sp.
+Luke 12. 57 54 &c. why do ye not even of your own selves discern what is Right Leading of the sp.
 
 __________[^001-note52]
 

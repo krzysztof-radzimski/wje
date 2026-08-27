@@ -7,6 +7,7 @@
 
 require "nokogiri"
 require "pathname"
+require "base64"
 require_relative "lib/image_selections"
 
 CONTENT_START = "<!-- START OF CONTENT AREA -->"
@@ -34,6 +35,18 @@ def valid_local_image?(node, source_page)
   signature.start_with?("\xFF\xD8\xFF".b, "\x89PNG\r\n\x1A\n".b, "GIF87a", "GIF89a") ||
     (signature.start_with?("RIFF") && signature[8, 4] == "WEBP") ||
     (signature.lstrip.start_with?("<svg", "<?xml") && signature.match?(/<svg\b/i))
+end
+
+def valid_binary_image?(node)
+  encoded = node.text.gsub(/\s+/, "")
+  return false if encoded.empty?
+
+  signature = Base64.strict_decode64(encoded)[0, 512]
+  signature.start_with?("\xFF\xD8\xFF".b, "\x89PNG\r\n\x1A\n".b, "GIF87a", "GIF89a") ||
+    (signature.start_with?("RIFF") && signature[8, 4] == "WEBP") ||
+    (signature.lstrip.start_with?("<svg", "<?xml") && signature.match?(/<svg\b/i))
+rescue ArgumentError
+  false
 end
 
 def heading_key(text)
@@ -116,7 +129,8 @@ source_pages = documents.flat_map do |document|
   document.css("center").map { |node| node.text[/--\s*(.*?)\s*--/, 1] }.compact
 end
 source_images = pages.zip(documents).flat_map do |path, document|
-  document.css("img").select { |node| valid_local_image?(node, path) }
+  document.css("img").select { |node| valid_local_image?(node, path) } +
+    document.css("binaryobject").select { |node| valid_binary_image?(node) }
 end
 
 markdown = File.read(markdown_file, encoding: "UTF-8")

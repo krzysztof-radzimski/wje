@@ -7654,7 +7654,7 @@ _________________________________________________
 
 __________________
 
-it is not the nature of this aw holy aw & dread to be any alloy to the Pleasure & delight which the soul hath in G. But on the Contrary it heightens & Increases it. when such majesty & Grace are Joind and a due sense of both are Joined. it only tends only to make the soul vastly more to [^030-note6] Prize the Object & to delight in the beauty & Grace . There is nothing in this sort of Reverence that any thing tends to Inclined the soul to fly from G & avoid it tends to make the soul to humble & abase it self but before G. but not to avoid his Presence. wh7at there is of fear in this Rev strictly speaking in this Reverential disposition dont flow from the nature of it necessarily flow from the nature of it . but only as we are in this world in an Infirm & Imperfect state. heri and therefore in heaven where this holy aw & Reverence will be in perfection there will be no fear strictly sp so Called . 1 Joh. 4. 18 Perfect love Casteth
+it is not the nature of this aw holy aw & dread to be any alloy to the Pleasure & delight which the soul hath in G. But on the Contrary it heightens & Increases it. when such majesty & Grace are Joind and a due sense of both are Joined. it only tends only to make the soul vastly more to [^030-note6] Prize the Object & to delight in the beauty & Grace . There is nothing in this sort of Reverence that any thing tends to Inclined the soul to fly from G & avoid it tends to make the soul to humble & abase it self but before G. but not to avoid his Presence. what there is of fear in this Rev strictly speaking in this Reverential disposition dont flow from the nature of it necessarily flow from the nature of it . but only as we are in this world in an Infirm & Imperfect state. heri and therefore in heaven where this holy aw & Reverence will be in perfection there will be no fear strictly sp so Called . 1 Joh. 4. 18 Perfect love Casteth
 
 ________________________________________________
 
@@ -8594,7 +8594,7 @@ The Faith of Xtians dont stand in the wisdom of men but in the Power of G tis Gi
 
 ______________
 
-There are Abundance of disputes and difference about of opinion amongst Learned men . and that Even aabout fundamentals . some are Arians & some socinians & some Arminians & some Papists & s some Calvinists. and they will argue very with Great subtilty & appearance of Reason strongly now if knowing the truth depended on [^034-note19] Learning and a Good Acquaintance with all Controversies the Controversies that are in the world Illiterate Xtians would not know what to do for there is not one in it may be in a hundred that has Leisure and opportunity thoroughly to study the Controversies & to see who disputes best and
+There are Abundance of disputes and difference about of opinion amongst Learned men . and that Even about fundamentals . some are Arians & some socinians & some Arminians & some Papists & s some Calvinists. and they will argue very with Great subtilty & appearance of Reason strongly now if knowing the truth depended on [^034-note19] Learning and a Good Acquaintance with all Controversies the Controversies that are in the world Illiterate Xtians would not know what to do for there is not one in it may be in a hundred that has Leisure and opportunity thoroughly to study the Controversies & to see who disputes best and
 
 ______________
 

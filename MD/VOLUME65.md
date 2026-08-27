@@ -16,7 +16,7 @@ Subject. The sin of Extortion 1 shew what this sin is or is the nature of this o
 
 _____
 
-2. offer some motive3s to diswade from it
+2. offer some motives to diswade from it
 
 _____
 
@@ -512,7 +512,7 @@ _________
 
 __________________________
 
-Obs. (1). The means of Grace to those that live uknder the Gospel are like the showers that often descend on the Earth. 1 Briefly shew what I have Respect to when I speak of the means of Grace . or what those means of Grace are which in the Text are Compared.
+Obs. (1). The means of Grace to those that live under the Gospel are like the showers that often descend on the Earth. 1 Briefly shew what I have Respect to when I speak of the means of Grace . or what those means of Grace are which in the Text are Compared.
 
 _____________
 
@@ -13708,7 +13708,7 @@ ____________________________
 
 3 4 . way to have Gods much of Gods blessing in all your Concerns. [^022-note28]
 
-made blessing to othes
+made blessing to others
 
 ______________________________
 

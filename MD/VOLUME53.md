@@ -1032,7 +1032,7 @@ tis to have immediately to go forth to meet the bridegroom is a great thing APPL
 
 ________
 
-2. if we see persons under fear & darkness in a death bed yet thhis is not sufficient for us to conclude em natural men should stir the improvemt we should make of it is to take warning
+2. if we see persons under fear & darkness in a death bed yet this is not sufficient for us to conclude em natural men should stir the improvemt we should make of it is to take warning
 
 __________________________________________________________________
 
@@ -1078,7 +1078,7 @@ undesirable on two accounts 1 Fears & doubts & fears -- will be more terri ble a
 
 __________________________________
 
-Then a when the saints come to die they will especially need clear evidences ---- Probably enough to do to grapple with thhe distemper ---- death is terrible to nature nature destroying ----- leaving all thhe T
+Then a when the saints come to die they will especially need clear evidences ---- Probably enough to do to grapple with the distemper ---- death is terrible to nature nature destroying ----- leaving all the T
 
 ___________
 
@@ -1672,7 +1672,7 @@ the foolish virgins will be sensib. of the great worth of the priviledge that th
 
 __________________________________________________________________
 
-Here three particulars may be observed under this head before I proceed to the next Head thind proposed 1. That the ungodly will then universally be convinced of brought to such a sense of the value of those things not one will remain unconvinced even the most stupid & senseless per s & sottish sinners they will then have their eyes opened there are some now in the Θ that make a man scoff at those great things but they as well as others shall be fully convinced as well as others.
+Here three particulars may be observed under this head before I proceed to the next Head thing proposed 1. That the ungodly will then universally be convinced of brought to such a sense of the value of those things not one will remain unconvinced even the most stupid & senseless per s & sottish sinners they will then have their eyes opened there are some now in the Θ that make a man scoff at those great things but they as well as others shall be fully convinced as well as others.
 
 _____________________
 
@@ -1798,7 +1798,7 @@ that were [-] senseless & secure & asleep in sin will be effectually awakened ne
 
 ___________________
 
-Tho the Changes there will be no Change of nature or principle in natural men in another & so it but they will have thhe same wicked hearts that they now have and without the Least Jot of goodn. & their wickedness shall then be without those Restraints that it is now under & so shall rage to a dreadfull degree . yet there will be an exceeding great change in them they will be Chhanged in their many Respects in their own Judgmt & sense of almost every
+Tho the Changes there will be no Change of nature or principle in natural men in another & so it but they will have the same wicked hearts that they now have and without the Least Jot of goodn. & their wickedness shall then be without those Restraints that it is now under & so shall rage to a dreadfull degree . yet there will be an exceeding great change in them they will be Chhanged in their many Respects in their own Judgmt & sense of almost every
 
 _________________
 
@@ -2130,7 +2130,7 @@ This is the same as it were the fullness of This is as it were the substance in 
 
 ___________________
 
-In him only of all thhe house of Jeroboam is found some good thing towards the L. G. of Is.
+In him only of all the house of Jeroboam is found some good thing towards the L. G. of Is.
 
 __________________________
 
@@ -2258,7 +2258,7 @@ This also distinguishes this principle from all that natural men experience . [-
 
 ________________
 
-when the sun of Rghteousness shines upon the soul of the Godly man he does communicates his light & heat so to him that there is as it were a little sun kindled up a living principle of Light & heat kindled up in the soul that is the exact image of the sun that shines upon it & so they behold the glory of the L. are changed into thhe same image from glory to glory as by the sp. of the L. This glorious sun so touches the heart of a saint with his light & heat that a divine flame is as it were thereby lit up in the soul as a candle is lit by touching the fire
+when the sun of Rghteousness shines upon the soul of the Godly man he does communicates his light & heat so to him that there is as it were a little sun kindled up a living principle of Light & heat kindled up in the soul that is the exact image of the sun that shines upon it & so they behold the glory of the L. are changed into the same image from glory to glory as by the sp. of the L. This glorious sun so touches the heart of a saint with his light & heat that a divine flame is as it were thereby lit up in the soul as a candle is lit by touching the fire
 
 _______________
 

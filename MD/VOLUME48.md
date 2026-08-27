@@ -36,7 +36,7 @@ ___________________________________________
 
 ________________________
 
-3. we may Obs. here how Peremptorily this duty is here Enjoined & how much Insisted on tis Repeated over & over Again . in the 7 v. thou shalt not hard ------- 8. v. ---------- 10 v. thou shalt surely Give him . & 11. v. I Command thee saying thou shalt open thine hand wide unto thy Brother. to thy Poor & to thy needy . 4. Obs God strictly warns against objection [^001-note2] as 9. v. Beware that there be not a thought in thyir wicked heart saying the seventh year [^001-note3]
+3. we may Obs. here how Peremptorily this duty is here Enjoined & how much Insisted on tis Repeated over & over Again . in the 7 v. thou shalt not hard ------- 8. v. ---------- 10 v. thou shalt surely Give him . & 11. v. I Command thee saying thou shalt open thine hand wide unto thy Brother. to thy Poor & to thy needy . 4. Obs God strictly warns against objection [^001-note2] as 9. v. Beware that there be not a thought in their wicked heart saying the seventh year [^001-note3]
 
 -------------------------------------------
 
@@ -308,7 +308,7 @@ men dont account that Loss'd that they Let out to Use but what is bestowed in Ch
 
 ______________________________
 
-1. if you Give what you bestow you bestow with a sp. of True Charity you shall be Rewarded be Rewarded in whtat is Infinitely more valuable than what you Give you shall be Reward for parting with a small part of your Earthly substance you shall be Eternal Rewarded with Eternal Riches in H. math 10. 42. who soever shall Give to drink unto One of these Little ones a Cup of Cold water only in the name of a disciple verily I say unto you he shall in no wise Loose his Reward. [^001-note34]
+1. if you Give what you bestow you bestow with a sp. of True Charity you shall be Rewarded be Rewarded in what is Infinitely more valuable than what you Give you shall be Reward for parting with a small part of your Earthly substance you shall be Eternal Rewarded with Eternal Riches in H. math 10. 42. who soever shall Give to drink unto One of these Little ones a Cup of Cold water only in the name of a disciple verily I say unto you he shall in no wise Loose his Reward. [^001-note34]
 
 ___________________________
 
@@ -9614,7 +9614,7 @@ he was of a wonderfull Gentlen. of sp. towards men under all the affronts he was
 
 ___________________________________
 
-his meekn & Patience was Especially Remarkeable under the mmost Remarkeable Trial that Ever it had in those Extreme sufferings & that utmost degree of Contempt & Cruelty that abuse and Cruelty that he underwent in the time of his Last Passion
+his meekn & Patience was Especially Remarkeable under the most Remarkeable Trial that Ever it had in those Extreme sufferings & that utmost degree of Contempt & Cruelty that abuse and Cruelty that he underwent in the time of his Last Passion
 
 _________________
 
@@ -13216,7 +13216,7 @@ we should be disposed if we have Recieveed Pardon for all our sins & h are Recie
 
 __________________________
 
-if we have much Spiritual Comforts . we & Joys we should ascribe all this to X be sensible that we have not the Least drop of Sp. Comfort but what he Graciously admninisters to us & we shouls Love to own him as the author & fountain of all our Comf.
+if we have much Spiritual Comforts . we & Joys we should ascribe all this to X be sensible that we have not the Least drop of Sp. Comfort but what he Graciously admninisters to us & we should Love to own him as the author & fountain of all our Comf.
 
 _____________________________________
 
@@ -16314,7 +16314,7 @@ X did thus in that when he saw his disciples needed it he for their sakes took u
 
 _________________
 
-& this he stooped to h to help his disciples to not [ ] they needed his help he w Readi ly adopted hims. this Low to serve & hilp them as he says math 7. 27. 28. and whosoever will be Chief among you Let him be your servt Even as the son of men Came not to be [^040-note28] tried to but to minister & to Give his Life a [^040-note29] [ ] for many . X seems to have Performed that action of walking his discip. Feet than to be a symbol of this his thus making Hi as it were at stooping to the office of a servt to help his disciples 3v. & c ---------------
+& this he stooped to h to help his disciples to not [ ] they needed his help he w Readi ly adopted hims. this Low to serve & help them as he says math 7. 27. 28. and whosoever will be Chief among you Let him be your servt Even as the son of men Came not to be [^040-note28] tried to but to minister & to Give his Life a [^040-note29] [ ] for many . X seems to have Performed that action of walking his discip. Feet than to be a symbol of this his thus making Hi as it were at stooping to the office of a servt to help his disciples 3v. & c ---------------
 
 _________________________________________________
 

@@ -4972,7 +4972,7 @@ ________________________
 
 __________________________________________________
 
-II use mmay be of self Exam ---- whether you are Come ---------
+II use may be of self Exam ---- whether you are Come ---------
 
 _________
 
@@ -5832,7 +5832,7 @@ ________________
 
 ______________
 
-the ------ of salvation of by X ithat is said to be so wise is alwaies foolishness to them Gospel doctrines that others say contina so much in them are alwaies insipid to dull dull story to them
+the ------ of salvation of by X that is said to be so wise is alwaies foolishness to them Gospel doctrines that others say contina so much in them are alwaies insipid to dull dull story to them
 
 __________________________
 
@@ -6828,7 +6828,7 @@ then will be the time of your Greatest Joy when you shall be ascending up throug
 
 ____________
 
-II To Lead you to Consid. the Great Benefit it will be of to you throughout Eternity. when in that state wherein you shall be brought to a per fect Enjoymt of it This may appear in these four by considering these five things in the state of the saints in H. 1 what they shall be. 2. where they shall be . 3. what they shall see & enjoy 4. what they shall do . 5. what thhey shall Know will be .
+II To Lead you to Consid. the Great Benefit it will be of to you throughout Eternity. when in that state wherein you shall be brought to a per fect Enjoymt of it This may appear in these four by considering these five things in the state of the saints in H. 1 what they shall be. 2. where they shall be . 3. what they shall see & enjoy 4. what they shall do . 5. what they shall Know will be .
 
 ______________
 

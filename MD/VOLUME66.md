@@ -450,7 +450,7 @@ ______
 
 ________________________
 
-3 The fatal Issue viz the breaking & falling of the wiall.
+3 The fatal Issue viz the breaking & falling of the will.
 
 ----- -------
 
@@ -1546,7 +1546,7 @@ for them as m to be for them as much as they Thems. can desire & are capable of 
 
 II Have reason to They that love X have Reas. & Can say that have Reason to Glory in that Priviledge that they are Xs not only that X is theirs The m Love seeks a mutual Relation & interest and not only delights in having the beloved his own but also in being His Tis the mutual Relation & Interest of X & those tha Believers that [^004-note43] compleats the Believers Happin. Love does as much seek to give to the Beloved as to receive H from Him so true Love to X in clines a person ---- -- to give up Hims. --- as m to be be for Him -- de voted to him ---- for his service & Glory . as much as to Re have X his own – -- for his Honour profit & Enjoymt [^004-note44]
 
-But that those that Love X & can say that they are Xs have Reason – -------- will appear more fully if it be Considered in whaqt manner they are theirs & and here I would obs. that those that Love X are not only his as others are his [^004-note45] But are his in a peculiar & distinguishing manner & that in the following Respects
+But that those that Love X & can say that they are Xs have Reason – -------- will appear more fully if it be Considered in what manner they are theirs & and here I would obs. that those that Love X are not only his as others are his [^004-note45] But are his in a peculiar & distinguishing manner & that in the following Respects
 
 ____________________
 
@@ -11228,7 +11228,7 @@ _________________________
 
 _________________________
 
-II. of Exh. To all such as are without any reasonable support against the fears of death . to improve the to the utmost to improve thieir pres. Opp. to get an Interest in X that you may be through him be delivered . [^023-note23]
+II. of Exh. To all such as are without any reasonable support against the fears of death . to improve the to the utmost to improve their pres. Opp. to get an Interest in X that you may be through him be delivered . [^023-note23]
 
 1 How mis. is this Bondage you are under How terrible an Enemy is death. How terrible to have the body dissolving without any support to the soul. How dredf. to taken an Everlasting Leave of all Earthly Enjoymts ---
 
@@ -14056,7 +14056,7 @@ ____________________________
 
 Num. 23. 21. shout The L. his G. is with Them & the shout of a King [^028-note11]
 
-Moses was an Emi nent Type Rev. 15. 2, 3 sing the song of Moses & of the Lamb. david was an eminent Type of X Led the People. Instituted went before em in his Example. as wehen the Ark was Carried. 2 sam. 23. 1. sweet Psalmist That is X that speaks[^028-note12] Ps. 22. 25. I will praise Thee in the great Congregation again Tis he that speaks Ps. 35. 18. ---- ---- it appears to be X by the foregoing v. 10 9. 10.
+Moses was an Emi nent Type Rev. 15. 2, 3 sing the song of Moses & of the Lamb. david was an eminent Type of X Led the People. Instituted went before em in his Example. as when the Ark was Carried. 2 sam. 23. 1. sweet Psalmist That is X that speaks[^028-note12] Ps. 22. 25. I will praise Thee in the great Congregation again Tis he that speaks Ps. 35. 18. ---- ---- it appears to be X by the foregoing v. 10 9. 10.
 
 __________________________
 

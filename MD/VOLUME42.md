@@ -1640,7 +1640,7 @@ ____________
 
 _______________________
 
-Especially is it to be feard, and not to be doubted that this is very often the Case with those who are on a death beed, when the terrors of death take hold upon them. and Eternal misery the dreadfullness of Eternal misery appears in lively image before Colours to them, then indeed they mourn for what they have done. and accuse them selves With folly, wheras if they knew they should Escape misery they would be Easy about it t
+Especially is it to be feard, and not to be doubted that this is very often the Case with those who are on a death bed, when the terrors of death take hold upon them. and Eternal misery the dreadfullness of Eternal misery appears in lively image before Colours to them, then indeed they mourn for what they have done. and accuse them selves With folly, wheras if they knew they should Escape misery they would be Easy about it t
 
 ______________________________________________________
 

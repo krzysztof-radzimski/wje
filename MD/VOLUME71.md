@@ -416,7 +416,7 @@ I Afflictions that are brought on men in this O are from the Hand of G. not only
 
 __
 
-but there is special a hand of G. in [-] particular ordering ordering. vthis is livelily Represented v. 6. 7.
+but there is special a hand of G. in [-] particular ordering ordering. this is livelily Represented v. 6. 7.
 
 ------------ ------
 
@@ -510,7 +510,7 @@ when the End of Chast Those on whom the End of Chastizemt is thus obtained are H
 
 ___________
 
-The Positive Benefits Turns from the way tohat misery leads to destruction [^002-note17]
+The Positive Benefits Turns from the way that misery leads to destruction [^002-note17]
 
 The Positive Benefits Holiness [-] Peace & Hap Joy.
 

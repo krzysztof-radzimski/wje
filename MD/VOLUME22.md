@@ -6632,7 +6632,7 @@ ways & means of Persons Going out of the ☉ suddenly are innumerable unseenunth
 
 <!-- p. L. 5r. -->
 
-11. They have no Interest in aany mediatour in short they have no Refugeapplication
+11. They have no Interest in any mediatour in short they have no Refugeapplication
 
  ApplicationThe shorthand notation flanking the heading reads, "From doctrine to [double brackets] the second time from Psalms 7:11, 1741 [?]." The double brackets appear at the end of the first Use.
 
@@ -6773,7 +6773,7 @@ now you dont see it but they that are Gone to hell they see it was so for destru
 
 <!-- p. L. 8v. -->
 
-& beside Thatthis the things that have been said thatg. there is no promise that G.has made that he wont Let you drop the next moment .
+& beside Thatthis the things that have been said that. there is no promise that G.has made that he wont Let you drop the next moment .
 
 & you have
 no interest in any mediatourwithwit
