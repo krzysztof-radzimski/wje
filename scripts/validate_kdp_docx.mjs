@@ -472,6 +472,12 @@ function validateWordCompatibility(xmlParts, errors) {
   if (settings && elements(settings, "w:defaultTabStop").length) {
     errors.push("Generated settings contain a schema-sensitive defaultTabStop override");
   }
+  for (const updateFields of elements(settings, "w:updateFields")) {
+    const value = updateFields.getAttribute("w:val");
+    if (!value || /^(?:1|true|on)$/i.test(value)) {
+      errors.push("Document requests field updates on open and will trigger a Microsoft Word security prompt");
+    }
+  }
   if (settings) {
     const root = settings.documentElement;
     const settingNames = Array.from(root?.childNodes ?? [])

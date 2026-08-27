@@ -34,5 +34,5 @@ The smoke suite generates both profiles from a controlled fixture and rejects
 OOXML that Word would need to repair, including invalid OPC part names and
 relationship targets, duplicate paragraph styles and bookmark IDs, disabled
 table-header markers, schema-sensitive settings order, invalid embedded-font
-keys, unpaired bookmark ranges, broken relationships, and lost heading
-footnotes.
+keys, automatic field updates that trigger Word's security prompt, unpaired
+bookmark ranges, broken relationships, and lost heading footnotes.

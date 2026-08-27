@@ -105,6 +105,7 @@ for (const profileId of ["kindle", "print-6x9"]) {
     assert.match(fontRelationships, /Target="fonts\/LibreBaskerville-Regular\.odttf"/);
     assert.doesNotMatch(documentXml, /<w:tblHeader\b[^>]*w:val="false"/);
     assert.doesNotMatch(settingsXml, /<w:defaultTabStop\b/);
+    assert.doesNotMatch(settingsXml, /<w:updateFields\b/);
     if (profileId === "print-6x9") {
       assert.ok(settingsXml.indexOf("<w:mirrorMargins/>") < settingsXml.indexOf("<w:trackRevisions"), "mirror margins precede revision settings as required by OOXML schema order");
     } else {
@@ -212,7 +213,7 @@ test("validator rejects Word schema constructs that trigger document repair", as
   zip.file("word/document.xml", documentXml
     .replace(/(<w:pStyle\b[^>]*\/>)/, "$1$1")
     .replace("<w:tblHeader/>", '<w:tblHeader w:val="false"/>'));
-  zip.file("word/settings.xml", settingsXml.replace("</w:settings>", '<w:defaultTabStop w:val="720"/></w:settings>'));
+  zip.file("word/settings.xml", settingsXml.replace("</w:settings>", '<w:defaultTabStop w:val="720"/><w:updateFields/></w:settings>'));
   zip.file("word/fontTable.xml", fontTableXml.replace(/w:fontKey="\{([^}]*)\}"/, (_match, key) => `w:fontKey="{${key.toLowerCase()}}"`));
   await fs.writeFile(broken, await zip.generateAsync({ type: "nodebuffer" }));
   const validation = await validateKdpDocx({ input: markdown, docx: broken, profileId: "kindle" });
@@ -220,6 +221,7 @@ test("validator rejects Word schema constructs that trigger document repair", as
   assert.ok(validation.errors.some((error) => error.includes("Duplicate paragraph style")));
   assert.ok(validation.errors.some((error) => error.includes("Invalid disabled table-header marker")));
   assert.ok(validation.errors.some((error) => error.includes("defaultTabStop")));
+  assert.ok(validation.errors.some((error) => error.includes("field updates on open")));
   assert.ok(validation.errors.some((error) => error.includes("font key is not an uppercase GUID")));
 });
 

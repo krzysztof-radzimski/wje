@@ -77,7 +77,7 @@ export async function buildKdpDocx(model, profile, options = {}) {
     lastModifiedBy: "wje-local-tools",
     compatabilityModeVersion: 15,
     evenAndOddHeaderAndFooters: profile.layout.runningHeaders,
-    features: { updateFields: true, trackRevisions: false },
+    features: { trackRevisions: false },
     fonts,
     styles: styleSheet(profile, state.options.language),
     numbering: numberingConfig(profile),
