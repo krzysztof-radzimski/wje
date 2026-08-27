@@ -1,6 +1,8 @@
 ## "Sacrament Book I" Sac. Bk. I
 
-Jonathan Edwards"Sacrament Book 1"
+Jonathan Edwards
+
+"Sacrament Book 1"
 
 "Sacrament Book 1"
 
@@ -108,7 +110,7 @@ Zion has them as it were in her womb before they are born . & travails in Birth 
 
 ARGUMENT . 1 Cor. X. 17. Compared with Chap 12. 12 to the End & Rom. 12. 5. & other parallel Places.
 
-======================================
+\======================================
 
 ANSWER to an objection.] No Argument can be good that is as much against that the scheme it would defend & support as that which it would overthrow [missing][26-27] have a Right to the Priviledges [28] of Conditional promises without Performing the Condition of those Promises for that [-] is the very notion of the Condition of a Promise . viz. the Condition of A RIGHT to the thing Promised see Baxter. p. 358 §3 &c------ & 366 at top. . see B. II. p. 134.
 
@@ -512,657 +514,19 @@ To say that persons may PROFESS Christianity, and not profess *real*[^001-note40
 
 ## "The Result of a Council of Nine Churches Met at Northampton, June 22, 1750" Result of the Council 6-22-50
 
-Chester WilliamsResult of the Council at Northampton, June 22, 1750
+Chester Williams
 
-We have in manuscript and printed form the report of the council that met at Northampton on June 22, 1750, and voted Edwards’ dismissal, accompanied by the Protest of those who voted against dismission. The manuscript copy passed through Edwards’s hands, or perhaps was his personal copy of record, since he made two emendations in the Protest. He may have used this document to write the letter to Joseph Bellamy dated June 25, 1750 (Letter A116a), which includes the full text of the Result and Protest. It is interesting to note that, on the Protest, the name of the last signator, Samuel Bancroft, was rendered as "Samuel Bankrupt." Was this an unfortunate slip by the amanuensis of the protesters, or, if copied out by someone from the other side, a final satirical jab? In any case, Edwards drew a line through the mistake and re-wrote Bancroft’s name himself below.
-
-The text was published in Boston soon after as *The Result of a Council of Nine Churches Met at Northampton, June 22, 1750. With a Protest Against the Same*. There followed a short pamphlet exchange between Robert Breck and William Hobby, with Breck issuing *An Account of the Conduct of the Council Which Dismissed the Rev. Mr. Edwards* (1750), followed by Hobby’s *A Vindication of the Protest Against the Result of the Northampton-Council* (1751), and ending with Breck’s *A Letter to the Rev. Mr. Hobby* (1751).
+Result of the Council at Northampton, June 22, 1750 We have in manuscript and printed form the report of the council that met at Northampton on June 22, 1750, and voted Edwards’ dismissal, accompanied by the Protest of those who voted against dismission. The manuscript copy passed through Edwards’s hands, or perhaps was his personal copy of record, since he made two emendations in the Protest. He may have used this document to write the letter to Joseph Bellamy dated June 25, 1750 (Letter A116a), which includes the full text of the Result and Protest. It is interesting to note that, on the Protest, the name of the last signator, Samuel Bancroft, was rendered as "Samuel Bankrupt." Was this an unfortunate slip by the amanuensis of the protesters, or, if copied out by someone from the other side, a final satirical jab? In any case, Edwards drew a line through the mistake and re-wrote Bancroft’s name himself below. The text was published in Boston soon after as *The Result of a Council of Nine Churches Met at Northampton, June 22, 1750. With a Protest Against the Same*. There followed a short pamphlet exchange between Robert Breck and William Hobby, with Breck issuing *An Account of the Conduct of the Council Which Dismissed the Rev. Mr. Edwards* (1750), followed by Hobby’s *A Vindication of the Protest Against the Result of the Northampton-Council* (1751), and ending with Breck’s *A Letter to the Rev. Mr. Hobby* (1751).
 
 *****
 
-Two folio leaves (BRBL, f. 1350). Report in hand of Chester Williams; Protest in unidentified hand, with two changes by Edwards. There are only minor differences between the MS copy and the imprint.
+Two folio leaves (BRBL, f. 1350). Report in hand of Chester Williams; Protest in unidentified hand, with two changes by Edwards. There are only minor differences between the MS copy and the imprint. [^002-note1]
 
-[^002-note1]
+At a Councill of Nine Churches, viz The Chh in EnfieldRevd: Mr: Peter Reynolds Pastr Mr: Edd. Collings Dele SheffieldJona. Hubberd Pastr: Mr: Danl: Kellogg Delege SuttonDavid Hall Pastr: Mr: Jona: Hale Delege ReadingWillm: Hobby Past: Mr: Samll: Bancroft Del: First Chh in SpringfieldRobt: Breck Past: Mr: Thos: Stebbins Del: SunderlandJoseph Ashley Past Mr Samll Montague Del. HatfieldTimo: Woodbridge Pastr: Olivr: Partridge Esqr Del: First Chh in HadleyChester Williams Pastr: Enos Nash Del: PelhamRobt: Abercrombie Pastr Mr: Math: Gray Del: Conven’d at ye Call of ye First Chh in Northampton together with ye Elder of of ye Chh in Cold Spring added by ye Consent of both ye Pastor & Chh of Northampton, in Order to advise to a Remedy from ye Calamitys Arising from ye Unsettled broken State of ye first Chh in Northampton by Reason of a Controversy subsisting about ye Qualifications for full Communion in ye Chh: The Revd: Mr: Hubbard was chosen Moderator and ye Revd: Mr: Williams Scribe The Councill after Seeking ye divine Presence & Direction had ye Matter in Controversy laid before them, & finding ye Sentiments of ye Pastor & Chh: concerning ye Qualifications Necessary for full Co`munion to be diametrically Opposite to each Other, ye Pastor Insisting upon it as Necessary to ye. Admision of Members to full Co`munion that they should make a Profession of Sanctifying Grace, Whereas The Brethren are of Opinion that ye. Lords Supper is a converting Ordinance, and consequently, that Persons if they have a Competency of Knoledge & are of a blameless Life, may be admitted to ye. Lords Table, althô they make no Such Profession – And also finding that by Reason of this Diversity of Sentiments, ye Doors of ye Chh have been shut for some Years so that there has been no Admissions; and not being Able to find out any Method wherin ye Pastor & Brethren can Unite Consistent with their Own Sentiments in Admitting Members to full Co`munion The Councill did then according to ye Desire of ye Chh express’d in their Letters [^002-note2] Missive proceed to consider of ye Expediency of dissolving ye Relation between Pastor & People. & After Hearing ye: Chh: upon it & Mature Deliberation of ye Case, ye Questions were put to ye Members of ye Councill severally --- 1. Whether it be ye Opinion of this Councill that ye Revd: Mr: Edwards persisting in his Principles, & ye Chh: in theirs, in Opposition to his, & Insisting on a Separation, it is Necessary that ye. Relation between Pastor & People be dissolved Resolved in ye. Affirmative --- 2. Whether it be expedient that this Relation be immediately dissolved. pass’d in ye Affirmative ------------- However we take Notice that Notwithstanding ye Unhappy Dispute which has Arisen & so long Subsisted between ye. Pastor & Chh: of Northampton upon ye Point beforemention’d that we have had no Other Objection against him but What Relates to his Sentiments upon ye. Point Aforesd: laid before us; and Althô we have heard of some Stories Spread Abroad Reflecting upon Mr: Edwards’s Sincerity with Regard to ye: Change of his Sentiments abt: ye. Qualifications for full Co`munion, Yet we have Recd. full Satisfaction that they are false & groundless. And althô we dont all of us agree with Mr. Edwards in Our Sentiments upon ye Point, Yet have abundant Reason to believe yt: he took much pains to get Light in that Matter, & yt: he is uprightly following ye Dictates of his Own Conscience, and with great Pleasure Reflect upon ye Christian Spirit & Temper he has discovered in the unhappy Controversy subsisting among them, & think Our Selves bound to testify Our full Charity towards him & Reco`mend him to any Chh: or People Agreeing with him in Sentiments as a Person Eminently Qualifyd for ye Work of the Gospell Ministry. -- ----- And we wou’d Reco`mend it to ye. Revd: Mr: Edwards and ye first Chh in Northampton to take proper Notice of ye. heavy Frown of divine Providence in Suffering them to be Reduc’d to such a State, as to Render a Separation Necessary after they have lived so long & Amicably together and been Mutual Blessings & Comforts to each Other. & now Reco`mending ye Revd Mr. Edwards & ye Chh in Northampton to ye. Grace of God We Subscribe Northampton June 22d: 1750 Jona: Hubbard Moderator in ye Name of ye. Council ---- [^002-note3]
 
-At a Councill of Nine Churches, viz
+We cannot agree to a Dismission of the Revd Mr Edwards at least for the present for the following reasons, previous to which we Observe That tho we presume not to infringe the right of others Consciences Yet We beg leave to enjoy our own and being Sought to to ffor Advice and Counsel at Northampton are constrained to Say to this Church 1: That we disapprove of the Separation of the Revd. Mr Edwards from his People because that in the Nature of the Thing there is no Just Cause therefor his Sentiments being as we Apprehend perfectly harmoni= ous with the Mind of the Lord Jesus Christ and Strictly conformable to the Practice of the Apostles and that of the Reformed Churches in general. 2: Upon Supposition that Mr Edwards were in the wrong in the present Controversy yet there is as we Apprehend no Proportion between the Importance of the Controversy and that of his Dismission 3: It Appears to us no proper Essays in the way of fair reasoning with or before the Parties to convince either of them of the Truth or falseness of their Principles which Love to the Truth itself and their Souls requires. 4. Because the Church or at least its Committee while they offer to us reasons for Separating them from their Pastor yet will not Suffer us so to enter into the Grounds of those reasons as to offer to them that Light which the word of God Affords which we esteem an Imposition on our Consciences and does but tend to keep them in the Dark. These Brethren are Some of the reasons for which we can by no means approve a Separation at least at Present but if Such Separation shou’d eventually come on We bear a free and chearfull Testimony in favour of our dearly beloved Brother and your once dearly beloved Pastor tho now esteemed your Enemy because as we apprehend he has told you the Truth. He needs not indeed any recommendation of ours which is more properly a Comendation of Ourselves than of him nor need we Say much to others for that his Praise is in most of our Churches thrô the Land yet we are constrained to Say to the world that God has furnished him with those ministerial Gifts and Graces by which he has hitherto shone as a burning and shining Light and tho’ his People in general cease to rejoice in his Light yet we hope and trust others may rejoice in it for a long Season so wishing that the Dear People of God in this place may take the Point in [^002-note4] Controversy into a meek, Calm Serious and Prayerfull Consideration and that So truth with Holiness may greatly prevail in this place We Subscribe Yours in the Bonds of the Gospel Northampton June 22d 1750 David Hall William Hobby Edward Billing Robert Abercrombie Jonathan Hale Mathew Gray Samuel Bankrupt [^002-note5] Samuel Bancroft [^002-note6] [^002-note7]
 
-The Chh in EnfieldRevd: Mr: Peter Reynolds Pastr Mr: Edd. Collings Dele
-
-SheffieldJona. Hubberd Pastr: Mr: Danl: Kellogg Delege
-
-SuttonDavid Hall Pastr: Mr: Jona: Hale Delege
-
-ReadingWillm: Hobby Past: Mr: Samll: Bancroft Del:
-
-First Chh in SpringfieldRobt: Breck Past: Mr: Thos: Stebbins Del:
-
-SunderlandJoseph Ashley Past Mr Samll Montague Del.
-
-HatfieldTimo: Woodbridge Pastr: Olivr: Partridge Esqr Del:
-
-First Chh in HadleyChester Williams Pastr: Enos Nash Del:
-
-PelhamRobt: Abercrombie Pastr Mr: Math: Gray Del:
-
-Conven’d at ye Call of ye First Chh in Northampton together with ye Elder of
-
-of ye Chh in Cold Spring added by ye Consent of both ye Pastor & Chh of
-
-Northampton, in Order to advise to a Remedy from ye Calamitys Arising
-
-from ye Unsettled broken State of ye first Chh in Northampton by
-
-Reason of a Controversy subsisting about ye Qualifications for full
-
-Communion in ye Chh:
-
-The Revd: Mr: Hubbard was chosen Moderator
-
-and ye Revd: Mr: Williams Scribe
-
-The Councill after Seeking ye divine Presence & Direction had ye Matter
-
-in Controversy laid before them, & finding ye Sentiments of ye Pastor & Chh:
-
-concerning ye Qualifications Necessary for full Co`munion to be diametrically Opposite
-
-to each Other, ye Pastor Insisting upon it as Necessary to ye. Admision of Members
-
-to full Co`munion that they should make a Profession of Sanctifying Grace, Whereas
-
-The Brethren are of Opinion that ye. Lords Supper is a converting Ordinance, and
-
-consequently, that Persons if they have a Competency of Knoledge & are of a blameless
-
-Life, may be admitted to ye. Lords Table, althô they make no Such Profession – And
-
-also finding that by Reason of this Diversity of Sentiments, ye Doors of ye Chh
-
-have been shut for some Years so that there has been no Admissions; and not
-
-being Able to find out any Method wherin ye Pastor & Brethren can Unite
-
-Consistent with their Own Sentiments in Admitting Members to full Co`munion
-
-The Councill did then according to ye Desire of ye Chh express’d in their Letters [^002-note2]
-
-Missive proceed to consider of ye Expediency of dissolving ye Relation between
-
-Pastor & People. & After Hearing ye: Chh: upon it & Mature Deliberation
-
-of ye Case, ye Questions were put to ye Members of ye Councill severally ---
-
-1. Whether it be ye Opinion of this Councill that ye Revd: Mr: Edwards persisting in his
-
-Principles, & ye Chh: in theirs, in Opposition to his, & Insisting on a Separation, it is
-
-Necessary that ye. Relation between Pastor & People be dissolved
-
-Resolved in ye. Affirmative ---
-
-2. Whether it be expedient that this Relation be immediately dissolved.
-
-pass’d in ye Affirmative -------------
-
-However we take Notice that Notwithstanding ye Unhappy Dispute which has Arisen
-
-& so long Subsisted between ye. Pastor & Chh: of Northampton upon ye Point
-
-beforemention’d that we have had no Other Objection against him but What
-
-Relates to his Sentiments upon ye. Point Aforesd: laid before us; and Althô we have
-
-heard of some Stories Spread Abroad Reflecting upon Mr: Edwards’s Sincerity with
-
-Regard to ye: Change of his Sentiments abt: ye. Qualifications for full Co`munion,
-
-Yet we have Recd. full Satisfaction that they are false & groundless. And
-
-althô we dont all of us agree with Mr. Edwards in Our Sentiments upon ye
-
-Point, Yet have abundant Reason to believe yt: he took much pains to get Light
-
-in that Matter, & yt: he is uprightly following ye Dictates of his Own Conscience, and
-
-with great Pleasure Reflect upon ye Christian Spirit & Temper he has discovered in
-
-the unhappy Controversy subsisting among them, & think Our Selves bound to
-
-testify Our full Charity towards him & Reco`mend him to any Chh: or People Agreeing
-
-with him in Sentiments as a Person Eminently Qualifyd for ye Work of the
-
-Gospell Ministry. -- ----- And we wou’d Reco`mend it to ye. Revd: Mr: Edwards
-
-and ye first Chh in Northampton to take proper Notice of ye. heavy Frown
-
-of divine Providence in Suffering them to be Reduc’d to such a State, as to
-
-Render a Separation Necessary after they have lived so long & Amicably together
-
-and been Mutual Blessings & Comforts to each Other. & now Reco`mending ye
-
-Revd Mr. Edwards & ye Chh in Northampton to ye. Grace of God
-
-We Subscribe
-
-Northampton June 22d: 1750 Jona: Hubbard Moderator
-
-in ye Name of ye. Council ----
-
-[^002-note3]
-
-We cannot agree to a Dismission of the Revd Mr Edwards at least
-
-for the present for the following reasons, previous to which we Observe
-
-That tho we presume not to infringe the right of others Consciences Yet
-
-We beg leave to enjoy our own and being Sought to to ffor Advice
-
-and Counsel at Northampton are constrained to Say to this Church
-
-1: That we disapprove of the Separation of the Revd. Mr Edwards from his
-
-People because that in the Nature of the Thing there is no Just Cause
-
-therefor his Sentiments being as we Apprehend perfectly harmoni=
-
-ous with the Mind of the Lord Jesus Christ and Strictly conformable
-
-to the Practice of the Apostles and that of the Reformed Churches in
-
-general.
-
-2: Upon Supposition that Mr Edwards were in the wrong in the present
-
-Controversy yet there is as we Apprehend no Proportion between
-
-the Importance of the Controversy and that of his Dismission
-
-3: It Appears to us no proper Essays in the way of fair reasoning
-
-with or before the Parties to convince either of them of the Truth
-
-or falseness of their Principles which Love to the Truth itself
-
-and their Souls requires.
-
-4. Because the Church or at least its Committee while they offer to us
-
-reasons for Separating them from their Pastor yet will not
-
-Suffer us so to enter into the Grounds of those reasons as to
-
-offer to them that Light which the word of God Affords which we
-
-esteem an Imposition on our Consciences and does but tend to keep
-
-them in the Dark.
-
-These Brethren are Some of the reasons for which we can by no
-
-means approve a Separation at least at Present but if Such
-
-Separation shou’d eventually come on We bear a free and chearfull
-
-Testimony in favour of our dearly beloved Brother and your
-
-once dearly beloved Pastor tho now esteemed your Enemy because
-
-as we apprehend he has told you the Truth. He needs not indeed
-
-any recommendation of ours which is more properly a Comendation
-
-of Ourselves than of him nor need we Say much to others for that
-
-his Praise is in most of our Churches thrô the Land yet we are
-
-constrained to Say to the world that God has furnished him with
-
-those ministerial Gifts and Graces by which he has hitherto
-
-shone as a burning and shining Light and tho’ his People in
-
-general cease to rejoice in his Light yet we hope and trust
-
-others may rejoice in it for a long Season so wishing that the
-
-Dear People of God in this place may take the Point in [^002-note4]
-
-Controversy into a meek, Calm Serious and Prayerfull
-
-Consideration and that So truth with Holiness may greatly
-
-prevail in this place We Subscribe
-
-Yours in the Bonds of the Gospel
-
-Northampton June 22d 1750
-
-David Hall
-
-William Hobby
-
-Edward Billing
-
-Robert Abercrombie
-
-Jonathan Hale
-
-Mathew Gray
-
-Samuel Bankrupt [^002-note5]
-
-Samuel Bancroft [^002-note6]
-
-[^002-note7]
-
-The RESULT
-
-Of a Council of Nine Churches
-
-Met at Northampton, *June* 22. 1750.
-
-With
-
-A Protest against the same,
-
-By a Number of the said Council.
-
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa[^002-note8]
-
-At a Council of nine Churches, *viz*.
-
-The CHURCH in
-
-*Enfield*, Rev. Mr. *Peter Reynolds*, Past.
-
-Mr. *Edward Collins*, Delegate.
-
-*Sheffield*,--- *Jonathan Hubbard* Past.
-
-Mr. *Daniel Kellogg*, Delegate.
-
-*Sutton*, --- *David Hall*, Pastor.
-
-Mr. *Jonathan Hale*, Delegate.
-
-*Reading*, --- *William Hobby*, Pastor.
-
-Mr. *Samuel Bancroft*, Delegate.
-
-The first Church in
-
-*Springfield*,---Robert Breck, Pastor.
-
-Mr. *Thomas Stebbins*, Delegate.
-
-*Sunderland*,--- *Joseph Ashley*, Pastor.
-
-Mr. *Samuel Montague*, Delegate.
-
-*Hatfield*, --- *Timothy Woodbridge*, Pastor.
-
-*Oliver Partridge*, Esq; Delegate.
-
-The first Church in
-
-*Hadley*, --- *Chester Williams*, Pastor.
-
-Mr. *Enos Nash*, Delegate.
-
-*Pelham*, --- *Robert Abercrombie*, Pastor.
-
-Mr. *Matthew Gray*, Delegate.
-
-Convened at the Call of the first Church in
-
-*Northampton*, together with the Elder of
-
-the Church in *Cold-Spring* +[^002-note9] added by the
-
-Consent of both the Pastor and Church of [^002-note10]
-
-*Northampton*, in Order to advise to a Remedy
-
-from the Calamities arising from the unsettled
-
-broken State of the first Church in *Northamp-*
-
-*ton*, by Reason of a Controversy subsisting a-
-
-bout the Qualifications for full Communion in
-
-the Church.
-
-The Rev. Mr. *Hubbard* was chosen
-
-Moderator.
-
-And
-
-The Rev. Mr. *Williams*, Scribe.
-
-The Council, after seeking the divine Presence
-
-and Direction, had the Matter in Controversy laid
-
-before them, and finding the Sentiments of the
-
-Pastor and Church, concerning the Qualifica-
-
-tions necessary for full Communion, to be dia-
-
-metrically opposite to each other, the Pastor
-
-insisting upon it as necessary to the Admission
-
-of Members to full Communion, that they
-
-should make a Profession of sanctifying Grace;
-
-whereas the Brethren are of Opinion, that the
-
-Lord’s Supper is a converting Ordinance, and
-
-consequently that Persons if they have a Com-
-
-petency of Knowledge, and are of a blameless
-
-Life, may be admitted to the Lord’s Table,
-
-altho’ they make no such Profession : And
-
-also finding that by Reason of this Diversity of
-
-Sentiments, the Doors of the Church have been
-
-shut for some Years, so that there has been no
-
-Admissions : And not being able to find out [^002-note11]
-
-any Method wherein the Pastor and Brethren
-
-can unite, consistent with their own Senti-
-
-ments, in admitting Members to full Commu-
-
-nion : The Council did then, according to
-
-the Desire of the Church, express’d in their
-
-Letters missive, proceed to consider of the
-
-Expediency of dissolving the Relation between
-
-Pastor and People ; and after hearing the
-
-Church upon it, and mature Deliberation of
-
-the Case, the Questions were put to the Mem-
-
-bers of the Council severally ;
-
-1. *Whether it be the Opinion of this Council,*
-
-*that the Reverend Mr*. Edwards *persist-*
-
-*ing in his Principles, and the Church in*
-
-*theirs in Opposition to his, and insisting on*
-
-*a Separation, it is necessary that the Re-*
-
-*lation between Pastor and People be dis-*
-
-*solved?* Resolved in the Affirmative.
-
-2. *Whether it be expedient that this Rela-*
-
-*tion be immediately dissolved?*
-
-Pass’d in the Affirmative.
-
-However, we take Notice, that notwith-
-
-standing the unhappy Dispute which has ari-
-
-sen and so long subsisted between the Pastor
-
-and Church of *Northampton*, upon the Point
-
-before-mentioned, that we have had no other
-
-Objection against him, but what relates to his
-
-Sentiments upon the Point aforesaid, laid be-[^002-note12]
-
-fore us : And altho’ we have heard of some
-
-Stories spread Abroad, Reflecting upon Mr.
-
-*Edwards’*s Sincerity, with Regard to the
-
-Change of his Sentiments about the Qualifica-
-
-tions for full Comuunion; yet we have re-
-
-ceived full Satisfaction that they are false and
-
-groundless: And altho’ we don’t all of us agree
-
-with Mr. *Edwards* in our Sentiments upon the
-
-Point, yet have abundant Reason to believe,
-
-that he took much Pains to get Light in that
-
-Matter, and that he is uprightly following
-
-the Dictates of his own Conscience ; and with
-
-great Pleasure reflect upon the Christian Spi-
-
-rit and Temper he has discovered in the un-
-
-happy Controversy subsisting among them ;
-
-and think our selves bound to testify our full
-
-Charity towards him, and recommend him to
-
-any Church or People agreeing with him in
-
-Sentiments, as a Person eminently qualified for
-
-the Work of the Gospel-Ministry.
-
-And we would recommend it to the. Rev.
-
-Mr. *Edwards* and the first Church in *North-*
-
-*ampton* to take proper Notice of the heavy
-
-Frown of divine Providence, in suffering them
-
-to be reduced to such a State as to render a
-
-Separation necessary, after they have lived so
-
-long and amicably together, and been mutual
-
-Blessings and Comforts to each other.
-
-And now recommending the Reverend Mr. [^002-note13]
-
-*Edwards*, and the Church in *Northampton*, to
-
-the Grace of GOD,
-
-We Subscribe,
-
-*Jonathan Hubbard*, Moderator,
-
-In the Name of the Council.
-
-*Northampton, June* 22d. 1750.
-
-A true Copy examin’d by
-
-*Chester Williams,* Scribe.
-
-The Protest.
-
-WE cannot agree to a Dismission of the
-
-Reverend Mr. *Edwards*, at least for the
-
-present, for the following Reasons; previous
-
-to which we observe, that tho’ we presume
-
-not to infringe the Right of others Consci-
-
-ences, yet we beg Leave to enjoy our own :
-
-And being sought to for Advice in[^002-note14] Council
-
-at *Northampton*, are constrain’d to say to the[^002-note15]
-
-Church ; That
-
-1. We disapprove of the Separation of the
-
-Reverend Mr. *Edwards* from his People, be-
-
-cause that in the Nature of the Thing there
-
-is no just Cause therefor, his Sentiments be-
-
-ing, as we Apprehend; perfectly harmonious
-
-with the Mind of the Lord Jesus Christ,
-
-and strictly conformable to the Practice of the
-
-Apostles, and that of the Reformed Churches
-
-in general through the World.[^002-note16]
-
-2. On the[^002-note17] Supposition that Mr. *Edwards*
-
-were in the wrong in the present Controversy, yet
-
-there is, as we apprehend, no Proportion be-
-
-tween the Importance of the Controversy, and
-
-that of his Dismission.
-
-3. That[^002-note18] it appears to us, that there have
-
-been no proper Essays, in the Way of fair Rea-
-
-soning with or before the Parties, to convince
-
-either of them of the Truth or Falseness of
-
-their Principles ; which Love to the Truth it
-
-self and their Souls requires.
-
-4. Because the Church, or at least it’s
-
-Committee, while they offer to us Reasons for
-
-separating them from their Pastor, yet will
-
-not suffer us so to enter into the Grounds of
-
-those Reasons, as to offer to them that Light
-
-which the Word of God Affords : Which we
-
-esteem an Imposition on our Consciences,
-
-and doth[^002-note19] but tend to keep them in the dark.
-
-These, Brethren, are some of the Reasons
-
-for which we can by no Means approve a Se-
-
-paration, at least at present: But if such Sepa-
-
-ration should eventually come on, we bear a
-
-free and chearful Testimony in Favour of our
-
-dearly beloved Brother, and your once dearly be-
-
-loved Pastor; tho’ now esteemed your Enemy,
-
-because, as we apprehend, he has told you the
-
-Truth. He needs not indeed any Recom-
-
-mendation of ours ; which is more properly
-
-a Commendation of our Selves, than of him. [^002-note20]
-
-Nor need we say much to others, for that his
-
-Praise is in most of our Churches thro’ the
-
-Land : Yet we are constrained to say to the
-
-World, that GOD has furnish’d him with
-
-those ministerial Gifts and Graces, by which
-
-he has hitherto shone as a burning & shining
-
-Light : And tho’ his People in general cease
-
-to rejoyce in his Light ; yet we hope and
-
-trust, others may rejoyce in it for a long Sea-
-
-son. So wishing that the dear People of God
-
-in this Place may take the Point in Contro-
-
-versy into a meek calm serious and prayerful
-
-Consideration, and that so Peace with[^002-note21] Truth
-
-and[^002-note22] Holiness, may greatly prevail in this Place,
-
-We Subscribe,
-
-Your’s in the Bonds of the Gospel,
-
-*Jonathan Hale, David Hall,*
-
-*Matthew Gray, William Hobby,*
-
-*Samuel Bancroft. Edward Billing,*
-
-*Robert Abercrombie*
-
-Northampton, *June*
-
-22*d*. 1750
-
-*N. B.*This Copy, tho’ not attested by the Scribe, who is
-
-at an Hundred Miles distance, is yet by a careful
-
-comparing of it with the Original, which is now in
-
-my Hands, attested as true, by me
-
-Wm. Hobby.
+The RESULT Of a Council of Nine Churches Met at Northampton, *June* 22. 1750. With A Protest against the same, By a Number of the said Council. aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa[^002-note8] At a Council of nine Churches, *viz*. The CHURCH in *Enfield*, Rev. Mr. *Peter Reynolds*, Past. Mr. *Edward Collins*, Delegate. *Sheffield*,--- *Jonathan Hubbard* Past. Mr. *Daniel Kellogg*, Delegate. *Sutton*, --- *David Hall*, Pastor. Mr. *Jonathan Hale*, Delegate. *Reading*, --- *William Hobby*, Pastor. Mr. *Samuel Bancroft*, Delegate. The first Church in *Springfield*,---Robert Breck, Pastor. Mr. *Thomas Stebbins*, Delegate. *Sunderland*,--- *Joseph Ashley*, Pastor. Mr. *Samuel Montague*, Delegate. *Hatfield*, --- *Timothy Woodbridge*, Pastor. *Oliver Partridge*, Esq; Delegate. The first Church in *Hadley*, --- *Chester Williams*, Pastor. Mr. *Enos Nash*, Delegate. *Pelham*, --- *Robert Abercrombie*, Pastor. Mr. *Matthew Gray*, Delegate. Convened at the Call of the first Church in *Northampton*, together with the Elder of the Church in *Cold-Spring* +[^002-note9] added by the Consent of both the Pastor and Church of [^002-note10] *Northampton*, in Order to advise to a Remedy from the Calamities arising from the unsettled broken State of the first Church in *Northamp-* *ton*, by Reason of a Controversy subsisting about the Qualifications for full Communion in the Church. The Rev. Mr. *Hubbard* was chosen Moderator. And The Rev. Mr. *Williams*, Scribe. The Council, after seeking the divine Presence and Direction, had the Matter in Controversy laid before them, and finding the Sentiments of the Pastor and Church, concerning the Qualifications necessary for full Communion, to be diametrically opposite to each other, the Pastor insisting upon it as necessary to the Admission of Members to full Communion, that they should make a Profession of sanctifying Grace; whereas the Brethren are of Opinion, that the Lord’s Supper is a converting Ordinance, and consequently that Persons if they have a Competency of Knowledge, and are of a blameless Life, may be admitted to the Lord’s Table, altho’ they make no such Profession : And also finding that by Reason of this Diversity of Sentiments, the Doors of the Church have been shut for some Years, so that there has been no Admissions : And not being able to find out [^002-note11] any Method wherein the Pastor and Brethren can unite, consistent with their own Sentiments, in admitting Members to full Communion : The Council did then, according to the Desire of the Church, express’d in their Letters missive, proceed to consider of the Expediency of dissolving the Relation between Pastor and People ; and after hearing the Church upon it, and mature Deliberation of the Case, the Questions were put to the Members of the Council severally ; 1. *Whether it be the Opinion of this Council,* *that the Reverend Mr*. Edwards *persist-* *ing in his Principles, and the Church in* *theirs in Opposition to his, and insisting on* *a Separation, it is necessary that the Re-* *lation between Pastor and People be dis-* *solved?* Resolved in the Affirmative. 2. *Whether it be expedient that this Rela-* *tion be immediately dissolved?* Pass’d in the Affirmative. However, we take Notice, that notwithstanding the unhappy Dispute which has arisen and so long subsisted between the Pastor and Church of *Northampton*, upon the Point before-mentioned, that we have had no other Objection against him, but what relates to his Sentiments upon the Point aforesaid, laid before[^002-note12] us : And altho’ we have heard of some Stories spread Abroad, Reflecting upon Mr. *Edwards’*s Sincerity, with Regard to the Change of his Sentiments about the Qualifications for full Comuunion; yet we have received full Satisfaction that they are false and groundless: And altho’ we don’t all of us agree with Mr. *Edwards* in our Sentiments upon the Point, yet have abundant Reason to believe, that he took much Pains to get Light in that Matter, and that he is uprightly following the Dictates of his own Conscience ; and with great Pleasure reflect upon the Christian Spirit and Temper he has discovered in the unhappy Controversy subsisting among them ; and think our selves bound to testify our full Charity towards him, and recommend him to any Church or People agreeing with him in Sentiments, as a Person eminently qualified for the Work of the Gospel-Ministry. And we would recommend it to the. Rev. Mr. *Edwards* and the first Church in *North-* *ampton* to take proper Notice of the heavy Frown of divine Providence, in suffering them to be reduced to such a State as to render a Separation necessary, after they have lived so long and amicably together, and been mutual Blessings and Comforts to each other. And now recommending the Reverend Mr. [^002-note13] *Edwards*, and the Church in *Northampton*, to the Grace of GOD, We Subscribe, *Jonathan Hubbard*, Moderator, In the Name of the Council. *Northampton, June* 22d. 1750. A true Copy examin’d by *Chester Williams,* Scribe. The Protest. WE cannot agree to a Dismission of the Reverend Mr. *Edwards*, at least for the present, for the following Reasons; previous to which we observe, that tho’ we presume not to infringe the Right of others Consciences, yet we beg Leave to enjoy our own : And being sought to for Advice in[^002-note14] Council at *Northampton*, are constrain’d to say to the[^002-note15] Church ; That 1. We disapprove of the Separation of the Reverend Mr. *Edwards* from his People, because that in the Nature of the Thing there is no just Cause therefor, his Sentiments being, as we Apprehend; perfectly harmonious with the Mind of the Lord Jesus Christ, and strictly conformable to the Practice of the Apostles, and that of the Reformed Churches in general through the World.[^002-note16] 2. On the[^002-note17] Supposition that Mr. *Edwards* were in the wrong in the present Controversy, yet there is, as we apprehend, no Proportion between the Importance of the Controversy, and that of his Dismission. 3. That[^002-note18] it appears to us, that there have been no proper Essays, in the Way of fair Reasoning with or before the Parties, to convince either of them of the Truth or Falseness of their Principles ; which Love to the Truth it self and their Souls requires. 4. Because the Church, or at least it’s Committee, while they offer to us Reasons for separating them from their Pastor, yet will not suffer us so to enter into the Grounds of those Reasons, as to offer to them that Light which the Word of God Affords : Which we esteem an Imposition on our Consciences, and doth[^002-note19] but tend to keep them in the dark. These, Brethren, are some of the Reasons for which we can by no Means approve a Separation, at least at present: But if such Separation should eventually come on, we bear a free and chearful Testimony in Favour of our dearly beloved Brother, and your once dearly beloved Pastor; tho’ now esteemed your Enemy, because, as we apprehend, he has told you the Truth. He needs not indeed any Recommendation of ours ; which is more properly a Commendation of our Selves, than of him. [^002-note20] Nor need we say much to others, for that his Praise is in most of our Churches thro’ the Land : Yet we are constrained to say to the World, that GOD has furnish’d him with those ministerial Gifts and Graces, by which he has hitherto shone as a burning & shining Light : And tho’ his People in general cease to rejoyce in his Light ; yet we hope and trust, others may rejoyce in it for a long Season. So wishing that the dear People of God in this Place may take the Point in Controversy into a meek calm serious and prayerful Consideration, and that so Peace with[^002-note21] Truth and[^002-note22] Holiness, may greatly prevail in this Place, We Subscribe, Your’s in the Bonds of the Gospel, *Jonathan Hale, David Hall,* *Matthew Gray, William Hobby,* *Samuel Bancroft. Edward Billing,* *Robert Abercrombie* Northampton, *June* 22*d*. 1750 *N. B.*This Copy, tho’ not attested by the Scribe, who is at an Hundred Miles distance, is yet by a careful comparing of it with the Original, which is now in my Hands, attested as true, by me Wm. Hobby.
 
 [^002-note1]: **marginal.** [1. Manuscript version.]
 
@@ -1210,7 +574,9 @@ Wm. Hobby.
 
 ## "Request for a Council from the Northampton Minority," [c. 1750-51] Request for Council (1751)
 
-Timothy DwightRequest for a Council from the Minority
+Timothy Dwight
+
+Request for a Council from the Minority
 
 Undated, but doubtless dating from late 1750 or early 1751, this petition was sent by Edwards’ adherents in Northampton to the Revs. Thomas Prince and Thomas Foxcroft of Boston, Peter Clark of Salem Village, William Hobby of Reading, and David Hall of Sutton, two of which, Hobby and Hall, had been members of the June 22 Council and had voted against Edwards’ dismission. Here the topics are broached of Edwards being re-settled over the first church in Northampton, or settled over a second church, or even over an "academy" in an unspecified location.
 
@@ -1340,7 +706,9 @@ And lastly. Please to consider what we that adhere to him can do if [Mr.] Edward
 
 ## "Reflections on the Remonstrance Sent to Mr. Clark and Mr. Edwards" Reflections on Remonstrances
 
-Ebenezer Pomeroy, Jr."Reflections on the Remonstrance Sent to Mr. Clark and Mr. Edwards"
+Ebenezer Pomeroy, Jr.
+
+"Reflections on the Remonstrance Sent to Mr. Clark and Mr. Edwards"
 
 This is a copy of a document, drawn up for Edwards sometime in late 1751 (certainly after the council of May 15) by Ebenezer Pomeroy, Jr., clerk of the Northampton church. It contains retractions by the Northampton Church Committee from statements made in its original "Remonstrance" against Edwards and his followers upon the effort to found a second church in town. The address apparently was made to an individual (probably Rev. Thomas Prince of Boston, moderator of the council) or a council; the "Reflections" refers to the head negotiator as "Sir" and one acquainted with "those breathren by whose procuremt. we Suppose you are here," that is, Edwards’ adherents or, more specifically, Edwards and Col. Timothy Dwight, leader of the dissidents. While we do not have the original Remonstrance, we can deduce its content from this and other documents (e.g. the Petition of the Minority and the Northampton Church Committee’s Report on it). Among other things, the committee charged Dwight with threatening to block efforts to settle a new pastor of the first church if Edwards was not allowed to be installed over a second church, and it charged Edwards with complicity. The Church Committee does moderate some of its statements here, but they do not back down on the essential points of their opposition and criticism of Edwards and Dwight.
 
@@ -1426,7 +794,9 @@ A true copy. Attest: Ebenezer Pomeroy, Jr., Church Clerk
 
 ## "Notes for the Petition of the Northampton Minority, [c. 1751] TDwight Notes for 1751 Petition
 
-Timothy DwightNotes for the Petition of the Northampton Minority, c. 1751
+Timothy Dwight
+
+Notes for the Petition of the Northampton Minority, c. 1751
 
 This is a leaf of notes (ANTS f. ND1.8) made by Timothy Dwight apparently during a church meeting, possibly of a disciplinary nature. Dwight would eventually use these notes to help him draft the Petition of the Northampton Minority complaining about the treatment that Edwards’ adherents received at the hands of the rest of the church following the dismissal. The notes consist of a short series of testimonies from Northampton residents about statements by Dwight regarding his determination to have Edwards settled over a second church in town.
 
@@ -1514,7 +884,9 @@ Nathaniel Clark says I told Mr. Pomeroy[^005-note12] the same, and that I said t
 
 ## Petition of the Northampton Minority, [c. 1751] 1751 N'ton Minority Petition
 
-Timothy DwightPetition of the Northampton Minority, c. 1751
+Timothy Dwight
+
+Petition of the Northampton Minority, c. 1751
 
 This undated document, written by Timothy Dwight sometime after May 1751 on behalf of the Northampton minority that supported Edwards, was composed to justify their absenting themselves from the Lord's Supper due to the many injurious statements made by leaders of the church. Apparently, this vindication would have been addressed to the church or one of its committees.
 
@@ -1582,7 +954,9 @@ If it be said that our withdrawing from this church is contrary to our covenant 
 
 ## Northampton Church Committee on the Petition of the Minority, [c. 1751] N'ton Chh on Minority Petition
 
-Ebenezer PomeroyNorthampton Church Committee on the Petition of the Minority
+Ebenezer Pomeroy
+
+Northampton Church Committee on the Petition of the Minority
 
 This March 5, 1752, report by the Northampton Church Committee, in the hand of Ebenezer Pomeroy, responds to the petition of the "aggrieved brethren" that explained why they absented themselves from communion. While acknowledging and apologizing for some heated statements in their Remonstrance, the Church Committee here, as in later documents such as "Reflections on the Remonstrance," defends its criticism of Edwards and his adherents.
 
@@ -1620,7 +994,9 @@ They say that in the Remonstrance, the church says they are guilty of schism. An
 
 ## "Narrative of Communion Controversy" (Dwight Copy) Communion Journal (Dwight copy)
 
-Jonathan EdwardsNote to "Journal" ("Narrative of Communion Controversy")
+Jonathan Edwards
+
+Note to "Journal" ("Narrative of Communion Controversy")
 
 Edwards’s original manuscript of the "Journal" or "Narrative" of the final controversy with his church does not exist, but a later copy, made by Sereno Dwight, does. Dwight’s copy, in the Andover Newton Collection (Miscellaneous Papers, f. 8), is a quarto notebook of 68 leaves, numbered pp. 1-136 by Dwight. The document was published in the Dwight ed., 1:313-99.
 
@@ -2926,267 +2302,21 @@ Without the County Rev. Mr. Foxcroft of Boston Rev. Mr. Parkman of Westborough a
 
 ## "Preface to Farewell Sermon" (Draft Fragments) Farewell Serm. Pref. frags
 
-Jonathan EdwardsTwo fragments of Preface to *Farewell Sermon*, 1750. BRBL, f. 1244.
+Jonathan Edwards
 
-[^009-note1]
+Two fragments of Preface to *Farewell Sermon*, 1750. BRBL, f. 1244. [^009-note1]
 
-The Council which sat here in June 1750. having heard that I had made certain draughts of the Covenant or Forms of a publick Profession of Religion which I stood ready to accept of from the Candidates for Church Communion They for their further Information sent for Them Accordingly I sent them four distinct draughts or Forms which I had drawn up about a twelve-month before as what I Stood ready to accept of (any one of Them) rather than contend and break with my People.
-
-The two shortest of these Forms are here inserted for the Satisfaction of the Reader They are as follows "I hope I do truly find a Heart to give up my self wholly to God according to the Tenour of that Covenant of Grace which was Seal'd in my Baptism and to walk in a way of that Obedience to all the Commandments of God which the Covenant of Grace requires as long as I live"
-
-Another
-
-"I hope I truly find in my Heart a willingness to comply with all the Commandments of God which require me to give up my self wholly to Him & serve Him with my Body & my spirit and do accordingly now promise to walk in a way of Obedience to all the Commandments of God as long as I live"
-
-such Kind of Professions as these I stood ready to accept rather than contend and break with my People not but that I think it much more convenient that ordinarily the publick Profession that is made by Christians should be much fuller & more particular and that (as I hinted in my Letter to Mr. Clark) I should not chuse to be tied up to any certain Form of words but to have Liberty to vary the Expressions of a publick Profession the more exactly to suit the sentiments & Experience rience of the Professours that it might be a meas more [^009-note2] just & free Expression of what each one finds in his Heart
-
-And moreover it must be noted that I ever insisted on it that it belonged to me as a Pastor before a Profession was accepted to have full Liberty to instruct the Candidate in the Meaning of the Terms of it and in the Nature of the Things proposed to be professed And to enquire into his doctrinal understanding of these Things according to my best discretion and to Caution the Person as I should think needful against Rashness in making such a Profession or doing meerly mainly for the Credit of Himself or his Family or from any secular views whatsoever and to put Him on serious self-examination and searching his own Heart and Prayer to God to search and enlighten Him that He mayn't be hypocritical & deceived in the Profession He makes withal pointing forth to Him the many ways in which Professours are liable to be deceived
-
-Nor do I think it improper for a Minister in such a Case to enquire and know of the Candidate what can be remembred of the Circumstances of his Christian Experience as this may tend much to illustrate his Profession and give a Minister great Advantage for proper Instructions Tho' a particular Knowledge and Remembrance of the Time & method of his first Conversion to God is not to be made the Test of a Persons sincerity nor insisted on as necessary in order to his being received into full Charity Not that I think it at all improper or unprofitable that in some special Cases a declaration of the Particular Circumstances of a Persons first Awakening and the Manner of his Convictions Illuminations & Comforts should be publickly lickly exhibited before the whole Congregation on [^009-note3] occasion of his Admission into the Church tho' this be not demanded as necessary to Admission. I ever declared against insisting on a Relation of Experiences in this sense (viz a Relation of the particular Time and steps of the operation of the spirit in first Conversion) as the Terms of Communion Yet if by a Relation of Experiences be meant a declaration of Experience of the great Things wrought wherein true Grace and the essential Acts & Habits of Holiness consist in this sense I think an Account of Persons Experiences necessary in order to his Admission into full Communion in the Church But that in whatever Enquiries are made and whatever Account is given neither minister nor Church are to set up themselves as searchers of Hearts but are to accept the serious solemn Profession of the well-instructed Professours of a good Life as best able to determine what He finds in his own Heart.
-
-[^009-note4]
+The Council which sat here in June 1750. having heard that I had made certain draughts of the Covenant or Forms of a publick Profession of Religion which I stood ready to accept of from the Candidates for Church Communion They for their further Information sent for Them Accordingly I sent them four distinct draughts or Forms which I had drawn up about a twelve-month before as what I Stood ready to accept of (any one of Them) rather than contend and break with my People. The two shortest of these Forms are here inserted for the Satisfaction of the Reader They are as follows "I hope I do truly find a Heart to give up my self wholly to God according to the Tenour of that Covenant of Grace which was Seal'd in my Baptism and to walk in a way of that Obedience to all the Commandments of God which the Covenant of Grace requires as long as I live" Another "I hope I truly find in my Heart a willingness to comply with all the Commandments of God which require me to give up my self wholly to Him & serve Him with my Body & my spirit and do accordingly now promise to walk in a way of Obedience to all the Commandments of God as long as I live" such Kind of Professions as these I stood ready to accept rather than contend and break with my People not but that I think it much more convenient that ordinarily the publick Profession that is made by Christians should be much fuller & more particular and that (as I hinted in my Letter to Mr. Clark) I should not chuse to be tied up to any certain Form of words but to have Liberty to vary the Expressions of a publick Profession the more exactly to suit the sentiments & Experience rience of the Professours that it might be a meas more [^009-note2] just & free Expression of what each one finds in his Heart And moreover it must be noted that I ever insisted on it that it belonged to me as a Pastor before a Profession was accepted to have full Liberty to instruct the Candidate in the Meaning of the Terms of it and in the Nature of the Things proposed to be professed And to enquire into his doctrinal understanding of these Things according to my best discretion and to Caution the Person as I should think needful against Rashness in making such a Profession or doing meerly mainly for the Credit of Himself or his Family or from any secular views whatsoever and to put Him on serious self-examination and searching his own Heart and Prayer to God to search and enlighten Him that He mayn't be hypocritical & deceived in the Profession He makes withal pointing forth to Him the many ways in which Professours are liable to be deceived Nor do I think it improper for a Minister in such a Case to enquire and know of the Candidate what can be remembred of the Circumstances of his Christian Experience as this may tend much to illustrate his Profession and give a Minister great Advantage for proper Instructions Tho' a particular Knowledge and Remembrance of the Time & method of his first Conversion to God is not to be made the Test of a Persons sincerity nor insisted on as necessary in order to his being received into full Charity Not that I think it at all improper or unprofitable that in some special Cases a declaration of the Particular Circumstances of a Persons first Awakening and the Manner of his Convictions Illuminations & Comforts should be publickly lickly exhibited before the whole Congregation on [^009-note3] occasion of his Admission into the Church tho' this be not demanded as necessary to Admission. I ever declared against insisting on a Relation of Experiences in this sense (viz a Relation of the particular Time and steps of the operation of the spirit in first Conversion) as the Terms of Communion Yet if by a Relation of Experiences be meant a declaration of Experience of the great Things wrought wherein true Grace and the essential Acts & Habits of Holiness consist in this sense I think an Account of Persons Experiences necessary in order to his Admission into full Communion in the Church But that in whatever Enquiries are made and whatever Account is given neither minister nor Church are to set up themselves as searchers of Hearts but are to accept the serious solemn Profession of the well-instructed Professours of a good Life as best able to determine what He finds in his own Heart. [^009-note4]
 
 [^009-note5]
 
 [^009-note6]
 
-Advertisement
+Advertisement PREFACE It Here is by no means Room for a particular Account of the affair That diff the Circumstances of that difference between my & m the People of Northampton which issued in the separation between me & them which occasiond the Preaching the following fare well sermon But yet it may be proper & needful here to correct some gross misrepresentations which have been abundantly & tis to be feard by some Industriously made of that difference particularly. pretended to an Infallible discerning a Pure Chh distinguish by my sole Authority nor a certain dividing Line [^009-note7]
 
-PREFACE
+assurance a particular Relation the Test some gross misrepresentations in the ministers Paper In the Result[^009-note8] By some means or other has crept into the Results of the Counsel a very great misrepresentation of Fact [* other sidethat I arrogated this ______________state to my self and here I would observe that I think the expression used [-] by the Result Council in their Result not so proper make a Profession of sanctifying Grace Tis an expression that I never used Indeed I say to something beyond what I have ever intended: indeed I suppose they profess that which of They really have they must needs have had sanctifying Grace . viz Those Things men which imply true Xtianity wherein consist true Xtianity . but yet as I apprehend thi to profess to have those things is a different thing from a meer professing that he is sanctified or has sanctifying Grace . before I thought it was a different thing and had j before so declared that I supposed to openly & publish before that very council & made the distinction that distinction----- both by [ ] open decla before them & by word of mouth & also in a writing that I gave in to them . & I have remember very well that before this I had heard one of those Gentlemen viz Mr. Breck[^009-note9] say that there was a great difference between these two * other side] . seeing that by Reason [^009-note10] of this diversity of sentiments the doors of the Chh have been shut for some years Now I suppose every Reader unacquainted with the Case would be ready to suppose that there had been some publick act or declaration that des some that offered thems. as Candidates had actu been refused lo for so long before that Council or at least that there had been some publick act or decla[^009-note11] or declar or publick determination before the Chh. desi that to design to discourage all from offering thems. and that actually had that Effect I leave it with every Reader that took notice of that Clause in the Result to determine for Himself whether it did not carry this Idea with Him in his mind. [^009-note12]
 
-It Here is by no means Room
-
-for a particular Account of
-
-the affair That diff
-
-the Circumstances of that difference between my & m the
-
-People of Northampton which
-
-issued in the separation between
-
-me & them which occasiond
-
-the Preaching the following fare
-
-well sermon But yet it may
-
-be proper & needful here to correct
-
-some gross misrepresentations
-
-which have been abundantly
-
-& tis to be feard by some Industri
-
-ously made of that difference
-
-particularly.
-
-pretended to an Infallible discerning
-
-a Pure Chh
-
-distinguish by my sole Authority
-
-nor a certain dividing Line
-
-[^009-note7]
-
-assurance
-
-a particular Relation the Test
-
-some gross misrepresentations in the
-
-ministers Paper In the Result[^009-note8]
-
-By some means or other has crept
-
-into the Results of the Counsel
-
-a very great misrepresentation of
-
-Fact [* other sidethat I arrogated this
-
-______________state to my self
-
-and here I would observe that I think
-
-the expression used [-] by the Result
-
-Council in their Result not so proper
-
-make a Profession of sanctifying Grace
-
-Tis an expression that I never used
-
-Indeed I say to something beyond
-
-what I have ever intended: indeed
-
-I suppose they profess that which of
-
-They really have they must needs
-
-have had sanctifying Grace . viz
-
-Those Things men which imply true
-
-Xtianity wherein consist true
-
-Xtianity . but yet as I apprehend
-
-thi to profess to have those things
-
-is a different thing from a meer professing
-
-that he is sanctified or has
-
-sanctifying Grace . before I
-
-thought it was a different thing
-
-and had j before so declared
-
-that I supposed to openly & publish
-
-before that very council & made
-
-the distinction that distinction----- both by [ ] open decla
-
-before them & by word of mouth
-
-& also in a writing that I gave in
-
-to them . & I have remember
-
-very well that before this I had
-
-heard one of those Gentlemen viz
-
-Mr. Breck[^009-note9] say that there was
-
-a great difference between these
-
-two
-
-* other side] . seeing that by Reason [^009-note10]
-
-of this diversity of sentiments the
-
-doors of the Chh have been shut
-
-for some years
-
-Now I suppose every Reader
-
-unacquainted with the Case would
-
-be ready to suppose that there
-
-had been some publick act or
-
-declaration that des
-
-some that offered thems. as
-
-Candidates had actu been refused
-
-lo for so long before that Council
-
-or at least that there had been
-
-some publick act or decla[^009-note11] or declar
-
-or publick determination
-
-before the
-
-Chh. desi
-
-that
-
-to design
-
-to discourage
-
-all from
-
-offering thems.
-
-and that actually
-
-had that Effect
-
-I leave it with
-
-every Reader that
-
-took notice of
-
-that
-
-Clause
-
-in the Result to
-
-determine for
-
-Himself whether
-
-it did not carry
-
-this Idea with
-
-Him in his
-
-mind.
-
-[^009-note12]
-
-to prevent persons offering
-
-thems. & that actually did
-
-with a design aim at that
-
-prevent
-
-Effect viz the preventing Persons
-
-from coming into the Chh. †
-
-tis true none had offered thems.
-
-for a long time but other Reasons
-
-may be given for it . the
-
-young People all in the time of
-
-the Late awakening seven or eight
-
-years ago v came into the Chh
-
-all that were manageable & were
-
-like to have occasion for Baptism
-
-for their Chil. & after for several
-
-years an exceeding a Time of great
-
-deadness & senselessness above of the
-
-Things of Religion.
-
-† with a design that Henceforward publick
-
-proceedings in admission of members should
-
-be Influenced by it.
+to prevent persons offering thems. & that actually did with a design aim at that prevent Effect viz the preventing Persons from coming into the Chh. † tis true none had offered thems. for a long time but other Reasons may be given for it . the young People all in the time of the Late awakening seven or eight years ago v came into the Chh all that were manageable & were like to have occasion for Baptism for their Chil. & after for several years an exceeding a Time of great deadness & senselessness above of the Things of Religion. † with a design that Henceforward publick proceedings in admission of members should be Influenced by it.
 
 [^009-note1]: **marginal.** [Frag. 1, two quarto leaves.]
 
@@ -3214,7 +2344,9 @@ be Influenced by it.
 
 ## "Notes on the Remonstrance of a Committee of the Northampton Church against the Proceedings of the Council, May 1751" Notes for 1751 Remonstrance
 
-Jonathan EdwardsNotes on the Remonstrance of a Committee of the Northampton Church against the Proceedings of the Council, May, 1751
+Jonathan Edwards
+
+Notes on the Remonstrance of a Committee of the Northampton Church against the Proceedings of the Council, May, 1751
 
 This are a portion of the notes Edwards used to draft "Vindication from the Church's Accusations" (BRBL, f. 1265), relating to the effort by a Northampton minority to have Edwards settled over a second church. A council took place on May 16, 1751, at which Edwards rejected the idea, but the meetings nonetheless generated a series of acrimonious "accusations" from the church. Edwards's references in the notes (e.g. "7. bottom," "8. top") are probably to locations in the church's remonstrance, no longer extant.
 
@@ -3314,1019 +2446,19 @@ I never manifested any inclination on any inclination but on the view of the set
 
 ## "Vindication from the Church's Accusation" Vind. from Chh's Accusation
 
-Jonathan Edwards"Vindication from the Church's Accusation," 1751
+Jonathan Edwards
 
-Following the council of May 16, 1751, the Northampton church leaders accused Edwards of deliberately trying to upset their efforts to secure a new pastor, and cast reproach upon his character and motives for calling the council. Edwards drew up this document, never published, in response. For a draft, see "Notes on the Remonstrance of a Committee of the Northampton Church against the Proceedings of the Council, May, 1751" (Princeton). On the circumstances surrounding this composition, see Dwight, 1:453.
+"Vindication from the Church's Accusation," 1751 Following the council of May 16, 1751, the Northampton church leaders accused Edwards of deliberately trying to upset their efforts to secure a new pastor, and cast reproach upon his character and motives for calling the council. Edwards drew up this document, never published, in response. For a draft, see "Notes on the Remonstrance of a Committee of the Northampton Church against the Proceedings of the Council, May, 1751" (Princeton). On the circumstances surrounding this composition, see Dwight, 1:453.
 
 *****
 
-BRBL, f. 1265. Three folio leaves plus two fragments. The first fragment is composed of a scrap measuring 2" high by 3" wide, on which Edwards wrote the long title of the draft, pinned to another fragment of 7" high by 3" wide; the second fragment measures 5 3/4" high by 3" wide. Together, these two fragments constitute the first of 10 columns or sections, so numbered by Edwards. The three folio leaves each measure 12" high by 7" wide, are divided front and back into two columns with red lines, and are salvaged from a bound manuscript apparently dating from the 17th century and containing scattered hand-written entries by an unknown author on various topics, possibly scripture commentary. Edwards turned these pages upside-down and wrote in the blank spaces. The only writing by Edwards on the verso of the last sheet is the title, "Vindication from the Chh's Accusation."
-
-1
-
-A Just & faithful account of my
-
-Proceedings & Conduct which the first
-
-of Chh of Northampton Charges represent
-
-as extremely shocking & unaccountable
-
-being the substance of what was said
-
-before the Council that met here
-
-was opened here on May 16. 1751
-
-when[^011-note1] the Result of the Council
-
-which sat June 22 1750 was
-
-read in our meeting & my the
-
-vote put to the whether they consent
-
-to the Advice there given & my
-
-dismission pronounced thereupon
-
-I did not take so particular & exact
-
-notice of the manner in which the
-
-Result was drawn up as to observe
-
-the Inconsistence of the Proceeding.
-
-But yet I ever supposed that the
-
-general Conduct of the People & most of the
-
-steps They had taken for more
-
-than 12 months past were very un
-
-reasonable & unrighteous & provoking to
-
-G. and particularly that they obtained
-
-my dismi that vote the major
-
-vote of the Council in the for my dis-
-
-mission by a very unfair Proceeding
-
-when after it had been agreed that
-
-we should hav the Chh. & I should
-
-have an equal Hand in the Choice of
-
-the Council & I had applied
-
-whether[^011-note2] or no I have ever
-
-been properly dismiss'd
-
-whether the Chh was not
-
-founded on those Principles
-
-whether there has been any
-
-Alteration
-
-whether it be regular for others
-
-to Return to me
-
-coll dwights Illness
-
-If much disagreed shall be
-
-loth to settle
-
-Hinder my usefulness by being
-
-contemptible.
-
-more & more dropping off
-
-They Pester[?] the minds of others
-
-that my conduct is exceeding
-
-heinous
-
-to the Chh of south hadley in agreable [^011-note3]
-
-to the vote of the Chh. one of this
-
-& carried the Letter missive to mr.
-
-woodbridge[^011-note4] my self to be com
-
-communicated to the Chh one of this
-
-Chh. immediately followed me &
-
-in an underhand manner went
-
-about the Parish to disswade the
-
-People from Complying with my de-
-
-sire . for By which means
-
-They were prevented fro & I had
-
-not an equal number in the Council
-
-of such as I had chosen with the
-
-Chh. by which means as there
-
-is all Reason to think they maj
-
-vote was able obtained the maj. vote.
-
-However what was done on June
-
-22d was taken for a dismission
-
-& I well Knew it would be resolute
-
-ly insisted on & acted on a such. &
-
-theref . I Looked on my self released
-
-in fact Released in the Provid. of G.
-
-from any further obliga. to this Chh. as
-
-their minister. that G. in his Provi
-
-dence had discharged however by per
-
-the unfair & unreasonable
-
-doings of my People. but I
-
-never thought that the Peoples own
-
-unrighteous unfairness & injustice
-
-released them from obligation
-
-in G to me in Gods sight but
-
-that in the sight of G. they were
-
-held bound to und return to me &
-
-undo their own unjust doings However
-
-this is was what I had not the least
-
-Hope of & therefore Judged that
-
-the Providence of G. by permitting their
-
-Injustice
-
-2[^011-note5]
-
-Injustice & violence had so made
-
-a seperation between me &
-
-separated me from them so as as to[^011-note6]
-
-any future opportunities actual Exercise
-
-of the work ministerial office among them
-
-or any opportunity for it & this it
-
-was which was the thing I had Respect
-
-to in those Passages in my farewell
-
-sermon which they Refer to in their
-
-Charges against me But it it is not true
-
-that ever I said that I was de jure &
-
-de facto still their minister as They
-
-Charge me Pastor of this Chh. as they
-
-Charge me . I once indeed put it to th
-
-the neighbouring Ministers by way of
-
-Enquiry whether or no the publick pro-
-
-ceeding of the moderatour of the Council[^011-note7]
-
-being not agreable to Councils determination
-
-was not a meer nullity & not warrant
-
-ed by the act of the Council was not a meer
-
-nullity
-
-And whereas the Chh. suggests that I
-
-have a desire to be settled over a part of the
-
-Chh to the deprecation of the whole & that
-
-I set on on a Journey to procure a Council
-
-to instal me here & that I was ready
-
-to settle in the & that I had contrived
-
-to do it at such a time because I knew
-
-the Chh was about to send for a Candidate
-
-&c. that I might prevent their sucess therein
-
-& that I was ready to settle in that Place
-
-& for the sake of it had Refused an Invita
-
-tion to stockbridge that I had neglected
-
-this opportunity for the sake of settling with
-
-an handful &c ‡ Col. 9 The following is a true
-
-& just account of fact
-
-soon after my dismission I was sought to
-
-by some applied to by some of this People
-
-earnestly manifesting an earnest desire
-
-that I would settle with them as their
-
-Pastor in one in a distinct Chh. I Pro
-
-& so they con after continued the & often
-
-renewed their the manifestations of their
-
-desires very earnestly their earnest
-
-applications to till I went to away
-
-in the winter to canaan & stock. but I
-
-never gave em the least Encouragmt but
-
-ever spoke discouraging so as should tend
-
-to discourage em insomuch that some
-
-of them sometimes seem to take it to heart
-
-much to heart & expressd thems. much grievd
-
-& I generally had a great opposition to it in my
-
-own mind. & my prevailing opinion was
-
-that it was not the will of G. that I should
-
-settle here. till B Just as I was going my
-
-Journey to Canaan there were some appearances
-
-in the Town which Caused me more than
-
-ever before to doubt whether it might not
-
-be Gods design to open a door fo yet for my
-
-settling
-
-3[^011-note8]
-
-settling[^011-note9] here But still I said no a-
-
-greemt the least encouragemt to those
-
-whose desired & gave not the least encouragemt
-
-to Them . when I returned from stockbridge
-
-in the spring & Came to see the state of
-
-Things here I was more Confirmed in it than
-
-ever that it was not the will of G. that
-
-I should settle here & therefore when the
-
-People that adhered to me renewed their appli
-
-cations I gave em no encouragemt. But
-
-spoke [--] only by way of discouragemt. but
-
-they continuing the manifestations of their
-
-desire . I finally desired em to come
-
-together that I might have a Conference with
-
-Them. I laid before them the many
-
-told them plainly my mind Laid before
-
-them the many & great difficulties that &
-
-discouragemt that appeared to me to lie
-
-against any such proceding as they had
-
-sought viz my settling with them in a
-
-distinct Chh. & the little Prospect there
-
-appeard to me of sucess in it & the vast diffi-
-
-culties it would probably run b bring both
-
-bring on both me & them. & also represented
-
-4
-
-the appearances there were of a Call [^011-note10]
-
-of Providence to my settling Es Else
-
-where however I told these things I
-
-desired them thoroughly to consider me
-
-by no means & by no means
-
-& I desired em to take these things
-
-into Considera. till the next morning
-
-& & told that if after Consideration they
-
-continued their d still continued their
-
-desires I would consent to this if
-
-it pleasd Them viz. to concur with
-
-them in calling a Council of some of
-
-most Eminent ministers & Chhs in the
-
-Land to give Them & me advice &
-
-That both us should fully Lay the Case
-
-before them as it appeared to us that I
-
-would have liberty to Lay the difficulties
-
-& discouragemts which appeard in my way
-
-the way of my settling here & also the
-
-Encouragmts that appeared with Respect to
-
-St. & C. but told em it was not worth
-
-their while to do this if they
-
-were discouraged of thems. & theref. I would
-
-have thoroughly weighd the matter. This
-
-discourse of mine seemed to discourage
-
-a consid. numb. further Thei But
-
-the next night about I suppose about
-
-20 memb & were appeared desirous
-
-of prosecuting the design of applying to a
-
-Council accordingly I consented
-
-& the members of the venerable Council
-
-Knew what was the Tenour of the
-
-Letters missive. I thus I the
-
-Journey was not undertaken neither by
-
-Col. d.[^011-note11] nor me purely to procure the
-
-Council both of us had other Business
-
-& both of should have gone the Journey
-
-& about the same time if to
-
-Boston & to the Eastward if there
-
-had been no design of a counsel. ** Col. 6
-
-* when I in the Journey I applied
-
-to particular conferd with particular
-
-ministers applied to to to come to the
-
-Council I mentiond many of the diffi-
-
-culties that appeared to be in the way
-
-of my installmt & manifested
-
-my opinion of those difficulties to be
-
-diff the Consequences to be very di-
-
-verse from Coll & told them & I would
-
-have not have them the Council
-
-Come by any means with any settled
-
-purpose of installing me but Ke keep
-
-their minds in suspense till they had
-
-fully inquired into the state of things on
-
-the spot * & how I conducted
-
-my self in the time of the sitting
-
-of the Council the members of the
-
-Council do well Know
-
-** see Col. 6 † next Col.
-
-* I said after this manner in particu
-
-lar to messrs wigglesworth Prince
-
-& Clark.
-
-5[^011-note12]
-
-That this is a true & faithful
-
-account of my conduct towards my Brothers
-
-that adhered to me th Cou member
-
-of th was for me before
-
-they Council [-] as they doubtless
-
-Remember.
-
-As to my Letter to deac. Cook which
-
-the Chh represents as m seems to suppose
-
-Represent to be that which compared with
-
-my after Conduct manifests my great disho
-
-nesty . I would say [-] altho the Passages
-
-broken scraps of my Letter as they had quoted
-
-appear much otherwise than [--] as connected
-
-with the Rest of the Letter . yet even as
-
-They have Cited there is nothing in the
-
-least inconsistent with any part of my
-
-conduct . Tho they signify that I had no
-
-inclination to be remain the Pastor
-
-over over a Chh. which finally persists
-
-in a great aversion & without Remedy
-
-persists . in a great aversion to my ministry
-
-yet b this by no means implies that
-
-I would no settled with such as
-
-[-] were strongly inclind to & earnestly de-
-
-sirous of my ministry & therefore I should
-
-not have in the least there would not
-
-have been the least manner of my acting
-
-contrary to the[-] declaration If I had mani-
-
-fested a strong inclination to be a minister
-
-to that number that adhered to me
-
-which yet I have never done but
-
-on the Contrary have rather from the beginning
-
-objected against it & discouraged those
-
-that sought it. And the members of the
-
-Council [-] well know that I have not Refused
-
-& forgone the opportunity to settle at Stockbridge
-
-as the Chh baldly Charges me
-
-6[^011-note13]
-
-speaking of the Council that sat here June 1750
-
-They say such a Council was called
-
-as I insisted on which is not true
-
-for they Know I alwaies insisted on having
-
-an equal number in the Council of
-
-my chusing with them which they
-
-prevented by the forementiond unfair
-
-& clandestine measures. In one
-
-Respect it was such a council as I
-
-Insisted on viz that two Churches were
-
-allowed to be [ ] of the Council that belonged
-
-[-] not to the County. But that this
-
-was what I on another occasion militated
-
-against totis vertibus[^011-note14] is not true
-
-** Col. 4] Tis insinuated that I contrived
-
-and as to my contriving this Journey
-
-at this Time when th I Knew they
-
-were about to send for a candidate &
-
-& on purpose to hinder them in their
-
-design &c -- I declare I knew not
-
-of it I knew nothing of any design of their
-
-sen being about to send for a Candidate at that
-
-time or any other time & tho I heard
-
-they expected a Candidate some time in
-
-may & [ ] had no Regard to that
-
-in the Timing of this Journey [--] nor
-
-did I take one step otherwise in the
-
-managemt of this whole affair nor was
-
-there I should otherwise have done on any
-
-such account . * see Col. 4.
-
-The what They seem to intend is
-
-my opposing springfield [--] Chhs sending
-
-for some of the Council to to ordain Him
-
-Judge of his the matters of which mr
-
-B.[^011-note15] was accused & to ordain Him.
-
-But this whole affair was managed
-
-when I was out of N. England. & knew
-
-nothing that they had [ ] called what Chh
-
-was done
-
-or like to
-
-be done
-
-7[^011-note16]
-
-what Chhes the Council were
-
-to consist till of & so had no hand
-
-in the Opposition that was made all
-
-that I did was to at the desire
-
-of the other ministers and of the
-
-Rev. Mr. W. of Hatfield[^011-note17] in parti-
-
-cular to write something in defence
-
-of what they had done after I
-
-Came Home But never Intimated
-
-never thought that a Council in no Case
-
-should consist of Chhs from abroad.
-
-But often manifested long before the
-
-Beginning of my own difficulty with
-
-this Chh. that in some Cases there
-
-was a necessity of going out of to
-
-applying to a Councils being Called from
-
-different Parts . & would & both I
-
-& th & so did the neighbouring ministers
-
-that opposed it & yea I my self
-
-& this very Chh. of Northampton
-
-had acted on this Principle long be
-
-being applied to by the separate Chh. at
-
-N. H. the Chh proceeded & Chose
-
-a messenger to to come to a Council
-
-that the Chh. consented & chose
-
-a messenger to go with me to that
-
-Council . & have me I had
-
-the concurrence of neighbouring ministers
-
-some of those who were active in
-
-my separation from my People & one
-
-of them being at the same time applied
-
-to by N from N. H. & had Consented
-
-to Go. & my own Case was most
-
-Evidently one of these extraordinary Cases
-
-that required such a Pre a going out
-
-of the County for a Council part
-
-of the Council at least all almost
-
-all the ministers & Chhs in the
-
-County being professedly against me in
-
-the grand Point in Controversy between
-
-me & my People But if there
-
-had been nothing extraordinary in the Case
-
-there was nothing in what I insisted
-
-on in the Constitution of the Council the
-
-fol i that was called (which consisted
-
-only of Mr had in it but two Chhs
-
-out of from without the County)
-
-8[^011-note18]
-
-which I say there was nothing in
-
-this inc against what I wrote
-
-in the affair of mr. Breck [--] But the
-
-that ther for the contrary in what
-
-I then wrote I expressly allowed the
-
-Calling of two or three Chhs from
-
-abroad . as appears In those words
-
-p. 19. of the m the Letter to the Author
-
-of the Answ. to the Hampshire Narrative
-
-"we the ministers of this neighbour-
-
-"hood never refused to consent that two
-
-"or three others should be joined with
-
-"our association in this affair of mr. B.
-
-"This is what we proposed once & again
-
-"to mr. B another Time to the Chh. of
-
-"springfield another Time to mr Cooper
-
-"But were alwaies refused as we shall
-
-"fully show afterwards"[^011-note19]
-
-The Chh in their accusations say the
-
-Council had a fair opportunity to use
-
-their own means &c. I answ But
-
-this was not true the only proper means
-
-for a Reconciliation was to Reason the
-
-on the point in Controversy to endeavour
-
-to perswade either me or the Chh [-] or both
-
-to abate of our principles & so to bring us
-
-nearer together but this the Chh
-
-would not allow of
-
-as to my saying nothing saying nothing against
-
-the separation in the time of it & yet
-
-shewing great uneasiness at it afterwards &
-
-I would say. that I then had & still
-
-have
+BRBL, f. 1265. Three folio leaves plus two fragments. The first fragment is composed of a scrap measuring 2" high by 3" wide, on which Edwards wrote the long title of the draft, pinned to another fragment of 7" high by 3" wide; the second fragment measures 5 3/4" high by 3" wide. Together, these two fragments constitute the first of 10 columns or sections, so numbered by Edwards. The three folio leaves each measure 12" high by 7" wide, are divided front and back into two columns with red lines, and are salvaged from a bound manuscript apparently dating from the 17th century and containing scattered hand-written entries by an unknown author on various topics, possibly scripture commentary. Edwards turned these pages upside-down and wrote in the blank spaces. The only writing by Edwards on the verso of the last sheet is the title, "Vindication from the Chh's Accusation." 1 A Just & faithful account of my Proceedings & Conduct which the first of Chh of Northampton Charges represent as extremely shocking & unaccountable being the substance of what was said before the Council that met here was opened here on May 16. 1751 when[^011-note1] the Result of the Council which sat June 22 1750 was read in our meeting & my the vote put to the whether they consent to the Advice there given & my dismission pronounced thereupon I did not take so particular & exact notice of the manner in which the Result was drawn up as to observe the Inconsistence of the Proceeding. But yet I ever supposed that the general Conduct of the People & most of the steps They had taken for more than 12 months past were very un reasonable & unrighteous & provoking to G. and particularly that they obtained my dismi that vote the major vote of the Council in the for my dismission by a very unfair Proceeding when after it had been agreed that we should hav the Chh. & I should have an equal Hand in the Choice of the Council & I had applied whether[^011-note2] or no I have ever been properly dismiss'd whether the Chh was not founded on those Principles whether there has been any Alteration whether it be regular for others to Return to me coll dwights Illness If much disagreed shall be loth to settle Hinder my usefulness by being contemptible. more & more dropping off They Pester[?] the minds of others that my conduct is exceeding heinous to the Chh of south hadley in agreable [^011-note3] to the vote of the Chh. one of this & carried the Letter missive to mr. woodbridge[^011-note4] my self to be com communicated to the Chh one of this Chh. immediately followed me & in an underhand manner went about the Parish to disswade the People from Complying with my desire . for By which means They were prevented fro & I had not an equal number in the Council of such as I had chosen with the Chh. by which means as there is all Reason to think they maj vote was able obtained the maj. vote. However what was done on June 22d was taken for a dismission & I well Knew it would be resolute ly insisted on & acted on a such. & theref . I Looked on my self released in fact Released in the Provid. of G. from any further obliga. to this Chh. as their minister. that G. in his Providence had discharged however by per the unfair & unreasonable doings of my People. but I never thought that the Peoples own unrighteous unfairness & injustice released them from obligation in G to me in Gods sight but that in the sight of G. they were held bound to und return to me & undo their own unjust doings However this is was what I had not the least Hope of & therefore Judged that the Providence of G. by permitting their Injustice 2[^011-note5] Injustice & violence had so made a seperation between me & separated me from them so as as to[^011-note6] any future opportunities actual Exercise of the work ministerial office among them or any opportunity for it & this it was which was the thing I had Respect to in those Passages in my farewell sermon which they Refer to in their Charges against me But it it is not true that ever I said that I was de jure & de facto still their minister as They Charge me Pastor of this Chh. as they Charge me . I once indeed put it to th the neighbouring Ministers by way of Enquiry whether or no the publick proceeding of the moderatour of the Council[^011-note7] being not agreable to Councils determination was not a meer nullity & not warrant ed by the act of the Council was not a meer nullity And whereas the Chh. suggests that I have a desire to be settled over a part of the Chh to the deprecation of the whole & that I set on on a Journey to procure a Council to instal me here & that I was ready to settle in the & that I had contrived to do it at such a time because I knew the Chh was about to send for a Candidate &c. that I might prevent their sucess therein & that I was ready to settle in that Place & for the sake of it had Refused an Invitation to stockbridge that I had neglected this opportunity for the sake of settling with an handful &c ‡ Col. 9 The following is a true & just account of fact soon after my dismission I was sought to by some applied to by some of this People earnestly manifesting an earnest desire that I would settle with them as their Pastor in one in a distinct Chh. I Pro & so they con after continued the & often renewed their the manifestations of their desires very earnestly their earnest applications to till I went to away in the winter to canaan & stock. but I never gave em the least Encouragmt but ever spoke discouraging so as should tend to discourage em insomuch that some of them sometimes seem to take it to heart much to heart & expressd thems. much grievd & I generally had a great opposition to it in my own mind. & my prevailing opinion was that it was not the will of G. that I should settle here. till B Just as I was going my Journey to Canaan there were some appearances in the Town which Caused me more than ever before to doubt whether it might not be Gods design to open a door fo yet for my settling 3[^011-note8] settling[^011-note9] here But still I said no agreemt the least encouragemt to those whose desired & gave not the least encouragemt to Them . when I returned from stockbridge in the spring & Came to see the state of Things here I was more Confirmed in it than ever that it was not the will of G. that I should settle here & therefore when the People that adhered to me renewed their appli cations I gave em no encouragemt. But spoke [--] only by way of discouragemt. but they continuing the manifestations of their desire . I finally desired em to come together that I might have a Conference with Them. I laid before them the many told them plainly my mind Laid before them the many & great difficulties that & discouragemt that appeared to me to lie against any such proceding as they had sought viz my settling with them in a distinct Chh. & the little Prospect there appeard to me of sucess in it & the vast difficulties it would probably run b bring both bring on both me & them. & also represented 4 the appearances there were of a Call [^011-note10] of Providence to my settling Es Else where however I told these things I desired them thoroughly to consider me by no means & by no means & I desired em to take these things into Considera. till the next morning & & told that if after Consideration they continued their d still continued their desires I would consent to this if it pleasd Them viz. to concur with them in calling a Council of some of most Eminent ministers & Chhs in the Land to give Them & me advice & That both us should fully Lay the Case before them as it appeared to us that I would have liberty to Lay the difficulties & discouragemts which appeard in my way the way of my settling here & also the Encouragmts that appeared with Respect to St. & C. but told em it was not worth their while to do this if they were discouraged of thems. & theref. I would have thoroughly weighd the matter. This discourse of mine seemed to discourage a consid. numb. further Thei But the next night about I suppose about 20 memb & were appeared desirous of prosecuting the design of applying to a Council accordingly I consented & the members of the venerable Council Knew what was the Tenour of the Letters missive. I thus I the Journey was not undertaken neither by Col. d.[^011-note11] nor me purely to procure the Council both of us had other Business & both of should have gone the Journey & about the same time if to Boston & to the Eastward if there had been no design of a counsel. ** Col. 6 * when I in the Journey I applied to particular conferd with particular ministers applied to to to come to the Council I mentiond many of the difficulties that appeared to be in the way of my installmt & manifested my opinion of those difficulties to be diff the Consequences to be very diverse from Coll & told them & I would have not have them the Council Come by any means with any settled purpose of installing me but Ke keep their minds in suspense till they had fully inquired into the state of things on the spot * & how I conducted my self in the time of the sitting of the Council the members of the Council do well Know ** see Col. 6 † next Col. * I said after this manner in particular to messrs wigglesworth Prince & Clark. 5[^011-note12] That this is a true & faithful account of my conduct towards my Brothers that adhered to me th Cou member of th was for me before they Council [-] as they doubtless Remember. As to my Letter to deac. Cook which the Chh represents as m seems to suppose Represent to be that which compared with my after Conduct manifests my great disho nesty . I would say [-] altho the Passages broken scraps of my Letter as they had quoted appear much otherwise than [--] as connected with the Rest of the Letter . yet even as They have Cited there is nothing in the least inconsistent with any part of my conduct . Tho they signify that I had no inclination to be remain the Pastor over over a Chh. which finally persists in a great aversion & without Remedy persists . in a great aversion to my ministry yet b this by no means implies that I would no settled with such as [-] were strongly inclind to & earnestly desirous of my ministry & therefore I should not have in the least there would not have been the least manner of my acting contrary to the[-] declaration If I had manifested a strong inclination to be a minister to that number that adhered to me which yet I have never done but on the Contrary have rather from the beginning objected against it & discouraged those that sought it. And the members of the Council [-] well know that I have not Refused & forgone the opportunity to settle at Stockbridge as the Chh baldly Charges me 6[^011-note13] speaking of the Council that sat here June 1750 They say such a Council was called as I insisted on which is not true for they Know I alwaies insisted on having an equal number in the Council of my chusing with them which they prevented by the forementiond unfair & clandestine measures. In one Respect it was such a council as I Insisted on viz that two Churches were allowed to be [ ] of the Council that belonged [-] not to the County. But that this was what I on another occasion militated against totis vertibus[^011-note14] is not true ** Col. 4] Tis insinuated that I contrived and as to my contriving this Journey at this Time when th I Knew they were about to send for a candidate & & on purpose to hinder them in their design &c -- I declare I knew not of it I knew nothing of any design of their sen being about to send for a Candidate at that time or any other time & tho I heard they expected a Candidate some time in may & [ ] had no Regard to that in the Timing of this Journey [--] nor did I take one step otherwise in the managemt of this whole affair nor was there I should otherwise have done on any such account . * see Col. 4. The what They seem to intend is my opposing springfield [--] Chhs sending for some of the Council to to ordain Him Judge of his the matters of which mr B.[^011-note15] was accused & to ordain Him. But this whole affair was managed when I was out of N. England. & knew nothing that they had [ ] called what Chh was done or like to be done 7[^011-note16] what Chhes the Council were to consist till of & so had no hand in the Opposition that was made all that I did was to at the desire of the other ministers and of the Rev. Mr. W. of Hatfield[^011-note17] in particular to write something in defence of what they had done after I Came Home But never Intimated never thought that a Council in no Case should consist of Chhs from abroad. But often manifested long before the Beginning of my own difficulty with this Chh. that in some Cases there was a necessity of going out of to applying to a Councils being Called from different Parts . & would & both I & th & so did the neighbouring ministers that opposed it & yea I my self & this very Chh. of Northampton had acted on this Principle long be being applied to by the separate Chh. at N. H. the Chh proceeded & Chose a messenger to to come to a Council that the Chh. consented & chose a messenger to go with me to that Council . & have me I had the concurrence of neighbouring ministers some of those who were active in my separation from my People & one of them being at the same time applied to by N from N. H. & had Consented to Go. & my own Case was most Evidently one of these extraordinary Cases that required such a Pre a going out of the County for a Council part of the Council at least all almost all the ministers & Chhs in the County being professedly against me in the grand Point in Controversy between me & my People But if there had been nothing extraordinary in the Case there was nothing in what I insisted on in the Constitution of the Council the fol i that was called (which consisted only of Mr had in it but two Chhs out of from without the County) 8[^011-note18] which I say there was nothing in this inc against what I wrote in the affair of mr. Breck [--] But the that ther for the contrary in what I then wrote I expressly allowed the Calling of two or three Chhs from abroad . as appears In those words p. 19. of the m the Letter to the Author of the Answ. to the Hampshire Narrative "we the ministers of this neighbour- "hood never refused to consent that two "or three others should be joined with "our association in this affair of mr. B. "This is what we proposed once & again "to mr. B another Time to the Chh. of "springfield another Time to mr Cooper "But were alwaies refused as we shall "fully show afterwards"[^011-note19] The Chh in their accusations say the Council had a fair opportunity to use their own means &c. I answ But this was not true the only proper means for a Reconciliation was to Reason the on the point in Controversy to endeavour to perswade either me or the Chh [-] or both to abate of our principles & so to bring us nearer together but this the Chh would not allow of as to my saying nothing saying nothing against the separation in the time of it & yet shewing great uneasiness at it afterwards & I would say. that I then had & still have
 
 ______________
 
-Col. 9.
+Col. 9. & not only so but manifested Thems. utter ly averse to my continuing their Pastor tho I should consent to comply with their former Practice unless I also enti entirely relinqui renounced my opinion. 9 [^011-note20] ‡ Col. 2] That I had a great Inclination to continue at N. H. as a minister at the Expence of the Peace & Prosp. of the greater Part of the T. yea that I was greatly engaged for it . # Col. 2 Col. 8.] still have an Inclination rather to be s be separated from the Chh. than to continue their Pastor. they consist Continuing their Great alienation & fixed & vio Resolute & violent opposition to my ministry. then & have never said any any thing by way of disaprobation such a Kind of any separation than what I said before such a Kind & way of separation as was then I said the same day to one of the minis ters that had a chief Hand in it & & had often said before viz viz. that this Chh. was in by no means purpose in a Temper & frame of mind fit to fit be Led to such an affair of such solemnity & as wholly insisted on for such a to su to proceed in such affair & made incapable of doing it with their Eyes open & proper Consideration & with their Eyes open & that an ecclesiastical Council Called to look into our Circumstances of the Chh & to advise them & take Care of their wellfare with full Liberty to use what measures they might think Requisite for a Remedy from their Calamities ought to have taken their unhappy state of the Chh. by Reason of their exceeding unXtian frame into their Consideration to have reasoned the Case fully & dealt with them & dealt thoroughly with them about it & strongly to have enforced upon them the important duty of coming to an exceeding diff. temper of mind before ever they should proceed to so great an affair of such solemnity & vast Consequence as a separation between them & their Pastor & before they might expect that any Council Xtian Council would gratify em in the thing which they in their 10 [^011-note21] Heat & vehemence were in pursuit of in Leading them to renounce their Pastor which there[^011-note22] were so Causlessly angry with: The Reason why I did not insist on this as a Reason if deserving ill Temper of the Peop unXtian temper of the People as a Reason against pr a present separation was that I had insisted on it before the previous Council in the winter & found that it exceedingly enraged the People & was taken ill by the Council & looked upon an as acting an unXtian part & the People Thems. had made it a great Objection against my calling a Coun members of a the Council from abroad that I w they apprehended I would insist on it expose them as I had done in the winter before the Council in the winter & because I judged it needless . the matter being Known fully to the Council the especially that part of the Council that were most inclined to dismiss me viz those from neighbour Chhs I The temper of the People & the mos manner of their managing this Controversy. being most publickly visible to al & notorously Known to all around us. [^011-note23]
 
-& not only so but manifested Thems. utter
-
-ly averse to my continuing
-
-their Pastor tho I should consent to comply
-
-with their former Practice unless I also
-
-enti entirely relinqui renounced my
-
-opinion.
-
-9 [^011-note20]
-
-‡ Col. 2] That I had a great Inclination
-
-to continue at N. H. as a minister
-
-at the Expence of the Peace & Prosp.
-
-of the greater Part of the T. yea that
-
-I was greatly engaged for it . # Col. 2
-
-Col. 8.] still have an Inclination
-
-rather to be s be separated from the
-
-Chh. than to continue their
-
-Pastor. they consist Continuing their
-
-Great alienation & fixed & vio Reso-
-
-lute & violent opposition to my mi
-
-nistry. then & have never said any
-
-any thing by way of disaprobation
-
-such a Kind
-
-of any separation than what I said
-
-before such a Kind & way of
-
-separation as was then I said
-
-the same day to one of the minis
-
-ters that had a chief Hand in it
-
-& & had often said before viz
-
-viz. that this Chh. was in by no means purpose
-
-in a Temper & frame of mind fit to fit
-
-be Led to such an affair of such solem-
-
-nity & as wholly insisted on for
-
-such a to su to proceed in such
-
-affair & made incapable of doing it with
-
-their Eyes open & proper Considera-
-
-tion & with their Eyes open &
-
-that an ecclesiastical Council
-
-Called to look into our Circumstances
-
-of the Chh & to advise them &
-
-take Care of their wellfare with
-
-full Liberty to use what measures
-
-they might think Requisite for
-
-a Remedy from their Calamities
-
-ought to have taken their unhappy
-
-state of the Chh. by Reason of their
-
-exceeding unXtian frame into their
-
-Consideration to have reasoned the
-
-Case fully & dealt with them
-
-& dealt thoroughly with them
-
-about it & strongly to have en-
-
-forced upon them the important
-
-duty of coming to an exceeding diff.
-
-temper of mind before ever they
-
-should proceed to so great an
-
-affair of such solemnity & vast
-
-Consequence as a separation between
-
-them & their Pastor & before
-
-they might expect that any Council
-
-Xtian Council would gratify em
-
-in the thing which they in their
-
-10 [^011-note21]
-
-Heat & vehemence were in pursuit
-
-of in Leading them to renounce their
-
-Pastor which there[^011-note22] were so Causlessly angry with:
-
-The Reason why I did not insist
-
-on this as a Reason if deserving
-
-ill Temper of the Peop unXtian temper
-
-of the People as a Reason against pr
-
-a present separation was that I
-
-had insisted on it before the previous
-
-Council in the winter & found that
-
-it exceedingly enraged the People &
-
-was taken ill by the Council & looked
-
-upon an as acting an unXtian part
-
-& the People Thems. had made it
-
-a great Objection against my calling
-
-a Coun members of a the Council
-
-from abroad that I w they apprehended
-
-I would insist on it expose them
-
-as I had done in the winter before
-
-the Council in the winter
-
-& because I judged it needless . the
-
-matter being Known fully to the Council
-
-the especially that part of the Coun-
-
-cil that were most inclined to dis-
-
-miss me viz those from neighbour
-
-Chhs I The temper of the
-
-People & the mos manner of their
-
-managing this Controversy. being most
-
-publickly visible to al & notorously
-
-Known to all around us.
-
-[^011-note23]
-
-A Just and Faithful Account of My Proceedings and Conduct, Which the First Church of Northampton Charges Represent as Extremely Shocking and Unaccountable; Being the Substance of What Was Said Before the Council That Was Opened Here on May 16, 1751.
-
-When[^011-note24] the Result of the Council which sat here in June 1750 was first read in our meeting house, and the vote put to the church whether they consent to the advice there given, and my dismission pronounced thereupon, I did not take so particular and exact notice of the manner in which the Result was drawn up as to observe the inconsistence of the proceeding. But yet I ever supposed that the general conduct of the people, and most of the steps they had taken, in order to my being separated from them, for more than twelve months before, had been very unreasonable and unrighteous, and provoking to God; and particularly that they obtained the major vote of the council for my dismission by a very unfair proceeding. When, after it had been agreed that the church and I should have an equal hand in the choice of the council, and I had applied[^011-note25] to the church of South Hadley, agreeable to the vote of the church, and carried the letter missive to Mr. Woodbridge[^011-note26] myself, to be communicated to the church: one of this church immediately followed me, and in an underhand manner went about the parish to dissuade the people from complying with my desire. By which means they were prevented, and I had not an equal number in the council of such as I had chosen with the church; by which it came to pass, as there is all reason to think, that they obtained the majority vote.
-
-However, what was done on June 22nd was taken for a dismission, and I well knew it would be resolutely insisted and acted on a such. And therefore I looked on myself in fact released, in the providence of God, from any further obligation to this church as their minister; that God in his providence had discharged me, however, by permitting the unfair and unreasonable doings of my people. But I never thought that the people's unfairness and injustice released them from obligation to me, but that in the sight of God they were held bound to return to me and undo their own unjust doings. However, this was what I had not the least hope of, and therefore judged that the providence of God, by permitting their injustice and violence, had in fact separated me from them as to any future actual exercise of the ministerial office among them, or any opportunity for it; which was the thing I had respect to in those passages in my farewell sermon which they refer to in their charges against me. But it it is not true that ever I said that I was de jure and de facto still pastor of this church, as they charge me--though I once put it to the neighboring ministers, by way of inquiry for their consideration, whether or no the public proceeding of the moderator of the council,[^011-note27] being not agreeable to council's determination and not warranted by any act of the council, was not a mere nullity.
-
-And whereas the church suggests that I have a desire to be settled over a few of the members of the church to the deprecation of the whole; and that I set out on a journey to procure a council to install me here, and that I had contrived to do it at such a time because I knew the church was at that time about to send for a candidate, etc., that I might prevent their sucess therein; and that I was ready to settle in that place, and for the sake of it had refused an invitation to Stockbridge; that I had neglected this opportunity for the sake of settling with an handful, etc.; that I had a great inclination to continue at Northampton as a minister at the expense of the peace and prosperity of the greater part of the town, yea, that I was greatly engaged for it: the following is a true and just account of fact.
-
-Soon after my dismission, I was applied to by some of this people, manifesting an earnest desire that I would settle with them as their pastor in a distinct church; and so they continued and often renewed their earnest applications to [me], till I went away in the winter to Canaan and Stockbridge. But I never gave 'em the least encouragment, but ever objected against it, and spoke so as should tend to discourage 'em; insomuch that some of them sometimes seem[ed] to take it much to heart, and expressed themselves as much grieved. And I generally had a great opposition to it in my own mind, and it was very much my prevailing opinion that it was not the will of God that I should settle here. Just as I was going my journey to Canaan,[^011-note28] there were some appearances in the town which caused me, more than ever before, to doubt whether it might not be God's design to open a door yet for my settling[^011-note29] here. But still I said nothing of it to those who desired it, and intimated nothing to them as though I thought there was any probability of it.
-
-When I returned from Stockbridge in the spring, and came to see the state of things here, I was more than ever disposed to think that it was not the will of God that I should settle here; and therefore when the people that adhered to me renewed their applications, I gave 'em no encouragement, but spoke only by way of discouragement. But they continuing the manifestations of their desire, at last I desired 'em to come together, that I might have a free conference with them. And when they met, I told them plainly my mind, laid before them as fully as I was able the many and great difficulties and discouragements that appeared to me to lie against any such proceding as they had desired, viz. my settling with them in a distinct church, and the little prospect there appeared of sucess in it, and the vast inconveniences it would probably bring on both me and them; and also represented the appearances there were of a call of providence to my settling elsewhere. And when I had done, I desired 'em to take these things into consideration till the next morning, and told 'em that if, after consideration, they still continued their desires, I would consent to this if it pleased them, viz. to concur with them in calling a council of some of most eminent ministers and churches in the land, to give them and me advice, and that both they and I should fully lay the case before them as it appeared to us: that I would have liberty to lay the difficulties and discouragements which appeard in the way of my settling here, and also the encouragments that appeared with respect to Stockbridge and Canaan; but told 'em it was not worth their while to do this if they were discouraged of themselvves, and therefore I would have thoroughly weighed the matter. This discourse of mine seemed to discourage a considerable number, so that they relinquished all further concern in the affair. But the next night a number met (though a much smaller number than before) and appeared desirous of prosecuting the design of applying to a council, as was proposed. Accordingly I consented, and letters were drawn and signed. That this is a true and faithful account of my conduct towards my brothers that adhered to me, who were witnesses of it, [they] do well know, and gave their testimonies for me before the council, as they doubtless remember; and the members of the venerable council knew what was the tenor of the letters missive which I sent to the churches.
-
-And as to the journey which I lately went with a certain gentleman, which my reasons speak of: this journey [was] not undertaken, neither by Col. Dwight[^011-note30] nor me, purely to procure the council; each of us had other business, and both of [us] should have gone the journey about the same time to Boston and to the eastward if there had been no design of a council. And as to my contriving this journey at this time, when I knew the church was about to send for a candidate, and on purpose to hinder them in their design, etc.: I declare I knew not of it. I knew nothing of being about to send for a candidate at that time, or any other time; and though I heard they expected one to come, whom they had laid in for already, some time in May, yet I had no regard to that in the timing of this journey, nor did I take one step in the management of this whole affair, diverse from what I should otherwise have done on any such account.
-
-When in my last journey I conferred with particular ministers, applied to as desired to be of the council, I mentioned to them many of the difficulties that appeared to be in the way of my installment here, and manifested my opinion of the consequences to be very diverse from Col. Dwight's thoughts; and told them I would not have the council by any means come with any settled purpose of installing me, but keep their minds in suspense till they had fully inquired into the state of things on the spot. I said after this manner in particular to Messrs. Wigglesworth, Prince and Clark. And how I conducted myself in the time of the sitting of the council, the members of the council do well know.
-
-As to my letter to Deac. Cook,[^011-note31] which the church seems to represent as what, compared with my after-conduct, manifests great dishonesty: I would say, that although the broken scraps of my letter, as they had quoted them, appear much otherwise than as connected with the rest of the letter, yet even as quoted by them, there is nothing in the least inconsistent with any part of my conduct. Though those passages signify that I had no inclination to remain the pastor over a church which finally and without remedy persists in a great aversion to my ministry, yet this by no means implies that I had no inclination to settle with such as were strongly inclined to and earnestly desirous of my ministry; much less does it imply a promise that I would not, and therefore there would not have been the least manner of my acting contrary to the declaration made in that letter, if I had manifested a strong inclination to be a minister to that number which adhered to me: which yet I have never done, but on the contrary, have rather from the beginning objected against it and discouraged those that sought it. And the members of the venerable council well know that I have not refused and foregone the opportunity to settle at Stockbridge, as the church charges me. Speaking of the council that sat here June 1750, they say such a council was called as I insisted on: which is not true, for they know I always insisted on having an equal number in the council of my choosing and of my principles with them, which they prevented by the forementioned unfair and clandestine measures, after they had publicly allowed it by their vote. In one respect it was such a council as I insisted on, viz. that there were two churches of the council which belonged not to the county. But that this was what I on another occasion militated against, *totis vertibus*,[^011-note32] is not true.
-
-What they seem to intend is my opposing Springfield Church's sending to Boston and Sudbury for some of the council to judge of the matters of which Mr. Breck[^011-note33] was accused, and to ordain him. But this whole affair was managed when I was not in New England, and knew nothing what was done or like to be done, what churches the council were to consist of, and so had no hand in the opposition which was made. All that I did was at the desire of the other ministers, and of the Rev. Mr. Williams of Hatfield[^011-note34] in particular, to write something in defense of what they had done while I was gone. But in what I wrote I never intimated, nor did I ever think, that a council in no case should consist of churches from abroad; but often manifested, long before the beginning of my own difficulty with this church, that in some cases there was a necessity of a council's being called from different parts--and so did the neighboring ministers. Yea, I myself and this very Church of Northampton had acted on this principle, being applied to by the Separate Church at New Haven to come to a council, that the church consented and chose a messenger to go with me to that council, and actually chose one; and in this affair I had the concurrence of the neighboring ministers, some of those who were active in my separation from my people, and one of them, viz. Mr. Woodbridge[^011-note35] of Hatfield, being at the same time applied to from New Haven and had consented to go. And my own case was most evidently one of these extraordinary cases that required a going out of the county for part of the council, at least almost all the ministers and churches in the county being already professedly on one side against me in the grand point in controversy between me and my people. But if there had been nothing extraordinary in the case, there was nothing in what I insisted in the constitution of the council that was called (which had in it but two churches from without the county) against what I wrote in the affair of Mr. Breck: but the thing which I insisted on was exactly agreable to it, for in what I then wrote, I expressly allowed the calling of two or three churches from abroad, in those words, p. 19 of the *Letter to the Author of the Answer to the Hampshire Narrative*: "We the ministers of this neighborhood never refused to consent that two or three others should be joined with our association in this affair of Mr. Breck. This is what we proposed once and again to Mr. Breck, another time to the Church of Springfield, another time to Mr. Cooper, but were always refused, as we shall fully show afterwards."[^011-note36]
-
-The church in their accusations say the council had a fair opportunity to use their own means, etc. But this is a great misrepresentation. The only proper means for a reconciliation was to reason on the point in controversy, to endeavor to persuade either me or the church, or both, to abate some thing of our principles, and so to bring us nearer together: but this the church would not allow of, and not only so, but manifested themselves utterly averse to my continuing their pastor, though I should consent to comply with the church in their former practice, unless I also entirely renounced my opinion.
-
-As to my saying nothing against the separation in the time of it, and yet showing great uneasiness at it afterwards: I would say that I then had, and still have, an inclination rather to be separated from the church than to continue their pastor, they retaining their great alienation and fixed, resolute and violent opposition to my ministry, and have never said anything implying or intimating the contrary to this day. And what I have said against the manner of separation I said the same day, and to one of the ministers that had a chief hand in it, agreeable to what I had often said before, which was to this purpose, viz.: that this church was by no means in a temper and frame of mind fit to proceed in such affair, and were incapable of doing it with proper consideration and with their eyes open; and that an ecclesiastical council called to look into the circumstances of the church, and to advise them and take care of their welfare, with full liberty to use what measures they might think requisite for a remedy from their calamities, ought to have taken the unhappy state of the church, by reason of their exceeding unchristian frame, into their consideration, to have reasoned the case fully with them and dealt thoroughly with them about it; and strongly to have enforced upon them the important and great, necessity duty of coming to an exceeding different temper of mind before ever they should proceed to an affair of such solemnity and vast consequence as a separation between them and their pastor, and before they might expect that any Christian council would gratify 'em in the thing which they in their heat and vehemence were in pursuit of, in leading them to renounce their pastor which they[^011-note37] were so causelessly angry with.
-
-The reason why I did not insist on this unchristian temper of the people, as a reason against a present separation in the time of it, was that I had insisted on it before the previous council in the winter, and found that it exceedingly enraged the people and was taken ill by the council, and looked upon as acting an unchristian part; and the people themselves had made it a great objection against my calling members of the council from abroad, that they apprehended I would expose them as I had done before the council in the winter; and because I judged it needless, the matter being well known to the council, especially that part of it that were most inclined to dismiss me, viz. those from neighbor churches, the temper of the people, and the violent manner of their managing this controversy, being most publicly visible and notorously known to all around us.
+A Just and Faithful Account of My Proceedings and Conduct, Which the First Church of Northampton Charges Represent as Extremely Shocking and Unaccountable; Being the Substance of What Was Said Before the Council That Was Opened Here on May 16, 1751. When[^011-note24] the Result of the Council which sat here in June 1750 was first read in our meeting house, and the vote put to the church whether they consent to the advice there given, and my dismission pronounced thereupon, I did not take so particular and exact notice of the manner in which the Result was drawn up as to observe the inconsistence of the proceeding. But yet I ever supposed that the general conduct of the people, and most of the steps they had taken, in order to my being separated from them, for more than twelve months before, had been very unreasonable and unrighteous, and provoking to God; and particularly that they obtained the major vote of the council for my dismission by a very unfair proceeding. When, after it had been agreed that the church and I should have an equal hand in the choice of the council, and I had applied[^011-note25] to the church of South Hadley, agreeable to the vote of the church, and carried the letter missive to Mr. Woodbridge[^011-note26] myself, to be communicated to the church: one of this church immediately followed me, and in an underhand manner went about the parish to dissuade the people from complying with my desire. By which means they were prevented, and I had not an equal number in the council of such as I had chosen with the church; by which it came to pass, as there is all reason to think, that they obtained the majority vote. However, what was done on June 22nd was taken for a dismission, and I well knew it would be resolutely insisted and acted on a such. And therefore I looked on myself in fact released, in the providence of God, from any further obligation to this church as their minister; that God in his providence had discharged me, however, by permitting the unfair and unreasonable doings of my people. But I never thought that the people's unfairness and injustice released them from obligation to me, but that in the sight of God they were held bound to return to me and undo their own unjust doings. However, this was what I had not the least hope of, and therefore judged that the providence of God, by permitting their injustice and violence, had in fact separated me from them as to any future actual exercise of the ministerial office among them, or any opportunity for it; which was the thing I had respect to in those passages in my farewell sermon which they refer to in their charges against me. But it it is not true that ever I said that I was de jure and de facto still pastor of this church, as they charge me--though I once put it to the neighboring ministers, by way of inquiry for their consideration, whether or no the public proceeding of the moderator of the council,[^011-note27] being not agreeable to council's determination and not warranted by any act of the council, was not a mere nullity. And whereas the church suggests that I have a desire to be settled over a few of the members of the church to the deprecation of the whole; and that I set out on a journey to procure a council to install me here, and that I had contrived to do it at such a time because I knew the church was at that time about to send for a candidate, etc., that I might prevent their sucess therein; and that I was ready to settle in that place, and for the sake of it had refused an invitation to Stockbridge; that I had neglected this opportunity for the sake of settling with an handful, etc.; that I had a great inclination to continue at Northampton as a minister at the expense of the peace and prosperity of the greater part of the town, yea, that I was greatly engaged for it: the following is a true and just account of fact. Soon after my dismission, I was applied to by some of this people, manifesting an earnest desire that I would settle with them as their pastor in a distinct church; and so they continued and often renewed their earnest applications to [me], till I went away in the winter to Canaan and Stockbridge. But I never gave 'em the least encouragment, but ever objected against it, and spoke so as should tend to discourage 'em; insomuch that some of them sometimes seem[ed] to take it much to heart, and expressed themselves as much grieved. And I generally had a great opposition to it in my own mind, and it was very much my prevailing opinion that it was not the will of God that I should settle here. Just as I was going my journey to Canaan,[^011-note28] there were some appearances in the town which caused me, more than ever before, to doubt whether it might not be God's design to open a door yet for my settling[^011-note29] here. But still I said nothing of it to those who desired it, and intimated nothing to them as though I thought there was any probability of it. When I returned from Stockbridge in the spring, and came to see the state of things here, I was more than ever disposed to think that it was not the will of God that I should settle here; and therefore when the people that adhered to me renewed their applications, I gave 'em no encouragement, but spoke only by way of discouragement. But they continuing the manifestations of their desire, at last I desired 'em to come together, that I might have a free conference with them. And when they met, I told them plainly my mind, laid before them as fully as I was able the many and great difficulties and discouragements that appeared to me to lie against any such proceding as they had desired, viz. my settling with them in a distinct church, and the little prospect there appeared of sucess in it, and the vast inconveniences it would probably bring on both me and them; and also represented the appearances there were of a call of providence to my settling elsewhere. And when I had done, I desired 'em to take these things into consideration till the next morning, and told 'em that if, after consideration, they still continued their desires, I would consent to this if it pleased them, viz. to concur with them in calling a council of some of most eminent ministers and churches in the land, to give them and me advice, and that both they and I should fully lay the case before them as it appeared to us: that I would have liberty to lay the difficulties and discouragements which appeard in the way of my settling here, and also the encouragments that appeared with respect to Stockbridge and Canaan; but told 'em it was not worth their while to do this if they were discouraged of themselvves, and therefore I would have thoroughly weighed the matter. This discourse of mine seemed to discourage a considerable number, so that they relinquished all further concern in the affair. But the next night a number met (though a much smaller number than before) and appeared desirous of prosecuting the design of applying to a council, as was proposed. Accordingly I consented, and letters were drawn and signed. That this is a true and faithful account of my conduct towards my brothers that adhered to me, who were witnesses of it, [they] do well know, and gave their testimonies for me before the council, as they doubtless remember; and the members of the venerable council knew what was the tenor of the letters missive which I sent to the churches. And as to the journey which I lately went with a certain gentleman, which my reasons speak of: this journey [was] not undertaken, neither by Col. Dwight[^011-note30] nor me, purely to procure the council; each of us had other business, and both of [us] should have gone the journey about the same time to Boston and to the eastward if there had been no design of a council. And as to my contriving this journey at this time, when I knew the church was about to send for a candidate, and on purpose to hinder them in their design, etc.: I declare I knew not of it. I knew nothing of being about to send for a candidate at that time, or any other time; and though I heard they expected one to come, whom they had laid in for already, some time in May, yet I had no regard to that in the timing of this journey, nor did I take one step in the management of this whole affair, diverse from what I should otherwise have done on any such account. When in my last journey I conferred with particular ministers, applied to as desired to be of the council, I mentioned to them many of the difficulties that appeared to be in the way of my installment here, and manifested my opinion of the consequences to be very diverse from Col. Dwight's thoughts; and told them I would not have the council by any means come with any settled purpose of installing me, but keep their minds in suspense till they had fully inquired into the state of things on the spot. I said after this manner in particular to Messrs. Wigglesworth, Prince and Clark. And how I conducted myself in the time of the sitting of the council, the members of the council do well know. As to my letter to Deac. Cook,[^011-note31] which the church seems to represent as what, compared with my after-conduct, manifests great dishonesty: I would say, that although the broken scraps of my letter, as they had quoted them, appear much otherwise than as connected with the rest of the letter, yet even as quoted by them, there is nothing in the least inconsistent with any part of my conduct. Though those passages signify that I had no inclination to remain the pastor over a church which finally and without remedy persists in a great aversion to my ministry, yet this by no means implies that I had no inclination to settle with such as were strongly inclined to and earnestly desirous of my ministry; much less does it imply a promise that I would not, and therefore there would not have been the least manner of my acting contrary to the declaration made in that letter, if I had manifested a strong inclination to be a minister to that number which adhered to me: which yet I have never done, but on the contrary, have rather from the beginning objected against it and discouraged those that sought it. And the members of the venerable council well know that I have not refused and foregone the opportunity to settle at Stockbridge, as the church charges me. Speaking of the council that sat here June 1750, they say such a council was called as I insisted on: which is not true, for they know I always insisted on having an equal number in the council of my choosing and of my principles with them, which they prevented by the forementioned unfair and clandestine measures, after they had publicly allowed it by their vote. In one respect it was such a council as I insisted on, viz. that there were two churches of the council which belonged not to the county. But that this was what I on another occasion militated against, *totis vertibus*,[^011-note32] is not true. What they seem to intend is my opposing Springfield Church's sending to Boston and Sudbury for some of the council to judge of the matters of which Mr. Breck[^011-note33] was accused, and to ordain him. But this whole affair was managed when I was not in New England, and knew nothing what was done or like to be done, what churches the council were to consist of, and so had no hand in the opposition which was made. All that I did was at the desire of the other ministers, and of the Rev. Mr. Williams of Hatfield[^011-note34] in particular, to write something in defense of what they had done while I was gone. But in what I wrote I never intimated, nor did I ever think, that a council in no case should consist of churches from abroad; but often manifested, long before the beginning of my own difficulty with this church, that in some cases there was a necessity of a council's being called from different parts--and so did the neighboring ministers. Yea, I myself and this very Church of Northampton had acted on this principle, being applied to by the Separate Church at New Haven to come to a council, that the church consented and chose a messenger to go with me to that council, and actually chose one; and in this affair I had the concurrence of the neighboring ministers, some of those who were active in my separation from my people, and one of them, viz. Mr. Woodbridge[^011-note35] of Hatfield, being at the same time applied to from New Haven and had consented to go. And my own case was most evidently one of these extraordinary cases that required a going out of the county for part of the council, at least almost all the ministers and churches in the county being already professedly on one side against me in the grand point in controversy between me and my people. But if there had been nothing extraordinary in the case, there was nothing in what I insisted in the constitution of the council that was called (which had in it but two churches from without the county) against what I wrote in the affair of Mr. Breck: but the thing which I insisted on was exactly agreable to it, for in what I then wrote, I expressly allowed the calling of two or three churches from abroad, in those words, p. 19 of the *Letter to the Author of the Answer to the Hampshire Narrative*: "We the ministers of this neighborhood never refused to consent that two or three others should be joined with our association in this affair of Mr. Breck. This is what we proposed once and again to Mr. Breck, another time to the Church of Springfield, another time to Mr. Cooper, but were always refused, as we shall fully show afterwards."[^011-note36] The church in their accusations say the council had a fair opportunity to use their own means, etc. But this is a great misrepresentation. The only proper means for a reconciliation was to reason on the point in controversy, to endeavor to persuade either me or the church, or both, to abate some thing of our principles, and so to bring us nearer together: but this the church would not allow of, and not only so, but manifested themselves utterly averse to my continuing their pastor, though I should consent to comply with the church in their former practice, unless I also entirely renounced my opinion. As to my saying nothing against the separation in the time of it, and yet showing great uneasiness at it afterwards: I would say that I then had, and still have, an inclination rather to be separated from the church than to continue their pastor, they retaining their great alienation and fixed, resolute and violent opposition to my ministry, and have never said anything implying or intimating the contrary to this day. And what I have said against the manner of separation I said the same day, and to one of the ministers that had a chief hand in it, agreeable to what I had often said before, which was to this purpose, viz.: that this church was by no means in a temper and frame of mind fit to proceed in such affair, and were incapable of doing it with proper consideration and with their eyes open; and that an ecclesiastical council called to look into the circumstances of the church, and to advise them and take care of their welfare, with full liberty to use what measures they might think requisite for a remedy from their calamities, ought to have taken the unhappy state of the church, by reason of their exceeding unchristian frame, into their consideration, to have reasoned the case fully with them and dealt thoroughly with them about it; and strongly to have enforced upon them the important and great, necessity duty of coming to an exceeding different temper of mind before ever they should proceed to an affair of such solemnity and vast consequence as a separation between them and their pastor, and before they might expect that any Christian council would gratify 'em in the thing which they in their heat and vehemence were in pursuit of, in leading them to renounce their pastor which they[^011-note37] were so causelessly angry with. The reason why I did not insist on this unchristian temper of the people, as a reason against a present separation in the time of it, was that I had insisted on it before the previous council in the winter, and found that it exceedingly enraged the people and was taken ill by the council, and looked upon as acting an unchristian part; and the people themselves had made it a great objection against my calling members of the council from abroad, that they apprehended I would expose them as I had done before the council in the winter; and because I judged it needless, the matter being well known to the council, especially that part of it that were most inclined to dismiss me, viz. those from neighbor churches, the temper of the people, and the violent manner of their managing this controversy, being most publicly visible and notorously known to all around us.
 
 [^011-note1]: The reverse of the scrap on which the following is written is a portion of a document written by Timothy Dwight, apparently part of the agenda for the May 1751 council: 7. Whether if Mr Edwards performs [. . .] Minister it will not Tend to Reconcile the body of the people to him 8: Whether the people will not be convinced that Mr Edwards is not beholden to 'em for hireing him to preach --- 9: Whether this will not give Opportunity for Mr Edwards to pray & preach with freedom as the word of God & the circumstances of the people require of him 10: Whether if there be a Genll reconciliation there be not A Considerable number that cannot be restored to the Com[. . .]
 
@@ -4404,7 +2536,9 @@ The reason why I did not insist on this unchristian temper of the people, as a r
 
 ## "At a Council of Churches Convened at Northampton, December 26. 1749" Report of the Council 12-26-49
 
-Chester WilliamReport of the Council of 5 Churches, Dec. 26, 1749
+Chester William
+
+Report of the Council of 5 Churches, Dec. 26, 1749
 
 One leaf, broken at folds into three fragments. Written in the hand of Chester Williams. BRBL, f. 1345.
 
@@ -4432,7 +2566,9 @@ Delegates Elders Oliver Partridge Joseph Ashley Jonathan Field Edward Billing Ab
 
 ## "Report of the Northampton First Parish Meeting, April 20, 1750" N'ton Chh Mtg 4-20-50
 
-AnonymousBRBL, f. 1346. Report of N'ton First Parish Meeting, Apr. 20, 1750. One leaf.
+Anonymous
+
+BRBL, f. 1346. Report of N'ton First Parish Meeting, Apr. 20, 1750. One leaf.
 
 Fryday April 20th the Church in the first Parish in Northampton being Assembled at the Meeting House in Sd Town by a preceedent Warning of the Deacons Advised by Some of the principal members at A Parish Meeting Sometime before took under Consideration the propriety & Expediency of their Choosing a Council Ex parte to Assist them in the Controversie Now Subsisting between the Church & Pastor & After Some Consultation Joseph Hawley Esq Offered Some proposals in Writing wch for Substance as I think were that A Number of Gentm Ministrs or Lay men, or both, Should be Mutually Chosen not Exceeding the Number of Seven Should be Call'd to Come to us without any Authority from their own Churches or ours to See if they Could devise or Concert Some Method upon which or Terms by which Mr Edwards & the Church might Consist together their difference in Oppinion notwithstanding & to know the mind of the Church A Vote was proposed by Some Members Others Objected & thôt it better for the Church to Choose A Comttee to draw the proposal on Some new form on more deliberate Consideration & present it to Mr Edwards to See if he would Agree & if he Approved of then to the Church for their further determination upon Which it Objected that it was Improper Since the proposal took it's rise from the Church that they Should present it to Mr Edwards for his Approbation before it known Whether the Church would Consent to it or not, if the Pastor Should, & therefore it was Urg'd that A Vote Should be put whether the Church would consent to it as to the Substance of it the vote Accordingly was put & it pass'd in the Affirmative by A great Majority as the Honble Ebenezr Pomroy Esqr the Moderator declared & then the Church Chose A Comttee (viz) Ebenr Pomroy Timo Dwight & Jos: Hawley Esqr & Messr Deacn Ebenr Pomroy & Ebenr Hunt A Comtee to Consider what Circumstantial Alteration might be made to bring it into A proper form it being Origi nally drawn by Mr Hawley on A Sudden thôt & then the Meeting was adjourn'd to fryday the 27th of Apr Currt at 3 oClock Afternoon Thursday April 26th the Sd Comttee Met & Mr Hawley produced the Minuts he had taken at the last Meeting At the Modrs desire & in the Sd Minuts it was Suggested that the Comttee were Appointed to draw A vote in Substance as well as form for the Churches [^013-note1] Acceptance two of the Comttee Objected that the Minuts Suggested that the proposals AforeSd had not been Voted as to the Substa of 'em & that it was not So in fact but that the Church did vote the Substa & not leave to the Comttee Alter that or referr the Consideration of it to A further Opportunity as to the Substance but two Others, with the Scribe, had forgot that it was voted, & then it was Considered, whether it was best for the Church to Act Any further on the AforeSd proposals, two of the Comttee thôt best, three thôt not, but that it was better for the Church to Comply with Mr Edwards's Demand of A right or liberty to Choose A Minor part of his part of the Council out of the County, because they Said Such A Council would have power to do the Same thing viz to See if Some Salutary method might be devised, that Mr Edwards & the Church might Consist together, difference of Oppinion notwithstanding, as well as Others necessary to be done & that was much Shorter, Easier, & Cheaper, than to have a number of Gent, Come with Power & so the Comttee Seperated without doing any thing at All.
 
@@ -4440,7 +2576,9 @@ Fryday April 20th the Church in the first Parish in Northampton being Assembled 
 
 ## "Depositions" (1750) Depositions (1750)
 
-Joseph Bellamy, Sarah Pierpont Edwards, Noah Parsons, John Searle, James PierpontDepositions (1750)
+Joseph Bellamy, Sarah Pierpont Edwards, Noah Parsons, John Searle, James Pierpont
+
+Depositions (1750)
 
 In May 1750, Edwards asked five persons--Joseph Bellamy, James Pierpont, Noah Parsons, John Searle, and Sarah Pierpont Edwards-for depositions to be presented to the final council of June 22, 1750, to show that his change of opinion on the qualifications for church membership was not something new. These witnesses affirmed that he had discussed his new view as early as September 1746, at the ordination of Samuel Buel in East Hampton, Long Island, had published it in *Religious Affections*, and had discussed it openly with people at Northampton.
 
@@ -4496,253 +2634,31 @@ I remember Mr. Edwards once in talking to some Gentlemen of these matters Expres
 
 ### Two fragments of Preface to Farewell Sermon , 1750. BRBL, f. 1244. [Frag. 1, two quarto leaves.]
 
-The Council which sat here in June 1750.
-
-having heard that I had made certain draughts
-
-of the Covenant or Forms of a publick Profession of
-
-Religion which I stood ready to accept of from the
-
-Candidates for Church Communion They for their fur-
-
-ther Information sent for Them Accordingly I sent
-
-them four distinct draughts or Forms which I had
-
-drawn up about a twelve-month before as what
-
-I Stood ready to accept of (any one of Them) rather
-
-than contend and break with my People.
-
-The two shortest of these Forms are here inserted
-
-for the Satisfaction of the Reader **They are as follows**
-
-"I hope I do truly find a Heart to give up my self
-
-“wholly to God according to the Tenour of that Covenant
-
-“of Grace which was Seal'd in my Baptism and to walk
-
-“in a way of that Obedience to all the Commandments
-
-“of God which the Covenant of Grace requires as long
-
-“as I live"
+The Council which sat here in June 1750. having heard that I had made certain draughts of the Covenant or Forms of a publick Profession of Religion which I stood ready to accept of from the Candidates for Church Communion They for their further Information sent for Them Accordingly I sent them four distinct draughts or Forms which I had drawn up about a twelve-month before as what I Stood ready to accept of (any one of Them) rather than contend and break with my People. The two shortest of these Forms are here inserted for the Satisfaction of the Reader **They are as follows** "I hope I do truly find a Heart to give up my self “wholly to God according to the Tenour of that Covenant “of Grace which was Seal'd in my Baptism and to walk “in a way of that Obedience to all the Commandments “of God which the Covenant of Grace requires as long “as I live"
 
 <!-- p.   -->
 
-Another
-
-"I hope I truly find in my Heart a willingness to com-
-
-“ply with all the Commandments of God which require
-
-“me to give up my self wholly to Him & serve Him
-
-“with my Body & my spirit and do accordingly now
-
-“promise to walk in a way of Obedience to all the Com-
-
-“mandments of God as long as I live"
-
-such Kind of Professions as these I stood ready to ac-
-
-cept rather than contend and break with my People
-
-not but that I think it much more convenient that
-
-ordinarily the publick Profession that is made by
-
-Christians should be much fuller & more particular
-
-and that (as I hinted in my Letter to Mr. Clark) I should
-
-not chuse to be tied up to any certain Form of words
-
-but to have Liberty to vary the Expressions of a publick
-
-Profession the more exactly to suit the sentiments & Expe-
-
-rience
-
-**rience of the Professours that it might be a** meas **more [L. 1v.]**
-
-just & free Expression of what each one finds in his
-
-Heart
+Another "I hope I truly find in my Heart a willingness to com- “ply with all the Commandments of God which require “me to give up my self wholly to Him & serve Him “with my Body & my spirit and do accordingly now “promise to walk in a way of Obedience to all the Com- “mandments of God as long as I live" such Kind of Professions as these I stood ready to accept rather than contend and break with my People not but that I think it much more convenient that ordinarily the publick Profession that is made by Christians should be much fuller & more particular and that (as I hinted in my Letter to Mr. Clark) I should not chuse to be tied up to any certain Form of words but to have Liberty to vary the Expressions of a publick Profession the more exactly to suit the sentiments & Experience **rience of the Professours that it might be a** meas **more [L. 1v.]** just & free Expression of what each one finds in his Heart
 
 <!-- p.   -->
 
-And moreover it must be noted that I ever insisted
-
-on it that it belonged to me as a Pastor before a Pro-
-
-fession was accepted to have full Liberty to instruct
-
-the Candidate in the Meaning of the Terms of it
-
-and in the Nature of the Things proposed to be
-
-professed And to enquire into his doctrinal under-
-
-standing of these Things according to my best discretion
-
-and to Caution the Person as I should think needful
-
-against Rashness in making such a Profession or doing
-
-it
-
-meerly **mainly for the Credit of Himself or his**
-
-^
-
-Family or from any secular views whatsoever and
-
-to put Him on serious self-examination and search-
-
-ing his own Heart and Prayer to God to search and
-
-enlighten Him that He mayn't be hypocritical &
-
-deceived in the Profession He makes withal point-
-
-ing forth to Him the many ways in which Profes-
-
-sours are liable to be deceived
-
-Nor do I think it improper for a Minister in such
-
-a Case to enquire and know of the Candidate what
-
-can be remembred of the Circumstances of his Chris-
-
-tian Experience as this may tend much to illustrate
+And moreover it must be noted that I ever insisted on it that it belonged to me as a Pastor before a Profession was accepted to have full Liberty to instruct the Candidate in the Meaning of the Terms of it and in the Nature of the Things proposed to be professed And to enquire into his doctrinal understanding of these Things according to my best discretion and to Caution the Person as I should think needful against Rashness in making such a Profession or doing it meerly **mainly for the Credit of Himself or his** ^ Family or from any secular views whatsoever and to put Him on serious self-examination and searching his own Heart and Prayer to God to search and enlighten Him that He mayn't be hypocritical & deceived in the Profession He makes withal pointing forth to Him the many ways in which Professours are liable to be deceived Nor do I think it improper for a Minister in such a Case to enquire and know of the Candidate what can be remembred of the Circumstances of his Christian Experience as this may tend much to illustrate
 
 <!-- p.   -->
 
-his Profession and give a Minister great Advan-
-
-tage for proper Instructions Tho' a particular Know-
-
-ledge and Remembrance of the Time & method
-
-of his first Conversion to God is not to be made
-
-the Test of a Persons sincerity nor insisted on as
-
-necessary in order to his being received into full
-
-Charity Not that I think it at all improper or
-
-unprofitable that in some special Cases a declara-
-
-tion of the Particular Circumstances of a Persons
-
-first Awakening and the Manner of his Con-
-
-victions Illuminations & Comforts should be pub-
-
-lickly
-
-lickly exhibited before the whole Congregation on [L. 2r.]
-
-occasion of his Admission into the Church tho' this
-
-be not demanded as necessary to Admission.
-
-I ever declared against insisting on a Relation
-
-of Experiences in this sense (viz a Relation
-
-of the particular Time and steps of the operation of the
-
-spirit in first Conversion) as the Terms of Commu-
-
-nion Yet if by a Relation of Experiences be
+his Profession and give a Minister great Advantage for proper Instructions Tho' a particular Knowledge and Remembrance of the Time & method of his first Conversion to God is not to be made the Test of a Persons sincerity nor insisted on as necessary in order to his being received into full Charity Not that I think it at all improper or unprofitable that in some special Cases a declaration of the Particular Circumstances of a Persons first Awakening and the Manner of his Convictions Illuminations & Comforts should be publickly lickly exhibited before the whole Congregation on [L. 2r.] occasion of his Admission into the Church tho' this be not demanded as necessary to Admission. I ever declared against insisting on a Relation of Experiences in this sense (viz a Relation of the particular Time and steps of the operation of the spirit in first Conversion) as the Terms of Communion Yet if by a Relation of Experiences be
 
 <!-- p.   -->
 
-meant a declaration of Experience of the great
-
-Things wrought wherein true Grace and the
-
-essential Acts & Habits of Holiness consist in this
-
-a
-
-sense I think an Account of Persons Experiences ne-
-
-^
-
-cessary in order to his Admission into full Commu-
-
-nion in the Church But that in whatever Enqui-
-
-ries are made and whatever Account is given
-
-neither minister nor Church are to set up themselves
-
-as searchers of Hearts but are to accept the serious
-
-solemn Profession of the well-instructed Professours
-
-of a good Life as best able to determine what He
-
-finds in his own Heart.
-
-[remainder of page blank]
-
-[blank] [L. 2v.]
+meant a declaration of Experience of the great Things wrought wherein true Grace and the essential Acts & Habits of Holiness consist in this a sense I think an Account of Persons Experiences ne- ^ cessary in order to his Admission into full Communion in the Church But that in whatever Enquiries are made and whatever Account is given neither minister nor Church are to set up themselves as searchers of Hearts but are to accept the serious solemn Profession of the well-instructed Professours of a good Life as best able to determine what He finds in his own Heart. [remainder of page blank] [blank] [L. 2v.]
 
 ### [Frag. 2, one long slip of paper, originally a prayer bid.]
 
-Advertisement PREFACE It **Here is by no means Room**
-
-for a particular Account of
-
-the affair **** That diff ****
-
-the late
+Advertisement PREFACE It **Here is by no means Room** for a particular Account of the affair **** That diff **** the late
 
 <!-- p.   -->
 
-**the Circumstances of** that **diffe-**
-
-me
-
-**rence between** my **&** m **the**
-
-**People of Northampton** which ****
-
-that
-
-issued in the separation between
-
-^
-
-me & them which occasiond
-
-of
-
-the Preaching the following fare
-
-well sermon But yet it may
-
-be proper & needful here to correct
-
-some gross misrepresentations
-
-which have been abundantly
-
-& tis to be feard by some Industri
-
-ously made of that difference
-
-particularly.
+**the Circumstances of** that **diffe-** me **rence between** my **&** m **the** **People of Northampton** which **** that issued in the separation between ^ me & them which occasiond of the Preaching the following fare well sermon But yet it may be proper & needful here to correct some gross misrepresentations which have been abundantly & tis to be feard by some Industriously made of that difference particularly.
 
 ____________
 
@@ -4754,9 +2670,7 @@ a Pure Chh
 
 _____________________
 
-distinguish by my sole Authority
-
-**nor a certain dividing Line** [^015-note1]
+distinguish by my sole Authority **nor a certain dividing Line** [^015-note1]
 
 _____________
 
@@ -4770,229 +2684,35 @@ a particular Relation the Test
 
 __________________
 
-some gross misrepresentations in the
-
-**ministers Paper In the Result** [^015-note2]
+some gross misrepresentations in the **ministers Paper In the Result** [^015-note2]
 
 _________
 
-By some means or other has crept
-
-into the Results of the Counsel
-
-a very great misrepresentation of
-
-Fact [* other side that I arrogated this
-
-sole Judgmt of mens
-
-______________ state to my self
-
-and here I would observe that I think
-
-**the expression used [-] by the** Result ****
-
-Council in their Result not so proper
-
-make a Profession of sanctifying Grace
-
-& tends to carry the Idea of the Reader
-
-Tis an expression that I never used
-
-Indeed I say **to something beyond**
-
-what I have ever intended: indeed
-
-I suppose they profess that which of
-
-They really have they must needs
+By some means or other has crept into the Results of the Counsel a very great misrepresentation of Fact [* other side that I arrogated this sole Judgmt of mens ______________ state to my self and here I would observe that I think **the expression used [-] by the** Result **** Council in their Result not so proper make a Profession of sanctifying Grace & tends to carry the Idea of the Reader Tis an expression that I never used Indeed I say **to something beyond** what I have ever intended: indeed I suppose they profess that which of They really have they must needs
 
 <!-- p.   -->
 
-have had sanctifying Grace . viz
-
-**Those Things** men which imply true
-
-Xtianity **wherein consist true**
-
-Xtianity . but yet as I apprehend
-
-thi **to profess to have those things**
-
-is a different thing from a meer professing
-
-that he is sanctified or has
-
-sanctifying Grace . before I
-
-thought it was a different thing
-
-**and had** j before so **declared**
-
-that I supposed to openly & publish
-
-before that very council & made
-
-the distinction **that distinction**
-
-**------** both by [ ] open decla ****
-
-**before them** & **by word of mouth**
-
-& also in a writing that I gave in
-
-**to them . & I** have **remember**
-
-very well that before this I had
-
-heard one of those Gentlemen viz
-
-**Mr. Breck** [^015-note3] **say that there was**
+have had sanctifying Grace . viz **Those Things** men which imply true Xtianity **wherein consist true** Xtianity . but yet as I apprehend thi **to profess to have those things** is a different thing from a meer professing that he is sanctified or has sanctifying Grace . before I thought it was a different thing **and had** j before so **declared** that I supposed to openly & publish before that very council & made the distinction **that distinction** **------** both by [ ] open decla **** **before them** & **by word of mouth** & also in a writing that I gave in **to them . & I** have **remember** very well that before this I had heard one of those Gentlemen viz **Mr. Breck** [^015-note3] **say that there was**
 
 <!-- p.   -->
 
-a great difference between these
+a great difference between these two * other side] . seeing that by Reason [L. 1v.] of this diversity of sentiments the doors of the Chh have been shut for some years Now I suppose every Reader unacquainted with the Case would **be ready to suppose that** there had been some publick act or declaration that des **** some that offered thems. as **Candidates had** actu **been refused** lo **for so long before that Council** or at least that there had been **some publick act or** decla [^015-note4] JE writes around the text of a discarded prayer bid, which reads: Eliiah Russell Desires that thanks may be R[e]turned to god for his goodness to him in Raiseing him from a bed of sickness to such a measure of health and strength that he is able to wait upon god in his house again his father and mother Desire to Joyn with him herein
 
-two
-
-* other side] . seeing that by Reason [L. 1v.]
-
-of this diversity of sentiments the
-
-doors of the Chh have been shut
-
-for some years
-
-Now I suppose every Reader
-
-unacquainted with the Case would
-
-**be ready to suppose that** there
-
-had been some publick act or
-
-declaration that des ****
-
-some that offered thems. as
-
-**Candidates had** actu **been refused**
-
-lo **for so long before that Council**
-
-or at least that there had been
-
-**some publick act or** decla [^015-note4]
-
-JE writes around the text of a discarded prayer bid, which reads:
-
-Eliiah Russell Desires that thanks may
-
-be R[e]turned to god for his goodness to him in
-
-Raiseing him from a bed of sickness to such
-
-a measure of health and strength that he is
-
-able to wait upon god in his house again
-
-his father and mother Desire to Joyn with him herein
-
-or declar ****
-
-or publick determi-
-
-nation
-
-before the
+or declar **** or publick determination before the
 
 <!-- p.   -->
 
-**Chh.** desi ****
-
-that
-
-to **design**
-
-prevent
-
-to discourage ****
-
-all from
-
-offering thems.
-
-and that actually
-
-had that Effect
-
-I leave it with
-
-every Reader that
-
-took notice of
-
-that
-
-Clause
-
-in the Result to
-
-determine for
-
-Himself whether
-
-it did not carry
-
-**this Idea** with
-
-Him **in his**
-
-mind.
-
-[about 10 blank lines]
+**Chh.** desi **** that to **design** prevent to discourage **** all from offering thems. and that actually had that Effect I leave it with every Reader that took notice of that Clause in the Result to determine for Himself whether it did not carry **this Idea** with Him **in his** mind. [about 10 blank lines]
 
 <!-- p.   -->
 
 _______________________________
 
-to prevent persons offering
-
-thems. & that actually did
-
-**with a** design **aim at that**
-
-prevent
-
-Effect viz the preventing Persons
-
-**from coming into the Chh.** **†**
+to prevent persons offering thems. & that actually did **with a** design **aim at that** prevent Effect viz the preventing Persons **from coming into the Chh.** **†**
 
 ________________________________
 
-tis true none had offered thems.
-
-for a long time but other Reasons
-
-may be given for it . the
-
-young People all in the time of
-
-**the** Late **awakening seven or eight**
-
-**years ago** v **came into the Chh**
-
-all that were manageable & were
-
-like to have occasion for Baptism
-
-for their Chil. & after for several
-
-**years** an exceeding **a Time of great**
-
-**deadness & senselessness** above **of the**
-
-Things of Religion.
+tis true none had offered thems. for a long time but other Reasons may be given for it . the young People all in the time of **the** Late **awakening seven or eight** **years ago** v **came into the Chh** all that were manageable & were like to have occasion for Baptism for their Chil. & after for several **years** an exceeding **a Time of great** **deadness & senselessness** above **of the** Things of Religion.
 
 _____________________
 
@@ -5000,9 +2720,7 @@ _____________________
 
 <!-- p.   -->
 
-proceedings in admission of members should
-
-be Influenced by it.
+proceedings in admission of members should be Influenced by it.
 
 [^015-note1]: **i.** “dividing Line” is a conjectural reading.
 
@@ -5014,84 +2732,20 @@ be Influenced by it.
 
 ## Fragment from “Narrative of Communion Controversy.” One long duodecimo-sized scrap, made from half of a printed sheet (apparently an invitation to the ordination of Silas Brett in Freetown [Fall River], Mass., who was ordained Dec. 2, 1747). BRBL, f. 1230. This fragment consists of several passages, apparently unused, which Edwards intended to insert in the “Narrative.”
 
-* I was also informed that it was said
-
-in the meeting that if that Association
-
-should give Advice to their mind they
-
-should learn by it that the members
-
-of it would be ready to assist em as
-
-members of a decisive Council or to
-
-that purpose.
+* I was also informed that it was said in the meeting that if that Association should give Advice to their mind they should learn by it that the members of it would be ready to assist em as members of a decisive Council or to that purpose.
 
 _______________________________________________
 
-that it was
-
-*** that it was best to be allowed &** was ****
-
-* **^**
-
-agreable to a former publick signification
-
-of the minds of the ministers of this Coun-
-
-cil **ty**
+that it was *** that it was best to be allowed &** was **** * **^** agreable to a former publick signification of the minds of the ministers of this Council **ty**
 
 ________________________________________________
 
-In the hearing of the matter at that
-
-Time the Council were so far
-
-from thinking it proper to proceed
+In the hearing of the matter at that Time the Council were so far from thinking it proper to proceed
 
 <!-- p.   -->
 
-on the Representation of one side
-
-only that they would not hear any
-
-thing that one side had to say in the
-
-absence of the other And the Com-
-
-mittee of the Chh were so careful that
-
-They might have justice done em as
-
-to this that when the Council ad-
-
-journed Thems. for six weeks They
-
-expressly laid on that I might not be
-
-heard in any private Conversation in
-
-the Interval They being absent .
-
-Therefore now it would certainly be
-
-very remarkable if at last the
-
-association in the Lower Part of the
-
-County should undertake to decide
-
-a distance
-
-**this very Controversy at** springfield moun- ****
-
-tains. without any hearing at all of any
+on the Representation of one side only that they would not hear any thing that one side had to say in the absence of the other And the Committee of the Chh were so careful that They might have justice done em as to this that when the Council adjourned Thems. for six weeks They expressly laid on that I might not be heard in any private Conversation in the Interval They being absent . Therefore now it would certainly be very remarkable if at last the association in the Lower Part of the County should undertake to decide a distance **this very Controversy at** springfield moun- **** tains. without any hearing at all of any
 
 ______________________________________________
 
-but a few of one side & without
-
-any joint Reference or any opportunity
-
-for either.
+but a few of one side & without any joint Reference or any opportunity for either.

@@ -182,9 +182,11 @@ Generator domyślnie:
 - zapisuje przypisy jako Markdown `[^NNN-noteX]`. Identyfikator obejmuje numer
   pliku źródłowego, ponieważ numery drukowane mogą się powtarzać.
 - rozpoznaje długie sekwencje krótkich elementów `<p>` odpowiadających fizycznym
-  wierszom rękopisu i scala je w akapity: usuwa wyłącznie dzielenie wyrazu na
-  końcu wiersza, przenosi kotwicę przypisu z wnętrza takiego wyrazu za jego
-  scalaną postać oraz zachowuje przypisy, separatory rękopisu i numery stron.
+  wierszom rękopisu i scala je w akapity: usuwa dzielenie wyrazu na końcu
+  wiersza, także bez widocznego łącznika wyłącznie wtedy, gdy lokalny słownik
+  rozpoznaje połączoną formę; przenosi kotwicę przypisu z wnętrza takiego wyrazu
+  za jego scalaną postać oraz zachowuje przypisy, separatory rękopisu i numery
+  stron.
 
 Nie zamieniaj znaczników stron na nagłówki i nie kasuj przypisów. Jeżeli definicja
 przypisu w zapisanym HTML jest pusta, zachowaj ją z jawną adnotacją o braku

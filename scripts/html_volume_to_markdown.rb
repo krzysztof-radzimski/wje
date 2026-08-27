@@ -9,10 +9,15 @@ require "cgi"
 require "fileutils"
 require "nokogiri"
 require "pathname"
+require "set"
 
 CONTENT_START = "<!-- START OF CONTENT AREA -->"
 CONTENT_END = "<!-- END OF CONTEXT AREA, WE HOPE-->"
 SKIPPED_TAGS = %w[script style img input form].freeze
+LOCAL_WORD_LIST_PATHS = %w[
+  /usr/share/dict/words
+  /usr/share/dict/web2
+].freeze
 
 def image_extension(path)
   signature = File.binread(path, 512)
@@ -199,32 +204,95 @@ def append_paragraph(output, text)
 end
 
 # WJE Online sometimes records a manuscript transcription one physical line at
-# a time, with every line wrapped in its own <p>.  Rendering those elements as
+# a time, with every line wrapped in its own <p>. Rendering those elements as
 # separate Markdown paragraphs makes the text look like unprocessed OCR.
-# Reflow only a strong lineation signature (many very short direct paragraphs)
-# so ordinary prose pages retain their authored paragraph structure.
-def lineated_manuscript_container?(node)
-  return false unless node.name == "div"
-
-  paragraphs = node.element_children.select { |child| child.name == "p" }
-  return false if paragraphs.length < 20
-
-  lines = paragraphs.map { |paragraph| inline(paragraph).gsub(/[\t\r\n ]+/, " ").strip }
-                    .reject(&:empty?)
+def lineation_signature?(lines, minimum_short_ratio:, maximum_average_length: 75)
   return false if lines.length < 16
 
   average_length = lines.sum(&:length).fdiv(lines.length)
   short_lines = lines.count { |line| line.length <= 80 }
-  average_length <= 65 && short_lines.fdiv(lines.length) >= 0.9
+  # Pojedyncze dłuższe dopiski redakcyjne podnoszą średnią rękopiśmiennego
+  # zapisu w fizycznych wierszach. Nadal wymagamy, aby zdecydowana większość
+  # elementów była krótka, więc zwykłe akapity prozatorskie nie zostaną scalone.
+  average_length <= maximum_average_length && short_lines.fdiv(lines.length) >= minimum_short_ratio
+end
+
+# Returns the direct-<p> index at which a lineated transcription begins. A
+# saved page can start with a few editorial prose paragraphs before the
+# manuscript; preserve those paragraphs and reflow only the following run.
+def lineated_manuscript_start_index(node)
+  return false unless node.name == "div"
+
+  paragraphs = node.element_children.select { |child| child.name == "p" }
+  return nil if paragraphs.length < 20
+
+  paragraph_lines = paragraphs.map { |paragraph| inline(paragraph).gsub(/[\t\r\n ]+/, " ").strip }
+  lines = paragraph_lines.reject(&:empty?)
+  return nil if lines.length < 16
+
+  return 0 if lineation_signature?(lines, minimum_short_ratio: 0.9)
+
+  # A handful of editorial paragraphs can precede a lineated document. Limit
+  # this fallback to the opening twelve direct paragraphs and require a long
+  # prose boundary there; long manuscript lines later in the text must remain
+  # part of the flowing transcription.
+  prose_boundary = paragraph_lines.first(12).each_index.select do |index|
+    paragraph_lines[index].length > 100
+  end.max
+  return nil if prose_boundary.nil?
+
+  manuscript_lines = paragraph_lines[(prose_boundary + 1)..].reject(&:empty?)
+  return prose_boundary + 1 if lineation_signature?(manuscript_lines, minimum_short_ratio: 0.82)
+
+  # Notebook pages can contain frequent quotations, deletions and marginal
+  # insertions, which make their physical lines longer. This narrower branch
+  # remains limited to a manuscript after an editorial lead-in.
+  return prose_boundary + 1 if node["type"].to_s.casecmp?("notebook") &&
+                              lineation_signature?(
+                                manuscript_lines,
+                                minimum_short_ratio: 0.85,
+                                maximum_average_length: 85
+                              )
+
+  nil
 end
 
 def manuscript_divider?(text)
   visible = text.gsub(/\[\^[^\]]+\]/, "").strip
-  visible.match?(/\A(?:_{2,}|-{3,})(?:[[:space:]]+(?:_{2,}|-{3,}))*\z/)
+  visible.match?(/\A(?:_{2,}|-{3,}|\*{3,})(?:[[:space:]]+(?:_{2,}|-{3,}|\*{3,}))*\z/)
 end
 
 def terminal_hyphen_follows_strike?(node)
   node.inner_html.match?(%r{<span\b[^>]*style=["'][^"']*strike[^"']*["'][^>]*>.*?</span>\s*-\s*(?:<span\b[^>]*class=["'][^"']*fnote[^"']*["'][^>]*>.*?</span>)?\s*\z}im)
+end
+
+def local_word_dictionary
+  return @local_word_dictionary if defined?(@local_word_dictionary)
+
+  path = LOCAL_WORD_LIST_PATHS.find { |candidate| File.file?(candidate) }
+  @local_word_dictionary = Set.new
+  return @local_word_dictionary if path.nil?
+
+  File.foreach(path, chomp: true) do |word|
+    normalized = word.downcase
+    @local_word_dictionary << normalized if normalized.match?(/\A[[:alpha:]]+\z/)
+  end
+  @local_word_dictionary
+end
+
+# Some saved transcriptions divide a word across physical lines without a
+# visible hyphen (for example, "Con" + "vinced"). Rejoin only when the local
+# dictionary recognizes the combined form and at least one fragment is not a
+# standalone word. This avoids treating ordinary adjacent words as OCR splits.
+def unhyphenated_word_split?(stem, continuation)
+  left = stem[/([[:alpha:]]+)\z/, 1]
+  right = continuation && continuation[1]
+  return false unless left && right && right.match?(/\A[[:lower:]]/)
+  return false unless left.length >= 2 && (left.length >= 4 || right.length >= 4)
+
+  dictionary = local_word_dictionary
+  joined = "#{left}#{right}".downcase
+  dictionary.include?(joined) && !(dictionary.include?(left.downcase) && dictionary.include?(right.downcase))
 end
 
 def join_lineated_lines(previous, line, join_hyphenation: true)
@@ -239,10 +307,14 @@ def join_lineated_lines(previous, line, join_hyphenation: true)
   # between the two parts; put them after the rejoined word rather than in its
   # middle (for example, "Enlarg-[^n]" + "ing" -> "Enlarging[^n]").
   footnotes = previous[/((?:\[\^[^\]]+\])*)\z/, 1].to_s
-  stem = footnotes.empty? ? previous : previous[0...-footnotes.length]
+  stem = (footnotes.empty? ? previous : previous[0...-footnotes.length]).rstrip
   continuation = line.match(/\A([[:alpha:]]+)(.*)\z/)
   if join_hyphenation && stem.match?(/(?<!-)-\z/) && continuation
     return "#{stem[0...-1]}#{continuation[1]}#{footnotes}#{continuation[2]}"
+  end
+  if unhyphenated_word_split?(stem, continuation)
+    left = stem[/([[:alpha:]]+)\z/, 1]
+    return "#{stem[0...-left.length]}#{left}#{continuation[1]}#{footnotes}#{continuation[2]}"
   end
 
   separator = line.match?(/\A[,:;.!?%\)\]\}]/) || previous.end_with?("(", "[", "{", "/") ? "" : " "
@@ -298,9 +370,10 @@ def render_lineated_paragraphs(paragraphs, output, heading_count)
   heading_count
 end
 
-def render_lineated_container(node, output, heading_count)
+def render_lineated_container(node, output, heading_count, lineated_start)
   children = node.children
   index = 0
+  paragraph_index = 0
   while index < children.length
     child = children[index]
     unless child.element? && child.name == "p"
@@ -321,7 +394,16 @@ def render_lineated_container(node, output, heading_count)
         break
       end
     end
-    heading_count = render_lineated_paragraphs(paragraphs, output, heading_count)
+
+    preserved_count = [[lineated_start - paragraph_index, 0].max, paragraphs.length].min
+    paragraphs.take(preserved_count).each do |paragraph|
+      heading_count = render(paragraph, output, heading_count)
+    end
+    lineated_paragraphs = paragraphs.drop(preserved_count)
+    unless lineated_paragraphs.empty?
+      heading_count = render_lineated_paragraphs(lineated_paragraphs, output, heading_count)
+    end
+    paragraph_index += paragraphs.length
   end
   heading_count
 end
@@ -575,8 +657,8 @@ def render(node, output, heading_count)
     return heading_count
   end
 
-  if lineated_manuscript_container?(node)
-    return render_lineated_container(node, output, heading_count)
+  if (lineated_start = lineated_manuscript_start_index(node))
+    return render_lineated_container(node, output, heading_count, lineated_start)
   end
 
   node.children.each { |child| heading_count = render(child, output, heading_count) }

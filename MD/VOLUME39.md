@@ -1,6 +1,8 @@
 ## Documents Relating to the "Bad Book" Case Bad Book Case
 
-Jonathan EdwardsTHE BAD BOOK CONTROVERSY
+Jonathan Edwards
+
+THE BAD BOOK CONTROVERSY
 
 In the early months of 1744, Edwards learned that a number of young people of the parish had been circulating an illustrated book on midwivery amongst themselves, which, as Samuel Hopkins relates, "they improved to promote lascivious and obscene Discourse" amongst themselves. Specifically, young men who circulated the book "made sport" of young women in the vicinity, claiming to know about their anatomy, menstruation, and childbirth. In March, Edwards preached a sermon on Heb. 12:15-16 as a way of introducing the scandal to the church. At a meeting after the service, he laid the situation before the members and obtained permission to investigate the matter. A committee, consisting of some of the most prestigious men in town, was appointed to conduct the inquiry. Then Edwards reportedly read a list of suspects and witnesses that were to appear before the committee to testify. Hopkins states that the zeal with which the congregation approved the investigation turned to resentment against Edwards because of his failure to distinguish between the accused and the innocent; the sons and daughters of prominent families were thereby associated with those of low repute. By the time that the committee was to meet, many objected to the manner in which the case was being managed. "The Town," Hopkins writes, "was suddenly all on a Blaze."
 
@@ -316,7 +318,9 @@ Time & heard these things.
 
 ## Notes for a Council Meeting on the Case of Elisha Hawley and Martha Root, June 1749 Hawley-Root Case
 
-Jonathan EdwardsNotes for a Council Meeting on Elisha Hawley, June 1749
+Jonathan Edwards
+
+Notes for a Council Meeting on Elisha Hawley, June 1749
 
 In Northampton in 1748 and 1749, a case occurred involving Lieut. Elisha Hawley and Martha Root, who gave birth to twins out of wedlock, one of which died. In May 1748, Root received £155 from Hawley as a settlement. However, Edwards brought the issue before the church in an effort to force the two to marry, despite the fact that Root's parents did not want a marriage. Hawley refused to comply, and in August 1748 he was excommunicated. In response, with his older brother Joseph Hawley acting as his lawyer, Elisha called a council of ministers, which met in June 1749. The document was drafted by Edwards for this council.[^002-note1] It is also possible that Edwards resusitated his "Some Reasons, Briefly Hinted At," originally composed for the Eleazar King-Hannah Graves Case of 1731, for the Hawley-Root case.
 
@@ -348,7 +352,9 @@ That Lieut. Hawley's particular allegations against Martha Root be brought in to
 
 ## Questions for Young People Questions for Young People
 
-Jonathan EdwardsQUESTIONS FOR YOUNG PEOPLE
+Jonathan Edwards
+
+QUESTIONS FOR YOUNG PEOPLE
 
 Handwriting and ink suggest a date of the early to mid-1730s for this list of intricate, even daunting, questions, drawn from the Bible, for "young people," specifically, older boys and young men. Edwards numbered most of the entries, though left others unnumbered, possibly because he did not use them or considered them as part of or subsidiary to a preceding numbered entry. He crossed out entries as well, apparently indicating he had used them. In some cases he provided the answers, simply writing a scripture reference. Nearly all of the numbered entries have appended the name of a particular boy or young man who was assigned the question. Edwards probably met with them as a group, possibly at his house, for catechizing and Bible study. In all, 66 names appear. The 61 who can be identified were born between 1712 and 1728, with the bulk coming in the years from 1716-1721. It is possible that Edwards had begun drawing up this list early in his pastorate and did not write in the names until later, since at least some of them appear to be added later. An issue revolving around this list of questions is how old the boys or young men were when Edwards was tutoring them, before or after their admission into the church, which in Northampton usually took place around age 14. Alternatively, the group may have consisted of members and non-members alike, since at least two young men, Elisha Clark and Amos Negro, joined, respectively, when Stoddard was still keeping records and in the first year of Edwards's pastorate, and at least one boy, Simeon Root, never joined the Northampton church. Given that most of the boys mentioned joined the church during the revival of 1734-35, it seems likely that the names were inscribed, and some of the later questions drawn up, during or shortly following that event.
 
@@ -1188,7 +1194,9 @@ Daniel Lyman's Question: I Chron. 3:16, etc., 9th chapter at beginning, with mar
 
 ## "The Theological Questions of President Edwards, Senior, and Dr. Edwards, His Son" 1822 Questions
 
-Jonathan Edwards, Jonathan Edwards, Jr.The Theological Questions of President Edwards, Senior, and Dr. Edwards, His Son
+Jonathan Edwards, Jonathan Edwards, Jr.
+
+The Theological Questions of President Edwards, Senior, and Dr. Edwards, His Son
 
 This 1822 pamphlet contains two series of questions for which manuscript no longer exists. We can only speculate, therefore, if Edwards himself or one or more of his students, such as Hopkins, had compiled the list, and why the list existed. Probably they were assigned to students who came to study with the elder and younger Edwards (when the "Questions" were reprinted in *Bibliotheca Sacra* in 1882 [vol. 39], the title indicated they were "for their pupils in theology"). Alternatively, they could have been used when examining ministerial candidates. Starting with the nature of God and ending with the nature of the church, the questions reflect the structure of a systematic theology, as laid down most basically in the Westminster Confession. While Edwards Senior had 90 questions, Edwards Junior's tally rose to 313, incorporating many questions from his father's list but adding others that pertained to late eighteenth-century controversies and issues dear to the New Divinity.
 
@@ -2050,7 +2058,9 @@ By JONATHAN EDWARDS, D.D. President of Union College, Schenectady. He died 1st A
 
 ## Questions on Theological Subjects Questions on Theological Subjects
 
-Jonathan EdwardsQuestions on Theological Subjects
+Jonathan Edwards
+
+Questions on Theological Subjects
 
 This is list of 53 problems in doctrine and theology, set down in a notebook constructed no earlier than September 1746. There is a possible relation between this list and that published in 1822 as *The Theological Questions of President Edwards Senior*. Edwards may have used both lists to tutor students he had taken into his home.
 
@@ -2174,7 +2184,9 @@ Is not there reason to think that those that live and die in sin under means, ar
 
 ### 1003.SpeechtoMohawks (9_51).doc trans
 
-Jonathan Edwardsspeech to the Mohawks
+Jonathan Edwards
+
+speech to the Mohawks
 
 __________________
 
@@ -2274,7 +2286,9 @@ ____________
 
 ## Drafts of Professions of Faith Drafts of Professions
 
-Jonathan EdwardsDrafts of Professions of Faith
+Jonathan Edwards
+
+Drafts of Professions of Faith
 
 During the contentious period of the qualifications controversy, Edwards composed, for the benefit of the Northampton Church Committee, sample professions that he would accept from applicants for full membership. A couple of these, rather brief, he included in the preface to the *Farewell Sermon* (and in his "Narrative of the Communion Controversy"). During this same time or shortly after--perhaps at the beginning of the Stockbridge period--he drew up lengthier drafts, one in its entirety, followed by four revised or added portions, which are presented here. After the first and longest addition Edwards inscribed the names of two Indians, apparently to indicate that this was part of the profession they submitted or agreed to. Whether they had any part in composing the text is a matter of speculation, though the changes in this version are minimal.
 
@@ -2350,7 +2364,9 @@ And[^007-note16] I now profess, that so far as I know my own heart, I have from 
 
 ## “Account of Capt. Kellogg's Treatment of Mr. Hollis’ Scholars” Acct of Kelloggs Treatmt
 
-Jonathan Edwards"Account of Capt. Kelloggs Treatmt of Mr. Hollis's Scholars." Rough notes by JE taken from three Indians, ANTS, f. 1752.7; Draft, ANTS. Possibly meant for Isaac Hollis in England (see JE's concluding footnote).
+Jonathan Edwards
+
+"Account of Capt. Kelloggs Treatmt of Mr. Hollis's Scholars." Rough notes by JE taken from three Indians, ANTS, f. 1752.7; Draft, ANTS. Possibly meant for Isaac Hollis in England (see JE's concluding footnote).
 
 [^008-note1]
 
@@ -2374,7 +2390,7 @@ Hear their Catechism on saturday night
 
 talked to 'em once
 
-=====================
+\=====================
 
 Clothing two Ozenbrigs shirts
 
@@ -2396,7 +2412,7 @@ The Blankets they wore were their Covering. very Cold a nights Could but Just Li
 
 afterwards each one a Blanket the same they were
 
-========================
+\========================
 
 Har Victuals Hardly ever eat bread their somp instead of Bread with Pork & Beaf
 
@@ -2506,169 +2522,11 @@ ____________________________________________________________________
 
 ## Account of Stockbridge Female Indian Boarding School Abigail Dwight Indian School Account edited
 
-Abigail Williams Sargeant DwightAbigail Dwight, Account of Female Indian Boarding School, n.d., frag. One folio leaf, MHS, Sedgwick Papers, MS N-851.2, Box 3.
+Abigail Williams Sargeant Dwight
 
-aft after I received a Coppy of ye Corperations Vote which July 1751 respecting
+Abigail Dwight, Account of Female Indian Boarding School, n.d., frag. One folio leaf, MHS, Sedgwick Papers, MS N-851.2, Box 3.
 
-Bo a female Boarding School - & desireing me to undertake ye Charge of
-
-there instruction & maintenance a Coppy of which vote ye Honbl Andrew Olver Esq
-
-was pleasd to transmit to me in June 1752 – I had heard of it some
-
-months Before – therefore had it proposed to our Indians in a Body wether
-
-they a ye Revd Mr Edwards had recomended it to me to Send a Numbr of ye girls
-
-abroad for a few months to learn ye English Language, & manners, in & as it
-
-might make it more Convenient & Eligable in setting up ye School to have
-
-a few of em, thus prepared to be a lead to ye rest &c – in decembr 1751 two of ye
-
-ye Genm of ye Generll Courts Committe Being present – this Committe I understood
-
-Had directions to inspect every Prudential relative to ye two Boarding Schools
-
-I proposed to have ye indians Called together Both ye Stockbridge [-] tribe &
-
-ye mohauks & yt should Confer with em on ye Head of [] of & that they
-
-should Communicate fully to em. Corperation together with ye design of Gove ye
-
-Goverment respect indian Children & those Genm thot it very proper & indeed
-
-there Buisiness – accordingly treated with ye mohauks [----] & Stockbridge
-
-indians – who Expected there Children should also have ye offer at least a few of em
-
-ye Stockbridg indians made many objection - &c &c - &c &c &c - &c ---
-
-finally agreed [^009-note1] of there Childn should go abroad – which accordingly I prepard
-
-& sett forward with all ye Expedition I could – ye mohauks [ ] Sending there
-
-Children – But said if ye female House was Built & when it was they would Send
-
-Some of them – one women Brought me her dauter for [ ] which I took & kept
-
-a month – she was Contented – improvd well in reading & Business But was taken
-
-Sick at a months end and went Home – they were often with me Both Stockbridge
-
-In - & mohauks to know when ye female school House was to go up – wanted
-
-much to have it – Said there School Chldren should Come – in aprill I
-
-wrote to Andrew Oliver Esq. in answer to his letter of march - & Excepted ye [^009-note2]
-
-of ye scool - & proposed to go on on ye Buisness as Son as ye House was got
-
-in readiness - - But from one unhappy Circumstance or other – ye Building
-
-of this female Schoole House was neglected not only from month to month
-
-but from year to year ever since to this day – which has renderd it utterly
-
-impossible fo rme & I apprehend any one Else so much as to give Being
-
-to yt School – of So much importance to ye whole Scheme of indian
-
-affairs – However Being unwilling to Neglect any thing yt Could Be thought
-
-proper for me to do under these disadvantages – I proposed to Capt M Ke
-
-& Mr A- to recomnd – to y ye mohauks to lend a few of there Children
-
-to be taken in to my House – But for a trial – but instead of yt Mrs
-
-Ashley Said – She Could teach ‘em as well as I - & I Suppose they
-
-gave her full Credit – Cap- K. used- his utmost endeavours
-
-through ye Sumer - & fall to incourage ‘em to leve there parent
-
-& ye parent to part with there Children – But to no purpose – they [^009-note3]
-
-Sayd it was time anouh when ye House was Built & yt Mrs Ashley
-
-Could teach em. – they did not loe to leve Home untill they were a
-
-little more used – to ye English – upon this Cap M K- very Earnestly
-
-recomended to me to Come go to ye Boarding School & instruct ye Children
-
-there – Cultivate an aquaintance with ‘em. & thot yt might Be not only
-
-a very probably Step toward Lay a foundation for Setting up this School
-
-But ye only way as He supposed in which any person Could gain a
-
-willingness in there minds to accept of it att all in Such Sort as should
-
-finally turn out to any tollerable advantage att all – well on good advice I
-
-went to ye Boarding School – there took my lodgings – on ye Brook[?] of Jan
-
-ye people one & all made me a very Hearty welcome – sent 10 Children to me to Be
-
-taught to read &c Beside 2 married women I gave Constant attendance & spent
-
-my whole time untill ye 9th of febrauary when ye House was Consumed By fire when Abt
-
-18 return for a week – spent most of my time untill ye 12 of march – the ye Col went
-
-who together with me spent ye whole of our time there untill ye 23d of may then
-
-returned Home – instructed 10 to 12 Children from ye first of my going there [^009-note4]
-
-in January to ye 10 of apprill when ye onoquago famelys went of – which included all
-
-ye Ch Indian Pupils Except 8 wh of ye Coneingo tribe which I gave dayly
-
-attendane too untill I came – away – ye Stockbridge indians [ ] ye Chil-
-
-dren of Stockbride I h agreable to vote of ye honbl Commisioners in recd
-
-their letter I sent for Benjamin there Chief – Communicated to Him the
-
-Commisioners last vote – talked very largely on ye affair – He Sayd
-
-many things uppon ye whole Sayd – He was unwilling to send his own Child
-
-therefore Could not recomend it to His Bretheren of ye Town to send
-
-any of theirs – I [-]told im I was far fromBeing willing
-
-to Be a Hindrance to ye afair if I could not Leave it [-] querd
-
-not
-
-wether He would Chuse to have somebody other person imployed & sent by ye
-
-Commisioners – as He had profesed a great likeing to ye thing – He sayd no
-
-if they sent 10 persons He would not take one step toward promoting of [^009-note5]
-
-I asked Him if He Could not trust there Children with there [^009-note6]
-
-[ ] Schoolmaster – provided they were employed He Sayed no – for ye
-
-same reason He would not promote it Now – He would not promote it
-
-in any shape – He further Sayd – ye thing He liked well had Hoped
-
-great & good things would Come of it – but there so much Noise & Contention[?]
-
-in ye town – yt He Could not act without making differently & untill
-
-these jumbles were settled He Could nor would do nothing att all &
-
-yt it was all owing to yt & nothing Else – yt 10 or 20 Children might stood
-
-ready to Delver em selve up to Be Schoold if He Could Say ye word
-
-Notes
+aft after I received a Coppy of ye Corperations Vote which July 1751 respecting Bo a female Boarding School - & desireing me to undertake ye Charge of there instruction & maintenance a Coppy of which vote ye Honbl Andrew Olver Esq was pleasd to transmit to me in June 1752 – I had heard of it some months Before – therefore had it proposed to our Indians in a Body wether they a ye Revd Mr Edwards had recomended it to me to Send a Numbr of ye girls abroad for a few months to learn ye English Language, & manners, in & as it might make it more Convenient & Eligable in setting up ye School to have a few of em, thus prepared to be a lead to ye rest &c – in decembr 1751 two of ye ye Genm of ye Generll Courts Committe Being present – this Committe I understood Had directions to inspect every Prudential relative to ye two Boarding Schools I proposed to have ye indians Called together Both ye Stockbridge [-] tribe & ye mohauks & yt should Confer with em on ye Head of [] of & that they should Communicate fully to em. Corperation together with ye design of Gove ye Goverment respect indian Children & those Genm thot it very proper & indeed there Buisiness – accordingly treated with ye mohauks [----] & Stockbridge indians – who Expected there Children should also have ye offer at least a few of em ye Stockbridg indians made many objection - &c &c - &c &c &c - &c --- finally agreed [^009-note1] of there Childn should go abroad – which accordingly I prepard & sett forward with all ye Expedition I could – ye mohauks [ ] Sending there Children – But said if ye female House was Built & when it was they would Send Some of them – one women Brought me her dauter for [ ] which I took & kept a month – she was Contented – improvd well in reading & Business But was taken Sick at a months end and went Home – they were often with me Both Stockbridge In - & mohauks to know when ye female school House was to go up – wanted much to have it – Said there School Chldren should Come – in aprill I wrote to Andrew Oliver Esq. in answer to his letter of march - & Excepted ye [^009-note2] of ye scool - & proposed to go on on ye Buisness as Son as ye House was got in readiness - - But from one unhappy Circumstance or other – ye Building of this female Schoole House was neglected not only from month to month but from year to year ever since to this day – which has renderd it utterly impossible fo rme & I apprehend any one Else so much as to give Being to yt School – of So much importance to ye whole Scheme of indian affairs – However Being unwilling to Neglect any thing yt Could Be thought proper for me to do under these disadvantages – I proposed to Capt M Ke & Mr A- to recomnd – to y ye mohauks to lend a few of there Children to be taken in to my House – But for a trial – but instead of yt Mrs Ashley Said – She Could teach ‘em as well as I - & I Suppose they gave her full Credit – Cap- K. used- his utmost endeavours through ye Sumer - & fall to incourage ‘em to leve there parent & ye parent to part with there Children – But to no purpose – they [^009-note3] Sayd it was time anouh when ye House was Built & yt Mrs Ashley Could teach em. – they did not loe to leve Home untill they were a little more used – to ye English – upon this Cap M K- very Earnestly recomended to me to Come go to ye Boarding School & instruct ye Children there – Cultivate an aquaintance with ‘em. & thot yt might Be not only a very probably Step toward Lay a foundation for Setting up this School But ye only way as He supposed in which any person Could gain a willingness in there minds to accept of it att all in Such Sort as should finally turn out to any tollerable advantage att all – well on good advice I went to ye Boarding School – there took my lodgings – on ye Brook[?] of Jan ye people one & all made me a very Hearty welcome – sent 10 Children to me to Be taught to read &c Beside 2 married women I gave Constant attendance & spent my whole time untill ye 9th of febrauary when ye House was Consumed By fire when Abt 18 return for a week – spent most of my time untill ye 12 of march – the ye Col went who together with me spent ye whole of our time there untill ye 23d of may then returned Home – instructed 10 to 12 Children from ye first of my going there [^009-note4] in January to ye 10 of apprill when ye onoquago famelys went of – which included all ye Ch Indian Pupils Except 8 wh of ye Coneingo tribe which I gave dayly attendane too untill I came – away – ye Stockbridge indians [ ] ye Children of Stockbride I h agreable to vote of ye honbl Commisioners in recd their letter I sent for Benjamin there Chief – Communicated to Him the Commisioners last vote – talked very largely on ye affair – He Sayd many things uppon ye whole Sayd – He was unwilling to send his own Child therefore Could not recomend it to His Bretheren of ye Town to send any of theirs – I [-]told im I was far fromBeing willing to Be a Hindrance to ye afair if I could not Leave it [-] querd not wether He would Chuse to have somebody other person imployed & sent by ye Commisioners – as He had profesed a great likeing to ye thing – He sayd no if they sent 10 persons He would not take one step toward promoting of [^009-note5] I asked Him if He Could not trust there Children with there [^009-note6] [ ] Schoolmaster – provided they were employed He Sayed no – for ye same reason He would not promote it Now – He would not promote it in any shape – He further Sayd – ye thing He liked well had Hoped great & good things would Come of it – but there so much Noise & Contention[?] in ye town – yt He Could not act without making differently & untill these jumbles were settled He Could nor would do nothing att all & yt it was all owing to yt & nothing Else – yt 10 or 20 Children might stood ready to Delver em selve up to Be Schoold if He Could Say ye word Notes
 
 [^009-note1]: "Possibly shorthand for “some”?"
 
@@ -2684,243 +2542,33 @@ Notes
 
 ## Meeting of Northampton First Precinct, October 19, 1749 N'ton 1st Precinct 10-19-49
 
-Samuel MatherNorthampton First Parish Meeting, 10\19\49. One leaf. In Samuel Mather's hand. BRBL, f. 1341.
+Samuel Mather
 
-At a Legal Meeting of the Inhabitants of the
-
-first Parish or Precinct In Northampton on the 19th
-
-day of Octr Anno Domini 1749.
-
-The Honble Ebenezer Pomroy Esqr Was Chosen
-
-Modr
-
-Then proceeded to the Consideration of the Articles Inser-
-
--ted in the Warrant, and after Considerable debate thereon
-
-The following Question was put Viz
-
-Whether the first in Northampton, will desire the
-
-Revd Mr Jonathan Edwards, to preach his principles, that
-
-he hath Endeavor'd to maintain, in his late Book, with
-
-respect to the admission of members to full Communion
-
-Standing in the Church of Christ, and it passed in the Ne-
-
--gative.
-
-Then the meeting of the first Precinct in Northampton
-
-was adjourned to Thursday, the Second day of Novr Next
-
-At the Town House in Northampton Aforesd at nine of
-
-the Clock in the forenoon.
-
-Attest. Ebenezer Pomroy Modr
-
-Copy Examined Pr Samll Mather Clerk of the first
-
-Precinct in Northampton
+Northampton First Parish Meeting, 10\19\49. One leaf. In Samuel Mather's hand. BRBL, f. 1341. At a Legal Meeting of the Inhabitants of the first Parish or Precinct In Northampton on the 19th day of Octr Anno Domini 1749. The Honble Ebenezer Pomroy Esqr Was Chosen Modr Then proceeded to the Consideration of the Articles Inser- -ted in the Warrant, and after Considerable debate thereon The following Question was put Viz Whether the first in Northampton, will desire the Revd Mr Jonathan Edwards, to preach his principles, that he hath Endeavor'd to maintain, in his late Book, with respect to the admission of members to full Communion Standing in the Church of Christ, and it passed in the Ne- -gative. Then the meeting of the first Precinct in Northampton was adjourned to Thursday, the Second day of Novr Next At the Town House in Northampton Aforesd at nine of the Clock in the forenoon. Attest. Ebenezer Pomroy Modr Copy Examined Pr Samll Mather Clerk of the first Precinct in Northampton
 
 ## Meeting of Northampton First Precinct, November 2, 1749 N'ton 1st Precinct 11-2-49
 
-Samuel MatherNorthampton First Precinct Meeting, 11\2\49. One leaf. In hand of Samuel Mather. BRBL, f. 1342.
+Samuel Mather
 
-At a Legal Meeting of the Inhabitants of the first
-
-Precinct In Northampton (by Adjournment) Novr
-
-2d 1749.
-
-Whereas the Revd Jonathan Edwards, by his late Book
-
-hath Endeav'd to defend and maintain an Opinion and
-
-principle Contrary to his own practice and the principle &
-
-practice of the venerable and Learned Mr Stoddard, our
-
-late minister, with respect to the admission of members
-
-in full Standing, in the Church of Christ, to the great Grief
-
-and dissatisfaction of the first Church & the Inhabitants of
-
-Sd Precinct: and after humble Supplications to Almighty
-
-God, that he would have mercy on us, and lead, Guide
-
-and direct Us into the knowledge of the truth, and that
-
-he would in his Infinite wisdom and goodness, So order
-
-and Over Rule his dispensations, as to Make them the
-
-Means of Reforming Us, and of Confirming & Establishing
-
-us in the truth, and the advancing the Kingdom of our
-
-Lord and Saviour Jesus Christ, the great Head of the Church,
-
-we the Inhabitants of Sd Precinct on the day abovesd met
-
-and After long debate on the affair: the following question
-
-was put viz
-
-Whether the first Precinct will come into the opinion
-
-and principle which the Revd Mr Jonathan Edwards hath
-
-advanced, and Endeav'd to maintain in his late Book
-
-contrary to his own practice, and Mr Stoddards practice and
-
-principles, with respect to the admission of members to
-
-full Communion in the Christian Church and it passed in the
-
-Negative.
-
-At the Same time voted to Choose a Committee to Con Confer
-
-with the Revd Mr Jonathan with respect to this affair and
-
-to devise or Concert what proper methods Shall be taken
-
-to preserve the peace, Unity & Comfort of this Church and
-
-precinct; and to put an end to the Contraversy, Now
-
-Subsisting, between minister and people with respect
-
-to their different Sentiments in the affair aforesd.
-
-the Committee Chosen were Ebenr Pomroy, Esqr Deacon Jno
-
-Clark, Samuel Mather, Mr Joseph Hawley, Lt Noah
-
-Wright, Sergt Joseph Wright, Deacn Noah Cook, Majr Seth
-
-Pomroy, Sergt Ebenezer Hunt; they to make Report to
-
-the first Precinct In Northampton, on the 9th day of
-
-Novr Currt, to which day, this meeting is adjourned
-
-(turn over)
-
-at one of the Clock in the After Noon at the Town [^011-note1]
-
-House in Northampton Aforesd.
-
-Attest, Ebenr Pomroy modr
-
-Copy Examin'd Pr Samll Mather Clerk of the first
-
-Precinct in Northampton
+Northampton First Precinct Meeting, 11\2\49. One leaf. In hand of Samuel Mather. BRBL, f. 1342. At a Legal Meeting of the Inhabitants of the first Precinct In Northampton (by Adjournment) Novr 2d 1749. Whereas the Revd Jonathan Edwards, by his late Book hath Endeav'd to defend and maintain an Opinion and principle Contrary to his own practice and the principle & practice of the venerable and Learned Mr Stoddard, our late minister, with respect to the admission of members in full Standing, in the Church of Christ, to the great Grief and dissatisfaction of the first Church & the Inhabitants of Sd Precinct: and after humble Supplications to Almighty God, that he would have mercy on us, and lead, Guide and direct Us into the knowledge of the truth, and that he would in his Infinite wisdom and goodness, So order and Over Rule his dispensations, as to Make them the Means of Reforming Us, and of Confirming & Establishing us in the truth, and the advancing the Kingdom of our Lord and Saviour Jesus Christ, the great Head of the Church, we the Inhabitants of Sd Precinct on the day abovesd met and After long debate on the affair: the following question was put viz Whether the first Precinct will come into the opinion and principle which the Revd Mr Jonathan Edwards hath advanced, and Endeav'd to maintain in his late Book contrary to his own practice, and Mr Stoddards practice and principles, with respect to the admission of members to full Communion in the Christian Church and it passed in the Negative. At the Same time voted to Choose a Committee to Con Confer with the Revd Mr Jonathan with respect to this affair and to devise or Concert what proper methods Shall be taken to preserve the peace, Unity & Comfort of this Church and precinct; and to put an end to the Contraversy, Now Subsisting, between minister and people with respect to their different Sentiments in the affair aforesd. the Committee Chosen were Ebenr Pomroy, Esqr Deacon Jno Clark, Samuel Mather, Mr Joseph Hawley, Lt Noah Wright, Sergt Joseph Wright, Deacn Noah Cook, Majr Seth Pomroy, Sergt Ebenezer Hunt; they to make Report to the first Precinct In Northampton, on the 9th day of Novr Currt, to which day, this meeting is adjourned (turn over) at one of the Clock in the After Noon at the Town [^011-note1] House in Northampton Aforesd. Attest, Ebenr Pomroy modr Copy Examin'd Pr Samll Mather Clerk of the first Precinct in Northampton
 
 [^011-note1]: **marginal.** [v.]
 
 ## Meeting of Northampton First Precinct, November 6, 1749 N'ton 1st Precinct 11-6-49
 
-AnonymousNorthampton First Precinct Report of Nov. 6, 1748. ANTS, Sereno Dwight copy of "Narrative of Communion Controversy," p. 17. Printed in Dwight ed., 1:322.
+Anonymous
 
-"At a meeting of the Committee chosen by the first Precinct
+Northampton First Precinct Report of Nov. 6, 1748. ANTS, Sereno Dwight copy of "Narrative of Communion Controversy," p. 17. Printed in Dwight ed., 1:322. "At a meeting of the Committee chosen by the first Precinct "of Northampton to concert what measures are proper for "said Precinct to take in order to issue the dispute "between the Rev. Mr. Edwards minister of said Precinct "and the Precinct, respecting the admission of persons to complete "standing in the Christian Church said Committee "determined to report that they judge that it is expedi= "ent that the Precinct endeavour that there may be "a meeting of the Church in said Precinct to see if the "Church will apply to some of the neighbouring "ministers for their advice & counsel respecting measures "to be taken by the Church in the said affair; which "application to the ministers aforesaid said Committee "judge the best expedient in the present difficulty "which conclusion the Committee came into unani= "mously, having previously conferred with Mr. Edwards "that they might the better determine what would "conduce to the end aforesaid. Ebenezer Hunt "Ebenezer PomeroyNoah CookSeth Pomeroy "John Clark Samuel MatherJoseph Hawley "Joseph Wright Noah Wright "Northampton, Nov. 6, 1749." [^012-note1]
 
-"of Northampton to concert what measures are proper for
-
-"said Precinct to take in order to issue the dispute
-
-"between the Rev. Mr. Edwards minister of said Precinct
-
-"and the Precinct, respecting the admission of persons to complete
-
-"standing in the Christian Church said Committee
-
-"determined to report that they judge that it is expedi=
-
-"ent that the Precinct endeavour that there may be
-
-"a meeting of the Church in said Precinct to see if the
-
-"Church will apply to some of the neighbouring
-
-"ministers for their advice & counsel respecting measures
-
-"to be taken by the Church in the said affair; which
-
-"application to the ministers aforesaid said Committee
-
-"judge the best expedient in the present difficulty
-
-"which conclusion the Committee came into unani=
-
-"mously, having previously conferred with Mr. Edwards
-
-"that they might the better determine what would
-
-"conduce to the end aforesaid. Ebenezer Hunt
-
-"Ebenezer PomeroyNoah CookSeth Pomeroy
-
-"John Clark Samuel MatherJoseph Hawley
-
-"Joseph Wright Noah Wright
-
-"Northampton, Nov. 6, 1749."
-
-[^012-note1]
-
-"At a meeting of the Committee, chosen by the first Precinct
-
-of Northampton, to concert what measures are proper for said
-
-Precinct to take, in order to issue the dispute, between the Rev.
-
-Mr. Edwards, minister of said Precinct, and the Precinct, respect-
-
-ing the admission of persons to complete standing in the Christian
-
-Church; said Committee determined to report, that they judge that
-
-it is expedient, that the Precinct endeavour that there may be a
-
-meeting of the Church in said Precinct, to see if the Church will
-
-apply to some of the neighbouring ministers, for their advice and coun-
-
-sel, respecting measures to be taken by the Church in the said af-
-
-fair; which application to the ministers aforesaid, said Committee
-
-jdge the best expedient in the present difficulty ; which conclu-
-
-sion the Committee came into unanimously, having previousl con-
-
-ferred with Mr. Edwards, that they might the better determine
-
-what would conduce to the end aforesaid.
-
-"Ebenezer Pomeroy, John Clark, Joseph Wright, Noah Cook,
-
-Samuel Mather, Noah Wright, Ebenezer Hunt, Seth Pomeroy,
-
-Joseph Hawley.
-
-"*Northampton, Nov.* 6, 1749."
+"At a meeting of the Committee, chosen by the first Precinct of Northampton, to concert what measures are proper for said Precinct to take, in order to issue the dispute, between the Rev. Mr. Edwards, minister of said Precinct, and the Precinct, respecting the admission of persons to complete standing in the Christian Church; said Committee determined to report, that they judge that it is expedient, that the Precinct endeavour that there may be a meeting of the Church in said Precinct, to see if the Church will apply to some of the neighbouring ministers, for their advice and counsel, respecting measures to be taken by the Church in the said affair; which application to the ministers aforesaid, said Committee jdge the best expedient in the present difficulty ; which conclusion the Committee came into unanimously, having previousl conferred with Mr. Edwards, that they might the better determine what would conduce to the end aforesaid. "Ebenezer Pomeroy, John Clark, Joseph Wright, Noah Cook, Samuel Mather, Noah Wright, Ebenezer Hunt, Seth Pomeroy, Joseph Hawley. "*Northampton, Nov.* 6, 1749."
 
 [^012-note1]: **marginal.** [Dwight ed., 1:322:]
 
 ## Meeting of Northampton First Precinct, November 8, 1744 N'ton 1st Precinct 11-8-44
 
-Samuel MatherNorthampton First Precinct Meeting, 11\8\44. One leaf. In hand of Samuel Mather, attested by John Stoddard. Mass. Hist. Soc., G.L. Paine Autograph Coll.
+Samuel Mather
+
+Northampton First Precinct Meeting, 11\8\44. One leaf. In hand of Samuel Mather, attested by John Stoddard. Mass. Hist. Soc., G.L. Paine Autograph Coll.
 
 At a Legal Meeting of the Inhabitants of the first Precinct
 
@@ -2960,85 +2608,15 @@ Test John Stoddard Modr
 
 ## Meeting of Northampton First Precinct, November 9, 1749 (1) N'ton 1st Precinct 11-9-49(1)
 
-Samuel MatherNorthampton First Precinct Meeting, 11\9\49. One leaf. In hand of Samuel Mather. BRBL, f. 1343.
+Samuel Mather
 
-At a Legal Meeting of the first Parish In
-
-Northampton (by adjournment) on the 9th day of
-
-Novr one of the Clock P.M. 1749.
-
-The Report of the Committee of the first Parish or Precinct
-
-in Northampton, Chosen and Appointed on the 2d day of
-
-Novr Currt to Confer with Mr Edwards to devise what
-
-measures are proper for Sd Parish or Precinct to take,
-
-in Order to Issue the dispute between the Revd Mr Jona-
-
--than Edwards, Minister of Precinct, and the Precinct,
-
-Respecting the admission of members to Compleat Standing
-
-In the Christian being read:
-
-The Question was put, whether the first Parish or Precinct,
-
-under our present difficulties, do think it be advisable,
-
-that We Apply to Some of the Neighbouring Ministers
-
-for their advice and Counsel respecting measures to be taken
-
-by the first Church and Precinct in the affair aforesd.
-
-Voted that the Precinct will desire Mr Edwards to Call a
-
-Church meeting, to determine in Sd Meeting by a Vote,
-
-1st whether there be not a dispute between Mr Edwards
-
-Pastor of the Church in Sd Precinct, and the Church, respecting
-
-the Question, he has Argued in his Book, last published;
-
-and if it Shall appear, that there is a dispute between
-
-him, and them, respecting the Question Aforesd
-
-Then 2dly to See if the Church will apply to Some Neigh-
-
--bouring ministers for their advice what Course the Church
-
-Shall take.
-
-Voted that the former Committee be Continued, and that
-
-Capt Roger Clap, Col Timo Dwight Lt John Lyman, Elezer
-
-King, Mr Jonathan Strong Mr preserved Clark Lt Jonathan Hunt
-
-Lt James Lyman, Capt Baker and Mr Josiah Parsons be
-
-added to them.
-
-Voted that if a Council be Called, the Precinct will pay
-
-all Necessary Charges of the Same.
-
-Then this meeting was adjourned to this day month at
-
-nine of the Clock in the forenoon At this place
-
-Atest Ebenezr Pomroy modr
-
-Copy Examined Pr Saml Mather Precinct Clerk
+Northampton First Precinct Meeting, 11\9\49. One leaf. In hand of Samuel Mather. BRBL, f. 1343. At a Legal Meeting of the first Parish In Northampton (by adjournment) on the 9th day of Novr one of the Clock P.M. 1749. The Report of the Committee of the first Parish or Precinct in Northampton, Chosen and Appointed on the 2d day of Novr Currt to Confer with Mr Edwards to devise what measures are proper for Sd Parish or Precinct to take, in Order to Issue the dispute between the Revd Mr Jona- -than Edwards, Minister of Precinct, and the Precinct, Respecting the admission of members to Compleat Standing In the Christian being read: The Question was put, whether the first Parish or Precinct, under our present difficulties, do think it be advisable, that We Apply to Some of the Neighbouring Ministers for their advice and Counsel respecting measures to be taken by the first Church and Precinct in the affair aforesd. Voted that the Precinct will desire Mr Edwards to Call a Church meeting, to determine in Sd Meeting by a Vote, 1st whether there be not a dispute between Mr Edwards Pastor of the Church in Sd Precinct, and the Church, respecting the Question, he has Argued in his Book, last published; and if it Shall appear, that there is a dispute between him, and them, respecting the Question Aforesd Then 2dly to See if the Church will apply to Some Neigh- -bouring ministers for their advice what Course the Church Shall take. Voted that the former Committee be Continued, and that Capt Roger Clap, Col Timo Dwight Lt John Lyman, Elezer King, Mr Jonathan Strong Mr preserved Clark Lt Jonathan Hunt Lt James Lyman, Capt Baker and Mr Josiah Parsons be added to them. Voted that if a Council be Called, the Precinct will pay all Necessary Charges of the Same. Then this meeting was adjourned to this day month at nine of the Clock in the forenoon At this place Atest Ebenezr Pomroy modr Copy Examined Pr Saml Mather Precinct Clerk
 
 ## Meeting of the Northampton First Precinct, November 9, 1749(2) N'ton 1st Precinct 11-9-49(2)
 
-Samuel MatherNorthampton Precinct Meeting, 11\9\49 (2). One half sheet. In hand of Samuel Mather. MS damage along right side; interpolations taken from previous report. BRBL, f. 1343.
+Samuel Mather
+
+Northampton Precinct Meeting, 11\9\49 (2). One half sheet. In hand of Samuel Mather. MS damage along right side; interpolations taken from previous report. BRBL, f. 1343.
 
 At a Legal meeting of the first Parish In Northampton
 
@@ -3090,119 +2668,9 @@ the first Precinct In Northampton
 
 ## Meeting of the Northampton First Precinct, December 1746 N'ton 1st Precinct 12-46
 
-Samuel Mather[?]Northampton First Precinct Meeting, 12/10 & 15/1746. One folio leaf. Probably in hand of Samuel Mather. Countersigned, "Precinct Votes / Dec. 1746." Presbyterian Historical Society, RG 332, f. 4. Ms. Ed 96.
+Samuel Mather[?]
 
-At a Legal Meeting of the Inhabitants of the first
-
-Precinct In Northampton on the 10th day of Decr Anno Do`m
-
-1746
-
-The Honble John Stoddard Esqr was Chosen Modr
-
-Then the Precinct Meeting was adjourned to One of the
-
-Clock in the After Noon.
-
-At which time the Precinct met, and a Letter being Communi-
-
-cated from the Revd Mr Jonathan Edwards, their Pastor
-
-Setting forth the Reasonableness of Setling or fixing his
-
-Sallary for the future, on the Consideration, that the
-
-bills of Credit have been fluctuating and Uncertain
-
-in their Value; and are Still depreciating and Sinking
-
-in their Value, whereby many mischiefs & Inconveniencies
-
-arise, together with many other Consideratiosn therin
-
-mentioned
-
-The first Precinct having Entred into the Consideration
-
-of the request of the Revd Mr Edwards and after Consi-
-
-derable thereon.
-
-The Question was put, whether the Precinct think it
-
-prudence to State or Fix his Sallary for the future, pro-
-
-vided they Can find a good Standard or Rule wherby
-
-to fix the Value of the bills, and it passed in the
-
-Negative.
-
-Then the Meeting of the first Precinct was adjourned
-
-to Monday Next the 15th day of Decr Currt at Nine
-
-of the Clock In the forenoon At the Town House in North-
-
-ampton. And the Committee of the first Precinct Are
-
-desired to Notify Mr Edwards of the Adjournment
-
-of this meeting that he may have Opportunity to
-
-offer what he thinks proper
-
-At a Legal Meeting of the first Precinct In North
-
--ampton met by adjournment this 15th day of Decr
-
-Anno Do`m 1746
-
-On a Motion made & Seconded tha the Vote Respec-
-
--ting the fixing Mr Edwards his Sallary provided a
-
-good Rule Could be found, Should be Reconsider'd
-
-and it was put to Vote but it was Not decided whether
-
-whether it passed In the affirmative or Negative
-
-turn over.
-
-Voted at the Same time to give the Revd Mr [^016-note1]
-
-Jonathan Edwards the Sum of Three Hundred and
-
-fifty Pound in Bills of Credit old Tenr for his Sallary
-
-the Year past, besides his Wood & the Improvement
-
-of One Half of the Sequestred Land, which he hath
-
-been Used to Improve in times past.
-
-Voted to give to the Revd Mr Edwards, (as an addition
-
-to his Sallary,) the Sum of One Hundred & fifty
-
-pounds in bills of Credit old Tenr.
-
-and it was also Voted that an ordinary Load of wood
-
-bro't to mr Edwards this winter be Valued at fifteen
-
-shillings pr Load & maide Choice of Lt John Lyman Lt
-
-Jonathn Hunt & Sergt Josiah Pomroy to take an account
-
-of the wood Bro't and to Estimate the Loads [--] in pro-
-
--portion to the price fixed for An Ordinary Load
-
-Test John Stoddard Modr
-
-We the Sub[^016-note2]
+Northampton First Precinct Meeting, 12/10 & 15/1746. One folio leaf. Probably in hand of Samuel Mather. Countersigned, "Precinct Votes / Dec. 1746." Presbyterian Historical Society, RG 332, f. 4. Ms. Ed 96. At a Legal Meeting of the Inhabitants of the first Precinct In Northampton on the 10th day of Decr Anno Do`m 1746 The Honble John Stoddard Esqr was Chosen Modr Then the Precinct Meeting was adjourned to One of the Clock in the After Noon. At which time the Precinct met, and a Letter being Communicated from the Revd Mr Jonathan Edwards, their Pastor Setting forth the Reasonableness of Setling or fixing his Sallary for the future, on the Consideration, that the bills of Credit have been fluctuating and Uncertain in their Value; and are Still depreciating and Sinking in their Value, whereby many mischiefs & Inconveniencies arise, together with many other Consideratiosn therin mentioned The first Precinct having Entred into the Consideration of the request of the Revd Mr Edwards and after Considerable thereon. The Question was put, whether the Precinct think it prudence to State or Fix his Sallary for the future, provided they Can find a good Standard or Rule wherby to fix the Value of the bills, and it passed in the Negative. Then the Meeting of the first Precinct was adjourned to Monday Next the 15th day of Decr Currt at Nine of the Clock In the forenoon At the Town House in Northampton. And the Committee of the first Precinct Are desired to Notify Mr Edwards of the Adjournment of this meeting that he may have Opportunity to offer what he thinks proper At a Legal Meeting of the first Precinct In North -ampton met by adjournment this 15th day of Decr Anno Do`m 1746 On a Motion made & Seconded tha the Vote Respec- -ting the fixing Mr Edwards his Sallary provided a good Rule Could be found, Should be Reconsider'd and it was put to Vote but it was Not decided whether whether it passed In the affirmative or Negative turn over. Voted at the Same time to give the Revd Mr [^016-note1] Jonathan Edwards the Sum of Three Hundred and fifty Pound in Bills of Credit old Tenr for his Sallary the Year past, besides his Wood & the Improvement of One Half of the Sequestred Land, which he hath been Used to Improve in times past. Voted to give to the Revd Mr Edwards, (as an addition to his Sallary,) the Sum of One Hundred & fifty pounds in bills of Credit old Tenr. and it was also Voted that an ordinary Load of wood bro't to mr Edwards this winter be Valued at fifteen shillings pr Load & maide Choice of Lt John Lyman Lt Jonathn Hunt & Sergt Josiah Pomroy to take an account of the wood Bro't and to Estimate the Loads [--] in pro- -portion to the price fixed for An Ordinary Load Test John Stoddard Modr We the Sub[^016-note2]
 
 [^016-note1]: **marginal.** [2]
 
@@ -3210,373 +2678,39 @@ We the Sub[^016-note2]
 
 ## Meeting of Northampton First Precinct, December 1749 N'ton 1st Precinct 12-49
 
-Samuel MatherNorthampton First Precinct Meetings, Dec. 1749. One folio leaf. In hand of Samuel Mather, attested by Ebenezer Pomeroy, Sr. Presbyterian Historical Society, RG 332, f. 4. Ms. Ed 96.
+Samuel Mather
 
-At a Legal Meeting of the first Precinct in Northampton
-
-(by adjournment) on the 5th day of Decr 1749.
-
-the meeting of the first Precinct in Sd Town was
-
-adjourned to Tuesday Next the at one of the Clock in the
-
-after Noon, then met and adjourned to Monday
-
-next the 18th day of this Instand Decr at one
-
-of the Clock in the after noon.
-
-At a Legal meeting of the first Precinct in Northampton
-
-(by adjournment) this 18th day of Decr Anno Domini.
-
-1749.
-
-Then made Choice of Lt Jno Lyman, Mr Noah
-
-Clark and Mr Ebenr Hunt a Committee, to provide
-
-a place for the Entertainment, of the Council, Agreed
-
-upon, by the first Church in Northampton the Revd Mr
-
-Jonathan Edwards to advise Us, how we Shall Conduct
-
-our Selves Under our present difficulties, the Sd
-
-Committee to adjust the Accompts that Shall arise by
-
-the Expences of the Council, and the Standing Committee
-
-of the first Precinct are desired to give orders to the Trea-
-
--surer of the first Precinct for the payment of the
-
-Same.
-
-Voted that, Majr Lyman of Suffield, be desired to Assist us
-
-in in Representing our Case, before the Council, and
-
-that Majr Seth Pomroy, Wait on Majr Lyman, and desire
-
-him to Come and assist advise & assist us, and that he
-
-be Suitably rewarded for his trouble.
-
-Also voted that Majr Pomroy be paid for his Journey to Suffield
-
-Then this meeting was adjourned to this day fortnight.
-
-Attest Ebenr Pomroy Modr
+Northampton First Precinct Meetings, Dec. 1749. One folio leaf. In hand of Samuel Mather, attested by Ebenezer Pomeroy, Sr. Presbyterian Historical Society, RG 332, f. 4. Ms. Ed 96. At a Legal Meeting of the first Precinct in Northampton (by adjournment) on the 5th day of Decr 1749. the meeting of the first Precinct in Sd Town was adjourned to Tuesday Next the at one of the Clock in the after Noon, then met and adjourned to Monday next the 18th day of this Instand Decr at one of the Clock in the after noon. At a Legal meeting of the first Precinct in Northampton (by adjournment) this 18th day of Decr Anno Domini. 1749. Then made Choice of Lt Jno Lyman, Mr Noah Clark and Mr Ebenr Hunt a Committee, to provide a place for the Entertainment, of the Council, Agreed upon, by the first Church in Northampton the Revd Mr Jonathan Edwards to advise Us, how we Shall Conduct our Selves Under our present difficulties, the Sd Committee to adjust the Accompts that Shall arise by the Expences of the Council, and the Standing Committee of the first Precinct are desired to give orders to the Trea- -surer of the first Precinct for the payment of the Same. Voted that, Majr Lyman of Suffield, be desired to Assist us in in Representing our Case, before the Council, and that Majr Seth Pomroy, Wait on Majr Lyman, and desire him to Come and assist advise & assist us, and that he be Suitably rewarded for his trouble. Also voted that Majr Pomroy be paid for his Journey to Suffield Then this meeting was adjourned to this day fortnight. Attest Ebenr Pomroy Modr
 
 ## Meeting of the Northampton First Precinct, December 7, 1749 N'ton 1st Precinct 12-7-49
 
-Ebenezer PomeroyNorthampton First Parish Meeting, 12/7/49. One leaf. BRBL, f. 1344.
+Ebenezer Pomeroy
 
-At a Meeting of a Commmtee of the first Church
-
-in Northampton chosen by the Sd Church, to devise (what)
-
-measures for the Church to take under their present Difficultys
-
-and to report to Sd Church at their next meeting.
-
-Said Commtee agreed to report yt they Judge it prudence and
-
-conducing to ye welfare of the Church. That a Council of five
-
-Churches in the County of Hampshire mutually Chosen by Mr
-
-Edwards and the Sd Church To consider and give their Judgment
-
-1st Whether the State of Affrs respecting ye controversy Subsisting
-
-between Mr Edwards and ye Church be ripe for ye calling of Coun=
-
-=cil to Judge whether Mr Edwards Shall be dismissed from His Pas=
-
-=toral office in Sd Church or not. Which if they Shall Judge in
-
-determine in ye Affirmative. Then.
-
-2dly To give their Judgment whether it be reasonable and best in this
-
-case and agreable to the Constitution of these Churches yt Mr
-
-Edwards Should be Allowed to go out of the County of Hampshire
-
-for ministers or Churches to be Some of the Members of (Such)
-
-a council for the purpose afore sd. when Such a Council Shall
-
-be called. But if they Shall think yt the State of affrs are not
-
-ripe for ye calling Such a council Then
-
-3dly To consider and Advise what course the Church Shall take to
-
-ripen affrs in Sd Church for Such a Council
-
-Northampton Decbr 7th 1749.
-
-The above is what the Commtee agreed to report to the
-
-Church at their next meeting
-
-Chairman
-
-Attt Ebenr Pomroy of the
-
-Commtee
+Northampton First Parish Meeting, 12/7/49. One leaf. BRBL, f. 1344. At a Meeting of a Commmtee of the first Church in Northampton chosen by the Sd Church, to devise (what) measures for the Church to take under their present Difficultys and to report to Sd Church at their next meeting. Said Commtee agreed to report yt they Judge it prudence and conducing to ye welfare of the Church. That a Council of five Churches in the County of Hampshire mutually Chosen by Mr Edwards and the Sd Church To consider and give their Judgment 1st Whether the State of Affrs respecting ye controversy Subsisting between Mr Edwards and ye Church be ripe for ye calling of Coun= =cil to Judge whether Mr Edwards Shall be dismissed from His Pas= =toral office in Sd Church or not. Which if they Shall Judge in determine in ye Affirmative. Then. 2dly To give their Judgment whether it be reasonable and best in this case and agreable to the Constitution of these Churches yt Mr Edwards Should be Allowed to go out of the County of Hampshire for ministers or Churches to be Some of the Members of (Such) a council for the purpose afore sd. when Such a Council Shall be called. But if they Shall think yt the State of affrs are not ripe for ye calling Such a council Then 3dly To consider and Advise what course the Church Shall take to ripen affrs in Sd Church for Such a Council Northampton Decbr 7th 1749. The above is what the Commtee agreed to report to the Church at their next meeting Chairman Attt Ebenr Pomroy of the Commtee
 
 ## Meeting of Northampton First Precinct, February 10, 1742 N'ton 1st Precinct 2-10-42
 
-Samuel MatherNorthampton First Precinct Meeting, 2/10/42. One folio leaf. In hand of Samuel Mather, attested by John Stoddard. Countersigned by Mather on back, "Votes of the first / Precinct In Northam- / -pton Feby 10th 1741/2," and in another hand, "first meeting of / the Precinct." Princeton University Library, Jonathan Edwards Collection.
+Samuel Mather
 
-At a Legal Meeting of the Inhabitants of the
-
-first Precinct In Northampton On Wednesday Feby
-
-10th Anno Domini 1741/2.
-
-The Honourable John Stoddard Esqr was Chosen moderr
-
-Then the Inhabitants of Sd Precinct proceeded to the
-
-Choice of Precincts officers.
-
-& Voted that the Selectmen or assessors Chosen at the
-
-Annual Town meeting in March last Shall be
-
-Assessors for Sd Precinct for the Year Currt
-
-voted also that the Selectmen, for the time being
-
-be a Committee to Call precinct meetings
-
-At the Same time made Choice of Saml Mather
-
-for Precinct Clerk & Majr Pumroy for Precinct
-
-Treasurer – and ----- Benjamin Layman
-
-& Collectors
-
-Preservd Bartlet
-
-Voted to give to the Revd Mr Jonathan Edwards
-
-the Sum of Three Hundred Pounds In Bills of Credit
-
-Old Tenor besides the Improvement of One half
-
-of the Sequestred Land in the Common field, for
-
-his Sallery the year past
-
-At the Same time Voted to find the Revd Mr Ed-
-
--wards his wood this year by Way of Rate &
-
-the assessors above mentioned are directed to make
-
-an Tax or Assessment to pay for the Same
-
-Test John Stoddard Modr
+Northampton First Precinct Meeting, 2/10/42. One folio leaf. In hand of Samuel Mather, attested by John Stoddard. Countersigned by Mather on back, "Votes of the first / Precinct In Northam- / -pton Feby 10th 1741/2," and in another hand, "first meeting of / the Precinct." Princeton University Library, Jonathan Edwards Collection. At a Legal Meeting of the Inhabitants of the first Precinct In Northampton On Wednesday Feby 10th Anno Domini 1741/2. The Honourable John Stoddard Esqr was Chosen moderr Then the Inhabitants of Sd Precinct proceeded to the Choice of Precincts officers. & Voted that the Selectmen or assessors Chosen at the Annual Town meeting in March last Shall be Assessors for Sd Precinct for the Year Currt voted also that the Selectmen, for the time being be a Committee to Call precinct meetings At the Same time made Choice of Saml Mather for Precinct Clerk & Majr Pumroy for Precinct Treasurer – and ----- Benjamin Layman & Collectors Preservd Bartlet Voted to give to the Revd Mr Jonathan Edwards the Sum of Three Hundred Pounds In Bills of Credit Old Tenor besides the Improvement of One half of the Sequestred Land in the Common field, for his Sallery the year past At the Same time Voted to find the Revd Mr Ed- -wards his wood this year by Way of Rate & the assessors above mentioned are directed to make an Tax or Assessment to pay for the Same Test John Stoddard Modr
 
 ## Meeting of Northampton First Precinct, March 14, 1748 N'ton 1st Precinct 3-14-48
 
-Samuel MatherNorthampton First Precinct Meeting, 3\14\48. One quarto leaf. In hand of Samuel Mather, signed by Ebenezer Pomeroy, Sr. Presbyterian Historical Society, RG 332, f. 4. Ms. Ed 96.
+Samuel Mather
 
-At a Legal meeting of the Inhabitants of the first Precinct In
-
-Northampton (by adjournment) on the 14th day
-
-of March Anno Domini. 1747/8.
-
-The Report of the Committee Appointed to Consider of the Settle–
-
--ment of the Revd Mr Jonathan Edwards his Salary being Read
-
-Again And After Considerable debate thereon,
-
-The Question was put whether the first Precinct in North-
-
-[hampton] did Acc Receive and Accept of the Report of Sd Committee
-
-as then Exhibited and it passed in the Affirmative by
-
-a Great Majority
-
-Also at the Same time voted it was votted that the prize
-
-of the Necessaries of Life which Are the Basis or foundation
-
-Upon which which the sum of Seven Hundred pounds to be
-
-Annually given is to be raised, Shall be determined at these
-
-times or seasons of the Year Annually, viz. Beef. Somtime in
-
-the fall of the Year, and, wheat, Rhy, Indian corn & Pork
-
-In the month of January.
-
-Also at the Same time Voted that the Committee or Assessors
-
-of the first Precint in Northampton be a Committee annually
-
-to determine the prizes of the above Sd necessarys of Life
-
-always Conferring with Mr Edwards in doing the Same
-
-Voted that the Committee formerly Appointed, wait on the
-
-Revd Mr Edwards and Inform him what the Precint
-
-hath done. Attest – Ebenr Pomroy Modarator
+Northampton First Precinct Meeting, 3\14\48. One quarto leaf. In hand of Samuel Mather, signed by Ebenezer Pomeroy, Sr. Presbyterian Historical Society, RG 332, f. 4. Ms. Ed 96. At a Legal meeting of the Inhabitants of the first Precinct In Northampton (by adjournment) on the 14th day of March Anno Domini. 1747/8. The Report of the Committee Appointed to Consider of the Settle– -ment of the Revd Mr Jonathan Edwards his Salary being Read Again And After Considerable debate thereon, The Question was put whether the first Precinct in North- [hampton] did Acc Receive and Accept of the Report of Sd Committee as then Exhibited and it passed in the Affirmative by a Great Majority Also at the Same time voted it was votted that the prize of the Necessaries of Life which Are the Basis or foundation Upon which which the sum of Seven Hundred pounds to be Annually given is to be raised, Shall be determined at these times or seasons of the Year Annually, viz. Beef. Somtime in the fall of the Year, and, wheat, Rhy, Indian corn & Pork In the month of January. Also at the Same time Voted that the Committee or Assessors of the first Precint in Northampton be a Committee annually to determine the prizes of the above Sd necessarys of Life always Conferring with Mr Edwards in doing the Same Voted that the Committee formerly Appointed, wait on the Revd Mr Edwards and Inform him what the Precint hath done. Attest – Ebenr Pomroy Modarator
 
 ## Meeting of Northampton First Precinct, March 4, 1745 N'ton 1st Precinct 3-4-45
 
-Samuel MatherNorthampton First Precinct Meeting, 3/4/1745. In hand of Samuel Mather, attested by Ebenezer Pomeroy, Sr. Presbyterian Historical Society, RG 332, f. 4. Ms. 79458.
+Samuel Mather
 
-At a Legal Meeting of the Inhabitants of the
-
-first Precinct In Northampton On Monday the 4th
-
-day of March Anno Domini 1744/4.
-
-The Honble Ebenezer Pomroy Esqr Was Chosen modr
-
-And then the Meeting was adjourned to One of the
-
-Clock in the after Noon.
-
-At which time the Inhabitants of the first Precinct met
-
-And proceeded to the Choice of Precinct Officers.
-
-A List of whom is as followeth.
-
-Coll. Jno Stoddard
-
-Col Timo DwightCommitteeJoseph Alvord
-
-Lt Noah Wright & Saml Shelden Jn Collectors
-
-Deacn Ebenr PomroyAssessors
-
-Saml Mather
-
-Precinct Treasurr Ebenr Pomroy Esqr
-
-Precinct Clerk Saml Mather
-
-Then the Precinct Meeting was adjourned to this day
-
-fortnight at Nine of the Clock in the Morning.
-
-At a Legal Meeting of the Inhabitants of the
-
-first Precinct by Adjournment on on the 18th
-
-day of March 1744/5
-
-The Precinct taking into Consideration the Request of the Revd
-
-Mr Jonathan Edwards, that Instead of determining what his
-
-Salery Shall be from year to Year, they would Settle a
-
-Certain Sallery Upon him and after a Considerable
-
-debate thereupon, It was put to Vote whether the Precinct
-
-would would make a vote Relating to the Settling [--] his Sallery
-
-& it passed in the negative
-
-Attest Ebenr Pomroy Moderator
+Northampton First Precinct Meeting, 3/4/1745. In hand of Samuel Mather, attested by Ebenezer Pomeroy, Sr. Presbyterian Historical Society, RG 332, f. 4. Ms. 79458. At a Legal Meeting of the Inhabitants of the first Precinct In Northampton On Monday the 4th day of March Anno Domini 1744/4. The Honble Ebenezer Pomroy Esqr Was Chosen modr And then the Meeting was adjourned to One of the Clock in the after Noon. At which time the Inhabitants of the first Precinct met And proceeded to the Choice of Precinct Officers. A List of whom is as followeth. Coll. Jno Stoddard Col Timo DwightCommitteeJoseph Alvord Lt Noah Wright & Saml Shelden Jn Collectors Deacn Ebenr PomroyAssessors Saml Mather Precinct Treasurr Ebenr Pomroy Esqr Precinct Clerk Saml Mather Then the Precinct Meeting was adjourned to this day fortnight at Nine of the Clock in the Morning. At a Legal Meeting of the Inhabitants of the first Precinct by Adjournment on on the 18th day of March 1744/5 The Precinct taking into Consideration the Request of the Revd Mr Jonathan Edwards, that Instead of determining what his Salery Shall be from year to Year, they would Settle a Certain Sallery Upon him and after a Considerable debate thereupon, It was put to Vote whether the Precinct would would make a vote Relating to the Settling [--] his Sallery & it passed in the negative Attest Ebenr Pomroy Moderator
 
 ## Meeting of Northampton First Precinct, May 16, 1757 N'ton 1st Precinct 5-16-57
 
-Joseph Hawley[?]Northampton First Precinct Meeting, 5\16\57. One leaf, possibly in hand of Joseph Hawley. Countersigned by Samuel Mather, "Precint Votes for the / Settlement of Mr Edwards's / Salary." Presbyterian Historical Society, RG 332, f. 4.
+Joseph Hawley[?]
 
-At a Legal meeting of the freeholders and others Inhabitants of
-
-the Town of Northapmton qualified by law to vote in Town meetings
-
-held at ye town house in sd Northampton on Monday ye Sixteenth of May
-
-1757
-
-In ye first place Majr Joseph hawley was chosen Modr
-
-then Chose Mr Noah Clark Capt James Lyman
-
-and Ensn Jona Strong a Comtee to Set up good & Sufficient
-
-bound Stones between ye Towns land adjoining to ye Ways in ye body or
-
-borders of ye Town and ye particular lots belonging to private persons
-
-which found on sd lands belonging to ye Town.
-
-Then Voted to Erect a bridge Cart bridge over over ye Mill river at
-
-or near ye Co`mon fording place in ye Country road or Way to ye upper
-
-Grist mills Provided ye owners of sd Gristmills Will give good & Sufficient
-
-Security to ye Town to provide and Constantly Maintain a quantity
-
-of good plank Sufficient to Plank sd Bridge Effectually to Cover
-
-and plank sd bridge at so Soon as ye frame Shall be Set up and ready
-
-therefor and Also always afterward during ye time ye time that the Town
-
-Shall at their Cost Maintain ye other parts of sd bridge yt they sd owners
-
-of sd Bridge Will provide and See to It and take effectual Care
-
-yt at their Cost ye Cost of them yr heirs or Assigns yt sd Bridge be al-
-
-ways Well and Sufficiently Covered with good Plank so that It Shall
-
-be At all times Co`modious and Safe passing on sd Bridge over sd
-
-river both with Teams and horse and teams.
-
-Then Appointed Ensn Josiah Clark Aaron Wright & Saml
-
-Baker a Comtee to Erect sd Bridge in Case the owners of sd Mill
-
-give Security as aforesd –
-
-Then ordered that ye Piece of ye Towns land which Doctr Mather
-
-he has Inclosed taken within ye front parce[l] of his Pasture adjoining to ye
-
-Country road to Hatfield be Sold to him in order to in Case he Will
-
-give therefor what ye Town Judge ye same to be reasonably worth and
-
-appointed Lt Nathll Clark Sergt Ephraim Wright Mr
-
-Isaac Parsons and Sergt Ephraim Wright a Comtee prize
-
-sd piece of land and to make to bargain with ye sd Mather
-
-for sd piece of land to Sell ye Same Town to him and in Case
-
-of agreemt to make Conveyance to him thereof by Deed
-
-in ye Towns Behalf
-
-[Attest][^022-note1] Joseph [^022-note2]
+Northampton First Precinct Meeting, 5\16\57. One leaf, possibly in hand of Joseph Hawley. Countersigned by Samuel Mather, "Precint Votes for the / Settlement of Mr Edwards's / Salary." Presbyterian Historical Society, RG 332, f. 4. At a Legal meeting of the freeholders and others Inhabitants of the Town of Northapmton qualified by law to vote in Town meetings held at ye town house in sd Northampton on Monday ye Sixteenth of May 1757 In ye first place Majr Joseph hawley was chosen Modr then Chose Mr Noah Clark Capt James Lyman and Ensn Jona Strong a Comtee to Set up good & Sufficient bound Stones between ye Towns land adjoining to ye Ways in ye body or borders of ye Town and ye particular lots belonging to private persons which found on sd lands belonging to ye Town. Then Voted to Erect a bridge Cart bridge over over ye Mill river at or near ye Co`mon fording place in ye Country road or Way to ye upper Grist mills Provided ye owners of sd Gristmills Will give good & Sufficient Security to ye Town to provide and Constantly Maintain a quantity of good plank Sufficient to Plank sd Bridge Effectually to Cover and plank sd bridge at so Soon as ye frame Shall be Set up and ready therefor and Also always afterward during ye time ye time that the Town Shall at their Cost Maintain ye other parts of sd bridge yt they sd owners of sd Bridge Will provide and See to It and take effectual Care yt at their Cost ye Cost of them yr heirs or Assigns yt sd Bridge be always Well and Sufficiently Covered with good Plank so that It Shall be At all times Co`modious and Safe passing on sd Bridge over sd river both with Teams and horse and teams. Then Appointed Ensn Josiah Clark Aaron Wright & Saml Baker a Comtee to Erect sd Bridge in Case the owners of sd Mill give Security as aforesd – Then ordered that ye Piece of ye Towns land which Doctr Mather he has Inclosed taken within ye front parce[l] of his Pasture adjoining to ye Country road to Hatfield be Sold to him in order to in Case he Will give therefor what ye Town Judge ye same to be reasonably worth and appointed Lt Nathll Clark Sergt Ephraim Wright Mr Isaac Parsons and Sergt Ephraim Wright a Comtee prize sd piece of land and to make to bargain with ye sd Mather for sd piece of land to Sell ye Same Town to him and in Case of agreemt to make Conveyance to him thereof by Deed in ye Towns Behalf [Attest][^022-note1] Joseph [^022-note2]
 
 [^022-note1]: Bottom of leaf is torn; bracketed words conjectural.
 
@@ -3584,371 +2718,25 @@ in ye Towns Behalf
 
 ## Meeting of Northampton First Precinct, July 20, 1750 N'ton 1st Precinct 7-20-50
 
-Ebenezer Pomeroy, Sr.Northampton First Precinct Meeting, 7/20/50. One quarto leaf. In hand of Ebenezer Pomeroy, Sr. Presbyterian Historical Society, RG 332, f. 4. Ms. Ed 96.
+Ebenezer Pomeroy, Sr.
 
-Att a Legall meeting of ye First Precint In
-
-Northampton : In Primus Ebenr Pomroy Esqr was Chosen
-
-Moderator
-
-Then ye Precint Proceded upon ye first
-
-Article In ye Warrant, Conserning Mr Edwards Challengeing
-
-[-] A Right to ye Sequesterd Land In Northampton Medow
-
-this : the Precinct made Choise of a Comitte to manage
-
-that affair: viz Ebenr Pomroy Esqr Joseph Hawley Esqr
-
-& Left Noah Wright, to Confer with Edward upon that
-
-affair and Convince him if they Could that hee hath no
-
-Right to that Land, and if they Could not Convince
-
-him, then the Committ if they Caus may if they
-
-will Leve that there and yt to be a final Issue of that
-
-Case:
-
-Then the Precinct Entered upon ye other Article
-
-In ye Warrant to Give ye Commtte Some further
-
-directions Since ye Ministers of ye Association advise
-
-us to be as quick as wee Can to Seek out for a
-
-Candadate to Settel In ye Ministry, then ye Precinct
-
-voted that ye Chh Should Informed and Desired to
-
-Chuse a Comittee to be added to ye Precint Committ, and to
-
-Pursue the advise of ye Assosiation, to Gett a Candidate
-
-as Quick as they Can: to Settel amoungst us:
-
-Attest Ebenr Pomroy Modarator
+Northampton First Precinct Meeting, 7/20/50. One quarto leaf. In hand of Ebenezer Pomeroy, Sr. Presbyterian Historical Society, RG 332, f. 4. Ms. Ed 96. Att a Legall meeting of ye First Precint In Northampton : In Primus Ebenr Pomroy Esqr was Chosen Moderator Then ye Precint Proceded upon ye first Article In ye Warrant, Conserning Mr Edwards Challengeing [-] A Right to ye Sequesterd Land In Northampton Medow this : the Precinct made Choise of a Comitte to manage that affair: viz Ebenr Pomroy Esqr Joseph Hawley Esqr & Left Noah Wright, to Confer with Edward upon that affair and Convince him if they Could that hee hath no Right to that Land, and if they Could not Convince him, then the Committ if they Caus may if they will Leve that there and yt to be a final Issue of that Case: Then the Precinct Entered upon ye other Article In ye Warrant to Give ye Commtte Some further directions Since ye Ministers of ye Association advise us to be as quick as wee Can to Seek out for a Candadate to Settel In ye Ministry, then ye Precinct voted that ye Chh Should Informed and Desired to Chuse a Comittee to be added to ye Precint Committ, and to Pursue the advise of ye Assosiation, to Gett a Candidate as Quick as they Can: to Settel amoungst us: Attest Ebenr Pomroy Modarator
 
 ## Northampton Church Committee Report on Minister's Salary [c. 1748] N'ton Salary Comm. Report 1748
 
-John StoddardNorthampton Church Committee Report. Undated [c. 1748]. Two leaves. In John Stoddard's hand, with original signatures. BRBL, f. 1440.
-
-The Committee appointed by the first Precinct in Nth Hampton to Con-
-
-sider of a Motion of the Revnd Mr Jonthn Edwards for Settling
-
-his Sallery, having fully Considered that matter, have agreed to Report
-
-as their Opinion. that it is a advisable for the Precinct to Settle a
-
-Sallery as a Recompence for Mr Edwards Labour in the Gosple Minis-
-
-try amongst them. and particularly they propose.
-
-That Mr Edwards be Allowed the Improvement of one half of the
-
-Sequestred land that lyeth in the Common or Genll Field in the Town
-
-of Nth Hampton, to use it Annually during his Continuance in the work
-
-of the Ministry amongst them.
-
-And that he be allowed and paid out of the Town Treasury Annu-
-
-ally one Hundred Pounds in Bills of Publick Credit of the Old Tenr
-
-of the Value they now pass at, to Enable him to purchase fire Wood
-
-for his family. and in Case that in any year fire Wood should be Com-
-
-monly sold for more than twenty five shillings pr Load for an Ordinary
-
-sled Load that then and in such Case the Parish make an Addition
-
-to the Hundred Pound Proportionate to the rise of Wood. and in Case
-
-Wood shall in any Year be sold Commonly for less than twenty five shill-
-
-ings that then to be paid for that purpose be Proportionably less than
-
-one Hundred Pounds.
-
-They further Report that there by Annually Paid to sd Mr Edwards out
-
-of the Town Treasury a further sum of seven Hundred Pounds in Bills of
-
-Publick Credit of the Old Tenr at their present Value, or in other Bills
-
-of Publick Credit Proportionably. and the Value of Bills to be Estimated
-
-by the Prizes of the following Necessaries of Life which are now reckoned
-
-at the following Rates (viz) Wheat at Thirty shillings pr Bushel, Rye at
-
-at twenty shillings pr Bushll Indian Corn at twelve shillings pr Bushll Pork
-
-at two shillings pr Pound and Beef at twelve pence pr Pound. and in
-
-Case that any or all those necessaries of life before mentioned should in any [^024-note1]
-
-year vary in their Price so as to alter the Genll sum that then there be an
-
-Addition to the sum of seven Hundred or a diminution therefrom so as to
-
-make the sum to be paid Proportionate to seven Hundred Pounds at the
-
-Prizes herein before set: as for Instance, if each of those five Articles
-
-should rise in their Price one Eighth that then an Eighth be added
-
-to the seven Hundred Pounds, or if two of them should rise one
-
-quarter, and one rise an Eighth, and the other two remain at the
-
-same Price, that then there be an Addition of one Eighth to the
-
-seven Hundred Pounds, and so if the Prizes of those necessaries
-
-should be lowered in like manner that the sum be lowered in the
-
-same Proportion.
-
-the foregoing sums to be Paid Annually to the Revnd Mr Jonathan
-
-Edwards solong as he shall Continual in the Ministry amongst them.
-
 John Stoddard
 
-Ebenr Pomroy
-
-Timothy Dwight
-
-Committee
-
-Samll Mather
-
-Joseph Hawley
-
-Ebenezer Hunt
+Northampton Church Committee Report. Undated [c. 1748]. Two leaves. In John Stoddard's hand, with original signatures. BRBL, f. 1440. The Committee appointed by the first Precinct in Nth Hampton to Consider of a Motion of the Revnd Mr Jonthn Edwards for Settling his Sallery, having fully Considered that matter, have agreed to Report as their Opinion. that it is a advisable for the Precinct to Settle a Sallery as a Recompence for Mr Edwards Labour in the Gosple Ministry amongst them. and particularly they propose. That Mr Edwards be Allowed the Improvement of one half of the Sequestred land that lyeth in the Common or Genll Field in the Town of Nth Hampton, to use it Annually during his Continuance in the work of the Ministry amongst them. And that he be allowed and paid out of the Town Treasury Annually one Hundred Pounds in Bills of Publick Credit of the Old Tenr of the Value they now pass at, to Enable him to purchase fire Wood for his family. and in Case that in any year fire Wood should be Commonly sold for more than twenty five shillings pr Load for an Ordinary sled Load that then and in such Case the Parish make an Addition to the Hundred Pound Proportionate to the rise of Wood. and in Case Wood shall in any Year be sold Commonly for less than twenty five shillings that then to be paid for that purpose be Proportionably less than one Hundred Pounds. They further Report that there by Annually Paid to sd Mr Edwards out of the Town Treasury a further sum of seven Hundred Pounds in Bills of Publick Credit of the Old Tenr at their present Value, or in other Bills of Publick Credit Proportionably. and the Value of Bills to be Estimated by the Prizes of the following Necessaries of Life which are now reckoned at the following Rates (viz) Wheat at Thirty shillings pr Bushel, Rye at at twenty shillings pr Bushll Indian Corn at twelve shillings pr Bushll Pork at two shillings pr Pound and Beef at twelve pence pr Pound. and in Case that any or all those necessaries of life before mentioned should in any [^024-note1] year vary in their Price so as to alter the Genll sum that then there be an Addition to the sum of seven Hundred or a diminution therefrom so as to make the sum to be paid Proportionate to seven Hundred Pounds at the Prizes herein before set: as for Instance, if each of those five Articles should rise in their Price one Eighth that then an Eighth be added to the seven Hundred Pounds, or if two of them should rise one quarter, and one rise an Eighth, and the other two remain at the same Price, that then there be an Addition of one Eighth to the seven Hundred Pounds, and so if the Prizes of those necessaries should be lowered in like manner that the sum be lowered in the same Proportion. the foregoing sums to be Paid Annually to the Revnd Mr Jonathan Edwards solong as he shall Continual in the Ministry amongst them. John Stoddard Ebenr Pomroy Timothy Dwight Committee Samll Mather Joseph Hawley Ebenezer Hunt
 
 [^024-note1]: **marginal.** [v.]
 
 ## Meetings of Northampton Parish and Precinct, 1735-48 N'ton Town-Precinct 1735-48
 
-Joseph HawleyReports of meetings of N'ton First Parish and Precinct (excerpts), 1735-48. Three folio leaves. The verso of the third leaf countersigned, "Town Prect Votes," and the lower right hand corner has been cut out where there most likely was an autograph, that of Joseph Hawley, who copied these entries after 5/16/48. BRBL, f. 1339. The concluding entry, copying Edwards's acceptance of the salary terms for 1748, provides the earliest date at which Hawley could have culled these excerpts regarding Edwards's ministerial rate. It is possible Hawley collected them, by direction of the precinct, at the time when Edwards proposed fixing a settled salary for his services.
+Joseph Hawley
 
-At a Legal Town meeting in Nortampton Jany 26th
+Reports of meetings of N'ton First Parish and Precinct (excerpts), 1735-48. Three folio leaves. The verso of the third leaf countersigned, "Town Prect Votes," and the lower right hand corner has been cut out where there most likely was an autograph, that of Joseph Hawley, who copied these entries after 5/16/48. BRBL, f. 1339. The concluding entry, copying Edwards's acceptance of the salary terms for 1748, provides the earliest date at which Hawley could have culled these excerpts regarding Edwards's ministerial rate. It is possible Hawley collected them, by direction of the precinct, at the time when Edwards proposed fixing a settled salary for his services. At a Legal Town meeting in Nortampton Jany 26th 1735/6. The Question was put whether th etown would give Mr Jonathan Edwards Two Hundred pounds for his last years Service in ye ministry; As also the use of the sequestered land as he had ye year past, And It passed in the Affirmative by a great Majority. At a Legal Town meeting Febry 11th 1736/7 Voted to give to the Revd Mr Jona Edwards, one Hundred pounds as an Addition to his Salary, exclusive of the use and improvemt of one half of the Sequestd land. At a Town Meeting in Northampton legally Assembled Janry 26th Anno Do`m 1737/8. Voted to give the Revd Mr Edwards one hundred pounds as an Addition to his Salary for the prsent year, besides the im= =provement of one Half of the sequestered land. At a Legal Town Meeting in Northampton Decr 4th 1738. Voted to give the Revd Mr Jonathan Edwards fifty pounds in Bills of publick Credt more than what the Town gave him the last year. At a Legal Town meeting by Adjournt Novbr 20th 1739. Votted at the same time to give the Revd Mr Jona Edwards Two hundred and Twenty pounds, exclusive of that part of the sequestered land he had the last year At a Legal Town Meeting in Northampton Janry 20th 1740/1 The Town voted to give Mr Edwards for his Salary this year ye same sum as he had the year past, viz. Two hundred and Twenty pounds and as an Addition to his Salary, he having represented to the Town that he was somewhat behindhand, in his buying a Pasture & otherways The Town then votted to give him Sixty pounds more. (or sequestd land In ye year 1741/2 No particular vote Passed respecting either ye Salary In the year 1741/2. Febry 10th Voted to give to the Revd Mr [^025-note1] Jonathan Edwards the sum of three hundred pounds in Bills of Credit Old Tenr besides the improvet of one half of the Sequestered land in the Common field, for his Salary the year past. At a Legal Meeting of the first precinct In Northampton Janry 11th 1742/3 Voted to give the Revd Mr Jonathan Edwards the sum of three hundred pounds in Bills of the Old Tenr be= =sides his wood and the Improvet of the one half of the Seques= tered land, for his Salary the year past. Tuesday Novr 22d 1743. Being met they voted to Grant to the Revd Mr Jonathan Edwards three hundred and fifty pounds in Bills of publick Credt of the Old Tenr for his Serce ye year Coming, besides the Im[p]rovement of that half of the Sequesterd land which he hath been wont to improve. At a Legal meeting of the Inhabitants of the first precinct in Northampton on the 8th day of Novr 1744. Voted to give the Revd Mr Jonathan Edwards three hundred and fifty pounds in Bills of the Old Tenr for his salary ye year Coming besides the improvet of one half of the sequesterred land which he hath been wont to improve. At a Prect meeting ye 6th of Decbr 1745. Voted that the Precinct will give the Revd Mr Edwards the sum of three hundred and fifty pounds in Old Tenr Bills, besides the improvet of one half of the sequestered land, for in the Comn field, and besides his wood for his Salary this year. Decbr 15th 1746 Voted to give the Revd Mr Jona Edwards the sum of three hundred and fifty pounds in Bills of Credt Old Tenr for his Salary the year past, besides his wood and the Improvement of one half of the Sequestered land wh he hath been used to improve in times past. Voted to give the Revd Mr Edwards the Sum of one One Hundred and fifty pounds in Bills of Credt of [^025-note2] the Old Tenr. At a meeting of the Precinct 25th of Decbr by Adjt from ye 24th 1747. Voted to give the Revd Mr Jona Edwards six hundred pounds in Bills of Credt Old Tenr besides his wood and one half of the sequestered land in the Meadow or Comn field wh he hath been wont to Improve in years past for his Salary the year past True Copy of Town and Precinct Records Attt J. Hawley Town Clerk [^025-note3]
 
-1735/6. The Question was put whether th etown would give
-
-Mr Jonathan Edwards Two Hundred pounds for his last years
-
-Service in ye ministry; As also the use of the sequestered land as
-
-he had ye year past, And It passed in the Affirmative by a
-
-great Majority.
-
-At a Legal Town meeting Febry 11th 1736/7
-
-Voted to give to the Revd Mr Jona Edwards, one Hundred
-
-pounds as an Addition to his Salary, exclusive of the use and
-
-improvemt of one half of the Sequestd land.
-
-At a Town Meeting in Northampton legally Assembled
-
-Janry 26th Anno Do`m 1737/8.
-
-Voted to give the Revd Mr Edwards one hundred pounds as
-
-an Addition to his Salary for the prsent year, besides the im=
-
-=provement of one Half of the sequestered land.
-
-At a Legal Town Meeting in Northampton Decr 4th 1738.
-
-Voted to give the Revd Mr Jonathan Edwards fifty pounds
-
-in Bills of publick Credt more than what the Town gave
-
-him the last year.
-
-At a Legal Town meeting by Adjournt Novbr 20th 1739.
-
-Votted at the same time to give the Revd Mr Jona Edwards
-
-Two hundred and Twenty pounds, exclusive of that part of the
-
-sequestered land he had the last year
-
-At a Legal Town Meeting in Northampton Janry 20th 1740/1
-
-The Town voted to give Mr Edwards for his Salary this year ye
-
-same sum as he had the year past, viz. Two hundred and Twenty pounds
-
-and as an Addition to his Salary, he having represented to the Town
-
-that he was somewhat behindhand, in his buying a Pasture &
-
-otherways The Town then votted to give him Sixty pounds more.
-
-(or sequestd land
-
-In ye year 1741/2 No particular vote Passed respecting either ye Salary
-
-In the year 1741/2. Febry 10th Voted to give to the Revd Mr [^025-note1]
-
-Jonathan Edwards the sum of three hundred pounds in Bills of
-
-Credit Old Tenr besides the improvet of one half of the Sequestered
-
-land in the Common field, for his Salary the year past.
-
-At a Legal Meeting of the first precinct In Northampton
-
-Janry 11th 1742/3 Voted to give the Revd Mr Jonathan Edwards
-
-the sum of three hundred pounds in Bills of the Old Tenr be=
-
-=sides his wood and the Improvet of the one half of the Seques=
-
-tered land, for his Salary the year past.
-
-Tuesday Novr 22d 1743. Being met they voted to Grant to
-
-the Revd Mr Jonathan Edwards three hundred and fifty pounds
-
-in Bills of publick Credt of the Old Tenr for his Serce ye year
-
-Coming, besides the Im[p]rovement of that half of the Sequesterd land
-
-which he hath been wont to improve.
-
-At a Legal meeting of the Inhabitants of the first precinct in
-
-Northampton on the 8th day of Novr 1744.
-
-Voted to give the Revd Mr Jonathan Edwards three hundred
-
-and fifty pounds in Bills of the Old Tenr for his salary ye year
-
-Coming besides the improvet of one half of the sequesterred land
-
-which he hath been wont to improve.
-
-At a Prect meeting ye 6th of Decbr 1745.
-
-Voted that the Precinct will give the Revd Mr Edwards the sum
-
-of three hundred and fifty pounds in Old Tenr Bills, besides the
-
-improvet of one half of the sequestered land, for in the Comn
-
-field, and besides his wood for his Salary this year.
-
-Decbr 15th 1746
-
-Voted to give the Revd Mr Jona Edwards the sum of three
-
-hundred and fifty pounds in Bills of Credt Old Tenr for his Salary
-
-the year past, besides his wood and the Improvement of one
-
-half of the Sequestered land wh he hath been used to improve in
-
-times past. Voted to give the Revd Mr Edwards the Sum of
-
-one
-
-One Hundred and fifty pounds in Bills of Credt of [^025-note2]
-
-the Old Tenr.
-
-At a meeting of the Precinct 25th of Decbr by Adjt from
-
-ye 24th 1747. Voted to give the Revd Mr Jona Edwards
-
-six hundred pounds in Bills of Credt Old Tenr besides his
-
-wood and one half of the sequestered land in the Meadow or
-
-Comn field wh he hath been wont to Improve in years
-
-past for his Salary the year past
-
-True Copy of Town and Precinct Records
-
-Attt J. Hawley Town Clerk
-
-[^025-note3]
-
-At a Legall Town meeting in Northampton [^025-note4]
-
-Janry 26th 1735/6. The Question was put whether the
-
-Town would give Mr Jona Edwards Two Hundred
-
-pounds for his last years Service in ye Ministry, as
-
-also the use of the sequestered Land as he had ye year
-
-past. And it passed in ye Affirmative by a great Ma=
-
-=jority.
-
-Voted to give the Revd Mr Jona Edwards Six hun=
-
-=dred pounds in Bills of Credit Old Tenr besides his
-
-wood and one half of the sequestered land in the Meadw
-
-or Common field which he hath been wont to improve
-
-in years past for his salary the year past.
-
-A Prect Vote on ye 24th of Decr 1747.
-
-At a Prect Meeting 14th March 1747/8.
-
-Voted that Mr Edwards be Allowed the Improvemt of
-
-one half of the Sequestd land, that lyeth in the Comn or
-
-Genll field in the Town of Northampton, to use it Annu=
-
-=ally during his Continuance in ye work of the ministry a=
-
-=mongst them.
-
-I[^025-note5] do Accept of what this Precinct have settled upon me in their
-
-Precinct Meetings on ye 14th day of March 1747/8, and 16th day
-
-of may 1748. as my yearly maintenance from them, for so long
-
-a time as is Specified in their vote, viz. So long as I continue in ye
-
-work of the ministry among them, and as Supercedeing their Ori=
-
-=ginal votes, respecting my salary, for so long a time and no lon=
-
-=ger, supposing that their vote hath no respect to any longer time
-
-than ye vote it self speaks of, and therefore, can have no manner of
-
-force or influence, either to add anything or set any thing aside
-
-beyond that time.
-
-May 16th 1748.
+At a Legall Town meeting in Northampton [^025-note4] Janry 26th 1735/6. The Question was put whether the Town would give Mr Jona Edwards Two Hundred pounds for his last years Service in ye Ministry, as also the use of the sequestered Land as he had ye year past. And it passed in ye Affirmative by a great Ma= =jority. Voted to give the Revd Mr Jona Edwards Six hun= =dred pounds in Bills of Credit Old Tenr besides his wood and one half of the sequestered land in the Meadw or Common field which he hath been wont to improve in years past for his salary the year past. A Prect Vote on ye 24th of Decr 1747. At a Prect Meeting 14th March 1747/8. Voted that Mr Edwards be Allowed the Improvemt of one half of the Sequestd land, that lyeth in the Comn or Genll field in the Town of Northampton, to use it Annu= =ally during his Continuance in ye work of the ministry a= =mongst them. I[^025-note5] do Accept of what this Precinct have settled upon me in their Precinct Meetings on ye 14th day of March 1747/8, and 16th day of may 1748. as my yearly maintenance from them, for so long a time as is Specified in their vote, viz. So long as I continue in ye work of the ministry among them, and as Supercedeing their Ori= =ginal votes, respecting my salary, for so long a time and no lon= =ger, supposing that their vote hath no respect to any longer time than ye vote it self speaks of, and therefore, can have no manner of force or influence, either to add anything or set any thing aside beyond that time. May 16th 1748.
 
 [^025-note1]: **marginal.** [2]
 
@@ -3962,67 +2750,15 @@ May 16th 1748.
 
 ## Notice of Northampton Precinct Meeting, May 11, 1748 Notice of Precinct Mtg. 5-11-48
 
-Samuel MatherNotice of Northampton First Precinct Meeting for 5/16/48, dated 5/11/48. One quarto leaf. In hand of Samuel Mather, with original signature of Ebenezer Pomeroy, Jr. Presbyterian Historical Society, RG 332, f. 4. Ms. Ed 96.
+Samuel Mather
 
-Hamshire se.
-
-To Mr Saml Kingsley one of the
-
-Constables of Northampton within Ss County Greeting.
-
-You Are hereby Required to warn forthwith to Warn &
-
-and give Notice to the Inhabitants of the first Precinct
-
-In Northampton, Qualify'd According to Law to Vote in Precinct
-
-Meetings that they Assemble themselves at the Town House
-
-In Northampton Afore Sd on Monday next. the Sixteenth day
-
-of May Currt at five O'Clock in the After Noon, then &
-
-there to Reconsider of 10 Clauses of the Report of the Committee appoin
-
-ted to Consider of the Settlement of the Revd Mr Jonathan Edwards his
-
-Salary . Viz that Clause – and that [-] he be paid out of the Town
-
-Treasury Annually One Hundred pounds in bills of Credit old Tenr to
-
-Enable him to purchase fire wood, which was Casually Inserted in
-
-the Report of the Committee. Instead of Sd Sum being paid out of the
-
-Treasury of the first Precinct. Also that Clause viz. that there be
-
-Annually paid out of the Town Treasury to Mr Edwards a further
-
-sum of Seven Hundred Pounds in Bills of publick Credit, Instead
-
-of Sd Sums being paid out of the Treasury of the first Precinct –
-
-Hereof you may Not fail and Make Returne of this
-
-Warrant. within your doings therein to Some One of Us
-
-Under written at or before Sd time of meeting Dated at
-
-Northampton this 11th day of May Anno Do`m 1748.
-
-In the twenty first year of his Majests Reign.
-
-Saml Mather Committee
-
-Ebenr Pomroy Junr for
-
-Noah Wright the first Precinct
-
-In Northampton
+Notice of Northampton First Precinct Meeting for 5/16/48, dated 5/11/48. One quarto leaf. In hand of Samuel Mather, with original signature of Ebenezer Pomeroy, Jr. Presbyterian Historical Society, RG 332, f. 4. Ms. Ed 96. Hamshire se. To Mr Saml Kingsley one of the Constables of Northampton within Ss County Greeting. You Are hereby Required to warn forthwith to Warn & and give Notice to the Inhabitants of the first Precinct In Northampton, Qualify'd According to Law to Vote in Precinct Meetings that they Assemble themselves at the Town House In Northampton Afore Sd on Monday next. the Sixteenth day of May Currt at five O'Clock in the After Noon, then & there to Reconsider of 10 Clauses of the Report of the Committee appoin ted to Consider of the Settlement of the Revd Mr Jonathan Edwards his Salary . Viz that Clause – and that [-] he be paid out of the Town Treasury Annually One Hundred pounds in bills of Credit old Tenr to Enable him to purchase fire wood, which was Casually Inserted in the Report of the Committee. Instead of Sd Sum being paid out of the Treasury of the first Precinct. Also that Clause viz. that there be Annually paid out of the Town Treasury to Mr Edwards a further sum of Seven Hundred Pounds in Bills of publick Credit, Instead of Sd Sums being paid out of the Treasury of the first Precinct – Hereof you may Not fail and Make Returne of this Warrant. within your doings therein to Some One of Us Under written at or before Sd time of meeting Dated at Northampton this 11th day of May Anno Do`m 1748. In the twenty first year of his Majests Reign. Saml Mather Committee Ebenr Pomroy Junr for Noah Wright the first Precinct In Northampton
 
 ## A Copy of the Resolves of a Council of Churches, Met at Northampton, May 11. 1742 Resolves of a Council 5-11-42
 
-Hampshire County MinistersA Copy of the Resolves of a Council of Churches, Met at Northampton"
+Hampshire County Ministers
+
+A Copy of the Resolves of a Council of Churches, Met at Northampton"
 
 On May 11, 1742, an impressive array of clerical representatives from nearly every church in Hampshire County met at Northampton to discuss the ill effects of the recent revivals. Both critics and supporters of the revivals were there, though the debates were apparently not rancorous. As Stephen Williams noted in his diary for that day, "Attendd ye councill of the county -- discoursd of things freely - & came to an agreemt[?] - & Adjournd."[^027-note1] As clergy, they could readily agree on the threats to their status. Censuring ministers, lay exhorting, and itinerancy were the "disorders" specifically mentioned. As remedies, the ministers counseled covenant renewal and a day of fasting.
 
@@ -4034,433 +2770,7 @@ Presented here are first, a manuscript copy of the results of the council, presu
 
 [^027-note2]
 
-At a Councel of Churches met at Northampton May 11th 1742
-
-to consider what may be done to Promote the Interest of Religion and
-
-good Order, in our Churches, the following Churches being present
-
-by their Elders and Messengers Sd Church in Springfield Northampton
-
-Sd Church of Hadley, Westfield Suffield, 2d Springfield Enfield 3d Church
-
-Spring, Sunderland Northfield Uper ashuelot 3 Church in Hadley
-
-Cold Spring 4th Church of Springfield Each precinct Lower Ashuelot and
-
-the Revd Mr Stephen Williams Chosen Moderator
-
-The Revd Mr Peter Reynolds Chosen Scribe -----
-
-After solemn Prayer to God for direction
-
-the Question was ut whether or no it apears to us that there has been a
-
-very glorious and extraordinary work of the Spirit of God and Revival of Religion of late in New England and particular in this County in Convincing
-
-and Converting Sinners and holding up and Comforting Saints and Causing
-
-a very great and general Reformation. Voted in the Affirmative ------
-
-Further voted that it is the Duty of Ministers and People to be deeply
-
-affected with the Divine Goodness herein, to a Sinfull and Backsliding people
-
-and publickly and frequently to Give Glory & Praise to God therefor,
-
-Further Voted that we apprehend that there are things Prevailing in Some
-
-Places that tend to hinder the and obstruct the Work of God and Cast a
-
-Blemish and reproach on it. Voted that the following things are contrary
-
-to the Rules of Gods Word, and of hurtfull tendency (viz) Depending upon
-
-and following after Impulses and Impressions made on the mind Either with
-
-with texts of Scripture brought to the mind or without as tho’ they were
-
-Immediate Revelations of Some truth or Duty that is not Reveald
-
-in the word of God Considerd together with his Providence Independent of
-
-of that Impression: and persons takeing it upon them to Censure and Condemn
-
-Ministers or others as unconverted persons or as being in a Dead and carnal Frame
-
-that are Professing Christians and have a right by their Profession and Good behaviour
-
-to be receivd as visible Christians in Good Standing, by the Visible Church
-
-and Lay=mens taking upon them to give Publick Exhortations purposly
-
-addressing themselves in a Set Speach and in a Solemn manner to a multitude
-
-Convened either in the meeting hous or elsewhere, or to admonish reprove and
-
-Exhort others as having a message from God, or Speaking in the name of Christ
-
-or assuming the air of a Teacher or Speaking in an athoritative manner to those
-
-that are their Equals or Superiours privately Independent on them. and we
-
-look upon it to be irregular for Women and Children, Young People Servants
-
-and others unless in an humble Manner and by way of intreaty to Exhort their
-
-Superiours privately or at all to exhort those that are very much their
-
-Superiours unless in Some extraordinary Cases Should not exhort otherwise
-
-than in a Christian Conversation. Lay men ought not ordinarily to take
-
-upon them that part of the work of a Minister that Consists in the Guiding and
-
-assisting others in the Judgment they Should make of the State of their
-
-Souls and that it is disorderly for persons to be from home and absent from
-
-the Stated Worship of the family they belong to at Religious Meetings
-
-unless it be in Some very Extraordinary Case. ---------
-
-Voted Farther that from any for any Person to Enter into any parish to preach
-
-or administer the Seals of the Covenant in opposition to ye Settled minister of the place
-
-in ordinary Cases Disorderly and for a minister to introduce another minister
-
-in his Pulpit in opposition to his People is Disorderly Likewise
-
-Further, that in order to promote the Interest of Religion of Which
-
-there is a happy Revival in the County we Judge it advisable that the
-
-people in the Several Congregations of ye County be led to a particular
-
-and Solemn Renewal of their Covenant with God, and yt to yt End a
-
-Draught of the Covenant be made by the ministers of the Respective Congregations Where there Shall made Express mention of those particular
-
-Duties which ye People of ye Respective Congregations have been oberved
-
-to Neglect: and those particular Sins which they have fallen into or that
-
-it may be apprehended they are in most Danger of falling into, Whereby
-
-they may prevent or grieve th Quench the Holy Motions of the Holy Spirit
-
-That they may in Subscribing and Publick owning this Covenant by a
-
-Solemn Vow to God oblige themselves for the future Carefully to practice
-
-those Duties and avoid those Sins. Agreed that it is our minds that it
-
-Should be moved yt all the Congregations of the County Should
-
-in Setting apart a Day of Fasting & prayer to God as Soon as may
-
-be to Humble ourselves before him for our past Neglect and Misimprov
-
-ment of the means of Grace and Coldness & Deadness in Religion under
-
-our great Gospel Priviledges and our present misimprovments of the Tokens
-
-of Gods presence and out pouring of his Spirit, and Earnestly to Seek
-
-to him for the Continuance and Increase of the Present Remarkable
-
-work of his power & Grace in this Land and this County in Particular
-
-that it may be Universal in all our Towns and upon all Sorts and
-
-Ages of people or Persons and that all opposition against it may
-
-Cease and those things that Tend to and blemish it and hinder
-
-it al and all the Calamities that attend it and with which our
-
-Zion is now Distressed may be Removed and Particularly the
-
-Errors in Judgment and Conduct of Such as appear Zealous to
-
-Promote it; and Especially that God would Greatly pour out
-
-his Spirit on the ministers of the County that they may have
-
-that Degree of Light and Grace that they need at Such a wonderfull Day and Extraordinary State of things and that God would speedily
-
-accomplish that Glorious outpouring of his Spirit on the World of mankind
-
-that he has Spoken of in his word.
-
-A COPY
-
-Of the Resolves of a Council of Churches,
-
-met a *Northampton, May* 11. 1742. to
-
-consider what may be done to promote Religion, and good Order in the Churches.
-
-The following *Churches* being present by
-
-their Elders and Messengers, *viz*.
-
-THE first Church in *Springfield*.
-
-The Church of *Northampton.*
-
-The first Church in *Hadley*.
-
-The Church in *Hatfield*.
-
-The Church in *Westfield*.
-
-The Church in *Suffield*.
-
-The Second Church in *Springfield*.
-
-The Church in *Enfield.*
-
-The Third Church in *Springfield*.
-
-The Church in *Sunderland*.
-
-The Church in *Northfield*.
-
-The Church in the Upper *Ashuelot*.
-
-The third Church [in *Had*]*ley*[^027-note3].
-
-The Church [of *Deerfield*].[^027-note4]
-
-The fourth C[hurch in *Spr*]*ingfield*.
-
-The Church [in the Low]er *Ashuelot*.
-
-The Chu[rch in *Newt*]*own*[^027-note5].
-
-After
-
-After solemn Prayer to GOD for Direction, [^027-note6]
-
-and having freely confer’d and debated on the
-
-present religious Circumstances of the Land,
-
-and of this County in particular; the Council
-
-acted as follows.
-
-It appears to us that there has been a very
-
-glorious and extraordinary Work of the Spirit
-
-of God, and revival of Religion of late in *New England*, and particularly in this County, in
-
-convincing and converting Sinners, and building up and comforting Saints, and causing a
-
-very great and general Reformation ; and that
-
-it is the Duty of Ministers and People to be
-
-deeply affected with the divine Goodness of
-
-God to a sinful backsliding People ; and publickly and frequently to give Glory and Praise
-
-to God herefor.
-
-We apprehend that there are Things prevailing in some Places that tend to hinder and
-
-obstruct the Work of God, and cast a Blemish
-
-and Reproach upon it.
-
-We judge the following Things to be contrary to the Rules of God’s Word, and to be
-
-of hurtful Tendency, *viz*.
-
-Depending upon and following Impulses or
-
-Impressions made upon the Mind, either with
-
-Texts of Scripture brought to the Mind, or
-
-without, as tho’ they were immediate Revelations of some Truth or Duty, not revealed in
-
-## the
-
-the Word of God, consider’d together with his [^027-note7]
-
-Providence, independent of those Impressions.
-
-And Persons taking it upon them to censure
-
-and condemn Ministers or others, as unconverted Persons, or as being in a dead carnal Frame,
-
-that are professing Christians, and have a Right
-
-by their Profession and good Behaviour, to be
-
-received as visible Christians, and good standing by the Christian Church.
-
-And Lay-Men’s taking it upon them to give
-
-publick Exhortations, or purposely addressing
-
-themselves in a set Speech and solemn Manner
-
-to a Multitude, convened, either in the Meeting-
-
-House, or elsewhere ; or their admonishing,
-
-reproving and exhorting others, as having a
-
-Message from God, or as speaking in the Name
-
-of Christ, or as assuming the Air of a Teacher,
-
-or speaking in an authoritative Manner, to those
-
-that are their Equals or Superiours, and independent on them.
-
-And we look upon it to be very irregular for
-
-Women, Children, young People, Servants and
-
-others, unless in an humble Manner, and by
-
-Way of Intreaty, privately to exhort their Superiours, or at all to exhort those that are very
-
-much their Superiours, unless in some very extraordinary Cases.
-
-And that ordinarily Lay-Persons, that are
-
-no publick Officers, or those that are not very
-
-much others Superiours, should not exhort,
-
-otherwise than in Way of Christian Conver-[^027-note8]
-
-sation.
-
-And that Lay-Men ought not ordinarily to
-
-take upon them that Part of the Work of a
-
-Minister, that consists in guiding and assisting
-
-others, in the Judgment they should form of
-
-the State of their Souls.
-
-And that it is disorderly for Persons to
-
-be from home, and absent from the stated
-
-Worship of the Families they belong to, at
-
-religious Meetings, unless it be in very extraordinary Cases.
-
-And that for any Person to enter into any
-
-Parish to preach, or administer the Seals of the
-
-Covenant, in Opposition to the setled Minister
-
-of the Place in ordinary Cases, is disorderly.
-
-And that for a Minister to introduce another
-
-Minister into his Pulpit, in Opposition to his
-
-People, is disorderly likewise.
-
-And in order to promote the Interest of Religion of which there is an happy Revival begun, in this County ; we judge it adviseable
-
-that the People in the several Congregations
-
-that we belong to, be lead to a particular and
-
-solemn renewal of their Covenant with God :
-
-And to that End, that a Draft of a Covenant
-
-be made, by the Ministers of the several Congregations, wherein there should be an express
-
-mention of those particular Duties that the
-
-People of that Congregation have been observed to be most prone to neglect, and those [^027-note9]
-
-particular Sins that they have heretofore especially fallen into, or that it may be apprehended they are especially in Danger of, whereby
-
-they may prevent, or grieve and quench the
-
-Motions of God’s Spirit: That they may in
-
-subscribing and publickly owning the Covenant, by a solemn Vow to God, oblige themselves for a future carefully to practice those
-
-Duties and avoid those Sins.
-
-It was also agreed that it should be moved
-
-to all the Congregations of this County, that
-
-they should agree in setting apart a Day of
-
-Fasting and Prayer to God, as soon as may be,
-
-to humble ourselves before him, for our past
-
-Neglect and Misimprovement of the Means of
-
-Grace, and Coldness and Deadness in Religion,
-
-under our great Gospel Priviledges, and our present Misimprovements of the Tokens of God’s Presence, and Out-pouring of his Spirit ; and
-
-earnestly to seek to him for the Continuance
-
-and Increase of the present remarkable Work
-
-of his Power and Grace in this Land, and in
-
-this County in particular ; that it may be universal in all our Towns, and upon all Sorts
-
-and Ages of Persons ; and that all Opposition
-
-against it may cease ; and all those Things
-
-that tend to blemish and hinder it, and all the
-
-Calamities that attend it, and with which our
-
-Zion is now distressed, may be removed ; and
-
-particularly the Errors of Judgment and Con- [^027-note10]
-
-duct of such as appear Zealous to promote it.
-
-And especially that God would greatly pour out
-
-his Spirit upon the Ministers of this County,
-
-that they may have that Degree of Light and
-
-Grace, that they need at such a wonderful
-
-Day, and extraordinary State of Things : and
-
-that God would speedily accomplish that
-
-glorious Out-pouring of his Spirit on the
-
-World of Mankind, that he has spoken of in
-
-his Word.
-
-*B O S T O N : Printed and Sold by*S.
-
-Kneeland *and* T. Green, *in Queenstreet, over against the Prison*, 1742.
+At a Councel of Churches met at Northampton May 11th 1742 to consider what may be done to Promote the Interest of Religion and good Order, in our Churches, the following Churches being present by their Elders and Messengers Sd Church in Springfield Northampton Sd Church of Hadley, Westfield Suffield, 2d Springfield Enfield 3d Church Spring, Sunderland Northfield Uper ashuelot 3 Church in Hadley Cold Spring 4th Church of Springfield Each precinct Lower Ashuelot and the Revd Mr Stephen Williams Chosen Moderator The Revd Mr Peter Reynolds Chosen Scribe ----- After solemn Prayer to God for direction the Question was ut whether or no it apears to us that there has been a very glorious and extraordinary work of the Spirit of God and Revival of Religion of late in New England and particular in this County in Convincing and Converting Sinners and holding up and Comforting Saints and Causing a very great and general Reformation. Voted in the Affirmative ------ Further voted that it is the Duty of Ministers and People to be deeply affected with the Divine Goodness herein, to a Sinfull and Backsliding people and publickly and frequently to Give Glory & Praise to God therefor, Further Voted that we apprehend that there are things Prevailing in Some Places that tend to hinder the and obstruct the Work of God and Cast a Blemish and reproach on it. Voted that the following things are contrary to the Rules of Gods Word, and of hurtfull tendency (viz) Depending upon and following after Impulses and Impressions made on the mind Either with with texts of Scripture brought to the mind or without as tho’ they were Immediate Revelations of Some truth or Duty that is not Reveald in the word of God Considerd together with his Providence Independent of of that Impression: and persons takeing it upon them to Censure and Condemn Ministers or others as unconverted persons or as being in a Dead and carnal Frame that are Professing Christians and have a right by their Profession and Good behaviour to be receivd as visible Christians in Good Standing, by the Visible Church and Lay=mens taking upon them to give Publick Exhortations purposly addressing themselves in a Set Speach and in a Solemn manner to a multitude Convened either in the meeting hous or elsewhere, or to admonish reprove and Exhort others as having a message from God, or Speaking in the name of Christ or assuming the air of a Teacher or Speaking in an athoritative manner to those that are their Equals or Superiours privately Independent on them. and we look upon it to be irregular for Women and Children, Young People Servants and others unless in an humble Manner and by way of intreaty to Exhort their Superiours privately or at all to exhort those that are very much their Superiours unless in Some extraordinary Cases Should not exhort otherwise than in a Christian Conversation. Lay men ought not ordinarily to take upon them that part of the work of a Minister that Consists in the Guiding and assisting others in the Judgment they Should make of the State of their Souls and that it is disorderly for persons to be from home and absent from the Stated Worship of the family they belong to at Religious Meetings unless it be in Some very Extraordinary Case. --------- Voted Farther that from any for any Person to Enter into any parish to preach or administer the Seals of the Covenant in opposition to ye Settled minister of the place in ordinary Cases Disorderly and for a minister to introduce another minister in his Pulpit in opposition to his People is Disorderly Likewise Further, that in order to promote the Interest of Religion of Which there is a happy Revival in the County we Judge it advisable that the people in the Several Congregations of ye County be led to a particular and Solemn Renewal of their Covenant with God, and yt to yt End a Draught of the Covenant be made by the ministers of the Respective Congregations Where there Shall made Express mention of those particular Duties which ye People of ye Respective Congregations have been oberved to Neglect: and those particular Sins which they have fallen into or that it may be apprehended they are in most Danger of falling into, Whereby they may prevent or grieve th Quench the Holy Motions of the Holy Spirit That they may in Subscribing and Publick owning this Covenant by a Solemn Vow to God oblige themselves for the future Carefully to practice those Duties and avoid those Sins. Agreed that it is our minds that it Should be moved yt all the Congregations of the County Should in Setting apart a Day of Fasting & prayer to God as Soon as may be to Humble ourselves before him for our past Neglect and Misimprov ment of the means of Grace and Coldness & Deadness in Religion under our great Gospel Priviledges and our present misimprovments of the Tokens of Gods presence and out pouring of his Spirit, and Earnestly to Seek to him for the Continuance and Increase of the Present Remarkable work of his power & Grace in this Land and this County in Particular that it may be Universal in all our Towns and upon all Sorts and Ages of people or Persons and that all opposition against it may Cease and those things that Tend to and blemish it and hinder it al and all the Calamities that attend it and with which our Zion is now Distressed may be Removed and Particularly the Errors in Judgment and Conduct of Such as appear Zealous to Promote it; and Especially that God would Greatly pour out his Spirit on the ministers of the County that they may have that Degree of Light and Grace that they need at Such a wonderfull Day and Extraordinary State of things and that God would speedily accomplish that Glorious outpouring of his Spirit on the World of mankind that he has Spoken of in his word. A COPY Of the Resolves of a Council of Churches, met a *Northampton, May* 11. 1742. to consider what may be done to promote Religion, and good Order in the Churches. The following *Churches* being present by their Elders and Messengers, *viz*. THE first Church in *Springfield*. The Church of *Northampton.* The first Church in *Hadley*. The Church in *Hatfield*. The Church in *Westfield*. The Church in *Suffield*. The Second Church in *Springfield*. The Church in *Enfield.* The Third Church in *Springfield*. The Church in *Sunderland*. The Church in *Northfield*. The Church in the Upper *Ashuelot*. The third Church [in *Had*]*ley*[^027-note3]. The Church [of *Deerfield*].[^027-note4] The fourth C[hurch in *Spr*]*ingfield*. The Church [in the Low]er *Ashuelot*. The Chu[rch in *Newt*]*own*[^027-note5]. After After solemn Prayer to GOD for Direction, [^027-note6] and having freely confer’d and debated on the present religious Circumstances of the Land, and of this County in particular; the Council acted as follows. It appears to us that there has been a very glorious and extraordinary Work of the Spirit of God, and revival of Religion of late in *New England*, and particularly in this County, in convincing and converting Sinners, and building up and comforting Saints, and causing a very great and general Reformation ; and that it is the Duty of Ministers and People to be deeply affected with the divine Goodness of God to a sinful backsliding People ; and publickly and frequently to give Glory and Praise to God herefor. We apprehend that there are Things prevailing in some Places that tend to hinder and obstruct the Work of God, and cast a Blemish and Reproach upon it. We judge the following Things to be contrary to the Rules of God’s Word, and to be of hurtful Tendency, *viz*. Depending upon and following Impulses or Impressions made upon the Mind, either with Texts of Scripture brought to the Mind, or without, as tho’ they were immediate Revelations of some Truth or Duty, not revealed in the the Word of God, consider’d together with his [^027-note7] Providence, independent of those Impressions. And Persons taking it upon them to censure and condemn Ministers or others, as unconverted Persons, or as being in a dead carnal Frame, that are professing Christians, and have a Right by their Profession and good Behaviour, to be received as visible Christians, and good standing by the Christian Church. And Lay-Men’s taking it upon them to give publick Exhortations, or purposely addressing themselves in a set Speech and solemn Manner to a Multitude, convened, either in the MeetingHouse, or elsewhere ; or their admonishing, reproving and exhorting others, as having a Message from God, or as speaking in the Name of Christ, or as assuming the Air of a Teacher, or speaking in an authoritative Manner, to those that are their Equals or Superiours, and independent on them. And we look upon it to be very irregular for Women, Children, young People, Servants and others, unless in an humble Manner, and by Way of Intreaty, privately to exhort their Superiours, or at all to exhort those that are very much their Superiours, unless in some very extraordinary Cases. And that ordinarily Lay-Persons, that are no publick Officers, or those that are not very much others Superiours, should not exhort, otherwise than in Way of Christian Conversation[^027-note8]. And that Lay-Men ought not ordinarily to take upon them that Part of the Work of a Minister, that consists in guiding and assisting others, in the Judgment they should form of the State of their Souls. And that it is disorderly for Persons to be from home, and absent from the stated Worship of the Families they belong to, at religious Meetings, unless it be in very extraordinary Cases. And that for any Person to enter into any Parish to preach, or administer the Seals of the Covenant, in Opposition to the setled Minister of the Place in ordinary Cases, is disorderly. And that for a Minister to introduce another Minister into his Pulpit, in Opposition to his People, is disorderly likewise. And in order to promote the Interest of Religion of which there is an happy Revival begun, in this County ; we judge it adviseable that the People in the several Congregations that we belong to, be lead to a particular and solemn renewal of their Covenant with God : And to that End, that a Draft of a Covenant be made, by the Ministers of the several Congregations, wherein there should be an express mention of those particular Duties that the People of that Congregation have been observed to be most prone to neglect, and those [^027-note9] particular Sins that they have heretofore especially fallen into, or that it may be apprehended they are especially in Danger of, whereby they may prevent, or grieve and quench the Motions of God’s Spirit: That they may in subscribing and publickly owning the Covenant, by a solemn Vow to God, oblige themselves for a future carefully to practice those Duties and avoid those Sins. It was also agreed that it should be moved to all the Congregations of this County, that they should agree in setting apart a Day of Fasting and Prayer to God, as soon as may be, to humble ourselves before him, for our past Neglect and Misimprovement of the Means of Grace, and Coldness and Deadness in Religion, under our great Gospel Priviledges, and our present Misimprovements of the Tokens of God’s Presence, and Out-pouring of his Spirit ; and earnestly to seek to him for the Continuance and Increase of the present remarkable Work of his Power and Grace in this Land, and in this County in particular ; that it may be universal in all our Towns, and upon all Sorts and Ages of Persons ; and that all Opposition against it may cease ; and all those Things that tend to blemish and hinder it, and all the Calamities that attend it, and with which our Zion is now distressed, may be removed ; and particularly the Errors of Judgment and Conduct[^027-note10] of such as appear Zealous to promote it. And especially that God would greatly pour out his Spirit upon the Ministers of this County, that they may have that Degree of Light and Grace, that they need at such a wonderful Day, and extraordinary State of Things : and that God would speedily accomplish that glorious Out-pouring of his Spirit on the World of Mankind, that he has spoken of in his Word. *B O S T O N : Printed and Sold by*S. Kneeland *and* T. Green, *in Queenstreet, over against the Prison*, 1742.
 
 [^027-note1]: Stephen Williams, Diary (typescript), Storr Library, Longmeadow, Mass., vol.IV, p. 22.
 
@@ -4484,7 +2794,9 @@ Kneeland *and* T. Green, *in Queenstreet, over against the Prison*, 1742.
 
 ## Copy of a Covenant, Entered into and Subscribed, by the People of God at Northampton . . . March 16, 1742 1742Covenant
 
-Jonathan EdwardsThe Northampton Covenant of 1742
+Jonathan Edwards
+
+The Northampton Covenant of 1742
 
 As the intensity of the awakening that occurred in Northampton during 1740 and 1741 began to subside, Edwards saw his people returning to their worldly, quarrelsome, and selfish ways. He worked to reverse the tide and keep religious concerns high. In his sermons, he resorted to brow-beating his congregation, the same tactic he had used after the decline of the awakening of 1734-35. Another tactic at his disposal was covenant renewal, which had been used in New England churches since the late seventeenth century as a means of renewing loyalties to the religious and social ideals of the Puritan experiment. Basically, members of the church would re-covenant, or re-dedicate themselves to following the ways of God as a body of believers. Edwards' willingness to use the method of covenant renewal is demonstrated in the following document.
 
@@ -4546,7 +2858,7 @@ We also promise, with great Watchfulness, to perform relative Duties, required b
 
 And we now appear before GOD, depending on divine Grace and Assistance, solemnly to devote our whole Lives, to be laboriously spent in the Business of Religion ; ever making it our great Business, without backsliding from such a Way of living, not hearkening to the Solicitations of our Sloth, and other corrupt Inclinations, or the Temptations of the World, that tend to draw us off from it ; and particularly, that we will not abuse an Hope, or Opinion that any of us may have of our being interested in Christ, to indulge our selves in Sloth, or the more easily to yield to the Solicitations of any sinful Inclinations ; but will run with Perseverance, the Race that is set before us, and work out our own Salvation with Fear and Trembling.
 
-And because we are sensible that the keeping these solemn Vows may here- [^028-note51] after, in many Cases, be very contrary to our corrupt Inclinations, and carnal Interests, we do now therefore appear before GOD to make a Surrender of all to him, and to make a Sacrifice of every carnal Inclination, and Interest to the great Business of Religion, and the Interest of our Souls.
+And because we are sensible that the keeping these solemn Vows may hereafter[^028-note51], in many Cases, be very contrary to our corrupt Inclinations, and carnal Interests, we do now therefore appear before GOD to make a Surrender of all to him, and to make a Sacrifice of every carnal Inclination, and Interest to the great Business of Religion, and the Interest of our Souls.
 
 And being sensible of our own Weakness, and the Deceitfulness of our own Hearts, and our proneness to forget our most solemn Vows, and loose our Resolutions, we promise to be often strictly examining our selves by these Promises, especially before the Sacrament of the Lord's Supper ; and beg of God that he would, for Christ's sake, keep us from wickedly dissembling in these our solemn Vows ; and that he who searches our Hearts, and ponders the Path of our Feet, would from Time to Time help us in trying our selves by this Covenant, and help us to keep Covenant with him, and not leave us to our own foolish wicked and treacherous Hearts.
 
@@ -4654,7 +2966,9 @@ And being sensible of our own Weakness, and the Deceitfulness of our own Hearts,
 
 ## Advice to Mr. and Mrs. Kingsley, February 17, 1743 Kingsley Case (all)
 
-Jonathan Edwards (with members of Ecclesiastical Council)Advice to Mr. and Mrs. Kingsley
+Jonathan Edwards (with members of Ecclesiastical Council)
+
+Advice to Mr. and Mrs. Kingsley
 
 The following set of documents, all in Edwards’ hand, is the advice of an ecclesiastical council that met on Feb. 16-17, 1743, to hear the case of Hains and Bathsheba Kingsley of Westfield, Massachusetts.Hains Kingsley was born c. 1710, fought in the French and Indian War, and died in 1752; Bathsheba Kingsley died in 1748. The council of Feb. 16-17, 1743, was held at the Kingsley’s house. In his Journal for these dates, Westfield pastor John Ballantine wrote: "16. spent ye day at sergeant Kinsleys ye former part of it in prayer ye after part in hearing [and] considering ye Case with mr Edwards & some others. 17. spent ye former part of ye day at ye same place with ye same abt same business. mr Edwards preacht a lecture fro[m] Heb. 5. 7. 8." (See sermon no. 631.) (Journal of the Rev. John Ballantine, 1737-1774, Westfield Athenaeum, Westfield, Massachusetts.) The Westfield church’s attempts to discipline Bathsheba Kingsley first appear in the official record back in 1741, when, on Oct. 18, she publicly confessed to "breaking 4th 5th & 8th Commandmts in stealing a Horse riding away on the sabbath witht her husbands Consent." Apparently the labors of the council were to no avail, for on March 1, 1743, the congregation voted to bar Bathsheba Kingsley from the Lord’s Supper "on the accot of yr dissatisfaction with her." "The Publick Records of the Church at Westfield," Westfield Athenaeum. Joan B. Ackerman, Reference Librarian of the Westfield Athenaeum, graciously located and provided pertinent entries from the Westfield Church Records. The case is an illustration of the excesses that arose during the Great Awakening. Bathsheba Kingsley claimed to be receiving revelations from God, and thereby justified travelling abroad for extended periods of time and censuring individuals, including her husband. While Bathsheba Kingsley did not claim the full authority of a minister, she nonetheless took upon herself "some parts of the work of the ministry" in her public denunciations and prophecies.On Kingsley as an instance of how women during the revivals of the eighteenth century "stretched the boundaries of traditional ’feminine’ religious behavior to the breaking point," see Catherine A. Brekus, Strangers & Pilgrims: Female Preaching in America, 1740-1845 (Chapel Hill, Univ. of North Carolina Press, 1998), 23-26; quote on p. 26.
 
