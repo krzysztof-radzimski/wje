@@ -1,0 +1,38 @@
+{
+  "id": "print-6x9",
+  "outputDirectory": "DOCX/PRINT-6X9",
+  "description": "No-bleed 6 x 9 inch print interior source",
+  "page": {
+    "widthDxa": 8640,
+    "heightDxa": 12960,
+    "marginTopDxa": 1008,
+    "marginRightDxa": 720,
+    "marginBottomDxa": 1008,
+    "marginLeftDxa": 1260,
+    "gutterDxa": 0,
+    "headerDxa": 432,
+    "footerDxa": 432
+  },
+  "typography": {
+    "bodyFont": "Libre Baskerville",
+    "fallbackFonts": ["Georgia", "Baskerville", "serif"],
+    "bodySizeHalfPoints": 21,
+    "bodyLineTwips": 268,
+    "firstLineDxa": 288
+  },
+  "navigation": {
+    "staticToc": true,
+    "tocPageNumbers": true
+  },
+  "layout": {
+    "runningHeaders": true,
+    "pageNumbers": true,
+    "mirrorMargins": true,
+    "chapterPageBreaks": true,
+    "embedFonts": true,
+    "insideMarginInches": 0.875,
+    "outsideMarginInches": 0.5,
+    "noBleed": true,
+    "bodyStartsOnOddPage": true
+  }
+}

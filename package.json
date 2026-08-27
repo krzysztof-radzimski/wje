@@ -6,12 +6,21 @@
     "test": "node --test",
     "archive": "node scripts/archive_yale_volume.mjs",
     "archive:smoke": "node scripts/archive_yale_volume.mjs --smoke-test",
-    "test:integration": "npm run archive:smoke"
+    "test:integration": "npm run archive:smoke",
+    "kdp:docx": "node scripts/create_kdp_docx.mjs",
+    "kdp:validate": "node scripts/validate_kdp_docx.mjs"
   },
   "engines": {
     "node": ">=20"
   },
   "dependencies": {
-    "playwright-core": "1.62.1"
+    "@expo-google-fonts/libre-baskerville": "^0.4.1",
+    "@xmldom/xmldom": "^0.9.12",
+    "docx": "^9.5.1",
+    "jszip": "^3.10.1",
+    "playwright-core": "1.62.1",
+    "remark-gfm": "^4.0.1",
+    "remark-parse": "^11.0.0",
+    "unified": "^11.0.5"
   }
 }

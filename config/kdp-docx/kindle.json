@@ -1,0 +1,34 @@
+{
+  "id": "kindle",
+  "outputDirectory": "DOCX/KINDLE",
+  "description": "Reflowable Kindle eBook manuscript",
+  "page": {
+    "widthDxa": 12240,
+    "heightDxa": 15840,
+    "marginTopDxa": 1440,
+    "marginRightDxa": 1440,
+    "marginBottomDxa": 1440,
+    "marginLeftDxa": 1440,
+    "gutterDxa": 0,
+    "headerDxa": 708,
+    "footerDxa": 708
+  },
+  "typography": {
+    "bodyFont": "Libre Baskerville",
+    "fallbackFonts": ["Georgia", "Baskerville", "serif"],
+    "bodySizeHalfPoints": 22,
+    "bodyLineTwips": 240,
+    "firstLineDxa": 288
+  },
+  "navigation": {
+    "staticToc": true,
+    "tocPageNumbers": false
+  },
+  "layout": {
+    "runningHeaders": false,
+    "pageNumbers": false,
+    "mirrorMargins": false,
+    "chapterPageBreaks": true,
+    "embedFonts": true
+  }
+}
