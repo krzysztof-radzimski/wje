@@ -193,20 +193,81 @@ zakładkę oraz media. Dodatkowo tymczasowo wygenerowano oba profile tomu 1 poza
 50 definicji bez odwołania jest zachowywanych w nazwanej sekcji źródłowej.
 Żaden produkcyjny DOCX tomu 1 nie został dodany.
 
-## Kontrola wizualna
+## Produkcyjne QA tomu 1 (task #2668)
 
-Pakietowy `render_docx.py` został uruchomiony dla obu profili fixture, lecz w
-tym środowisku nie ma `pdf2image` ani LibreOffice. Zgodnie z fallbackiem skilla
-`documents` użyto systemowego Quick Look, a jego podglądy HTML obejrzano przez
-`abc-browser` na viewportach 1440×1000 i 390×844. Na podglądzie potwierdzono
-czytelną stronę tytułową, hierarchię, spis treści, cytat, listy, tabelę,
-Mermaid, separatory, kontrast i brak nakładania tekstu. Profil drukowany na
-wąskim viewportcie pozostaje celowo stałostronicowy. Quick Look spłaszcza
-podziały stron i nie pokazuje wiarygodnie nagłówków, stopek ani przypisów, więc
-nie zastępuje pełnego renderu LibreOffice/Word ani Kindle/Print Previewer.
-Projekt nie zawiera interfejsu webowego ani motywów; odkrywalność funkcji UI nie
-ma zastosowania — jedynym interfejsem użytkowym są udokumentowane polecenia
-CLI.
+### Preflight renderowania
+
+Kontrolę wykonano 2026-08-27 w rzeczywistym katalogu
+`/private/tmp/kdp-docx-render/`. System nie ma ani wykonywalnego
+`/Applications/LibreOffice.app/Contents/MacOS/soffice`, ani `soffice` w
+`PATH`. `pdftoppm` jest dostępny jako `/opt/homebrew/bin/pdftoppm`. Utworzono
+kontrolowany `/private/tmp/kdp-docx-render/fixture.docx`, ale pakietowy
+`render_docx.py` zakończył się dodatkowo kontrolowanym błędem
+`ModuleNotFoundError: No module named 'pdf2image'`.
+
+Preflight nie osiągnął etapu `soffice` → PDF → `pdftoppm`; nie powstały PDF-y
+ani PNG-i referencji, fixture ani wyników. Lista obejrzanych stron dla
+referencyjnego `The_Cage_US_KDP_6x9_po_korekcie.docx`, profilu `kindle` i
+profilu `print-6x9`: **brak**. Nie deklaruje się jakości wizualnej, faktycznej
+liczby stron ani dostępności kroju podczas renderowania. Referencyjny DOCX
+pozostał tylko do odczytu i nie został skopiowany do repozytorium.
+
+### Deterministyczny fallback OOXML
+
+Oba produkcyjne pliki wygenerowano z `MD/VOLUME01.md`:
+
+- `DOCX/KINDLE/VOLUME01.docx` — 73 nagłówki źródłowe, 10 wpisów statycznego
+  spisu treści, 550 odwołań i 550 natywnych przypisów Word, 50 zachowanych
+  definicji bez odwołania, 6 tabel, 474 znaczniki stron i 0 obrazów;
+- `DOCX/PRINT-6X9/VOLUME01.docx` — ten sam inwentarz semantyczny, dwie sekcje,
+  bieżące nagłówki/stopy i numeracja części głównej od 1.
+
+Walidator sprawdził CRC i poprawność XML, wszystkie relacje i części pakietu,
+metadane, tekst oraz kolejność nagłówków i spisu, cele zakładek/linków, treść i
+kolejność każdego przypisu, zawartość tabel, opisy/captions obrazów, źródła
+Mermaid, kursywę, pogrubienie, przekreślenie i Unicode. Profil Kindle ma
+neutralne Letter 12240×15840 DXA, marginesy 1440 DXA i nie zawiera
+mirror-margins, nagłówków, stopek ani pól PAGE. Profil drukowany ma dokładnie
+8640×12960 DXA (6×9 cala), marginesy góra/dół 1008 DXA, wewnętrzny 1260 DXA
+(0,875 cala), zewnętrzny 720 DXA (0,5 cala), `gutter=0`, `mirrorMargins`,
+odd-page start części głównej i PAGE. Ponieważ nie uzyskano paginacji, zachowano
+konserwatywny próg 0,875 cala, bezpieczny dla zakresu KDP do 828 stron; nie
+przypisano dokumentowi niezweryfikowanej liczby stron.
+
+Oba profile używają nazwanych stylów i osadzonego `Libre Baskerville` z
+fallbackiem `Georgia`; plik fontu pochodzi z pakietu
+`@expo-google-fonts/libre-baskerville`, a licencja SIL OFL 1.1 dopuszcza
+osadzanie. Kontrola wyklucza Aptos, Calibri i Times New Roman w stylach
+`Normal` i `BodyText` oraz w ustawieniu domyślnym dokumentu.
+
+Ponowna generacja dała bajtowo identyczne pliki dla obu profili. W trakcie QA
+naprawiono datę ZIP przepisywanego `word/settings.xml`, która wcześniej
+powodowała niedeterministyczny profil drukowany.
+
+### Regresja tomu 10
+
+Oba profile wygenerowano wyłącznie tymczasowo w
+`/private/tmp/wje-kdp-v10.2vy0f7/` i zwalidowano: 153 nagłówki, 240 przypisów,
+6 tabel, 648 znaczników stron, jeden osadzony obraz z relacją/tekstem
+alternatywnym/podpisem oraz Mermaid zachowany jednoznacznie jako nazwany tekst
+preformatowany z ostrzeżeniem. Plików tych nie dodano do repozytorium.
+
+Regresja ujawniła cztery komentarze stron osadzone w komórkach tabel. Builder
+wcześniej zachowywał je jako surowy komentarz HTML, przez co traciły rolę
+semantyczną. Generator zapisuje je teraz jako `[p. N]` w nazwanym stylu
+znakowym `WJE Source Page Inline`, a walidator wymaga wszystkich 648 znaczników.
+
+### Znane ograniczenia
+
+- Brak LibreOffice i `pdf2image` uniemożliwił PDF/PNG oraz ocenę optyczną;
+  oba pliki wymagają jeszcze renderu strona po stronie w środowisku z pełnym
+  łańcuchem dokumentowym.
+- Kindle wymaga końcowego sprawdzenia w Kindle Previewer na kilku urządzeniach
+  i rozmiarach fontu; PDF z Worda/LibreOffice nie zastępuje tej kontroli.
+- Print wymaga aktualizacji pól i kontroli PDF w KDP Print Previewer; dopiero
+  render ustali rzeczywistą liczbę stron i pozwoli ewentualnie zmniejszyć
+  konserwatywny margines wewnętrzny.
+- Mermaid pozostaje jawnie zachowanym źródłem tekstowym, a nie gotową grafiką.
 
 ## Kanoniczne polecenia
 

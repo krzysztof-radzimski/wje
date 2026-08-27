@@ -18,6 +18,9 @@ saved HTML are not allowed; conversion remains entirely local.
   contains the volume navigation and heading hierarchy.
 - `MD/VOLUMENN.md` — the resulting Markdown text for a volume; volumes 1–9
   use a leading zero (for example, `MD/VOLUME01.md`).
+- `DOCX/KINDLE/` and `DOCX/PRINT-6X9/` — reproducible Kindle reflowable and
+  no-bleed 6×9 print manuscripts generated from the same Markdown model; see
+  `DOCX/README.md`.
 - `assets/` — project graphics used by documentation.
 - `scripts/html_volume_to_markdown.rb` — a converter that tolerates the
   archive's malformed HTML.
@@ -80,6 +83,20 @@ definitions with the local HTML, and reports headings from `000.html` that are
 absent from the result. A gap in page numbering means the missing fragment
 should be retried with the controlled importer and `--resume`; it must not be
 reconstructed from memory or another edition.
+
+## KDP DOCX profiles
+
+Generate and structurally validate either profile with the repository's Node.js
+tools; both commands read the same `MD/VOLUMENN.md` source:
+
+```bash
+npm run kdp:docx -- --profile kindle MD/VOLUME01.md
+npm run kdp:validate -- --profile kindle MD/VOLUME01.md DOCX/KINDLE/VOLUME01.docx
+npm run kdp:docx -- --profile print-6x9 MD/VOLUME01.md
+npm run kdp:validate -- --profile print-6x9 MD/VOLUME01.md DOCX/PRINT-6X9/VOLUME01.docx
+```
+
+See `DOCX/README.md` for profile intent and publication preview requirements.
 
 ## Capture status
 

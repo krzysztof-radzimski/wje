@@ -34,7 +34,7 @@ This paragraph contains *emphasis*, **strong emphasis**, ~~deletion~~, \`code\`,
 
 | Term | Meaning |
 | --- | --- |
-| Grace | A concise value |
+| Grace <!-- p. 1a --> | A concise value |
 | Faith | Another value |
 
 ![A simple diagram](assets/diagram.png)
@@ -76,7 +76,7 @@ test("shared Markdown parser covers WJE semantic constructs", async (t) => {
   assert.equal(model.inventory.footnoteDefinitions, 2);
   assert.equal(model.inventory.tables, 1);
   assert.equal(model.inventory.images, 1);
-  assert.equal(model.inventory.sourcePages, 2);
+  assert.equal(model.inventory.sourcePages, 3);
   assert.equal(model.inventory.mermaidBlocks, 1);
   assert.equal(model.inventory.blockquotes, 1);
   assert.equal(model.inventory.lists, 3);
@@ -95,6 +95,7 @@ for (const profileId of ["kindle", "print-6x9"]) {
     assert.equal(validation.valid, true);
     assert.equal(validation.inventory.images, 1);
     assert.equal(validation.inventory.footnoteReferences, 1);
+    assert.equal(validation.inventory.sourcePages, 3);
     assert.equal(validation.inventory.sections, profileId === "kindle" ? 1 : 2);
   });
 }
@@ -124,6 +125,23 @@ test("validator rejects a dangling bookmark and missing media", async (t) => {
   assert.equal(validation.valid, false);
   assert.ok(validation.errors.some((error) => error.includes("Missing bookmark")));
   assert.ok(validation.errors.some((error) => error.includes("Broken relationship") || error.includes("Missing related media")));
+});
+
+test("validator rejects changed TOC and footnote content", async (t) => {
+  const { directory, markdown } = await fixture(t);
+  const original = path.join(directory, "original.docx");
+  const broken = path.join(directory, "broken-semantics.docx");
+  await createKdpDocx({ input: markdown, output: original, profileId: "kindle" });
+  const zip = await JSZip.loadAsync(await fs.readFile(original));
+  const documentXml = await zip.file("word/document.xml").async("string");
+  const footnotesXml = await zip.file("word/footnotes.xml").async("string");
+  zip.file("word/document.xml", documentXml.replace(">First Discourse<", ">Changed Discourse<"));
+  zip.file("word/footnotes.xml", footnotesXml.replace("This is a true ", "This content was changed "));
+  await fs.writeFile(broken, await zip.generateAsync({ type: "nodebuffer" }));
+  const validation = await validateKdpDocx({ input: markdown, docx: broken, profileId: "kindle" });
+  assert.equal(validation.valid, false);
+  assert.ok(validation.errors.some((error) => error.includes("TOC entry")));
+  assert.ok(validation.errors.some((error) => error.includes("Footnote content/order")));
 });
 
 test("generator refuses to overwrite without --force", async (t) => {

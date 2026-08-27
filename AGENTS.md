@@ -13,6 +13,24 @@ katalogów `NNN_files/`.
 - Wynikiem jest `MD/VOLUMENN.md`, z zerem wiodącym dla tomów 1–9
   (np. `MD/VOLUME01.md`).
 
+## Produkcyjne profile DOCX
+
+Dokumenty KDP twórz wyłącznie z gotowego `MD/VOLUMENN.md` przez wspólny parser
+Node.js i dwa jawne profile. Nie edytuj wynikowego OOXML ręcznie:
+
+```bash
+npm run kdp:docx -- --profile kindle MD/VOLUMENN.md
+npm run kdp:validate -- --profile kindle MD/VOLUMENN.md DOCX/KINDLE/VOLUMENN.docx
+npm run kdp:docx -- --profile print-6x9 MD/VOLUMENN.md
+npm run kdp:validate -- --profile print-6x9 MD/VOLUMENN.md DOCX/PRINT-6X9/VOLUMENN.docx
+```
+
+Świadoma regeneracja istniejącego wyniku wymaga `--force`. Profil Kindle jest
+płynny i nie ma bieżących nagłówków, stopek ani numerów stron; profil
+`print-6x9` jest wnętrzem bez spadu. Każdy wynik musi przejść walidator OOXML i
+porównanie semantyczne, a przy dostępnym LibreOffice także render do PDF/PNG i
+kontrolę wizualną zgodnie z `DOCX/README.md`.
+
 ## Import przez wbudowany mechanizm przeglądarkowy
 
 Jedyną dopuszczalną drogą pozyskania nowych źródeł z Yale dla tomów 17–73 jest

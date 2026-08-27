@@ -318,7 +318,13 @@ function inlineRuns(nodes, state, inherited = {}) {
         break;
       }
       case "image": result.push(new TextRun({ text: node.alt ? `[Illustration: ${node.alt}]` : "[Illustration]", ...props })); break;
-      case "html": result.push(new TextRun({ text: node.value, ...props })); break;
+      case "html": {
+        const page = sourcePageLabel(node);
+        result.push(new TextRun(page === null
+          ? { text: node.value, ...props }
+          : { text: `[p. ${page}]`, style: "SourcePageInline", ...props }));
+        break;
+      }
       default:
         if (node.children) result.push(...inlineRuns(node.children, state, props));
         else if (node.value) result.push(new TextRun({ text: node.value, ...props }));
@@ -426,7 +432,8 @@ function styleSheet(profile, language) {
       { id: "PageNumber", name: "WJE Page Number", basedOn: "BodyText", paragraph: { spacing: { before: 0, after: 0 }, indent: { firstLine: 0 }, alignment: AlignmentType.CENTER }, run: { font: FONT_NAME, size: 16, color: "555555" } }
     ],
     characterStyles: [
-      { id: "InlineCode", name: "WJE Inline Code", basedOn: "DefaultParagraphFont", run: { font: "Courier New", size: t.bodySizeHalfPoints - 2 } }
+      { id: "InlineCode", name: "WJE Inline Code", basedOn: "DefaultParagraphFont", run: { font: "Courier New", size: t.bodySizeHalfPoints - 2 } },
+      { id: "SourcePageInline", name: "WJE Source Page Inline", basedOn: "DefaultParagraphFont", run: { font: "Arial", size: 15, color: "777777" } }
     ]
   };
 }
@@ -521,7 +528,7 @@ async function patchGeneratedDocx(buffer, profile) {
   }
   if (profile.layout.mirrorMargins) {
     const settings = await zip.file("word/settings.xml").async("string");
-    zip.file("word/settings.xml", settings.replace("</w:settings>", "<w:mirrorMargins/></w:settings>"));
+    zip.file("word/settings.xml", settings.replace("</w:settings>", "<w:mirrorMargins/></w:settings>"), { date: fixedTimestamp });
   }
   const fontTableFile = zip.file("word/fontTable.xml");
   if (fontTableFile) {

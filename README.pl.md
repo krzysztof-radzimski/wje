@@ -18,6 +18,9 @@ HTML są zabronione; konwersja odbywa się wyłącznie lokalnie.
   Plik `000.html` zawiera nawigację i hierarchię tomu.
 - `MD/VOLUMENN.md` — wynikowy tekst tomu w Markdown; tomy 1–9 mają zero
   wiodące (np. `MD/VOLUME01.md`).
+- `DOCX/KINDLE/` i `DOCX/PRINT-6X9/` — odtwarzalne manuskrypty Kindle
+  reflowable i drukowane 6×9 bez spadu, generowane z tego samego modelu
+  Markdown; zob. `DOCX/README.md`.
 - `assets/` — grafiki projektu wykorzystywane w dokumentacji.
 - `scripts/html_volume_to_markdown.rb` — konwerter tolerujący niepoprawny HTML
   archiwum.
@@ -78,6 +81,20 @@ HTML oraz zgłasza nagłówki z `000.html`, których nie ma w wyniku. Braki w
 sekwencji stron oznaczają, że trzeba ponowić brakujące fragmenty kontrolowanym
 importerem z `--resume` — nie należy rekonstruować ich z pamięci ani z innego
 wydania.
+
+## Profile DOCX dla KDP
+
+Oba profile korzystają z tego samego źródła `MD/VOLUMENN.md`. Generowanie i
+walidację strukturalną wykonują kanoniczne narzędzia Node.js z repozytorium:
+
+```bash
+npm run kdp:docx -- --profile kindle MD/VOLUME01.md
+npm run kdp:validate -- --profile kindle MD/VOLUME01.md DOCX/KINDLE/VOLUME01.docx
+npm run kdp:docx -- --profile print-6x9 MD/VOLUME01.md
+npm run kdp:validate -- --profile print-6x9 MD/VOLUME01.md DOCX/PRINT-6X9/VOLUME01.docx
+```
+
+Cel profili i wymagania podglądu przed publikacją opisuje `DOCX/README.md`.
 
 ## Stan zrzutów
 

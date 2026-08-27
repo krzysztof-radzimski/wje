@@ -7,7 +7,7 @@ import { fileURLToPath } from "node:url";
 import JSZip from "jszip";
 import { DOMParser } from "@xmldom/xmldom";
 import { isOutlineTable, splitTableRows } from "./lib/kdp-docx/builder.mjs";
-import { navigationHeadings, parseWjeMarkdown, plainText } from "./lib/kdp-docx/markdown.mjs";
+import { navigationHeadings, parseWjeMarkdown, plainText, sourcePageLabel } from "./lib/kdp-docx/markdown.mjs";
 import { loadProfile } from "./create_kdp_docx.mjs";
 
 export async function validateKdpDocx({ input, docx, profileId }) {
@@ -24,7 +24,7 @@ export async function validateKdpDocx({ input, docx, profileId }) {
     return { valid: false, errors: [`Corrupt DOCX ZIP: ${error.message}`], warnings, inventory: null };
   }
 
-  const required = ["[Content_Types].xml", "_rels/.rels", "word/document.xml", "word/styles.xml", "word/settings.xml", "word/_rels/document.xml.rels"];
+  const required = ["[Content_Types].xml", "_rels/.rels", "docProps/core.xml", "word/document.xml", "word/styles.xml", "word/settings.xml", "word/_rels/document.xml.rels"];
   for (const part of required) if (!zip.file(part)) errors.push(`Missing required OOXML part: ${part}`);
   if (errors.length) return { valid: false, errors, warnings, inventory: null };
 
@@ -42,6 +42,7 @@ export async function validateKdpDocx({ input, docx, profileId }) {
   const document = xmlParts["word/document.xml"];
   const styles = xmlParts["word/styles.xml"];
   const settings = xmlParts["word/settings.xml"];
+  validateMetadata(xmlParts["docProps/core.xml"], model, profile, errors);
   const text = elements(document, "w:t").map((node) => node.textContent).join("");
   const paragraphs = elements(document, "w:p");
   const paragraphStyles = paragraphs.map((paragraph) => first(paragraph, "w:pStyle")?.getAttribute("w:val") ?? "");
@@ -61,6 +62,7 @@ export async function validateKdpDocx({ input, docx, profileId }) {
     if (headings[level] !== expectedHeadings[level]) errors.push(`Heading ${level} count differs: DOCX=${headings[level]}, Markdown=${expectedHeadings[level]}`);
   }
   if (!text.includes(model.title)) errors.push("Markdown title is missing from DOCX text");
+  validateHeadingOrder(document, model, errors);
 
   const bookmarks = elements(document, "w:bookmarkStart").map((node) => node.getAttribute("w:name")).filter(Boolean);
   const duplicateBookmarks = bookmarks.filter((name, index) => bookmarks.indexOf(name) !== index);
@@ -72,6 +74,7 @@ export async function validateKdpDocx({ input, docx, profileId }) {
   for (const anchor of anchors) if (!bookmarks.includes(anchor)) errors.push(`Internal hyperlink points to missing bookmark: ${anchor}`);
   const expectedNavigation = navigationHeadings(model).length;
   if (anchors.length < expectedNavigation) errors.push(`Too few internal TOC links: DOCX=${anchors.length}, expected at least ${expectedNavigation}`);
+  validateToc(document, model, errors);
 
   const footnoteReferences = elements(document, "w:footnoteReference").length;
   const footnotesPart = xmlParts["word/footnotes.xml"];
@@ -80,6 +83,7 @@ export async function validateKdpDocx({ input, docx, profileId }) {
     : 0;
   if (footnoteReferences !== model.inventory.footnoteReferences) errors.push(`Footnote reference count differs: DOCX=${footnoteReferences}, Markdown=${model.inventory.footnoteReferences}`);
   if (footnoteDefinitions !== model.inventory.footnoteReferences) errors.push(`Generated footnote definition count differs: DOCX=${footnoteDefinitions}, expected=${model.inventory.footnoteReferences}`);
+  validateFootnoteContents(document, footnotesPart, model, errors);
   const referencedIdentifiers = new Set();
   for (const node of model.body) collectFootnoteIdentifiers(node, referencedIdentifiers);
   const expectedUnreferenced = [...model.footnotes.keys()].filter((identifier) => !referencedIdentifiers.has(identifier)).length;
@@ -89,15 +93,18 @@ export async function validateKdpDocx({ input, docx, profileId }) {
   const docxTables = elements(document, "w:tbl").length;
   if (docxTables !== expectedTables.parts) errors.push(`Native table part count differs: DOCX=${docxTables}, expected=${expectedTables.parts}`);
   if (styleCount("OutlineRow") !== expectedTables.outlineRows) errors.push(`Outline row count differs: DOCX=${styleCount("OutlineRow")}, expected=${expectedTables.outlineRows}`);
+  validateTableContents(document, model, errors);
 
-  const sourcePages = (text.match(/\[p\.\s*[^\]]+\]/g) ?? []).length;
+  const sourcePages = styleCount("SourcePage") + elements(document, "w:rStyle").filter((node) => node.getAttribute("w:val") === "SourcePageInline").length;
   if (sourcePages !== model.inventory.sourcePages) errors.push(`Source page marker count differs: DOCX=${sourcePages}, Markdown=${model.inventory.sourcePages}`);
   const drawings = elements(document, "a:blip");
   if (drawings.length !== model.inventory.images) errors.push(`Embedded image count differs: DOCX=${drawings.length}, Markdown=${model.inventory.images}`);
   for (const drawing of elements(document, "wp:docPr")) {
     if (!drawing.getAttribute("descr")) errors.push("An embedded image has no alternative description");
   }
-  if (model.inventory.mermaidBlocks && styleCount("MermaidCode") < model.inventory.mermaidBlocks) errors.push("A Mermaid block was lost instead of being retained as named preformatted text");
+  validateImagesAndCaptions(document, model, errors);
+  validateMermaid(document, model, errors);
+  validateInlineFormatting(document, footnotesPart, model, errors);
 
   validateStyles(styles, profile, errors);
   validateFontEmbedding(zip, xmlParts, profile, errors);
@@ -120,9 +127,193 @@ export async function validateKdpDocx({ input, docx, profileId }) {
   return { valid: errors.length === 0, errors, warnings, inventory };
 }
 
+function validateMetadata(core, model, profile, errors) {
+  const values = {
+    title: first(core, "dc:title")?.textContent ?? "",
+    creator: first(core, "dc:creator")?.textContent ?? "",
+    subject: first(core, "dc:subject")?.textContent ?? "",
+    description: first(core, "dc:description")?.textContent ?? ""
+  };
+  if (values.title !== model.title) errors.push(`Core title differs from Markdown: ${JSON.stringify(values.title)}`);
+  if (!values.creator.trim()) errors.push("Core creator metadata is empty");
+  if (values.subject !== profile.description) errors.push(`Core subject differs from profile description: ${JSON.stringify(values.subject)}`);
+  if (!values.description.includes(profile.id)) errors.push("Core description does not identify the selected profile");
+}
+
+function validateHeadingOrder(document, model, errors) {
+  const actual = elements(document, "w:p")
+    .filter((paragraph) => /^Heading[123]$/.test(first(paragraph, "w:pStyle")?.getAttribute("w:val") ?? ""))
+    .map(paragraphText);
+  const expected = model.headings.filter((heading) => !heading.data?.isTitle).map((heading) => plainText(heading));
+  compareSequence("Heading text/order", actual, expected, errors);
+}
+
+function validateToc(document, model, errors) {
+  const actual = elements(document, "w:p")
+    .filter((paragraph) => first(paragraph, "w:pStyle")?.getAttribute("w:val") === "TocEntry")
+    .map((paragraph) => {
+      const hyperlink = first(paragraph, "w:hyperlink");
+      return { anchor: hyperlink?.getAttribute("w:anchor") ?? "", text: hyperlink ? textContent(hyperlink) : "" };
+    });
+  const expected = navigationHeadings(model).map((heading) => ({ anchor: heading.data.bookmark, text: plainText(heading) }));
+  compareSequence("TOC entry", actual.map(JSON.stringify), expected.map(JSON.stringify), errors);
+}
+
+function validateFootnoteContents(document, footnotesPart, model, errors) {
+  if (!footnotesPart) return;
+  const identifiers = [];
+  for (const node of model.body) collectFootnoteIdentifierOrder(node, identifiers);
+  const references = elements(document, "w:footnoteReference").map((node) => Number(node.getAttribute("w:id")));
+  if (references.length !== identifiers.length) return;
+  const definitions = new Map(elements(footnotesPart, "w:footnote")
+    .filter((node) => Number(node.getAttribute("w:id")) > 0)
+    .map((node) => [Number(node.getAttribute("w:id")), node]));
+  const actual = references.map((id) => footnoteText(definitions.get(id)));
+  const expected = identifiers.map((identifier) => expectedFootnoteText(model.footnotes.get(identifier)));
+  compareSequence("Footnote content/order", actual, expected, errors);
+  for (const [id, definition] of definitions) {
+    if (!elements(definition, "w:footnoteRef").length) errors.push(`Footnote ${id} lacks its Word footnote marker/backlink semantics`);
+  }
+}
+
+function validateTableContents(document, model, errors) {
+  const expected = [];
+  for (const node of model.body.filter((item) => item.type === "table")) {
+    const rows = node.children.map((row) => row.children.map((cell) => cell.children));
+    if (isOutlineTable(rows)) continue;
+    for (const chunk of splitTableRows(rows)) {
+      expected.push(chunk.map((row) => row.map((cell) => semanticText({ children: cell }))));
+    }
+  }
+  const actual = elements(document, "w:tbl").map((table) => directChildren(table, "w:tr").map((row) =>
+    directChildren(row, "w:tc").map((cell) => textContent(cell))));
+  compareSequence("Table content/order", actual.map(JSON.stringify), expected.map(JSON.stringify), errors);
+}
+
+function validateImagesAndCaptions(document, model, errors) {
+  const expected = [];
+  collectNodes({ type: "root", children: model.body }, "image", (node) => expected.push(node.alt?.trim() || "Illustration"));
+  const actualAlt = elements(document, "wp:docPr").map((node) => node.getAttribute("descr") ?? "");
+  compareSequence("Image alt text/order", actualAlt, expected, errors);
+  const captions = elements(document, "w:p")
+    .filter((paragraph) => first(paragraph, "w:pStyle")?.getAttribute("w:val") === "Caption")
+    .map(paragraphText);
+  let from = 0;
+  for (const caption of expected) {
+    const index = captions.indexOf(caption, from);
+    if (index < 0) errors.push(`Missing image caption: ${JSON.stringify(caption)}`);
+    else from = index + 1;
+  }
+}
+
+function validateMermaid(document, model, errors) {
+  const expected = [];
+  collectNodes({ type: "root", children: model.body }, "code", (node) => {
+    if (node.lang?.toLowerCase() === "mermaid") expected.push(...String(node.value).split("\n").map((line) => line || " "));
+  });
+  const actual = elements(document, "w:p")
+    .filter((paragraph) => first(paragraph, "w:pStyle")?.getAttribute("w:val") === "MermaidCode")
+    .map(paragraphText);
+  compareSequence("Mermaid source", actual, expected, errors);
+}
+
+function validateInlineFormatting(document, footnotesPart, model, errors) {
+  const expected = { bold: [], italics: [], strike: [] };
+  collectFormattedLeaves({ type: "root", children: model.body }, {}, expected);
+  const identifiers = [];
+  for (const node of model.body) collectFootnoteIdentifierOrder(node, identifiers);
+  for (const identifier of identifiers) {
+    for (const node of model.footnotes.get(identifier) ?? []) collectFormattedLeaves(node, {}, expected);
+  }
+  const roots = [document, footnotesPart].filter(Boolean);
+  const actual = { bold: [], italics: [], strike: [] };
+  for (const root of roots) {
+    for (const run of elements(root, "w:r")) {
+      const value = textContent(run);
+      if (!value) continue;
+      if (first(run, "w:b")) actual.bold.push(value);
+      if (first(run, "w:i")) actual.italics.push(value);
+      if (first(run, "w:strike")) actual.strike.push(value);
+    }
+  }
+  for (const kind of Object.keys(expected)) validateMultisetSubset(`${kind} inline formatting`, actual[kind], expected[kind], errors);
+}
+
+function collectFormattedLeaves(node, inherited, output) {
+  const flags = {
+    bold: inherited.bold || node.type === "strong",
+    italics: inherited.italics || node.type === "emphasis",
+    strike: inherited.strike || node.type === "delete"
+  };
+  if (["text", "inlineCode", "html"].includes(node.type) && node.value) {
+    for (const kind of Object.keys(output)) if (flags[kind]) output[kind].push(node.value);
+  }
+  for (const child of node.children ?? []) collectFormattedLeaves(child, flags, output);
+}
+
+function validateMultisetSubset(label, actual, expected, errors) {
+  const remaining = new Map();
+  for (const value of actual) remaining.set(value, (remaining.get(value) ?? 0) + 1);
+  for (const value of expected) {
+    const count = remaining.get(value) ?? 0;
+    if (!count) errors.push(`${label} lost text: ${JSON.stringify(value)}`);
+    else remaining.set(value, count - 1);
+  }
+}
+
+function collectFootnoteIdentifierOrder(node, result) {
+  if (node.type === "footnoteReference") result.push(node.identifier);
+  for (const child of node.children ?? []) collectFootnoteIdentifierOrder(child, result);
+}
+
+function expectedFootnoteText(nodes) {
+  if (!nodes?.length) return "[Footnote text is absent from the saved source.]";
+  return nodes.map(semanticText).join(" ");
+}
+
+function footnoteText(node) {
+  if (!node) return "";
+  return directChildren(node, "w:p").map(paragraphText).join(" ");
+}
+
+function semanticText(node) {
+  const page = sourcePageLabel(node);
+  if (page !== null) return `[p. ${page}]`;
+  if (["text", "inlineCode", "code", "html"].includes(node?.type)) return node.value ?? "";
+  if (node?.type === "image") return node.alt ?? "";
+  if (node?.type === "footnoteReference") return "";
+  return (node?.children ?? []).map(semanticText).join("");
+}
+
+function collectNodes(node, type, callback) {
+  if (node.type === type) callback(node);
+  for (const child of node.children ?? []) collectNodes(child, type, callback);
+}
+
+function compareSequence(label, actual, expected, errors) {
+  if (actual.length !== expected.length) {
+    errors.push(`${label} count differs: DOCX=${actual.length}, Markdown=${expected.length}`);
+    return;
+  }
+  const index = actual.findIndex((value, itemIndex) => value !== expected[itemIndex]);
+  if (index >= 0) errors.push(`${label} differs at item ${index + 1}: DOCX=${JSON.stringify(actual[index])}, Markdown=${JSON.stringify(expected[index])}`);
+}
+
+function paragraphText(paragraph) {
+  return textContent(paragraph);
+}
+
+function textContent(node) {
+  return elements(node, "w:t").map((item) => item.textContent).join("");
+}
+
+function directChildren(node, name) {
+  return Array.from(node?.childNodes ?? []).filter((child) => child.nodeType === 1 && (child.nodeName === name || child.localName === name.split(":").at(-1)));
+}
+
 function validateStyles(styles, profile, errors) {
   const styleMap = new Map(elements(styles, "w:style").map((style) => [style.getAttribute("w:styleId"), style]));
-  const required = ["Normal", "BodyText", "BookTitle", "BookSubtitle", "BookAuthor", "Heading1", "Heading2", "Heading3", "TocTitle", "TocEntry", "BlockQuote", "SourcePage", "TableText", "Caption", "FootnoteText", "UnreferencedNotesTitle", "UnreferencedNote"];
+  const required = ["Normal", "BodyText", "BookTitle", "BookSubtitle", "BookAuthor", "Heading1", "Heading2", "Heading3", "TocTitle", "TocEntry", "BlockQuote", "SourcePage", "SourcePageInline", "TableText", "Caption", "FootnoteText", "UnreferencedNotesTitle", "UnreferencedNote"];
   for (const id of required) if (!styleMap.has(id)) errors.push(`Missing named style: ${id}`);
   for (const id of ["Normal", "BodyText"]) {
     const style = styleMap.get(id);
