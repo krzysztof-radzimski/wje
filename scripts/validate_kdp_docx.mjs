@@ -38,7 +38,9 @@ export async function validateKdpDocx({ input, docx, profileId }) {
   }
   if (errors.length) return { valid: false, errors, warnings, inventory: null };
 
+  validateOpcUris(zip, xmlParts, errors);
   await validateRelationships(zip, xmlParts, errors);
+  validateWordCompatibility(xmlParts, errors);
   const document = xmlParts["word/document.xml"];
   const styles = xmlParts["word/styles.xml"];
   const settings = xmlParts["word/settings.xml"];
@@ -67,6 +69,7 @@ export async function validateKdpDocx({ input, docx, profileId }) {
   const bookmarks = elements(document, "w:bookmarkStart").map((node) => node.getAttribute("w:name")).filter(Boolean);
   const duplicateBookmarks = bookmarks.filter((name, index) => bookmarks.indexOf(name) !== index);
   if (duplicateBookmarks.length) errors.push(`Duplicate bookmarks: ${[...new Set(duplicateBookmarks)].join(", ")}`);
+  validateBookmarkIds(document, errors);
   for (const requiredBookmark of ["top", "toc", ...model.headings.filter((heading) => !heading.data?.isTitle).map((heading) => heading.data.bookmark)]) {
     if (!bookmarks.includes(requiredBookmark)) errors.push(`Missing bookmark: ${requiredBookmark}`);
   }
@@ -157,6 +160,35 @@ function validateToc(document, model, errors) {
     });
   const expected = navigationHeadings(model).map((heading) => ({ anchor: heading.data.bookmark, text: plainText(heading) }));
   compareSequence("TOC entry", actual.map(JSON.stringify), expected.map(JSON.stringify), errors);
+}
+
+function validateBookmarkIds(document, errors) {
+  const starts = elements(document, "w:bookmarkStart");
+  const ends = elements(document, "w:bookmarkEnd");
+  const startIds = starts.map((node) => node.getAttribute("w:id") ?? "");
+  const endIds = ends.map((node) => node.getAttribute("w:id") ?? "");
+  const invalid = [...startIds, ...endIds].filter((id) => !/^\d+$/.test(id));
+  if (invalid.length) errors.push(`Bookmark ids must be non-negative integers; invalid=${[...new Set(invalid)].map(JSON.stringify).join(", ")}`);
+
+  const duplicateIds = startIds.filter((id, index) => id && startIds.indexOf(id) !== index);
+  if (duplicateIds.length) errors.push(`Duplicate bookmark numeric ids: ${[...new Set(duplicateIds)].join(", ")}`);
+
+  const startCounts = countValues(startIds);
+  const endCounts = countValues(endIds);
+  for (const id of new Set([...startIds, ...endIds])) {
+    if (!id) continue;
+    const startCount = startCounts.get(id) ?? 0;
+    const endCount = endCounts.get(id) ?? 0;
+    if (startCount !== 1 || endCount !== 1) {
+      errors.push(`Bookmark id ${id} must have exactly one start and one end; starts=${startCount}, ends=${endCount}`);
+    }
+  }
+}
+
+function countValues(values) {
+  const counts = new Map();
+  for (const value of values) counts.set(value, (counts.get(value) ?? 0) + 1);
+  return counts;
 }
 
 function validateFootnoteContents(document, footnotesPart, model, errors) {
@@ -393,6 +425,70 @@ async function validateRelationships(zip, xmlParts, errors) {
       if (relation.getAttribute("TargetMode") === "External") continue;
       const target = path.posix.normalize(path.posix.join(sourceDirectory, relation.getAttribute("Target")));
       if (!zip.file(target)) errors.push(`Broken relationship ${name} -> ${target}`);
+    }
+  }
+}
+
+function validateOpcUris(zip, xmlParts, errors) {
+  for (const [name, entry] of Object.entries(zip.files)) {
+    if (entry.dir) continue;
+    if (/[\\\s?#]/u.test(name) || /[^\x21-\x7E]/u.test(name) || /%(?![0-9A-Fa-f]{2})/.test(name)) {
+      errors.push(`Invalid OPC part URI: ${name}`);
+    }
+  }
+  for (const [name, xml] of Object.entries(xmlParts).filter(([part]) => part.endsWith(".rels"))) {
+    for (const relation of elements(xml, "Relationship")) {
+      if (relation.getAttribute("TargetMode") === "External") continue;
+      const target = relation.getAttribute("Target") ?? "";
+      if (!target || /[\\\s?#]/u.test(target) || /[^\x21-\x7E]/u.test(target) || /%(?![0-9A-Fa-f]{2})/.test(target)) {
+        errors.push(`Invalid internal relationship target in ${name}: ${JSON.stringify(target)}`);
+      }
+    }
+  }
+}
+
+function validateWordCompatibility(xmlParts, errors) {
+  const wordprocessingParts = Object.entries(xmlParts).filter(([name]) =>
+    /^word\/(?:document|footnotes|endnotes|header\d+|footer\d+)\.xml$/.test(name)
+  );
+  for (const [name, xml] of wordprocessingParts) {
+    for (const paragraphProperties of elements(xml, "w:pPr")) {
+      const children = Array.from(paragraphProperties.childNodes ?? []).filter((child) => child.nodeType === 1);
+      const paragraphStyles = children.filter((child) => child.nodeName === "w:pStyle" || child.localName === "pStyle");
+      if (paragraphStyles.length > 1) errors.push(`Duplicate paragraph style elements in ${name}`);
+      if (paragraphStyles.length === 1 && children[0] !== paragraphStyles[0]) {
+        errors.push(`Paragraph style is not the first paragraph property in ${name}`);
+      }
+    }
+    for (const tableHeader of elements(xml, "w:tblHeader")) {
+      const value = tableHeader.getAttribute("w:val");
+      if (value && !/^(?:1|true|on)$/i.test(value)) {
+        errors.push(`Invalid disabled table-header marker in ${name}: ${JSON.stringify(value)}`);
+      }
+    }
+  }
+
+  const settings = xmlParts["word/settings.xml"];
+  if (settings && elements(settings, "w:defaultTabStop").length) {
+    errors.push("Generated settings contain a schema-sensitive defaultTabStop override");
+  }
+  if (settings) {
+    const root = settings.documentElement;
+    const settingNames = Array.from(root?.childNodes ?? [])
+      .filter((child) => child.nodeType === 1)
+      .map((child) => child.nodeName);
+    const mirrorMargins = settingNames.indexOf("w:mirrorMargins");
+    const trackRevisions = settingNames.indexOf("w:trackRevisions");
+    if (mirrorMargins >= 0 && trackRevisions >= 0 && mirrorMargins > trackRevisions) {
+      errors.push("mirrorMargins appears after trackRevisions in word/settings.xml");
+    }
+  }
+
+  const fontTable = xmlParts["word/fontTable.xml"];
+  for (const embeddedFont of ["w:embedRegular", "w:embedBold", "w:embedItalic", "w:embedBoldItalic"].flatMap((name) => elements(fontTable, name))) {
+    const serializedValue = embeddedFont.getAttribute("w:fontKey");
+    if (serializedValue && !/^\{[0-9A-F]{8}-[0-9A-F]{4}-[0-9A-F]{4}-[0-9A-F]{4}-[0-9A-F]{12}\}$/.test(serializedValue)) {
+      errors.push(`Embedded font key is not an uppercase GUID: ${JSON.stringify(serializedValue)}`);
     }
   }
 }

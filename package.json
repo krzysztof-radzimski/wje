@@ -8,7 +8,8 @@
     "archive:smoke": "node scripts/archive_yale_volume.mjs --smoke-test",
     "test:integration": "npm run archive:smoke",
     "kdp:docx": "node scripts/create_kdp_docx.mjs",
-    "kdp:validate": "node scripts/validate_kdp_docx.mjs"
+    "kdp:validate": "node scripts/validate_kdp_docx.mjs",
+    "kdp:smoke": "node --test test/kdp_docx.test.mjs"
   },
   "engines": {
     "node": ">=20"

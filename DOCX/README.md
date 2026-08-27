@@ -14,6 +14,7 @@ Install the locked npm dependencies, generate, and validate a volume with:
 
 ```bash
 npm ci
+npm run kdp:smoke
 npm run kdp:docx -- --profile kindle MD/VOLUME01.md
 npm run kdp:validate -- --profile kindle \
   MD/VOLUME01.md DOCX/KINDLE/VOLUME01.docx
@@ -28,3 +29,10 @@ a generated DOCX by hand; fix the shared parser, builder, validator, or profile
 configuration and regenerate it. Before publication, inspect Kindle output in
 Kindle Previewer and export the print profile to PDF for page-by-page review in
 KDP Print Previewer.
+
+The smoke suite generates both profiles from a controlled fixture and rejects
+OOXML that Word would need to repair, including invalid OPC part names and
+relationship targets, duplicate paragraph styles and bookmark IDs, disabled
+table-header markers, schema-sensitive settings order, invalid embedded-font
+keys, unpaired bookmark ranges, broken relationships, and lost heading
+footnotes.

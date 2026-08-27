@@ -9,7 +9,6 @@ import {
   Footer,
   FootnoteReferenceRun,
   Header,
-  HeadingLevel,
   ImageRun,
   InternalHyperlink,
   LeaderType,
@@ -37,7 +36,9 @@ import { navigationHeadings, plainText, sourcePageLabel } from "./markdown.mjs";
 
 const FONT_NAME = "Libre Baskerville";
 const FONT_FILE = path.resolve("node_modules/@expo-google-fonts/libre-baskerville/400Regular/LibreBaskerville_400Regular.ttf");
-const FONT_KEY = "00112233-4455-6677-8899-aabbccddeeff";
+const FONT_KEY = "00112233-4455-6677-8899-AABBCCDDEEFF";
+const FONT_PART = "word/fonts/LibreBaskerville-Regular.odttf";
+const FONT_RELATIONSHIP_TARGET = "fonts/LibreBaskerville-Regular.odttf";
 const MAX_TABLE_ROWS = 100;
 const MAX_TABLE_COLUMNS = 10;
 const MAX_TABLE_CELLS = 1800;
@@ -76,7 +77,6 @@ export async function buildKdpDocx(model, profile, options = {}) {
     lastModifiedBy: "wje-local-tools",
     compatabilityModeVersion: 15,
     evenAndOddHeaderAndFooters: profile.layout.runningHeaders,
-    defaultTabStop: 720,
     features: { updateFields: true, trackRevisions: false },
     fonts,
     styles: styleSheet(profile, state.options.language),
@@ -153,7 +153,7 @@ async function bodyMatter(state) {
 
 async function renderBlock(node, state) {
   switch (node.type) {
-    case "heading": return [headingParagraph(node, state.profile)];
+    case "heading": return [headingParagraph(node, state)];
     case "paragraph": return renderParagraph(node, state);
     case "blockquote": return renderBlockquote(node, state);
     case "list": return renderList(node, state);
@@ -169,14 +169,13 @@ async function renderBlock(node, state) {
   }
 }
 
-function headingParagraph(node, profile) {
+function headingParagraph(node, state) {
   const depth = Math.min(Math.max(node.depth - 1, 1), 3);
   const style = `Heading${depth}`;
   return new Paragraph({
     style,
-    heading: [HeadingLevel.HEADING_1, HeadingLevel.HEADING_2, HeadingLevel.HEADING_3][depth - 1],
-    pageBreakBefore: depth === 1 && profile.layout.chapterPageBreaks,
-    children: [new Bookmark({ id: node.data.bookmark, children: inlineRuns(node.children, null) })]
+    pageBreakBefore: depth === 1 && state.profile.layout.chapterPageBreaks,
+    children: [new Bookmark({ id: node.data.bookmark, children: inlineRuns(node.children, state) })]
   });
 }
 
@@ -253,7 +252,7 @@ function createTable(rows, state) {
     margins: { top: 80, bottom: 80, left: 100, right: 100 },
     borders: { top: borders, bottom: borders, left: borders, right: borders, insideHorizontal: borders, insideVertical: borders },
     rows: rows.map((row, rowIndex) => new TableRow({
-      tableHeader: rowIndex === 0,
+      tableHeader: rowIndex === 0 ? true : undefined,
       cantSplit: true,
       children: Array.from({ length: columns }, (_, columnIndex) => new TableCell({
         width: { size: columnWidths[columnIndex], type: WidthType.DXA },
@@ -521,6 +520,11 @@ async function patchGeneratedDocx(buffer, profile) {
   const zip = await JSZip.loadAsync(buffer);
   const fixedTimestamp = new Date("2000-01-01T00:00:00.000Z");
   for (const file of Object.values(zip.files)) file.date = fixedTimestamp;
+  const documentFile = zip.file("word/document.xml");
+  if (documentFile) {
+    const documentXml = await documentFile.async("string");
+    zip.file("word/document.xml", normalizeBookmarkIds(documentXml), { date: fixedTimestamp });
+  }
   const coreFile = zip.file("docProps/core.xml");
   if (coreFile) {
     const core = await coreFile.async("string");
@@ -528,7 +532,9 @@ async function patchGeneratedDocx(buffer, profile) {
   }
   if (profile.layout.mirrorMargins) {
     const settings = await zip.file("word/settings.xml").async("string");
-    zip.file("word/settings.xml", settings.replace("</w:settings>", "<w:mirrorMargins/></w:settings>"), { date: fixedTimestamp });
+    const marker = "<w:displayBackgroundShape/>";
+    if (!settings.includes(marker)) throw new Error("Generated settings lack the insertion point for mirror margins");
+    zip.file("word/settings.xml", settings.replace(marker, `${marker}<w:mirrorMargins/>`), { date: fixedTimestamp });
   }
   const fontTableFile = zip.file("word/fontTable.xml");
   if (fontTableFile) {
@@ -537,10 +543,44 @@ async function patchGeneratedDocx(buffer, profile) {
       .replace(/(<w:font w:name="Libre Baskerville"[^>]*>)/, "$1<w:altName w:val=\"Georgia\"/>")
       .replace(/w:fontKey="\{[^}]+\}"/, `w:fontKey="{${FONT_KEY}}"`), { date: fixedTimestamp });
   }
-  if (profile.layout.embedFonts && zip.file("word/fonts/Libre Baskerville.odttf")) {
-    zip.file("word/fonts/Libre Baskerville.odttf", obfuscateFont(await fs.readFile(FONT_FILE), FONT_KEY), { date: fixedTimestamp });
+  if (profile.layout.embedFonts) {
+    const generatedFontPart = "word/fonts/Libre Baskerville.odttf";
+    if (!zip.file(generatedFontPart)) throw new Error(`Generated DOCX lacks embedded font part: ${generatedFontPart}`);
+    zip.remove(generatedFontPart);
+    zip.file(FONT_PART, obfuscateFont(await fs.readFile(FONT_FILE), FONT_KEY), { date: fixedTimestamp });
+
+    const fontRelationshipsFile = zip.file("word/_rels/fontTable.xml.rels");
+    if (!fontRelationshipsFile) throw new Error("Generated DOCX lacks fontTable relationships");
+    const fontRelationships = await fontRelationshipsFile.async("string");
+    const patchedRelationships = fontRelationships.replace(
+      /Target="fonts\/Libre(?: |%20)Baskerville\.odttf"/g,
+      `Target="${FONT_RELATIONSHIP_TARGET}"`
+    );
+    if (patchedRelationships === fontRelationships) throw new Error("Embedded font relationship target was not found for normalization");
+    zip.file("word/_rels/fontTable.xml.rels", patchedRelationships, { date: fixedTimestamp });
   }
   return zip.generateAsync({ type: "nodebuffer", compression: "DEFLATE", compressionOptions: { level: 9 }, platform: "UNIX" });
+}
+
+export function normalizeBookmarkIds(documentXml) {
+  let nextId = 1;
+  const open = [];
+  const normalized = documentXml.replace(/<w:bookmark(Start|End)\b[^>]*\/>/g, (tag, kind) => {
+    let id;
+    if (kind === "Start") {
+      id = String(nextId++);
+      open.push(id);
+    } else {
+      id = open.pop();
+      if (id === undefined) throw new Error("Generated document.xml contains an unmatched bookmarkEnd");
+    }
+    if (!/\bw:id=(?:"[^"]*"|'[^']*')/.test(tag)) {
+      throw new Error(`Generated ${kind === "Start" ? "bookmarkStart" : "bookmarkEnd"} has no w:id`);
+    }
+    return tag.replace(/\bw:id=(?:"[^"]*"|'[^']*')/, `w:id="${id}"`);
+  });
+  if (open.length) throw new Error(`Generated document.xml contains ${open.length} unmatched bookmarkStart element(s)`);
+  return normalized;
 }
 
 function obfuscateFont(data, fontKey) {
