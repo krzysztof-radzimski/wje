@@ -55,6 +55,25 @@ Literal manuscript insertion <being retained> remains text.
 [^unused]: This unreferenced definition is inventoried but not invented into body text.
 `;
 
+const OUTLINE_TABLE_MARKDOWN = `# A Sparse Outline Table
+
+## Inventory
+
+| A | B | C | D | E | F | G | H | I | J |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |  |  |  | *2.33v* |
+|  |  |  |  |  |  |  |  |  | *2.45r* |
+|  |  |  |  |  |  |  |  |  | *3.3v* |
+|  |  |  |  |  |  |  |  |  | *3.21r* |
+`;
+
+const NESTED_LIST_MARKDOWN = `# Nested List Preservation
+
+## Source note
+
+48. 55. 56. 57. This source sentence contains **a bold title** and must not be omitted when the parser interprets the initial numbers as nested ordered lists.
+`;
+
 async function fixture(t) {
   const directory = await fs.mkdtemp(path.join(os.tmpdir(), "wje-kdp-docx-test-"));
   t.after(() => fs.rm(directory, { recursive: true, force: true }));
@@ -199,6 +218,82 @@ test("validator rejects raw spaces in OPC font part URIs", async (t) => {
   assert.equal(validation.valid, false);
   assert.ok(validation.errors.some((error) => error.includes("Invalid OPC part URI")));
   assert.ok(validation.errors.some((error) => error.includes("Invalid internal relationship target")));
+});
+
+test("sparse outline tables preserve inline emphasis", async (t) => {
+  const { markdown, directory } = await fixture(t);
+  const output = path.join(directory, "outline-table.docx");
+  await fs.writeFile(markdown, OUTLINE_TABLE_MARKDOWN);
+  await createKdpDocx({ input: markdown, output, profileId: "kindle" });
+  const validation = await validateKdpDocx({ input: markdown, docx: output, profileId: "kindle" });
+  assert.equal(validation.valid, true, validation.errors.join("\n"));
+  assert.equal(validation.inventory.outlineRows, 5);
+  const zip = await JSZip.loadAsync(await fs.readFile(output));
+  const documentXml = await zip.file("word/document.xml").async("string");
+  assert.match(documentXml, /<w:i\/><w:iCs\/><\/w:rPr><w:t[^>]*>2\.33v<\/w:t>/);
+});
+
+test("nested ordered lists preserve their first-child content and emphasis", async (t) => {
+  const { markdown, directory } = await fixture(t);
+  const output = path.join(directory, "nested-list.docx");
+  await fs.writeFile(markdown, NESTED_LIST_MARKDOWN);
+  await createKdpDocx({ input: markdown, output, profileId: "kindle" });
+  const validation = await validateKdpDocx({ input: markdown, docx: output, profileId: "kindle" });
+  assert.equal(validation.valid, true, validation.errors.join("\n"));
+  const zip = await JSZip.loadAsync(await fs.readFile(output));
+  const documentXml = await zip.file("word/document.xml").async("string");
+  assert.match(documentXml, /<w:b\/><w:bCs\/><\/w:rPr><w:t[^>]*>a bold title<\/w:t>/);
+  assert.match(documentXml, /This source sentence contains/);
+});
+
+test("configured titles support manuscript Markdown without a level-one heading", async (t) => {
+  const { directory } = await fixture(t);
+  const markdown = path.join(directory, "VOLUME27.md");
+  const output = path.join(directory, "configured-title.docx");
+  await fs.writeFile(markdown, "## First manuscript section\n\nText retained below the configured book title.\n");
+  const model = await parseWjeMarkdown(markdown);
+  assert.equal(model.title, '"Controversies" Notebook');
+  assert.equal(model.headings[0].data?.isTitle, undefined, "the first source heading remains content");
+  await createKdpDocx({ input: markdown, output, profileId: "kindle" });
+  const validation = await validateKdpDocx({ input: markdown, docx: output, profileId: "kindle" });
+  assert.equal(validation.valid, true, validation.errors.join("\n"));
+});
+
+test("validator accepts a preserved Unicode replacement marker from source OCR", async (t) => {
+  const { directory } = await fixture(t);
+  const markdown = path.join(directory, "VOLUME27.md");
+  const output = path.join(directory, "replacement-marker.docx");
+  await fs.writeFile(markdown, "## Transcription\n\nA source gap is preserved as � rather than silently invented.\n");
+  await createKdpDocx({ input: markdown, output, profileId: "kindle" });
+  const validation = await validateKdpDocx({ input: markdown, docx: output, profileId: "kindle" });
+  assert.equal(validation.valid, true, validation.errors.join("\n"));
+});
+
+test("list-shaped footnotes retain inline formatting", async (t) => {
+  const { directory } = await fixture(t);
+  const markdown = path.join(directory, "VOLUME27.md");
+  const output = path.join(directory, "list-shaped-footnote.docx");
+  await fs.writeFile(markdown, "## Note\n\nA reference.[^note]\n\n[^note]: * An editorial note with *preserved italics*.\n");
+  await createKdpDocx({ input: markdown, output, profileId: "kindle" });
+  const validation = await validateKdpDocx({ input: markdown, docx: output, profileId: "kindle" });
+  assert.equal(validation.valid, true, validation.errors.join("\n"));
+  const zip = await JSZip.loadAsync(await fs.readFile(output));
+  const footnotesXml = await zip.file("word/footnotes.xml").async("string");
+  assert.match(footnotesXml, /<w:i\/><w:iCs\/><\/w:rPr><w:t[^>]*>preserved italics<\/w:t>/);
+});
+
+test("multiple embedded images receive unique Word drawing ids", async (t) => {
+  const { markdown, directory } = await fixture(t);
+  const output = path.join(directory, "multiple-images.docx");
+  await fs.writeFile(markdown, MARKDOWN.replace("![A simple diagram](assets/diagram.png)", "![First illustration](assets/diagram.png)\n\n![Second illustration](assets/diagram.png)"));
+  await createKdpDocx({ input: markdown, output, profileId: "kindle" });
+  const validation = await validateKdpDocx({ input: markdown, docx: output, profileId: "kindle" });
+  assert.equal(validation.valid, true, validation.errors.join("\n"));
+  const zip = await JSZip.loadAsync(await fs.readFile(output));
+  const documentXml = await zip.file("word/document.xml").async("string");
+  const ids = [...documentXml.matchAll(/<wp:docPr\b[^>]*\bid="(\d+)"/g)].map((match) => match[1]);
+  assert.equal(ids.length, 2);
+  assert.equal(new Set(ids).size, ids.length);
 });
 
 test("validator rejects Word schema constructs that trigger document repair", async (t) => {

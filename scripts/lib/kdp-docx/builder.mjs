@@ -198,17 +198,18 @@ async function renderList(node, state, level = 0) {
   const result = [];
   let itemIndex = node.start ?? 1;
   for (const item of node.children ?? []) {
-    const first = item.children?.[0];
-    if (first?.type === "paragraph") {
-      result.push(new Paragraph({
-        style: "ListText",
-        numbering: { reference: node.ordered ? "wje-numbered" : "wje-bullets", level: Math.min(level, 2), instance: node.ordered ? itemIndex : undefined },
-        children: inlineRuns(first.children, state)
-      }));
-    }
-    for (const child of item.children?.slice(1) ?? []) {
-      if (child.type === "list") result.push(...await renderList(child, state, level + 1));
-      else result.push(...await renderBlock(child, state));
+    for (const child of item.children ?? []) {
+      if (child.type === "paragraph") {
+        result.push(new Paragraph({
+          style: "ListText",
+          numbering: { reference: node.ordered ? "wje-numbered" : "wje-bullets", level: Math.min(level, 2), instance: node.ordered ? itemIndex : undefined },
+          children: inlineRuns(child.children, state)
+        }));
+      } else if (child.type === "list") {
+        result.push(...await renderList(child, state, level + 1));
+      } else {
+        result.push(...await renderBlock(child, state));
+      }
     }
     itemIndex += 1;
   }
@@ -222,8 +223,12 @@ async function renderTable(node, state) {
     for (const row of rows) {
       const populated = row.map((cell, index) => ({ cell, index, text: plainText({ children: cell }) })).filter((entry) => entry.text.trim());
       if (!populated.length) continue;
-      const text = populated.map((entry) => entry.text).join(" — ");
-      out.push(new Paragraph({ style: "OutlineRow", indent: { left: Math.min(populated[0].index, 5) * 288 }, text }));
+      const children = [];
+      for (const [index, entry] of populated.entries()) {
+        if (index) children.push(new TextRun(" — "));
+        children.push(...inlineRuns(entry.cell, state));
+      }
+      out.push(new Paragraph({ style: "OutlineRow", indent: { left: Math.min(populated[0].index, 5) * 288 }, children }));
       state.outlineRows += 1;
     }
     state.warnings.push(`Converted sparse ${rows.length}×${rows[0]?.length ?? 0} table to reflowable outline`);
@@ -338,22 +343,30 @@ function footnoteParagraphs(identifier, state) {
     state.warnings.push(`Missing or empty footnote definition [^${identifier}]`);
     return [new Paragraph({ style: "FootnoteText", text: "[Footnote text is absent from the saved source.]" })];
   }
-  const paragraphs = [];
-  for (const node of nodes) {
-    if (node.type === "paragraph") paragraphs.push(new Paragraph({ style: "FootnoteText", children: inlineRuns(node.children, null) }));
-    else paragraphs.push(new Paragraph({ style: "FootnoteText", text: plainText(node) }));
-  }
-  return paragraphs;
+  return nodes.flatMap(footnoteBlockParagraphs);
 }
 
 function footnoteDefinitionRuns(nodes) {
   const runs = [];
   for (const [index, node] of nodes.entries()) {
     if (index > 0) runs.push(new TextRun({ break: 1 }));
-    if (node.type === "paragraph") runs.push(...inlineRuns(node.children, null));
-    else runs.push(new TextRun(plainText(node)));
+    runs.push(...footnoteBlockRuns(node));
   }
   return runs.length ? runs : [new TextRun("[Footnote text is absent from the saved source.]")];
+}
+
+function footnoteBlockParagraphs(node) {
+  if (node.type === "paragraph") return [new Paragraph({ style: "FootnoteText", children: inlineRuns(node.children, null) })];
+  if (["list", "blockquote"].includes(node.type)) return (node.children ?? []).flatMap(footnoteBlockParagraphs);
+  if (node.children?.length) return node.children.flatMap(footnoteBlockParagraphs);
+  return [new Paragraph({ style: "FootnoteText", text: plainText(node) })];
+}
+
+function footnoteBlockRuns(node) {
+  if (node.type === "paragraph") return inlineRuns(node.children, null);
+  if (["list", "blockquote"].includes(node.type)) return (node.children ?? []).flatMap(footnoteBlockRuns);
+  if (node.children?.length) return node.children.flatMap(footnoteBlockRuns);
+  return [new TextRun(plainText(node))];
 }
 
 function printBodySection(state, base, body) {
@@ -523,7 +536,7 @@ async function patchGeneratedDocx(buffer, profile) {
   const documentFile = zip.file("word/document.xml");
   if (documentFile) {
     const documentXml = await documentFile.async("string");
-    zip.file("word/document.xml", normalizeBookmarkIds(documentXml), { date: fixedTimestamp });
+    zip.file("word/document.xml", normalizeDrawingIds(normalizeBookmarkIds(documentXml)), { date: fixedTimestamp });
   }
   const coreFile = zip.file("docProps/core.xml");
   if (coreFile) {
@@ -581,6 +594,14 @@ export function normalizeBookmarkIds(documentXml) {
   });
   if (open.length) throw new Error(`Generated document.xml contains ${open.length} unmatched bookmarkStart element(s)`);
   return normalized;
+}
+
+export function normalizeDrawingIds(documentXml) {
+  let nextId = 1;
+  return documentXml.replace(/<wp:docPr\b[^>]*\/>/g, (tag) => {
+    if (!/\bid=(?:"[^"]*"|'[^']*')/.test(tag)) throw new Error("Generated wp:docPr has no id");
+    return tag.replace(/\bid=(?:"[^"]*"|'[^']*')/, `id="${nextId++}"`);
+  });
 }
 
 function obfuscateFont(data, fontKey) {

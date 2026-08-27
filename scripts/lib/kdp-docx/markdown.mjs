@@ -1,10 +1,13 @@
 import fs from "node:fs/promises";
 import path from "node:path";
+import { fileURLToPath } from "node:url";
 import { unified } from "unified";
 import remarkParse from "remark-parse";
 import remarkGfm from "remark-gfm";
 
 const SOURCE_PAGE = /^<!--\s*p\.\s*([^>]+?)\s*-->$/i;
+const VOLUME_TITLES = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "../../../config/kdp-docx/volume-titles.json");
+let volumeTitlesPromise;
 
 export async function parseWjeMarkdown(inputPath) {
   const source = (await fs.readFile(inputPath, "utf8")).replace(/\r\n?/g, "\n");
@@ -22,8 +25,12 @@ export async function parseWjeMarkdown(inputPath) {
   }
 
   const body = tree.children.filter((node) => node.type !== "footnoteDefinition");
-  const titleNode = body.find((node) => node.type === "heading" && node.depth === 1);
-  if (!titleNode) throw new Error("The Markdown source must contain a level-one title");
+  const volumeMatch = path.basename(inputPath).match(/^VOLUME(\d+)\.md$/i);
+  const volume = volumeMatch ? Number(volumeMatch[1]) : null;
+  const sourceTitleNode = body.find((node) => node.type === "heading" && node.depth === 1);
+  const configuredTitle = await titleForVolume(volume);
+  const titleNode = configuredTitle ? virtualTitleNode(configuredTitle) : sourceTitleNode;
+  if (!titleNode) throw new Error("The Markdown source must contain a level-one title or configured volume title");
 
   const title = plainText(titleNode);
   titleNode.data ??= {};
@@ -35,10 +42,24 @@ export async function parseWjeMarkdown(inputPath) {
     node.data.bookmark = uniqueBookmark(node.depth === 1 ? "book_title" : `heading_${slug(plainText(node))}`, usedBookmarks);
   }
 
-  const volumeMatch = path.basename(inputPath).match(/^VOLUME(\d+)\.md$/i);
-  const volume = volumeMatch ? Number(volumeMatch[1]) : null;
   const inventory = inventoryFromTree(body, footnotes);
   return { inputPath, source, tree, body, footnotes, title, titleNode, headings, volume, warnings, inventory };
+}
+
+async function titleForVolume(volume) {
+  if (!volume) return null;
+  volumeTitlesPromise ??= fs.readFile(VOLUME_TITLES, "utf8").then(JSON.parse);
+  const titles = await volumeTitlesPromise;
+  return titles[String(volume)] ?? null;
+}
+
+function virtualTitleNode(value) {
+  return {
+    type: "heading",
+    depth: 1,
+    children: [{ type: "text", value }],
+    data: { virtual: true }
+  };
 }
 
 export function navigationHeadings(model) {

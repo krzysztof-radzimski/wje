@@ -55,11 +55,12 @@ export async function validateKdpDocx({ input, docx, profileId }) {
     3: styleCount("Heading3")
   };
 
-  const expectedHeadings = {
-    1: model.inventory.headings[2] + model.inventory.headings[1] - 1,
-    2: model.inventory.headings[3],
-    3: model.inventory.headings[4] + model.inventory.headings[5] + model.inventory.headings[6]
-  };
+  const expectedHeadings = { 1: 0, 2: 0, 3: 0 };
+  for (const heading of model.headings) {
+    if (heading.data?.isTitle) continue;
+    const level = Math.min(Math.max(heading.depth - 1, 1), 3);
+    expectedHeadings[level] += 1;
+  }
   for (const level of [1, 2, 3]) {
     if (headings[level] !== expectedHeadings[level]) errors.push(`Heading ${level} count differs: DOCX=${headings[level]}, Markdown=${expectedHeadings[level]}`);
   }
@@ -102,7 +103,12 @@ export async function validateKdpDocx({ input, docx, profileId }) {
   if (sourcePages !== model.inventory.sourcePages) errors.push(`Source page marker count differs: DOCX=${sourcePages}, Markdown=${model.inventory.sourcePages}`);
   const drawings = elements(document, "a:blip");
   if (drawings.length !== model.inventory.images) errors.push(`Embedded image count differs: DOCX=${drawings.length}, Markdown=${model.inventory.images}`);
-  for (const drawing of elements(document, "wp:docPr")) {
+  const drawingProperties = elements(document, "wp:docPr");
+  const drawingIds = drawingProperties.map((drawing) => drawing.getAttribute("id") ?? "");
+  if (drawingIds.some((id) => !/^\d+$/.test(id) || Number(id) < 1)) errors.push("An embedded image has an invalid drawing id");
+  const duplicateDrawingIds = drawingIds.filter((id, index) => id && drawingIds.indexOf(id) !== index);
+  if (duplicateDrawingIds.length) errors.push(`Duplicate drawing ids: ${[...new Set(duplicateDrawingIds)].join(", ")}`);
+  for (const drawing of drawingProperties) {
     if (!drawing.getAttribute("descr")) errors.push("An embedded image has no alternative description");
   }
   validateImagesAndCaptions(document, model, errors);
@@ -526,7 +532,10 @@ function collectFootnoteIdentifiers(node, result) {
 function parseXml(source, part) {
   const messages = [];
   const document = new DOMParser({ onError: (level, message) => messages.push(`${level}: ${message}`) }).parseFromString(source, "application/xml");
-  if (messages.length || elements(document, "parsererror").length) throw new Error(`Malformed XML part ${part}: ${messages.join("; ") || "parser error"}`);
+  const actionableMessages = messages.filter((message) => !/^warning: Unicode replacement character detected, source encoding issues\?$/i.test(message));
+  if (actionableMessages.length || elements(document, "parsererror").length) {
+    throw new Error(`Malformed XML part ${part}: ${actionableMessages.join("; ") || "parser error"}`);
+  }
   return document;
 }
 
